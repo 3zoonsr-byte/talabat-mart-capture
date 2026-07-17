@@ -1,0 +1,162 @@
+{
+  "category": "coffee-tea__karak-adan",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/coffee-tea/karak-adan",
+  "output_dir": "/home/z/my-project/output/coffee-tea__karak-adan",
+  "started_at": "2026-07-17T16:58:09Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/coffee-tea/karak-adan",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "حاج عرفة شاي الكرك الخفيف، 12×8 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-light-karak-tea-12x8g/s/928218",
+      "filename": "حاج-عرفة-شاي-الكرك-الخفيف،-12-8-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6734847695d3959f68859d88.png?size=520",
+      "bytes": 546251,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ايزيس شاي الكرك 15 فلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/isis-chai-karak-envelopes-15-envelopes/s/934510",
+      "filename": "ايزيس-شاي-الكرك-15-فلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6919eee3804f864811ccfe65.png?size=520",
+      "bytes": 555662,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "تي بريك شاي كرك 8 أكياس، 25 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tea-break-karak-tea-sachets-8x25g/s/917995",
+      "filename": "تي-بريك-شاي-كرك-8-اكياس،-25-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b88f88e9a035756daa8378.JPG?size=520",
+      "bytes": 431904,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مذاق شاي كرك 12 كيس، 23 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mazaq-karak-tea-12-sachets-23-gm/s/903758",
+      "filename": "مذاق-شاي-كرك-12-كيس،-23-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710d0e8b6ae261425e1683.jpg?size=520",
+      "bytes": 495409,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "علي تي شاي 3 في 1 كلاسيك سريعة التحضير، 15×20 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ali-tea-3-in-1-classic-instant-tea-15x20g/s/930186",
+      "filename": "علي-تي-شاي-3-في-1-كلاسيك-سريعة-التحضير،-15-20-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d143192b1698929e5a5d1f.JPG?size=520",
+      "bytes": 520488,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كوفينيا شاي كرك، 10×19 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cofinia-karak-tea-sachets-10x19g/s/928637",
+      "filename": "كوفينيا-شاي-كرك،-10-19-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/675710b22ffa04f99e64336b.jpg?size=520",
+      "bytes": 640694,
+      "dimensions": [
+        436,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كوفينيا شاي بالحليب، 10×19 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cofinia-milk-tea-sachets-10x19g/s/928636",
+      "filename": "كوفينيا-شاي-بالحليب،-10-19-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/675710b12ffa04f99e643369.jpg?size=520",
+      "bytes": 623794,
+      "dimensions": [
+        436,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ليبتون كرك 3×1 – شاي باللبن سريع الذوبان بنكهة الهيل محلى بالسكر- 10 ساشيه × 18 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-karak-3-in-1-instant-tea-with-milk-sugar-flavored-with-cardamom-18g-10-sachets/s/938831",
+      "filename": "ليبتون-كرك-3-1-شاي-باللبن-سريع-الذوبان-بنكهة-الهيل-محلى-بالسكر-10-ساشيه-18-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a01cd2f82660fbb4d3af801.jpeg?size=520",
+      "bytes": 712156,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:00:07Z",
+  "captured": 10,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 11
+}
