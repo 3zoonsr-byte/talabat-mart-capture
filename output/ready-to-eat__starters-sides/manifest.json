@@ -1,0 +1,232 @@
+{
+  "category": "ready-to-eat__starters-sides",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ready-to-eat/starters-sides",
+  "output_dir": "/home/z/my-project/output/ready-to-eat__starters-sides",
+  "started_at": "2026-07-17T13:37:54Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ready-to-eat/starters-sides",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "جريت فودز سمبوسك جبنة 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/great-foods-cheese-sambousak-8-pieces/s/929996",
+      "filename": "جريت-فودز-سمبوسك-جبنة-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1cf46f5d2b4f231f8343c.JPG?size=520",
+      "bytes": 314052,
+      "dimensions": [
+        520,
+        327
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جريت فودز سمبوسك جبنة بالنعناع 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/great-foods-cheese-mint-sambousak-8-pieces/s/929998",
+      "filename": "جريت-فودز-سمبوسك-جبنة-بالنعناع-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1d2d00443314c91b62fda.png?size=520",
+      "bytes": 516479,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "جريت فودز سمبوسك جبنة توابل لبنانية 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/great-foods-lebanese-sambousak-8-pieces/s/929999",
+      "filename": "جريت-فودز-سمبوسك-جبنة-توابل-لبنانية-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1d28b0443314c91b62fa9.png?size=520",
+      "bytes": 519479,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "جريت فودز سمبوسك لحم 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/great-foods-beef-sambousak-8-pieces/s/929997",
+      "filename": "جريت-فودز-سمبوسك-لحم-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1cf47f5d2b4f231f8343e.JPG?size=520",
+      "bytes": 376120,
+      "dimensions": [
+        520,
+        357
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "أوليو سبرينج رولز بالخضار، 320 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olio-veggie-spring-rolls-320-gm/s/919098",
+      "filename": "اوليو-سبرينج-رولز-بالخضار،-320-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008738084.jpg?size=520",
+      "bytes": 507143,
+      "dimensions": [
+        520,
+        445
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "أوليو ممبار أرز حار، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olio-spicy-rice-mombar-500g/s/919090",
+      "filename": "اوليو-ممبار-ارز-حار،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67fbb4ce550ef31df7d43a01.jpg?size=520",
+      "bytes": 548028,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أوليو كروكيت البطاطس، 300 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olio-potato-croquette-300-gm/s/919089",
+      "filename": "اوليو-كروكيت-البطاطس،-300-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000104481.jpg?size=520",
+      "bytes": 491499,
+      "dimensions": [
+        520,
+        445
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "اوليو حلقات البصل  300 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olio-onion-rings-300-gm/s/919102",
+      "filename": "اوليو-حلقات-البصل-300-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000104047.jpg?size=520",
+      "bytes": 487265,
+      "dimensions": [
+        520,
+        445
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "اوليو هالبينو بايتس 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olio-jalapeno-bites-250g/s/927201",
+      "filename": "اوليو-هالبينو-بايتس-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66f3c817bf8f493771a8dd2e.JPG?size=520",
+      "bytes": 641647,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طاجن ستو كفتة ارز 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-rice-kofta-400-gm/s/915685",
+      "filename": "طاجن-ستو-كفتة-ارز-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943199.JPG?size=520",
+      "bytes": 694433,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "طاجن ستو كرات بطاطس كروكيه بحشوة الجبن 11 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-potatoes-croquette-with-cheese-11-pcs/s/915693",
+      "filename": "طاجن-ستو-كرات-بطاطس-كروكيه-بحشوة-الجبن-11-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689f1dc600301c6d3333607a.JPG?size=520",
+      "bytes": 399652,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "طاجن ستو سمبوسك لحم 12 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-sambousak-meat-12-pcs/s/915675",
+      "filename": "طاجن-ستو-سمبوسك-لحم-12-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943014.JPG?size=520",
+      "bytes": 686098,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "طاجن ستو كفتة بانيه 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-kofta-pane-8-pcs/s/915686",
+      "filename": "طاجن-ستو-كفتة-بانيه-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943601.JPG?size=520",
+      "bytes": 684207,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:40:33Z",
+  "captured": 15,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 16
+}

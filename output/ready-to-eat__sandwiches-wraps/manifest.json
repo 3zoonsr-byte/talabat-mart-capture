@@ -1,0 +1,64 @@
+{
+  "category": "ready-to-eat__sandwiches-wraps",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ready-to-eat/sandwiches-wraps",
+  "output_dir": "/home/z/my-project/output/ready-to-eat__sandwiches-wraps",
+  "started_at": "2026-07-17T13:36:55Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ready-to-eat/sandwiches-wraps",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري كرواسون أسمر بالديك الرومي والجبن، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-turkey-cheese-brown-croissant-1-piece/s/300709",
+      "filename": "ايفري-داي-روستري-كرواسون-اسمر-بالديك-الرومي-والجبن،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688f08e4623d929a96e11050.jpg?size=520",
+      "bytes": 310200,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:37:53Z",
+  "captured": 3,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 4
+}

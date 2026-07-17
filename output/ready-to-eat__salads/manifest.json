@@ -1,0 +1,330 @@
+{
+  "category": "ready-to-eat__salads",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ready-to-eat/salads",
+  "output_dir": "/home/z/my-project/output/ready-to-eat__salads",
+  "started_at": "2026-07-17T13:33:10Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ready-to-eat/salads",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "جرين هاوس سلطة مكرونة بيستو 440 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-pesto-salad-440gm/s/918673",
+      "filename": "جرين-هاوس-سلطة-مكرونة-بيستو-440-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391714.jpg?size=520",
+      "bytes": 655665,
+      "dimensions": [
+        520,
+        368
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جرين هاوس سناك باك ( سناك خيار و جبنة ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-cucumber-cheese-snack-pack-200g/s/934043",
+      "filename": "جرين-هاوس-سناك-باك-سناك-خيار-و-جبنة-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb91d.JPG?size=520",
+      "bytes": 331649,
+      "dimensions": [
+        520,
+        398
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "جرين هاوس سلطة حمص 410 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-chickpea-salad-410gm/s/918676",
+      "filename": "جرين-هاوس-سلطة-حمص-410-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391691.jpg?size=520",
+      "bytes": 669035,
+      "dimensions": [
+        520,
+        373
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "جرين هاوس سناك باك ( سناك مكسرات و جبن ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-nuts-cheese-snack-pack-200g/s/934044",
+      "filename": "جرين-هاوس-سناك-باك-سناك-مكسرات-و-جبن-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb91e.JPG?size=520",
+      "bytes": 346480,
+      "dimensions": [
+        520,
+        448
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "جرين هاوس  سلطة تفاح اخضر 410 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-green-apple-salad-410gm/s/918670",
+      "filename": "جرين-هاوس-سلطة-تفاح-اخضر-410-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391660.jpg?size=520",
+      "bytes": 611736,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "جرين هاوس سناك باك ( سناك جزر و جبنة ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-carrot-cheese-snack-pack-200g/s/934042",
+      "filename": "جرين-هاوس-سناك-باك-سناك-جزر-و-جبنة-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb91c.JPG?size=520",
+      "bytes": 389303,
+      "dimensions": [
+        520,
+        479
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جرين هاوس صوص مكسيكانا 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-mexican-sauce-300gm/s/918663",
+      "filename": "جرين-هاوس-صوص-مكسيكانا-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391417.jpg?size=520",
+      "bytes": 628749,
+      "dimensions": [
+        520,
+        502
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "جرين هاوس سناك باك ( سناك خضار و ديبس ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-veggies-dip-snack-pack-200g/s/934040",
+      "filename": "جرين-هاوس-سناك-باك-سناك-خضار-و-ديبس-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb91a.JPG?size=520",
+      "bytes": 384542,
+      "dimensions": [
+        520,
+        441
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "جرين هاوس الخلطة الإيطالية 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-italian-mix-300gm/s/918644",
+      "filename": "جرين-هاوس-الخلطة-الايطالية-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391011.jpg?size=520",
+      "bytes": 734204,
+      "dimensions": [
+        511,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جرين هاوس سلطة بطاطس 480 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-potatoes-salad-480gm/s/918675",
+      "filename": "جرين-هاوس-سلطة-بطاطس-480-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391721.jpg?size=520",
+      "bytes": 691661,
+      "dimensions": [
+        520,
+        377
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جرين هاوس صوص مارينارا 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-marinara-sauce-300gm/s/918665",
+      "filename": "جرين-هاوس-صوص-مارينارا-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391400.jpg?size=520",
+      "bytes": 598127,
+      "dimensions": [
+        520,
+        490
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "جرين هاوس صلصة سيزر 300م",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-caesar-dressing-300m/s/918659",
+      "filename": "جرين-هاوس-صلصة-سيزر-300م.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391363.jpg?size=520",
+      "bytes": 289502,
+      "dimensions": [
+        264,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "جرين هاوس خلطة الربيع 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-spring-mix-200gm/s/918648",
+      "filename": "جرين-هاوس-خلطة-الربيع-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391097.jpg?size=520",
+      "bytes": 584570,
+      "dimensions": [
+        428,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "جرين هاوس سناك باك ( سناك خيار و ديبس ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-cucumber-dip-snack-pack-200g/s/934039",
+      "filename": "جرين-هاوس-سناك-باك-سناك-خيار-و-ديبس-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb919.JPG?size=520",
+      "bytes": 292678,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "جرين هاوس صلصة ايطالية 300م",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-italian-dressing-300m/s/918660",
+      "filename": "جرين-هاوس-صلصة-ايطالية-300م.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391370.jpg?size=520",
+      "bytes": 321677,
+      "dimensions": [
+        256,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جرين هاوس صوص جواكامولي 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-guacamole-sauce-300gm/s/918664",
+      "filename": "جرين-هاوس-صوص-جواكامولي-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391431.jpg?size=520",
+      "bytes": 512496,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "جرين هاوس سلطة شيري ميري 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-cherry-mary-mix-300gm/s/918669",
+      "filename": "جرين-هاوس-سلطة-شيري-ميري-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391561.jpg?size=520",
+      "bytes": 592713,
+      "dimensions": [
+        423,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "جرين هاوس سناك باك ( سناك جرز مع ديبس ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-carrot-dip-snack-pack-200g/s/934038",
+      "filename": "جرين-هاوس-سناك-باك-سناك-جرز-مع-ديبس-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb918.JPG?size=520",
+      "bytes": 303600,
+      "dimensions": [
+        520,
+        382
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "جرين هاوس سناك باك ( سناك فاكهة و ديبس ) 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-fruits-dip-snack-pack-200g/s/934041",
+      "filename": "جرين-هاوس-سناك-باك-سناك-فاكهة-و-ديبس-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dba742972a6283ffeb91b.JPG?size=520",
+      "bytes": 378637,
+      "dimensions": [
+        520,
+        437
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "جرين هاوس صلصة فرنسية 300م",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-french-dressing-300m/s/918661",
+      "filename": "جرين-هاوس-صلصة-فرنسية-300م.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391394.jpg?size=520",
+      "bytes": 323396,
+      "dimensions": [
+        259,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:36:54Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

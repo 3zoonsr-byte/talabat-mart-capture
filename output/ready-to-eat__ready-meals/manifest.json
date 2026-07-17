@@ -1,0 +1,316 @@
+{
+  "category": "ready-to-eat__ready-meals",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ready-to-eat/ready-meals",
+  "output_dir": "/home/z/my-project/output/ready-to-eat__ready-meals",
+  "started_at": "2026-07-17T13:29:27Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ready-to-eat/ready-meals",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "فلفلة طعمية سادة 12 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-plain-taamia-12-pieces/s/937335",
+      "filename": "فلفلة-طعمية-سادة-12-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699300f32be45caae3bdf6b9.jpg?size=520",
+      "bytes": 553988,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طاجن ستو كرات لحم صافي بصوص البصل المكرمل 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-meatballs-with-caramelized-onions-sauce-450-gm/s/915705",
+      "filename": "طاجن-ستو-كرات-لحم-صافي-بصوص-البصل-المكرمل-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943335.JPG?size=520",
+      "bytes": 766916,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "فلفلة فول زيت زيتون 500جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-olive-oil-500g/s/937342",
+      "filename": "فلفلة-فول-زيت-زيتون-500جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996cde4a7b723ead4e54242.png?size=520",
+      "bytes": 491494,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "فلفلة فول زيت 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-oil-300g/s/937339",
+      "filename": "فلفلة-فول-زيت-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996cd5d12133af27d3a90a7.png?size=520",
+      "bytes": 405550,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "فلفلة فول زيت 500جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-oil-500g/s/937340",
+      "filename": "فلفلة-فول-زيت-500جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996cd81a7b723ead4e53965.png?size=520",
+      "bytes": 474952,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طاجن ستو حواوشي 2 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-hawawshy-2-pcs/s/915697",
+      "filename": "طاجن-ستو-حواوشي-2-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943205.JPG?size=520",
+      "bytes": 385334,
+      "dimensions": [
+        520,
+        415
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "فلفلة فول بالزيت الحار 500جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-with-flaxseed-oil-500g/s/938416",
+      "filename": "فلفلة-فول-بالزيت-الحار-500جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f0749344d6d6d1aea77b6e.jpg?size=520",
+      "bytes": 493239,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طاجن ستو طاجن فريك باللحمه فردي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-tajin-grits-with-meat-chunks-1-person/s/915709",
+      "filename": "طاجن-ستو-طاجن-فريك-باللحمه-فردي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943465.JPG?size=520",
+      "bytes": 483024,
+      "dimensions": [
+        520,
+        376
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "طاجن ستو طاجن مسقعه بيشامل باللحمه المفرومه فردي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-tajin-mousakka-bechamel-with-minced-meat-1-person/s/915712",
+      "filename": "طاجن-ستو-طاجن-مسقعه-بيشامل-باللحمه-المفرومه-فردي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943472.JPG?size=520",
+      "bytes": 482631,
+      "dimensions": [
+        520,
+        376
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "فلفلة طعمية اسكندراني 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-alexandrian-taamia-8-pieces/s/937336",
+      "filename": "فلفلة-طعمية-اسكندراني-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699300f32be45caae3bdf6ba.jpg?size=520",
+      "bytes": 634215,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "فلفلة فول زيت زيتون 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-olive-oil-300g/s/937341",
+      "filename": "فلفلة-فول-زيت-زيتون-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996cdb712133af27d3a90dc.png?size=520",
+      "bytes": 424514,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فلفلة طعمية ليمون معصفر 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-lemon-saffron-taamia-8-pieces/s/937337",
+      "filename": "فلفلة-طعمية-ليمون-معصفر-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699300f32be45caae3bdf6bb.jpg?size=520",
+      "bytes": 679653,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فلفلة فول ليمون معصفر 500جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-lemon-saffron-500g/s/937344",
+      "filename": "فلفلة-فول-ليمون-معصفر-500جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996ce30a7b723ead4e542b6.png?size=520",
+      "bytes": 496735,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فلفلة فول ليمون معصفر 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-foul-lemon-saffron-300g/s/937343",
+      "filename": "فلفلة-فول-ليمون-معصفر-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996ce0672d56c0b3031c71c.png?size=520",
+      "bytes": 426470,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "تغاميس طعمية بالهريسة صغيرة مجمدة، 15 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/taghamees-frozen-small-taameya-harissa-15-pieces/s/915492",
+      "filename": "تغاميس-طعمية-بالهريسة-صغيرة-مجمدة،-15-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745354285.JPG?size=520",
+      "bytes": 261214,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "تغاميس فول زيت زيتون 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/taghamees-ful-olive-oil-500g/s/915486",
+      "filename": "تغاميس-فول-زيت-زيتون-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745354131.JPG?size=520",
+      "bytes": 213951,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "تغاميس جبنة رومي مقلية مجمدة 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagamees-frozen-roumy-fried-cheese-350g/s/932715",
+      "filename": "تغاميس-جبنة-رومي-مقلية-مجمدة-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6821e13f4cf48bee950c2b57.JPG?size=520",
+      "bytes": 893378,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "تغاميس فول هريسه سبايسي 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/taghamees-ful-harissa-spicy-300g/s/915482",
+      "filename": "تغاميس-فول-هريسه-سبايسي-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745354094.JPG?size=520",
+      "bytes": 204747,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فلفلة جبنة رومى مقلية مجمدة 8 قطع 350جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/felfela-frozen-fried-roumy-cheese-8-pieces-approx-350g/s/939471",
+      "filename": "فلفلة-جبنة-رومى-مقلية-مجمدة-8-قطع-350جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3906a5941895a7bb959489.png?size=520",
+      "bytes": 609002,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:33:09Z",
+  "captured": 21,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 22
+}
