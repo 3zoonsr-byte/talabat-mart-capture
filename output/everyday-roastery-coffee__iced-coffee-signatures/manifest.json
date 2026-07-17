@@ -1,0 +1,330 @@
+{
+  "category": "everyday-roastery-coffee__iced-coffee-signatures",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/everyday-roastery-coffee/iced-coffee-signatures",
+  "output_dir": "/home/z/my-project/output/everyday-roastery-coffee__iced-coffee-signatures",
+  "started_at": "2026-07-17T13:53:30Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/everyday-roastery-coffee/iced-coffee-signatures",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري سبانش لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-spanish-latte-full-cream-14oz/s/300829",
+      "filename": "ايفري-داي-روستري-سبانش-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a391.jpg?size=520",
+      "bytes": 238045,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري دولسى ليتشى لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-ducle-de-leche-latte-full-cream-14oz/s/300825",
+      "filename": "ايفري-داي-روستري-دولسى-ليتشى-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a38b.jpg?size=520",
+      "bytes": 257858,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري سبانش لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-spanish-latte-skimmed-milk-14oz/s/300831",
+      "filename": "ايفري-داي-روستري-سبانش-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a393.jpg?size=520",
+      "bytes": 238045,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري كراميل لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-latte-full-cream-14oz/s/300817",
+      "filename": "ايفري-داي-روستري-كراميل-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a382.jpg?size=520",
+      "bytes": 253886,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري دولسى ليتشى لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-ducle-de-leche-latte-skimmed-milk-14oz/s/300827",
+      "filename": "ايفري-داي-روستري-دولسى-ليتشى-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a388.jpg?size=520",
+      "bytes": 257858,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "إيفري داي روستري وايت شوكلت ماتشا لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-white-chocolate-matcha-latte-full-cream-14oz/s/300845",
+      "filename": "ايفري-داي-روستري-وايت-شوكلت-ماتشا-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a397.png?size=520",
+      "bytes": 483684,
+      "dimensions": [
+        508,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "إيفري داي روستري ماتشا لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-matcha-latte-full-cream-14oz/s/300841",
+      "filename": "ايفري-داي-روستري-ماتشا-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a390.png?size=520",
+      "bytes": 483684,
+      "dimensions": [
+        508,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "إيفري داي روستري ماتشا لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-matcha-latte-skimmed-milk-14oz/s/300843",
+      "filename": "ايفري-داي-روستري-ماتشا-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a38f.png?size=520",
+      "bytes": 483684,
+      "dimensions": [
+        508,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "إيفري داي روستري وايت شوكلت موكا مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-white-chocolate-mocha-full-cream-14oz/s/300781",
+      "filename": "ايفري-داي-روستري-وايت-شوكلت-موكا-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c34b30468c802a8b564.jpg?size=520",
+      "bytes": 210383,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "إيفري داي روستري كراميل سبانش لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-spanish-latte-full-cream-14oz/s/300833",
+      "filename": "ايفري-داي-روستري-كراميل-سبانش-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a385.jpg?size=520",
+      "bytes": 238045,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "إيفري داي روستري فانيلا لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-vanilla-latte-full-cream-14oz/s/300821",
+      "filename": "ايفري-داي-روستري-فانيلا-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3a9.jpg?size=520",
+      "bytes": 215820,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "إيفري داي روستري فانيلا لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-vanilla-latte-skimmed-milk-14oz/s/300823",
+      "filename": "ايفري-داي-روستري-فانيلا-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a39a.jpg?size=520",
+      "bytes": 215820,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "إيفري داي روستري وايت شوكلت ماتشا لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-white-chocolate-matcha-latte-skimmed-milk-14oz/s/300847",
+      "filename": "ايفري-داي-روستري-وايت-شوكلت-ماتشا-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a396.png?size=520",
+      "bytes": 483684,
+      "dimensions": [
+        508,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "إيفري داي روستري كراميل لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-latte-skimmed-milk-14oz/s/300819",
+      "filename": "ايفري-داي-روستري-كراميل-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a387.jpg?size=520",
+      "bytes": 253886,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "إيفري داي روستري دارك شوكلت موكا مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-dark-chocolate-mocha-full-cream-14oz/s/300789",
+      "filename": "ايفري-داي-روستري-دارك-شوكلت-موكا-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3b7.jpg?size=520",
+      "bytes": 200518,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "إيفري داي روستري وايت شوكلت موكا مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-white-chocolate-mocha-skimmed-milk-14oz/s/300783",
+      "filename": "ايفري-داي-روستري-وايت-شوكلت-موكا-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c34b30468c802a8b56b.jpg?size=520",
+      "bytes": 210383,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "إيفري داي روستري دارك شوكلت موكا مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-dark-chocolate-mocha-skimmed-milk-14oz/s/300791",
+      "filename": "ايفري-داي-روستري-دارك-شوكلت-موكا-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a36a.jpg?size=520",
+      "bytes": 200518,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "إيفري داي روستري كراميل سبانش لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-spanish-latte-skimmed-milk-14oz/s/300835",
+      "filename": "ايفري-داي-روستري-كراميل-سبانش-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a398.jpg?size=520",
+      "bytes": 238045,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "إيفري داي روستري بندق سبانش لاتيه مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-hazelnut-spanish-latte-skimmed-milk-14oz/s/300839",
+      "filename": "ايفري-داي-روستري-بندق-سبانش-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a38a.jpg?size=520",
+      "bytes": 238045,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إيفري داي روستري بندق سبانش لاتيه مثلج  (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-hazelnut-spanish-latte-full-cream-14oz/s/300837",
+      "filename": "ايفري-داي-روستري-بندق-سبانش-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3a6.jpg?size=520",
+      "bytes": 238045,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:57:11Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
