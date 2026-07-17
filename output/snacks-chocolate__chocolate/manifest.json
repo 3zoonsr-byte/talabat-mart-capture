@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__chocolate",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/chocolate",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__chocolate",
+  "started_at": "2026-07-17T16:06:07Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/chocolate",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "جالاكسي فلوتس شوكولاتة 4 أصابع 45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/galaxy-flutes-4-fingers-chocolate-wafer-rolls-45g/s/901284",
+      "filename": "جالاكسي-فلوتس-شوكولاتة-4-اصابع-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891be0ffd59dc99f981f8cf.jpg?size=520",
+      "bytes": 409737,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جالكسي فلوتس ويفر رول بالشوكولاتة اصبعين، 22.5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/galaxy-flutes-chocolate-wafer-roll-2-fingers-225g/s/901283",
+      "filename": "جالكسي-فلوتس-ويفر-رول-بالشوكولاتة-اصبعين،-22-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891bdfbfd59dc99f981f800.jpg?size=520",
+      "bytes": 276802,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مالتيزرز كيس شوكولاتة 37 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maltesers-chocolate-37g/s/901329",
+      "filename": "مالتيزرز-كيس-شوكولاتة-37-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68e626bb0f8f8247ce939fdb.jpg?size=520",
+      "bytes": 514638,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "شوكولاتة كيندر بوينو، 43 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kinder-bueno-milk-chocolate-bar-in-wafer-with-hazelnut-cream-43g/s/901011",
+      "filename": "شوكولاتة-كيندر-بوينو،-43-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f052a9ef4f776a81948145.jpg?size=520",
+      "bytes": 393958,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ألواح شوكولاتة كيندر بالحليب مع حشوة حليبية، عبوة من 4 ألواح مغلفة بشكل فردي، 50 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kinder-chocolate-milk-chocolate-bars-with-milky-filling-4-bars-50g/s/901010",
+      "filename": "الواح-شوكولاتة-كيندر-بالحليب-مع-حشوة-حليبية،-عبوة-من-4-الواح-مغلفة-بشكل-فردي،-50-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699d52a27a30045fda07466b.jpg?size=520",
+      "bytes": 424577,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "لوح شوكولاتة جالاكسي بالحليب 30 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/galaxy-smooth-milk-chocolate-bar-30g/s/936278",
+      "filename": "لوح-شوكولاتة-جالاكسي-بالحليب-30-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a041a5822838939709d7ec9.png?size=520",
+      "bytes": 266923,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كورن شوكولاتة بالحليب ستيفيا بالبندق 45 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-milk-chocolate-with-stevia-hazelnut-no-added-sugar-45g/s/928924",
+      "filename": "كورن-شوكولاتة-بالحليب-ستيفيا-بالبندق-45-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677cd785e75f476b28cf9820.JPG?size=520",
+      "bytes": 454468,
+      "dimensions": [
+        215,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "شوكولاتة كادبوري ديري ميلك بَبلي 24 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-bubbly-chocolate-bar-24g/s/934954",
+      "filename": "شوكولاتة-كادبوري-ديري-ميلك-ببلي-24-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695a333fd50bcf73543c922d.png?size=520",
+      "bytes": 186762,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "لوح شوكولاتة كادبوري ديري ميلك مارفلوس كرييشنز بنكهة الجيلي، 30 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-marvelous-creations-jelly-popping-chocolate-bar-30g/s/903175",
+      "filename": "لوح-شوكولاتة-كادبوري-ديري-ميلك-مارفلوس-كرييشنز-بنكهة-الجيلي،-30-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d681f2c1c09f8c474bef17.JPG?size=520",
+      "bytes": 354425,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كورونا شيكولاته دارك55%  ستيفيا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-55-dark-chocolate-stevia/s/918371",
+      "filename": "كورونا-شيكولاته-دارك55-ستيفيا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c8dad258a9f4f2577d3a8a.jpg?size=520",
+      "bytes": 381401,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كورونا شوكولاتة داكنة بنكهة قهوة متوسطة، 22 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-dark-chocolate-27-gm/s/911150",
+      "filename": "كورونا-شوكولاتة-داكنة-بنكهة-قهوة-متوسطة،-22-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f8531e9cf59c561898fed2.png",
+      "bytes": 46105,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "جالاكسي لوح شوكولاتة بالترافيل الغامق 33 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/galaxy-dark-truffle-dark-chocolate-bar-33g/s/936283",
+      "filename": "جالاكسي-لوح-شوكولاتة-بالترافيل-الغامق-33-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a1d7891f29b9f2c6674e549.JPG?size=520",
+      "bytes": 328698,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كادبوري ديري ميلك بابلي لوح شوكولاتة، 40 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-bubbly-chocolate-bar-40g/s/903170",
+      "filename": "كادبوري-ديري-ميلك-بابلي-لوح-شوكولاتة،-40-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687cd7917f9f5e642da65c07.JPG?size=520",
+      "bytes": 958032,
+      "dimensions": [
+        520,
+        486
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "شوكولاتة كادبوري ديري ميلك بَبلي 24 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-plain-chocolate-bar-30g/s/928417",
+      "filename": "شوكولاتة-كادبوري-ديري-ميلك-ببلي-24-جم-16.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695a333fd50bcf73543c922d.png",
+      "bytes": 34378,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "أم آند أمز شيكولاتة 45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mms-milk-chocolate-45g/s/901331",
+      "filename": "ام-اند-امز-شيكولاتة-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/c26fa884-9f26-4ed7-9875-155708197fb3.JPG?size=520",
+      "bytes": 533979,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كادبوري ديري ميلك شوكولاتة مارفيلوس كرييشنز، 90 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-marvelous-creations-chocolate-bar-90g/s/930598",
+      "filename": "كادبوري-ديري-ميلك-شوكولاتة-مارفيلوس-كرييشنز،-90-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f78dd79a095055c0b2fa79.png?size=520",
+      "bytes": 422633,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كورونا شوكولاتة ستيفيا باللبن",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-chocolate-milk-stevia/s/922705",
+      "filename": "كورونا-شوكولاتة-ستيفيا-باللبن.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221073011180.JPG?size=520",
+      "bytes": 449822,
+      "dimensions": [
+        225,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "شوكولاتة كادبوري ديري ميلك أوريو 27 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-bubbly-oreo-biscuit-chocolate-bar-27g/s/936033",
+      "filename": "شوكولاتة-كادبوري-ديري-ميلك-اوريو-27-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69283daab7d05129746e06d2.jpg?size=520",
+      "bytes": 229604,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "كادبوري ديري ميلك اوريو 35 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-oreo-chocolate-bar-35-g/s/914096",
+      "filename": "كادبوري-ديري-ميلك-اوريو-35-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6752ba4cca818c217ed10510.jpg?size=520",
+      "bytes": 315900,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كيندر جوي كولكشن بنات, 20غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kinder-joy-chocolate-egg-for-girls-20g/s/901014",
+      "filename": "كيندر-جوي-كولكشن-بنات-20غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66bceeac240cafd2c79986cf.jpg?size=520",
+      "bytes": 486442,
+      "dimensions": [
+        519,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:09:48Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
