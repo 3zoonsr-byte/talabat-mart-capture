@@ -1,0 +1,330 @@
+{
+  "category": "beverages__powdered-drinks",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/powdered-drinks",
+  "output_dir": "/home/z/my-project/output/beverages__powdered-drinks",
+  "started_at": "2026-07-17T15:58:50Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/powdered-drinks",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كادبوري 3 في 1 كيس مشروب الشوكولاتة الساخنة، 30 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-3-in-1-hot-chocolate-powder-beverage-sachet-30g/s/909562",
+      "filename": "كادبوري-3-في-1-كيس-مشروب-الشوكولاتة-الساخنة،-30-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/675990a9e422ab12dcfcb2f1.jpg?size=520",
+      "bytes": 958565,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كادبورى مشروب شوكولاتة ساخنة ٣ فى ١ ٣٠٠ جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-3-in-1-hot-chocolate-powder-beverage-jar-300g/s/903221",
+      "filename": "كادبورى-مشروب-شوكولاتة-ساخنة-٣-فى-١-٣٠٠-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_7622210821959.jpg?size=520",
+      "bytes": 618533,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كورونا مسحوق الكاكاو الخام نقي 100% خالي من السكر 75 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-raw-cocoa-powder-100-pure-suger-free-75g/s/909321",
+      "filename": "كورونا-مسحوق-الكاكاو-الخام-نقي-100-خالي-من-السكر-75-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a571635355eda54b03ddb7.png?size=520",
+      "bytes": 824497,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "كورونا ميكس مسحوق الشوكولاتة، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-chocolate-powder-mix-60g/s/911177",
+      "filename": "كورونا-ميكس-مسحوق-الشوكولاتة،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68838ac28b4d17c9361c0c1c.jpg?size=520",
+      "bytes": 528796,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "جالاكسي فرابتشينو بنكهة الموكا، 280جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/galaxy-mocha-frappe-280g/s/938281",
+      "filename": "جالاكسي-فرابتشينو-بنكهة-الموكا،-280جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68949f2cd865b62595612741.jpg?size=520",
+      "bytes": 672236,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كورونا كاكاو بريميوم بيور 80 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-premium-pure-cocoa-80g/s/928920",
+      "filename": "كورونا-كاكاو-بريميوم-بيور-80-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677cd781e75f476b28cf97ef.JPG?size=520",
+      "bytes": 297420,
+      "dimensions": [
+        417,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كورونا مسحوق مشروب للأطفال بالشوكولاتة غني بالحديد، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-rich-in-iron-kids-chocolate-drink-powder-120g/s/935693",
+      "filename": "كورونا-مسحوق-مشروب-للاطفال-بالشوكولاتة-غني-بالحديد،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691c4b36ef6e03d5ceab0bdd.JPG?size=520",
+      "bytes": 641201,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كورونا مسحوق مشروب للأطفال بالشوكولاتة لعظام أقوى، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-stronger-bones-kids-chocolate-drink-powder-120g/s/935692",
+      "filename": "كورونا-مسحوق-مشروب-للاطفال-بالشوكولاتة-لعظام-اقوى،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691c4b36ef6e03d5ceab0bdc.JPG?size=520",
+      "bytes": 644611,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "كورونا مسحوق مشروب للأطفال بالشوكولاتة مُقوّي للمناعة، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-immunity-booster-kids-chocolate-drink-powder-120g/s/935691",
+      "filename": "كورونا-مسحوق-مشروب-للاطفال-بالشوكولاتة-مقوي-للمناعة،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691c4b36ef6e03d5ceab0bdb.JPG?size=520",
+      "bytes": 674627,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "شوكولاتة ساخنة بالقرفة من إيفري داي روستري (12 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cinnamon-hot-chocolate-full-cream-12oz/s/300919",
+      "filename": "شوكولاتة-ساخنة-بالقرفة-من-ايفري-داي-روستري-12-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69429a8ef5784051cc753fd5.png?size=520",
+      "bytes": 544709,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "شوكولاتة ساخنة بالتوفي المقرمش من إيفري داي روستري (12 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-toffee-crunch-hot-chocolate-full-cream-12oz/s/300916",
+      "filename": "شوكولاتة-ساخنة-بالتوفي-المقرمش-من-ايفري-داي-روستري-12-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69429932f5784051cc753e01.png?size=520",
+      "bytes": 531641,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "شوكولاتة ساخنة بالتوفي المقرمش من إيفري داي روستري (12 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-toffee-crunch-hot-chocolate-skimmed-milk-12oz/s/300921",
+      "filename": "شوكولاتة-ساخنة-بالتوفي-المقرمش-من-ايفري-داي-روستري-12-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69429932f5784051cc753e04.png?size=520",
+      "bytes": 531641,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "شوكولاتة ساخنة بالقرفة من إيفري داي روستري (12 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cinnamon-hot-chocolate-skimmed-milk-12oz/s/300924",
+      "filename": "شوكولاتة-ساخنة-بالقرفة-من-ايفري-داي-روستري-12-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69429a8ef5784051cc753fd7.png?size=520",
+      "bytes": 544709,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "حاج عرفة عصير اناناس 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-pineapple-juice-400g/s/910562",
+      "filename": "حاج-عرفة-عصير-اناناس-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdeebd.jpg?size=520",
+      "bytes": 538147,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "حاج عرفة عصير خوخ 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-peach-juice-400g/s/910563",
+      "filename": "حاج-عرفة-عصير-خوخ-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdeebb.jpg?size=520",
+      "bytes": 594304,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "حاج عرفة عرق سوس 125  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-licorice-125g/s/910587",
+      "filename": "حاج-عرفة-عرق-سوس-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698b44586424d0af78b0fd81.jpg?size=520",
+      "bytes": 578950,
+      "dimensions": [
+        520,
+        519
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "حاج عرفة سحلب لايت 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-orchid-light-200g/s/928459",
+      "filename": "حاج-عرفة-سحلب-لايت-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdeeb4.jpg?size=520",
+      "bytes": 420254,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "حاج عرفة سوبيا شيكولاتة، 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-chocolate-sobia-drink-300g/s/929092",
+      "filename": "حاج-عرفة-سوبيا-شيكولاتة،-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69b83fa4e927440018845901.png?size=520",
+      "bytes": 856086,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "حاج عرفة سحلب دبي 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-orchid-dubai-275g/s/928849",
+      "filename": "حاج-عرفة-سحلب-دبي-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdeeb3.jpg?size=520",
+      "bytes": 649471,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "شراب شوكولاتة دوبيلا 650 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-chocolate-drink-650-ml/s/916739",
+      "filename": "شراب-شوكولاتة-دوبيلا-650-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756354.jpg?size=520",
+      "bytes": 272174,
+      "dimensions": [
+        294,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:02:31Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
