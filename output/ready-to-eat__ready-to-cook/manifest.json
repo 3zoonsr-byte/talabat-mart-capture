@@ -1,0 +1,153 @@
+{
+  "category": "ready-to-eat__ready-to-cook",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ready-to-eat/ready-to-cook",
+  "output_dir": "/home/z/my-project/output/ready-to-eat__ready-to-cook",
+  "started_at": "2026-07-17T13:43:32Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ready-to-eat/ready-to-cook",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "تمري فيلتو دجاج تندوري هندي متبل طازج حار، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-fresh-marinated-indian-spicy-tandoori-chicken-filetto-1kg/s/925275",
+      "filename": "تمري-فيلتو-دجاج-تندوري-هندي-متبل-طازج-حار،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6863d93ab4cb865b2c4aa894.JPG?size=520",
+      "bytes": 660281,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "تمري دجاجة كاملة متبلة أورينتال 1000-1100",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-oriental-marinated-whole-chicken-1000-1100g/s/921798",
+      "filename": "تمري-دجاجة-كاملة-متبلة-اورينتال-1000-1100.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6866ce148a69a0a7e99c10e1.JPG?size=520",
+      "bytes": 712275,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مفازا فيليه دجاج متبل ارجنتيني 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-argentinian-marinated-chicken-fillet-700g/s/921802",
+      "filename": "مفازا-فيليه-دجاج-متبل-ارجنتيني-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bb63290c433c47b7d54.JPG?size=520",
+      "bytes": 395379,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مفازا فيليه دجاج متبل مكسيكي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-mexican-marinated-chicken-fillet-700g/s/921807",
+      "filename": "مفازا-فيليه-دجاج-متبل-مكسيكي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bb63290c433c47b7d56.JPG?size=520",
+      "bytes": 392892,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مفازا شيش دجاج متبل مكسيكي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-mexican-marinated-chicken-shish-700g/s/921808",
+      "filename": "مفازا-شيش-دجاج-متبل-مكسيكي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bbb3290c433c47b7de4.JPG?size=520",
+      "bytes": 388727,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "مفازا شيش دجاج متبل هندي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-indian-marinated-chicken-shish-700g/s/921804",
+      "filename": "مفازا-شيش-دجاج-متبل-هندي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bba3290c433c47b7de2.JPG?size=520",
+      "bytes": 367290,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "بروتيني بلدي كفتة بقري مشوية مجمدة، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/proteinni-frozen-baladi-grilled-beef-kofta-500g/s/927773",
+      "filename": "بروتيني-بلدي-كفتة-بقري-مشوية-مجمدة،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687625d7315bd660b94285f6.JPG?size=520",
+      "bytes": 569747,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    },
+    {
+      "index": 9,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:45:42Z",
+  "captured": 9,
+  "failed_count": 0,
+  "skipped_count": 2,
+  "total": 11
+}
