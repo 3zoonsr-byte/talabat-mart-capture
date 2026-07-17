@@ -161,3 +161,31 @@ Stage Summary:
 - User can download individual category ZIPs (per-category buttons when expanded)
 - User can preview thumbnails of captured images (click to open full-size)
 - The output/ folder was always on the sandbox filesystem; the problem was purely that the OutputBrowser was never rendered on the page and there was no download-all mechanism. Both fixed.
+
+---
+Task ID: post-crash-recovery
+Agent: main
+Task: Sandbox crashed/reset. Restore everything from GitHub, identify what's done vs pending, and resume capture.
+
+Work Log:
+- Discovered sandbox was fully reset: project folder wiped, only .git/.env/.gitignore/download/skills/upload remained
+- Local git was reset to "Initial commit" with no remote; reconnected remote with PAT token
+- git fetch + git reset --hard origin/main → restored all 118 commits including code + 1049 captured PNGs (67 category folders)
+- Reinstalled dependencies: `bun install` (846 packages) + capture-ws `bun install` (socket.io)
+- Verified Python 3.12 + Playwright + Chromium still available in cache
+- Created scripts/start-services.sh to launch all 3 services detached (dev server, WS service, auto-commit daemon)
+- Started: Next.js dev (port 3000), capture-ws (port 3003), auto-commit daemon (90s interval)
+- Restored upload/categories.txt from git history (commit 476a8e1) — 160 total categories across all top-level groups
+- Wrote scripts/populate-pending.mjs: compares categories.txt vs output/ folders, only enqueues uncaptured categories
+- Result: 65 already captured, 95 pending → populated queue with 95 items
+- Capture resumed automatically (queueActive: true, running: true)
+- Verified real captures happening: beverages__powdered-drinks producing PNGs with proper Arabic filenames (e.g. كورونا-مكسي-مسحوق-الشوكولاتة.png)
+- Auto-commit daemon already pushed first new captures to GitHub (55b36d0)
+
+Stage Summary:
+- All code + 1049 previously-captured images restored from GitHub
+- 3 services running: dev server (3000), WS service (3003), auto-commit daemon (90s)
+- Queue populated with 95 remaining categories; capture in progress
+- Some categories (everyday-sandwiches, frozen-food/fries) returned "no hero image" (2 products found but skipped) — likely page-structure differences, not a system failure
+- Total PNGs grew from 1049 → 1062 and climbing; auto-commit pushing to GitHub every 90s
+- GitHub repo fully synced: https://github.com/3zoonsr-byte/talabat-mart-capture
