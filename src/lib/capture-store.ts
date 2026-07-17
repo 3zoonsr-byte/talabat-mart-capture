@@ -28,7 +28,7 @@ const CAPTURE_SCRIPT = path.join(
   process.cwd(),
   'mini-services/capture-service/capture.py'
 )
-const WS_URL = 'http://localhost:3003' // internal - only used by this server
+const WS_URL = 'http://127.0.0.1:3003' // internal - use IPv4 to avoid ::1 refusal
 
 export interface CaptureConfig {
   url: string

@@ -189,3 +189,29 @@ Stage Summary:
 - Some categories (everyday-sandwiches, frozen-food/fries) returned "no hero image" (2 products found but skipped) — likely page-structure differences, not a system failure
 - Total PNGs grew from 1049 → 1062 and climbing; auto-commit pushing to GitHub every 90s
 - GitHub repo fully synced: https://github.com/3zoonsr-byte/talabat-mart-capture
+
+---
+Task ID: post-crash-recovery-2
+Agent: main
+Task: Sandbox crashed again. Restore from GitHub, identify remaining queue, resume capture.
+
+Work Log:
+- Sandbox reset again: only .git/.env/.gitignore + scaffold remained; local git was "Initial commit" with no remote
+- Reconnected GitHub remote with PAT, fetched, git reset --hard origin/main → restored all commits + 124 category folders / 2184 PNGs
+- The auto-commit daemon had been running before crash and pushed captures up to 19:08:35 (paper-plastic categories)
+- Restored upload/categories.txt from git history (commit 476a8e1)
+- Comparison: 122 captured, 38 pending out of 160 total
+- Installed missing socket.io-client package (was causing 500 errors on page load)
+- Installed capture-ws service dependencies (bun install in mini-services/capture-ws)
+- Started services: Next.js dev (port 3000, was already up), WS service (port 3003), auto-commit daemon (90s)
+- Fixed capture-store WS_URL from localhost → 127.0.0.1 to avoid IPv6 ::1 connection refusal
+- Populated queue with 38 pending categories via scripts/populate-pending.mjs
+- Capture running: producing real images (paper-plastic__garbage-bags → ~21 PNGs with Arabic filenames)
+- Auto-commit daemon committed and pushed new captures to GitHub
+
+Stage Summary:
+- 122/160 categories captured (2184→2221 PNGs and climbing)
+- 38 in queue, capture in progress on paper-plastic__food-storage-wraps
+- All 3 services running; auto-commit pushing every 90s
+- Note: WS connect errors in dev.log are non-fatal (only affect live UI event streaming, not actual capture)
+- GitHub repo synced: https://github.com/3zoonsr-byte/talabat-mart-capture
