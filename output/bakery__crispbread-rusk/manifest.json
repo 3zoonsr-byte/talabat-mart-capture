@@ -1,0 +1,330 @@
+{
+  "category": "bakery__crispbread-rusk",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/bakery/crispbread-rusk",
+  "output_dir": "/home/z/my-project/output/bakery__crispbread-rusk",
+  "started_at": "2026-07-17T12:55:45Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/bakery/crispbread-rusk",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ريتش بيك بقسماط 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-rusk-400g/s/902335",
+      "filename": "ريتش-بيك-بقسماط-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000433027.JPG?size=520",
+      "bytes": 401710,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ريتش بيك بقسماط كريسبى 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-crispy-bread-crumbs-150g/s/937439",
+      "filename": "ريتش-بيك-بقسماط-كريسبى-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996fc69948106e959482271.png?size=520",
+      "bytes": 609176,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ريتش بيك بقسماط 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-rusk-200g/s/902334",
+      "filename": "ريتش-بيك-بقسماط-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000433003.JPG?size=520",
+      "bytes": 401710,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ريتش بيك بقسماط  أكسترا كريسبى 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-extra-bread-crumbs-120g/s/937440",
+      "filename": "ريتش-بيك-بقسماط-اكسترا-كريسبى-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996fc69948106e959482272.png?size=520",
+      "bytes": 638801,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ريتش بيك بقسماط مطحون ناعم 180 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-fine-bread-crumbs-180g/s/937438",
+      "filename": "ريتش-بيك-بقسماط-مطحون-ناعم-180-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996fc69948106e959482270.png?size=520",
+      "bytes": 574619,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ريتش بيك بريميوم بانيه ميكس ، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-premium-pane-mix-500g/s/918583",
+      "filename": "ريتش-بيك-بريميوم-بانيه-ميكس-،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000433126.jpg?size=520",
+      "bytes": 434734,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ريتش بيك خليط بانيه مقرمش 170 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-crispy-premium-pane-mix-170g/s/918584",
+      "filename": "ريتش-بيك-خليط-بانيه-مقرمش-170-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000433089.jpg?size=520",
+      "bytes": 423026,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ريتش بيك خلطة بانيه حار",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-premium-spicy-pane-mix-170g/s/918585",
+      "filename": "ريتش-بيك-خلطة-بانيه-حار.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000433096.jpg?size=520",
+      "bytes": 430416,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "تسباس شرائح رجيم 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-diet-crackers-230g/s/919234",
+      "filename": "تسباس-شرائح-رجيم-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242631.jpg?size=520",
+      "bytes": 489726,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "بريد واي بقسماط مطحون كبير 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/breadway-breadcrumbs-450g/s/905356",
+      "filename": "بريد-واي-بقسماط-مطحون-كبير-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007290203.JPG?size=520",
+      "bytes": 336039,
+      "dimensions": [
+        359,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "تسيباس  باتون سالية - كمون 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-cumin-baton-250g/s/918831",
+      "filename": "تسيباس-باتون-سالية-كمون-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242303.jpg?size=520",
+      "bytes": 529046,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "تسيباس  باتون سالية - ملح 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-salted-baton-250g/s/918832",
+      "filename": "تسيباس-باتون-سالية-ملح-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430947.jpg?size=520",
+      "bytes": 581243,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "تسباس شرائح كاتشب 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-crackers-ketchup-230g/s/919235",
+      "filename": "تسباس-شرائح-كاتشب-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242648.jpg?size=520",
+      "bytes": 438414,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "تسيباس باكيت كعك سادة  14 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-plain-kahk-14-pieces/s/922379",
+      "filename": "تسيباس-باكيت-كعك-سادة-14-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430619.JPG?size=520",
+      "bytes": 286400,
+      "dimensions": [
+        520,
+        452
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "تسيباس باكيت كعك ملبن 14 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-kahk-with-malban-14-pieces/s/922380",
+      "filename": "تسيباس-باكيت-كعك-ملبن-14-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430596.JPG?size=520",
+      "bytes": 281722,
+      "dimensions": [
+        520,
+        398
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "تسيباس باكيت كعك عجوة 14 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-kahk-with-ajwa-14-pieces/s/922376",
+      "filename": "تسيباس-باكيت-كعك-عجوة-14-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430602.JPG?size=520",
+      "bytes": 271462,
+      "dimensions": [
+        520,
+        398
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "تسيباس كعك عجميه 14 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-kahk-with-pressed-dates-14-pieces/s/922377",
+      "filename": "تسيباس-كعك-عجميه-14-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430626.JPG?size=520",
+      "bytes": 399726,
+      "dimensions": [
+        520,
+        433
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بريد واي بقسماط مطحون صغير 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/breadway-breadcrumbs-200g/s/905357",
+      "filename": "بريد-واي-بقسماط-مطحون-صغير-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007290210.JPG?size=520",
+      "bytes": 336039,
+      "dimensions": [
+        359,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "كاتشينو باتون ساليه بالملح والكمون 290جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-baton-sale-with-salt-and-cumin-290g/s/931870",
+      "filename": "كاتشينو-باتون-ساليه-بالملح-والكمون-290جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682b2564f9ad81aadd7a69af.JPG?size=520",
+      "bytes": 440772,
+      "dimensions": [
+        520,
+        444
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كاتشينو اصابع بافس بني متعدد الحبوب 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-brown-puff-sticks-with-multigrain-seeds-200g/s/933604",
+      "filename": "كاتشينو-اصابع-بافس-بني-متعدد-الحبوب-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689462a29d781f686244b489.JPG?size=520",
+      "bytes": 455977,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:59:58Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

@@ -1,0 +1,330 @@
+{
+  "category": "bakery__fresh-bakes-pastries",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/bakery/fresh-bakes-pastries",
+  "output_dir": "/home/z/my-project/output/bakery__fresh-bakes-pastries",
+  "started_at": "2026-07-17T12:38:51Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/bakery/fresh-bakes-pastries",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "مولتو جولد كرواسون بالزبدة سادة مغطى بالسمسم وحبة البركة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-gold-butter-croissant-with-seeds-73g/s/938623",
+      "filename": "مولتو-جولد-كرواسون-بالزبدة-سادة-مغطى-بالسمسم-وحبة-البركة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f99b8f7f19867d8c354345.JPG?size=520",
+      "bytes": 564763,
+      "dimensions": [
+        283,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مولتو جولد كرواسون بالزبدة سادة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-gold-butter-croissant-71g/s/938622",
+      "filename": "مولتو-جولد-كرواسون-بالزبدة-سادة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f99b8f7f19867d8c354344.JPG?size=520",
+      "bytes": 528855,
+      "dimensions": [
+        283,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "تسيباس كرواسون رومي مدخن",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-smoked-turkey-croissant/s/920056",
+      "filename": "تسيباس-كرواسون-رومي-مدخن.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242846.JPG?size=520",
+      "bytes": 392292,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "دومتى كرواسون كريمة البندق بالحليب",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-croissant-filled-with-hazelnut-cream-milk/s/932621",
+      "filename": "دومتى-كرواسون-كريمة-البندق-بالحليب.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/685ceff8b8fb8c37da041445.JPG?size=520",
+      "bytes": 483211,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "أبو عوف معمول تمر سادة، 300 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-plain-maamoul-dates-300g/s/915827",
+      "filename": "ابو-عوف-معمول-تمر-سادة،-300-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423987c.png?size=520",
+      "bytes": 437097,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "تسيباس كرواسون ساده  قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-plain-croissant-1pc/s/918843",
+      "filename": "تسيباس-كرواسون-ساده-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430916.jpg?size=520",
+      "bytes": 355598,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أبو عوف معمول بالتمر والقرفة، 300 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-maamoul-dates-with-cinnamon-300g/s/915828",
+      "filename": "ابو-عوف-معمول-بالتمر-والقرفة،-300-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423987d.png?size=520",
+      "bytes": 457191,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "أبو عوف معمول تمر بالشوكولاتة، 300 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-maamoul-dates-with-chocolate-300g/s/915829",
+      "filename": "ابو-عوف-معمول-تمر-بالشوكولاتة،-300-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423987e.png?size=520",
+      "bytes": 459806,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "تسيباس كرواسون روزبيف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-roast-beef-croissant/s/920055",
+      "filename": "تسيباس-كرواسون-روزبيف.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242839.JPG?size=520",
+      "bytes": 402635,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "أبو عوف معمول محشو بالفراولة 12 قطعة - 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-maamoul-stuffed-with-strawberry-12-pieces-120g/s/928115",
+      "filename": "ابو-عوف-معمول-محشو-بالفراولة-12-قطعة-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423ac94.png?size=520",
+      "bytes": 452071,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "تسيباس كيك 1/2 و 1/2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-12-and-12-cake/s/918847",
+      "filename": "تسيباس-كيك-1-2-و-1-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242280.jpg?size=520",
+      "bytes": 442512,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "تسيباس دنش ابل باي 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-apple-pie-danish-1-piece/s/928771",
+      "filename": "تسيباس-دنش-ابل-باي-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6764127b4f0f3a753a43d5ea.JPG?size=520",
+      "bytes": 856270,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "تسيباس دنش توت 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-berry-danish-1-piece/s/928773",
+      "filename": "تسيباس-دنش-توت-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6764127d4f0f3a753a43d5ee.JPG?size=520",
+      "bytes": 801641,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "تسيباس كيك شيكولاته قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-chocolate-cake-1-piece/s/918850",
+      "filename": "تسيباس-كيك-شيكولاته-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242273.jpg?size=520",
+      "bytes": 387811,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "تسيباس باتيه سمسم بالجبنة قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-pate-with-cheese-1pc/s/918830",
+      "filename": "تسيباس-باتيه-سمسم-بالجبنة-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001430886.jpg?size=520",
+      "bytes": 394899,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "تسباس مارينج الوان 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-meringue-colors-60g/s/919238",
+      "filename": "تسباس-مارينج-الوان-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242693.jpg?size=520",
+      "bytes": 434936,
+      "dimensions": [
+        520,
+        505
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "تسيباس باكيت  بسكويت نشادر 20 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-nashader-biscuits-20-pieces/s/924586",
+      "filename": "تسيباس-باكيت-بسكويت-نشادر-20-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223015141498.JPG?size=520",
+      "bytes": 453198,
+      "dimensions": [
+        520,
+        448
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "تسيباس كرواسون زعتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-zaatar-croissant/s/920063",
+      "filename": "تسيباس-كرواسون-زعتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242914.JPG?size=520",
+      "bytes": 383262,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "تسيباس دنش اناناس 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-pineapple-danish-1-piece/s/928776",
+      "filename": "تسيباس-دنش-اناناس-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6764127f4f0f3a753a43d5f4.JPG?size=520",
+      "bytes": 430105,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "تسيباس كرواسون شيدر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-cheddar-croissant/s/920054",
+      "filename": "تسيباس-كرواسون-شيدر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242822.JPG?size=520",
+      "bytes": 421463,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:43:09Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

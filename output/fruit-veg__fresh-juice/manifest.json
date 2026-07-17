@@ -1,0 +1,106 @@
+{
+  "category": "fruit-veg__fresh-juice",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/fruit-veg/fresh-juice",
+  "output_dir": "/home/z/my-project/output/fruit-veg__fresh-juice",
+  "started_at": "2026-07-17T12:33:04Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/fruit-veg/fresh-juice",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5279,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "فروت ريبابليك برتقال 1لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fruit-republic-orange-1l/s/912697",
+      "filename": "فروت-ريبابليك-برتقال-1لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6318996368508647ff5eb7e0.jpg?size=520",
+      "bytes": 271581,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "فروت ريبابليك مانجو 1لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fruit-republic-mango-1l/s/912696",
+      "filename": "فروت-ريبابليك-مانجو-1لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6318999d68508647ff5eb804.jpg?size=520",
+      "bytes": 282204,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "فروت ريبابليك برتقال 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fruit-republic-orange-275ml/s/912702",
+      "filename": "فروت-ريبابليك-برتقال-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/641868dc97ae6a747586027a.jpg?size=520",
+      "bytes": 220216,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "فروت ريبابليك ليمون بالنعناع 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fruit-republic-lemon-with-mint-275ml/s/912705",
+      "filename": "فروت-ريبابليك-ليمون-بالنعناع-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/641869ef97ae6a74758602f0.jpg?size=520",
+      "bytes": 223270,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:34:36Z",
+  "captured": 6,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 7
+}

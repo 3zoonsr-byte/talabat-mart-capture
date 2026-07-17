@@ -1,0 +1,316 @@
+{
+  "category": "fruit-veg__herbs-leafy-greens",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/fruit-veg/herbs-leafy-greens",
+  "output_dir": "/home/z/my-project/output/fruit-veg__herbs-leafy-greens",
+  "started_at": "2026-07-17T12:29:04Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/fruit-veg/herbs-leafy-greens",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5279,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "خضار.كوم نعناع، 100 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-mint-100g/s/933017",
+      "filename": "خضار-كوم-نعناع،-100-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66f23de6ab1e7d655ae0def7.jpg?size=520",
+      "bytes": 696220,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "خضار.كوم بقدونس 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-parsley-100gm/s/910132",
+      "filename": "خضار-كوم-بقدونس-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160020.JPG?size=520",
+      "bytes": 431049,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "خضار.كوم شبت 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-dill-100gm/s/910137",
+      "filename": "خضار-كوم-شبت-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160026.JPG?size=520",
+      "bytes": 458438,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "خضار.كوم روز ماري جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-rosemary-50gm/s/910134",
+      "filename": "خضار-كوم-روز-ماري-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160022.JPG?size=520",
+      "bytes": 487960,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "خضار.كوم جرجير 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-watercress-100gm/s/910133",
+      "filename": "خضار-كوم-جرجير-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160021.JPG?size=520",
+      "bytes": 593051,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "خضار.كوم ريحان 50جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-basil-50gm/s/910135",
+      "filename": "خضار-كوم-ريحان-50جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160023.JPG?size=520",
+      "bytes": 409567,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "خضار.كوم كرفس فرنساوي 250جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-french-celery-pc/s/910138",
+      "filename": "خضار-كوم-كرفس-فرنساوي-250جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160027.JPG?size=520",
+      "bytes": 438131,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "خضار.كوم زعتر 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-thyme-50gm/s/910136",
+      "filename": "خضار-كوم-زعتر-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160024.JPG?size=520",
+      "bytes": 528119,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "خضار.كوم كرات 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-leek-250gm/s/910120",
+      "filename": "خضار-كوم-كرات-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160016.JPG?size=520",
+      "bytes": 272045,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "خضار.كوم كرنب احمر قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-red-cabbage-pc/s/910130",
+      "filename": "خضار-كوم-كرنب-احمر-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958140013.JPG?size=520",
+      "bytes": 561254,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "فريش سورس نعناع 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-mint-100g/s/922123",
+      "filename": "فريش-سورس-نعناع-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010502826.JPG?size=520",
+      "bytes": 421748,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فريش سورس كرنب أحمر 1قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-red-cabbage-1-piece/s/923670",
+      "filename": "فريش-سورس-كرنب-احمر-1قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010502857.JPG?size=520",
+      "bytes": 488854,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "جرين هاوس خس كابوتشا 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-garden-iceberg-150g/s/918657",
+      "filename": "جرين-هاوس-خس-كابوتشا-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391448.jpg?size=520",
+      "bytes": 444610,
+      "dimensions": [
+        384,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "جرين هاوس خس كابوتشا 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-garden-iceberg-300g/s/918645",
+      "filename": "جرين-هاوس-خس-كابوتشا-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391035.jpg?size=520",
+      "bytes": 646624,
+      "dimensions": [
+        427,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "بيكو روزماري، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pico-rosemary-100g/s/928396",
+      "filename": "بيكو-روزماري،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673c403f60e3d8b618ed6b42.jpg?size=520",
+      "bytes": 548266,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "الغانم آيسبرج هيدروبونيك، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alghanim-hydroponic-iceberg-1-piece/s/929466",
+      "filename": "الغانم-ايسبرج-هيدروبونيك،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a460f4c344c362352ea174.JPG?size=520",
+      "bytes": 422756,
+      "dimensions": [
+        520,
+        357
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "الغانم خس كريستال هيدروبونيك، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alghanim-hydroponic-crystal-lettuce-1-piece/s/929475",
+      "filename": "الغانم-خس-كريستال-هيدروبونيك،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a460f7c344c362352ea1a9.JPG?size=520",
+      "bytes": 370853,
+      "dimensions": [
+        520,
+        458
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "الغانم خس باتافيا اخضر هيدروبونيك، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alghanim-hydroponic-green-batavia-1-piece/s/929471",
+      "filename": "الغانم-خس-باتافيا-اخضر-هيدروبونيك،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a460f6c344c362352ea1a5.JPG?size=520",
+      "bytes": 595594,
+      "dimensions": [
+        489,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "الغانم خس بتر هيد هيدروبونيك، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alghanim-hydroponicbutter-head-1-piece/s/929476",
+      "filename": "الغانم-خس-بتر-هيد-هيدروبونيك،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a460f8c344c362352ea1ab.JPG?size=520",
+      "bytes": 451039,
+      "dimensions": [
+        520,
+        426
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:33:02Z",
+  "captured": 21,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 22
+}

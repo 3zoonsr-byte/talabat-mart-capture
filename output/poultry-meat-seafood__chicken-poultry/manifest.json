@@ -1,0 +1,330 @@
+{
+  "category": "poultry-meat-seafood__chicken-poultry",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/poultry-meat-seafood/chicken-poultry",
+  "output_dir": "/home/z/my-project/output/poultry-meat-seafood__chicken-poultry",
+  "started_at": "2026-07-17T13:05:19Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/poultry-meat-seafood/chicken-poultry",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "تمري دجاج فيليه 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-chicken-fillet-500g/s/905958",
+      "filename": "تمري-دجاج-فيليه-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69354141b2601c58f4bc6f9f.JPG?size=520",
+      "bytes": 800710,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مفازا اوراك 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-chicken-leg-1kg/s/915630",
+      "filename": "مفازا-اوراك-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000705763.JPG?size=520",
+      "bytes": 607375,
+      "dimensions": [
+        520,
+        345
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "وليمة دجاج فيلية مجمد 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-chicken-fillet-500g/s/918952",
+      "filename": "وليمة-دجاج-فيلية-مجمد-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001710674.jpg?size=520",
+      "bytes": 507990,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "تمري اوراك دجاج 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-chicken-thigh-legs-1kg/s/905960",
+      "filename": "تمري-اوراك-دجاج-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69354141b2601c58f4bc6fa3.JPG?size=520",
+      "bytes": 841526,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مفازا شيش  700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-chicken-shish-700g/s/915635",
+      "filename": "مفازا-شيش-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000705800.JPG?size=520",
+      "bytes": 549552,
+      "dimensions": [
+        520,
+        340
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "مفازا فيليه 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-chicken-fillet-1kg/s/915634",
+      "filename": "مفازا-فيليه-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000705787.JPG?size=520",
+      "bytes": 470572,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "تمري كبده فراخ 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-chicken-liver-500g/s/905955",
+      "filename": "تمري-كبده-فراخ-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69354140b2601c58f4bc6f9d.JPG?size=520",
+      "bytes": 863575,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مفازا كبد وقوانص 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-chicken-livers-gizzards-500g/s/915638",
+      "filename": "مفازا-كبد-وقوانص-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000705817.JPG?size=520",
+      "bytes": 472055,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "تمري كبده وقوانص 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-liver-gizzard-500g/s/905953",
+      "filename": "تمري-كبده-وقوانص-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69354140b2601c58f4bc6f9b.JPG?size=520",
+      "bytes": 924735,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "تمري دبوس دجاج 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-chicken-drumsticks-1kg/s/905961",
+      "filename": "تمري-دبوس-دجاج-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69354142b2601c58f4bc6fa5.JPG?size=520",
+      "bytes": 880902,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "تمري فيلتو دجاج تندوري هندي متبل طازج حار، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-fresh-marinated-indian-spicy-tandoori-chicken-filetto-1kg/s/925275",
+      "filename": "تمري-فيلتو-دجاج-تندوري-هندي-متبل-طازج-حار،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6863d93ab4cb865b2c4aa894.JPG?size=520",
+      "bytes": 660281,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "مفازا كبد 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-chicken-liver-500g/s/915637",
+      "filename": "مفازا-كبد-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000705909.JPG?size=520",
+      "bytes": 549659,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "تمري دجاجة كاملة متبلة أورينتال 1000-1100",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-oriental-marinated-whole-chicken-1000-1100g/s/921798",
+      "filename": "تمري-دجاجة-كاملة-متبلة-اورينتال-1000-1100.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6866ce148a69a0a7e99c10e1.JPG?size=520",
+      "bytes": 712275,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "تمري شيش طاووك 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/temry-shish-tawook-1kg/s/905962",
+      "filename": "تمري-شيش-طاووك-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69354142b2601c58f4bc6fa7.JPG?size=520",
+      "bytes": 829170,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "مفازا فيليه دجاج متبل ارجنتيني 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-argentinian-marinated-chicken-fillet-700g/s/921802",
+      "filename": "مفازا-فيليه-دجاج-متبل-ارجنتيني-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bb63290c433c47b7d54.JPG?size=520",
+      "bytes": 395379,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "مفازا فيليه دجاج متبل مكسيكي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-mexican-marinated-chicken-fillet-700g/s/921807",
+      "filename": "مفازا-فيليه-دجاج-متبل-مكسيكي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bb63290c433c47b7d56.JPG?size=520",
+      "bytes": 392892,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "مفازا شيش دجاج متبل مكسيكي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-mexican-marinated-chicken-shish-700g/s/921808",
+      "filename": "مفازا-شيش-دجاج-متبل-مكسيكي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bbb3290c433c47b7de4.JPG?size=520",
+      "bytes": 388727,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "مفازا شيش دجاج متبل هندي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-indian-marinated-chicken-shish-700g/s/921804",
+      "filename": "مفازا-شيش-دجاج-متبل-هندي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69550bba3290c433c47b7de2.JPG?size=520",
+      "bytes": 367290,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "وليمة أوراك دجاج مجمد 1 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-chicken-leg-thigh-1kg/s/918950",
+      "filename": "وليمة-اوراك-دجاج-مجمد-1-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001710643.jpg?size=520",
+      "bytes": 524939,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "وليمة دبوس الدجاج مجمد 1 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-chicken-drumstick-1kg/s/918956",
+      "filename": "وليمة-دبوس-الدجاج-مجمد-1-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001710711.jpg?size=520",
+      "bytes": 511432,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:09:35Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

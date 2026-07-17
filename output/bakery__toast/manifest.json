@@ -1,0 +1,274 @@
+{
+  "category": "bakery__toast",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/bakery/toast",
+  "output_dir": "/home/z/my-project/output/bakery__toast",
+  "started_at": "2026-07-17T12:51:54Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/bakery/toast",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ريتش بيك توست بالردة 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-toast-bran-500g/s/902322",
+      "filename": "ريتش-بيك-توست-بالردة-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65c1012540dace10ef95e199.JPG?size=520",
+      "bytes": 351777,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ريتش بيك توست عادى 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-toast-500g/s/902323",
+      "filename": "ريتش-بيك-توست-عادى-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65c1017e2042a9c84557c76c.JPG?size=520",
+      "bytes": 356669,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "دومتي توست الردة 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-bran-toast-500g/s/928994",
+      "filename": "دومتي-توست-الردة-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6781142adf41953cd4f96d66.JPG?size=520",
+      "bytes": 288383,
+      "dimensions": [
+        260,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "دومتي توست عالي البروتين مع بذور الشيا، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-high-protein-toast-with-chia-seeds-500g/s/928992",
+      "filename": "دومتي-توست-عالي-البروتين-مع-بذور-الشيا،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b1cd95ebd915b8141a828a.JPG?size=520",
+      "bytes": 268195,
+      "dimensions": [
+        445,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ريتش بيك توست عالى البروتين  250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-high-protein-toast-bread-250g/s/935584",
+      "filename": "ريتش-بيك-توست-عالى-البروتين-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6909b24fee87c8f03885c2f3.png?size=520",
+      "bytes": 334107,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دومتي توست عادي، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-plain-toast-500g/s/928995",
+      "filename": "دومتي-توست-عادي،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6781142cdf41953cd4f96d68.JPG?size=520",
+      "bytes": 301244,
+      "dimensions": [
+        260,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "دومتي توست بالحليب، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-milk-toast-500g/s/928993",
+      "filename": "دومتي-توست-بالحليب،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67811429df41953cd4f96d64.JPG?size=520",
+      "bytes": 305728,
+      "dimensions": [
+        260,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "بريد واي توست بالسبع حبوب  500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/breadway-multigrain-toast-500g/s/905348",
+      "filename": "بريد-واي-توست-بالسبع-حبوب-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007290074.JPG?size=520",
+      "bytes": 466116,
+      "dimensions": [
+        240,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "برنش توست ردة مربع 425 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/brown-square-brunch-toast-425g/s/921030",
+      "filename": "برنش-توست-ردة-مربع-425-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223003192013.JPG?size=520",
+      "bytes": 377389,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جرين هاوس كعك الأرز بالقشدة الحامضة، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-sour-cream-rice-cake-100g/s/934035",
+      "filename": "جرين-هاوس-كعك-الارز-بالقشدة-الحامضة،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676cff98183743045ce2764d.png?size=520",
+      "bytes": 279370,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جرين هاوس كعك الأرز بنكهة الطماطم الوردية، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-pink-tomato-flavor-rice-cake-100g/s/934037",
+      "filename": "جرين-هاوس-كعك-الارز-بنكهة-الطماطم-الوردية،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676cff9b183743045ce27651.png?size=520",
+      "bytes": 247004,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "توب سويت مــــيني تـوســـــت 300 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/top-sweet-mini-toast-300g/s/919421",
+      "filename": "توب-سويت-ميني-توست-300-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64b687c5cc7a46a60fe00746.jpg?size=520",
+      "bytes": 553160,
+      "dimensions": [
+        520,
+        403
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ريتش بيك توست بالردة 500 جم *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-toast-bran-500g-x2/s/N94L6U",
+      "filename": "ريتش-بيك-توست-بالردة-500-جم-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/3ab2385b-f4bc-4715-b680-a10428b10b41.jpg?size=520",
+      "bytes": 384178,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ريتش بيك توست عادى 500 جم *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-toast-500g-x2/s/MONVYN",
+      "filename": "ريتش-بيك-توست-عادى-500-جم-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/529b330b-2d72-4440-8719-ca34b475215c.jpg?size=520",
+      "bytes": 385490,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "دومتي توست عالي البروتين مع بذور الشيا 500 جم *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-high-protein-toast-with-chia-seeds-500g-x2/s/Y0TZUZ",
+      "filename": "دومتي-توست-عالي-البروتين-مع-بذور-الشيا-500-جم-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/eac91771-f578-4764-8d3b-ec540d6f216f.jpg?size=520",
+      "bytes": 311724,
+      "dimensions": [
+        445,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "دومتي توست الردة 500 جم *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-bran-toast-500g-x2/s/74QIN4",
+      "filename": "دومتي-توست-الردة-500-جم-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/5d9658b1-a800-45e4-a459-c6cde0e3e2c7.jpg?size=520",
+      "bytes": 318762,
+      "dimensions": [
+        260,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:55:43Z",
+  "captured": 18,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 19
+}

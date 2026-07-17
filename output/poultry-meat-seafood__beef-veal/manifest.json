@@ -1,0 +1,330 @@
+{
+  "category": "poultry-meat-seafood__beef-veal",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/poultry-meat-seafood/beef-veal",
+  "output_dir": "/home/z/my-project/output/poultry-meat-seafood__beef-veal",
+  "started_at": "2026-07-17T13:09:37Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/poultry-meat-seafood/beef-veal",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "وليمة لحم بقرى مفروم مجمد 0.500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-baladi-minced-beef-500g/s/917401",
+      "filename": "وليمة-لحم-بقرى-مفروم-مجمد-0-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224001710629.JPG?size=520",
+      "bytes": 680390,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "وليمة لحم بقرى مكعبات خضار  مجمد 0.400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-beef-cubes-400g/s/917396",
+      "filename": "وليمة-لحم-بقرى-مكعبات-خضار-مجمد-0-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68775206fc0ccd18c9cc517a.JPG?size=520",
+      "bytes": 546068,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "وليمة برجر بقرى مجمد 0.500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-beef-burger-500g/s/917399",
+      "filename": "وليمة-برجر-بقرى-مجمد-0-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/e5c51c0d-0b43-4287-bbd1-3bb21c8b54a1.png?size=520",
+      "bytes": 496554,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "وليمة إسكالوب لحم بقرى بلدى مجمد 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-beef-escalope-400g/s/919026",
+      "filename": "وليمة-اسكالوب-لحم-بقرى-بلدى-مجمد-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68775206fc0ccd18c9cc517d.JPG?size=520",
+      "bytes": 640572,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "وليمة لحم بقرى فوندو كباب حله مجمد  0.400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-baladi-beef-fundo-shish-kebab-400g/s/917398",
+      "filename": "وليمة-لحم-بقرى-فوندو-كباب-حله-مجمد-0-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68775206fc0ccd18c9cc517b.JPG?size=520",
+      "bytes": 526973,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Walima Beef Steak Frozen 0.400 Gram\tوليمة لحم بقرى استيك مجمد  0.400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-beef-steak-400g/s/917395",
+      "filename": "Walima-Beef-Steak-Frozen-0-400-Gram-وليمة-لحم-بقرى-استيك-مجمد-0-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68775206fc0ccd18c9cc5179.JPG?size=520",
+      "bytes": 634912,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "وليمة عرق فلتو صولو مجمد 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/walima-frozen-beef-tenderloin-400g/s/919027",
+      "filename": "وليمة-عرق-فلتو-صولو-مجمد-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68775206fc0ccd18c9cc5180.JPG?size=520",
+      "bytes": 502585,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "موموز داوود باشا بلدى مجمد  350 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-frozen-balady-meat-balls-350g/s/918086",
+      "filename": "موموز-داوود-باشا-بلدى-مجمد-350-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235002452.jpg?size=520",
+      "bytes": 380784,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "موموز كبدة شرائح بتلو 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-veal-liver-slices-450-gm/s/909792",
+      "filename": "موموز-كبدة-شرائح-بتلو-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010301016.JPG?size=520",
+      "bytes": 459982,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "موموز برجر بلدى مجمد 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-frozen-balady-burger-400g/s/918081",
+      "filename": "موموز-برجر-بلدى-مجمد-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235002407.jpg?size=520",
+      "bytes": 445363,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "موموز ستيك استربلوين بلدى مجمد 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-frozen-balady-striploin-450g/s/918083",
+      "filename": "موموز-ستيك-استربلوين-بلدى-مجمد-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235002421.jpg?size=520",
+      "bytes": 473828,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "موموز برجر  ( 4 قطعة * 100 جرام ) 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-burger-4x100g/s/909809",
+      "filename": "موموز-برجر-4-قطعة-100-جرام-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235000694.JPG?size=520",
+      "bytes": 464969,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "موموز كفتة شرقى للشوى 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-oriental-kofta-500g/s/909804",
+      "filename": "موموز-كفتة-شرقى-للشوى-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67928cff54e1800f082b5dea.jpg?size=520",
+      "bytes": 542903,
+      "dimensions": [
+        520,
+        448
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "موموز لحم مفروم بتلو 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-veal-mince-meat-450g/s/909795",
+      "filename": "موموز-لحم-مفروم-بتلو-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010301115.JPG?size=520",
+      "bytes": 510360,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "موموز مكعبات لحم بلدي مجمد450  جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moomoos-balady-frozen-meat-cubes-450g/s/918078",
+      "filename": "موموز-مكعبات-لحم-بلدي-مجمد450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64c7b342b860eb3a86cd64d9.jpg?size=520",
+      "bytes": 488424,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "موموز كفتة أرز 330 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-rice-kofta-330g/s/909807",
+      "filename": "موموز-كفتة-ارز-330-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235000649.JPG?size=520",
+      "bytes": 469663,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "موموز كفتة داوود باشا بتلو 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-veal-meat-balls-350g/s/909806",
+      "filename": "موموز-كفتة-داوود-باشا-بتلو-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010301139.JPG?size=520",
+      "bytes": 407541,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "موموز كفتة شرقى بلدى مجمد 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-frozen-balady-oriental-kofta-500g/s/918087",
+      "filename": "موموز-كفتة-شرقى-بلدى-مجمد-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235002469.jpg?size=520",
+      "bytes": 444003,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "موموز اسكالوب لحم بلدى مجمد 600 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-frozen-balady-meat-escalope-600g/s/918080",
+      "filename": "موموز-اسكالوب-لحم-بلدى-مجمد-600-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221235002391.jpg?size=520",
+      "bytes": 516056,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "موموز سجق بالخلطة المصرية 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mooomoos-veal-sausages-with-egyptian-spices-450g/s/909802",
+      "filename": "موموز-سجق-بالخلطة-المصرية-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010301108.JPG?size=520",
+      "bytes": 520408,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:13:42Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

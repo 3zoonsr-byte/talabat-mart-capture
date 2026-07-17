@@ -1,0 +1,120 @@
+{
+  "category": "cold-cuts-deli__pickles-olives",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cold-cuts-deli/pickles-olives",
+  "output_dir": "/home/z/my-project/output/cold-cuts-deli__pickles-olives",
+  "started_at": "2026-07-17T13:24:09Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cold-cuts-deli/pickles-olives",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "أوليفيتا زيتون أسود طبيعي سلطات ومكرونات 565 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olivetta-black-olives-for-salad-and-macaroni-565g/s/919185",
+      "filename": "اوليفيتا-زيتون-اسود-طبيعي-سلطات-ومكرونات-565-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64c26f63b860eb3a86cd496e.jpg?size=520",
+      "bytes": 446639,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "أوليفيتا زيتون أسود طبيعي سليم 580 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olivetta-whole-black-olives-580g/s/919187",
+      "filename": "اوليفيتا-زيتون-اسود-طبيعي-سليم-580-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64c63a84b860eb3a86cd58d7.jpg?size=520",
+      "bytes": 507144,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أوليفيتا زيتون أخضر محشي طماطم مجففة 260 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olivetta-green-olives-stuffed-with-sun-dried-tomato-260g/s/919188",
+      "filename": "اوليفيتا-زيتون-اخضر-محشي-طماطم-مجففة-260-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64c234242e24c1ecc44fc4fa.jpg?size=520",
+      "bytes": 479352,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أوليفيتا زيتون مذاق اوليفيتا 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olivetta-taste-olives-220g/s/919179",
+      "filename": "اوليفيتا-زيتون-مذاق-اوليفيتا-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64c8e753b2714f80917f6732.jpg?size=520",
+      "bytes": 491199,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "زيتون اسود طبيعي مفروم 225 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olivetta-natural-black-olives-minced-jar-225g/s/927181",
+      "filename": "زيتون-اسود-طبيعي-مفروم-225-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66df030165cc80bdcd85ef85.JPG?size=520",
+      "bytes": 537515,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:25:40Z",
+  "captured": 7,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 8
+}

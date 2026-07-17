@@ -1,0 +1,330 @@
+{
+  "category": "bakery__buns-rolls",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/bakery/buns-rolls",
+  "output_dir": "/home/z/my-project/output/bakery__buns-rolls",
+  "started_at": "2026-07-17T12:47:31Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/bakery/buns-rolls",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "دومتي خبز فينو ساده 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-plain-fino-bread-4-pieces/s/904535",
+      "filename": "دومتي-خبز-فينو-ساده-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b1cdca142e4a60101c7efc.JPG?size=520",
+      "bytes": 515531,
+      "dimensions": [
+        520,
+        518
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ريتش بيك بيتى بان 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-petit-pain-6-pcs/s/902324",
+      "filename": "ريتش-بيك-بيتى-بان-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65c101acf267d59eb0510ab2.JPG?size=520",
+      "bytes": 470220,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ريتش بيك خبز برجر جليزد 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-glazed-soft-bun-4-pieces/s/922685",
+      "filename": "ريتش-بيك-خبز-برجر-جليزد-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000432136.JPG?size=520",
+      "bytes": 216786,
+      "dimensions": [
+        292,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ريتش بيك خبز فينو بالردة بدون سكر، 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-fino-bread-whole-wheat-sugar-free-4-pieces/s/922312",
+      "filename": "ريتش-بيك-خبز-فينو-بالردة-بدون-سكر،-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000432235.JPG?size=520",
+      "bytes": 387598,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ريتش بيك خبز فينو 4قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-fino-bread-4-pieces/s/913421",
+      "filename": "ريتش-بيك-خبز-فينو-4قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000432228.JPG?size=520",
+      "bytes": 247449,
+      "dimensions": [
+        520,
+        351
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ريتش بيك خبز فينو بالسمسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-fino-wsesame/s/913420",
+      "filename": "ريتش-بيك-خبز-فينو-بالسمسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000432211.JPG?size=520",
+      "bytes": 436754,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "خبز برجر دومتي بالسمسم، 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-burger-bun-with-sesame-4-pieces/s/931310",
+      "filename": "خبز-برجر-دومتي-بالسمسم،-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681b9ef1b4f2d4f7a719635f.png?size=520",
+      "bytes": 702087,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مولتو ميني كرواسون بحشوة الشوكولاتة، 50 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-mini-croissants-with-chocolate-50g/s/903116",
+      "filename": "مولتو-ميني-كرواسون-بحشوة-الشوكولاتة،-50-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a543b9a051309341ebdef7.JPG?size=520",
+      "bytes": 527507,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "تسيباس باتى بان سمسم 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-sesame-petit-pain-5-pieces/s/928763",
+      "filename": "تسيباس-باتى-بان-سمسم-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676412724f0f3a753a43d5db.JPG?size=520",
+      "bytes": 620146,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "دومتي خبز فينو بالرده 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-brown-fino-bread-4-pieces/s/904537",
+      "filename": "دومتي-خبز-فينو-بالرده-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0ac3efaf93ffeb6a14c7b4.png?size=520",
+      "bytes": 530512,
+      "dimensions": [
+        520,
+        517
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دومتي خبز فينو بالزعتر، 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-fino-bread-with-thyme-4-pieces/s/929211",
+      "filename": "دومتي-خبز-فينو-بالزعتر،-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6790bb08f49a077178a14b38.JPG?size=520",
+      "bytes": 492932,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "مولتو ميني ماجنوم كرواسون بالشوكولاتة والبندق، 84 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-mini-magnum-chocolate-hazelnut-croissant-84g/s/907169",
+      "filename": "مولتو-ميني-ماجنوم-كرواسون-بالشوكولاتة-والبندق،-84-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68dbc7fe7d3cd29dd1829b74.jpg?size=520",
+      "bytes": 414905,
+      "dimensions": [
+        439,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "تسيباس بيتي بان شوفان 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-brown-petit-pain-oats-5-pieces/s/932694",
+      "filename": "تسيباس-بيتي-بان-شوفان-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/686e57b5982456b4bc921c15.JPG?size=520",
+      "bytes": 655824,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "مولتو ماجنوم كرواسون تشيز كيك الفراولة، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-magnum-strawberry-cream-croissant-1-piece/s/907170",
+      "filename": "مولتو-ماجنوم-كرواسون-تشيز-كيك-الفراولة،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e5ff8f8fd5beef0b1397c.png?size=520",
+      "bytes": 342740,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "مولتو كيك بالشوكولاتة والكريمة، 40 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-cake-with-chocolate-cream-40g/s/903122",
+      "filename": "مولتو-كيك-بالشوكولاتة-والكريمة،-40-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3d262912893aa4732c6d21.jpg?size=520",
+      "bytes": 533724,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "تسيباس عيش كوارتر سمسم 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-sesame-quarter-bread-5-pieces/s/918839",
+      "filename": "تسيباس-عيش-كوارتر-سمسم-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242358.jpg?size=520",
+      "bytes": 397468,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "مولتو ماجنم ميكس شوكولاته و كريمة 85 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-magnum-mix-chocolate-cream-croissant-85g/s/915661",
+      "filename": "مولتو-ماجنم-ميكس-شوكولاته-و-كريمة-85-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e6095f8fd5beef0b13be9.png?size=520",
+      "bytes": 361455,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "مولتو ميني ماجنم فراولة  84جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-mini-magnum-strawberry-cheesecake-84g/s/911054",
+      "filename": "مولتو-ميني-ماجنم-فراولة-84جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68dbc8017d3cd29dd1829b7c.jpg?size=520",
+      "bytes": 423476,
+      "dimensions": [
+        439,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "تسيباس بريتزل 260جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-pretzels-260g/s/922371",
+      "filename": "تسيباس-بريتزل-260جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a256258baad1477a3465a3c.JPG?size=520",
+      "bytes": 449059,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "مولتو ميني ماجنم ميكس فراولة و كريمة 84جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-mini-magnum-mix-croissant-filled-with-strawberry-cheesecake-flavoured-jam-cream-84g/s/915665",
+      "filename": "مولتو-ميني-ماجنم-ميكس-فراولة-و-كريمة-84جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68dbc7f67d3cd29dd18298d1.jpg?size=520",
+      "bytes": 522702,
+      "dimensions": [
+        439,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:51:52Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

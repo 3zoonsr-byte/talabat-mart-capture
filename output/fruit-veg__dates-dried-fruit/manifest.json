@@ -1,0 +1,330 @@
+{
+  "category": "fruit-veg__dates-dried-fruit",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/fruit-veg/dates-dried-fruit",
+  "output_dir": "/home/z/my-project/output/fruit-veg__dates-dried-fruit",
+  "started_at": "2026-07-17T12:34:38Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/fruit-veg/dates-dried-fruit",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5279,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "أبو عوف قمر الدين، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-kamar-al-din-400g/s/906192",
+      "filename": "ابو-عوف-قمر-الدين،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001694267.jpg?size=520",
+      "bytes": 687288,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "أبو عوف تمر صحارى شوكولاتة داكنة مع اللوز 300 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-dark-sahra-chocolate-dates-with-almond-300g/s/930660",
+      "filename": "ابو-عوف-تمر-صحارى-شوكولاتة-داكنة-مع-اللوز-300-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423ac95.png?size=520",
+      "bytes": 554350,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ابو عوف بلح صحارى بالشكولاته باللوز 5 قطع 65 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-sahara-delights-chocolate-dates-with-almonds-5-pieces-65g/s/932658",
+      "filename": "ابو-عوف-بلح-صحارى-بالشكولاته-باللوز-5-قطع-65-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6863e7d589e2485be1fa0e17.JPG?size=520",
+      "bytes": 526827,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ابو عوف تمر مجدول مغطى بالشيكولاته الغامقة واللوز- 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-dark-chocolate-medjool-dates-stuffed-with-almonds-230g/s/937694",
+      "filename": "ابو-عوف-تمر-مجدول-مغطى-بالشيكولاته-الغامقة-واللوز-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abf4.png?size=520",
+      "bytes": 509107,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ابو عوف تمر مجدول مغطى بالشيكولاته الغامقة- 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-dark-chocolate-medjool-dates-230g/s/937693",
+      "filename": "ابو-عوف-تمر-مجدول-مغطى-بالشيكولاته-الغامقة-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abf3.png?size=520",
+      "bytes": 507984,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "تمر مجدول غزال من مزرعة لينه، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/linah-farm-medjool-dates-gazelle-500g/s/909711",
+      "filename": "تمر-مجدول-غزال-من-مزرعة-لينه،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008826736.JPG?size=520",
+      "bytes": 302191,
+      "dimensions": [
+        519,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "لينة فارم تمر مجدول جولدن كراون 1 كيلو",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/linah-farm-golden-crown-medjool-dates-1kg/s/917105",
+      "filename": "لينة-فارم-تمر-مجدول-جولدن-كراون-1-كيلو.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Gourmet/6224008826552.jpg?size=520",
+      "bytes": 554453,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "بنو مجدول 3 تمرات 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-grab-n-go-medjool-dates-50g/s/936256",
+      "filename": "بنو-مجدول-3-تمرات-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932dea03cd3f8571c3ca46e.png?size=520",
+      "bytes": 374868,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "تمر مجدول غزال من مزرعة لينه، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/linah-farm-medjool-dates-gazelle-1kg/s/909710",
+      "filename": "تمر-مجدول-غزال-من-مزرعة-لينه،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008826095.JPG?size=520",
+      "bytes": 411078,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "لينة فارم تمر مجدول اكسترا جوسى 800جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/linah-farm-extra-juicy-medjool-dates-800g/s/909708",
+      "filename": "لينة-فارم-تمر-مجدول-اكسترا-جوسى-800جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69df7a6c2c6390d4217a85d7.png?size=520",
+      "bytes": 612268,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "لينة فارم تمر مجدول ميني 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/linah-farm-premium-medjool-dates-1kg/s/917103",
+      "filename": "لينة-فارم-تمر-مجدول-ميني-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687ba83263f3b2a164cba140.jpg?size=520",
+      "bytes": 426343,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بنو تمر سعودي سكري مفتل 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-saudi-sukkari-mefatel-dates-400g/s/936260",
+      "filename": "بنو-تمر-سعودي-سكري-مفتل-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f22.png?size=520",
+      "bytes": 252394,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "بنو تمر صقعي 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-sagai-dates-400g/s/936262",
+      "filename": "بنو-تمر-صقعي-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f28.png?size=520",
+      "bytes": 286239,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بنو تمر مجدول ميني 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-mini-medjool-dates-500g/s/936255",
+      "filename": "بنو-تمر-مجدول-ميني-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f20.png?size=520",
+      "bytes": 423211,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "بنو جولدن كراون 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-golden-crown-medjool-dates-1kg/s/937725",
+      "filename": "بنو-جولدن-كراون-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a6825aee3a768b54549666.JPG?size=520",
+      "bytes": 332831,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "بنو تمر مجدول بزبدة الكاجو 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-bites-medjool-dates-filled-cashew-butter-5-pieces/s/936265",
+      "filename": "بنو-تمر-مجدول-بزبدة-الكاجو-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f29.png?size=520",
+      "bytes": 470787,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "بنو تمر مجدول بالطحينة 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-bites-medjool-dates-filled-tahini-5-pieces/s/936263",
+      "filename": "بنو-تمر-مجدول-بالطحينة-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f2a.png?size=520",
+      "bytes": 419658,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بنو تمر مجدول جوسي 400  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-super-juicy-medjool-dates-400g/s/936259",
+      "filename": "بنو-تمر-مجدول-جوسي-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f23.png?size=520",
+      "bytes": 382977,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "بنو تمر مجدول بزبدة الفول السوداني  5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-bites-medjool-dates-filled-peanut-butter-5-pieces/s/936264",
+      "filename": "بنو-تمر-مجدول-بزبدة-الفول-السوداني-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f27.png?size=520",
+      "bytes": 467129,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "بنو تمر عجوة المدينة 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bennu-agwa-al-madinah-dates-400g/s/936261",
+      "filename": "بنو-تمر-عجوة-المدينة-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6932d9de7e68148230989f2b.png?size=520",
+      "bytes": 283080,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:38:49Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

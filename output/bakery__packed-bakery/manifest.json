@@ -1,0 +1,330 @@
+{
+  "category": "bakery__packed-bakery",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/bakery/packed-bakery",
+  "output_dir": "/home/z/my-project/output/bakery__packed-bakery",
+  "started_at": "2026-07-17T13:00:00Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/bakery/packed-bakery",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "مولتو حجم أكبر XXL كرواسون محشو بالشوكولاتة والبندق، 60 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-bigger-size-xxl-chocolate-hazelnut-filled-croissant-60g/s/927150",
+      "filename": "مولتو-حجم-اكبر-XXL-كرواسون-محشو-بالشوكولاتة-والبندق،-60-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e6010f8fd5beef0b139a4.png?size=520",
+      "bytes": 415024,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مولتو ماجنوم كرواسون بالشوكولاتة والبندق، 80 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-magnum-chocolate-hazelnut-croissant-80g/s/903119",
+      "filename": "مولتو-ماجنوم-كرواسون-بالشوكولاتة-والبندق،-80-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e5ff7f8fd5beef0b1397a.png?size=520",
+      "bytes": 335380,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مولتو جولد كرواسون بالزبدة سادة مغطى بالسمسم وحبة البركة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-gold-butter-croissant-with-seeds-73g/s/938623",
+      "filename": "مولتو-جولد-كرواسون-بالزبدة-سادة-مغطى-بالسمسم-وحبة-البركة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f99b8f7f19867d8c354345.JPG?size=520",
+      "bytes": 564763,
+      "dimensions": [
+        283,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مولتو جولد كرواسون بالزبدة سادة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molto-gold-butter-croissant-71g/s/938622",
+      "filename": "مولتو-جولد-كرواسون-بالزبدة-سادة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f99b8f7f19867d8c354344.JPG?size=520",
+      "bytes": 528855,
+      "dimensions": [
+        283,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "دومتي كرواسون جبنة بيضاء بطعم الهالبينو الحار",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-croissant-white-cheese-with-spicy-jalapeno-flavor/s/921903",
+      "filename": "دومتي-كرواسون-جبنة-بيضاء-بطعم-الهالبينو-الحار.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbf65e0c1a06eedb6672.JPG?size=520",
+      "bytes": 467733,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دومتي سندوتش جبنه كريمه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-creamy-cheese-sandwich/s/907158",
+      "filename": "دومتي-سندوتش-جبنه-كريمه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe55e0c1a06eedb662d.JPG?size=520",
+      "bytes": 524405,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "دومتي كرواسون جبنة اسطنبولى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-croissant-with-istanbouly-cheese/s/921902",
+      "filename": "دومتي-كرواسون-جبنة-اسطنبولى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbf55e0c1a06eedb6670.JPG?size=520",
+      "bytes": 462141,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "دومتي كرواسون جبنه فيتا بطعم البسطرمة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-croissant-feta-cheese-with-pastrami-flavor/s/921905",
+      "filename": "دومتي-كرواسون-جبنه-فيتا-بطعم-البسطرمة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fc065e0c1a06eedb6688.JPG?size=520",
+      "bytes": 475498,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "دومتي سندوتش جبنه كريمه رومى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-creamy-roumy-cheese-sandwich/s/907159",
+      "filename": "دومتي-سندوتش-جبنه-كريمه-رومى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe65e0c1a06eedb662f.JPG?size=520",
+      "bytes": 525940,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ريتش بيك باوند كيك بالحليب",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-milk-pound-cake-1-piece/s/936708",
+      "filename": "ريتش-بيك-باوند-كيك-بالحليب.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695fa9ee6df73f2937117310.JPG?size=520",
+      "bytes": 336335,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دومتي كرواسون جبنه فيتا بطعم الفلامنك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-croissant-feta-cheese-with-edam-flavor/s/921904",
+      "filename": "دومتي-كرواسون-جبنه-فيتا-بطعم-الفلامنك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fc055e0c1a06eedb6686.JPG?size=520",
+      "bytes": 460229,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "دومتي سندوتش جبنه بيضاء زيتون",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-white-cheese-olives-sandwich/s/904543",
+      "filename": "دومتي-سندوتش-جبنه-بيضاء-زيتون.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe45e0c1a06eedb662b.JPG?size=520",
+      "bytes": 520702,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "دومتي سندوتش جبنه بيضاء اسطنبولى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-istanboly-cheese-sandwich/s/904542",
+      "filename": "دومتي-سندوتش-جبنه-بيضاء-اسطنبولى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe35e0c1a06eedb6629.JPG?size=520",
+      "bytes": 542275,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "دومتي سندوتش جبنه فيتا بيضاء",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-feta-plus-white-cheese-sandwich/s/904541",
+      "filename": "دومتي-سندوتش-جبنه-فيتا-بيضاء.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe25e0c1a06eedb65fb.JPG?size=520",
+      "bytes": 502140,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "دومتي ساندوتش بالهالبينو الحار",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-spicy-jalapeno-sandwich/s/910766",
+      "filename": "دومتي-ساندوتش-بالهالبينو-الحار.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe95e0c1a06eedb6635.JPG?size=520",
+      "bytes": 538979,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "دومتي سندوتش شكولاته",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-chocolate-sandwich/s/907160",
+      "filename": "دومتي-سندوتش-شكولاته.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbe75e0c1a06eedb6631.JPG?size=520",
+      "bytes": 518097,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "دومتي جامبو سندوتش جبنه كريمي لايت",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-light-creamy-cheese-jumbo-sandwich/s/904550",
+      "filename": "دومتي-جامبو-سندوتش-جبنه-كريمي-لايت.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000757932.JPG?size=520",
+      "bytes": 410637,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "دومتي كرواسون كريمة مانجو 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-croissant-filled-with-creamy-mango-1-piece/s/925277",
+      "filename": "دومتي-كرواسون-كريمة-مانجو-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d7fdea35cf7227ccd6dd04.png?size=520",
+      "bytes": 442654,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دومتي كرواسون دبل هالبينو وشكولاته",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/domty-jalapeno-chocolate-double-croissant/s/926822",
+      "filename": "دومتي-كرواسون-دبل-هالبينو-وشكولاته.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6809fbf95e0c1a06eedb6676.JPG?size=520",
+      "bytes": 549332,
+      "dimensions": [
+        488,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "راز مينى كب كيك ذهبي  10 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/razz-mini-cupcakes-10-pcs/s/913416",
+      "filename": "راز-مينى-كب-كيك-ذهبي-10-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223003193225.JPG?size=520",
+      "bytes": 368678,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:04:11Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

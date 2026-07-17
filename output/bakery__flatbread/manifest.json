@@ -1,0 +1,330 @@
+{
+  "category": "bakery__flatbread",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/bakery/flatbread",
+  "output_dir": "/home/z/my-project/output/bakery__flatbread",
+  "started_at": "2026-07-17T12:43:11Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/bakery/flatbread",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "خبز لبنانى صغير 20سم ريتش بيك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-lebanese-bread-20cm/s/902331",
+      "filename": "خبز-لبنانى-صغير-20سم-ريتش-بيك.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000434109.jpg?size=520",
+      "bytes": 584450,
+      "dimensions": [
+        420,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "خبز لبنانى كبير ريتش بيك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-lebanese-bread-30cm/s/902332",
+      "filename": "خبز-لبنانى-كبير-ريتش-بيك.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000434116.JPG?size=520",
+      "bytes": 514580,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ريتش بيك خبز القمح الكامل بدون سكر 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-whole-wheat-bread-without-sugar-5-pieces/s/919081",
+      "filename": "ريتش-بيك-خبز-القمح-الكامل-بدون-سكر-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000434031.jpg?size=520",
+      "bytes": 520069,
+      "dimensions": [
+        516,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ريتش بيك خبز بالحبة الكاملة 20 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-whole-wheat-bread-20cm/s/902330",
+      "filename": "ريتش-بيك-خبز-بالحبة-الكاملة-20-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000434505.JPG?size=520",
+      "bytes": 493385,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ريتش بيك خبز تورتيلا دقيق القمح 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-wheat-flour-tortilla-bread-5-pieces/s/926628",
+      "filename": "ريتش-بيك-خبز-تورتيلا-دقيق-القمح-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66fe3c44d0dc799b3afa0b11.jpg?size=520",
+      "bytes": 802550,
+      "dimensions": [
+        520,
+        485
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "خبز تسيباس البلدي، 16 سم، 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tseppas-balady-bread-16cm-5-pieces/s/919233",
+      "filename": "خبز-تسيباس-البلدي،-16-سم،-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224002242532.jpg?size=520",
+      "bytes": 293321,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ريتش بيك خبز بلدي 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-balady-bread-4-pieces/s/923570",
+      "filename": "ريتش-بيك-خبز-بلدي-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_622300043404.JPG?size=520",
+      "bytes": 542289,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ريتش بايك خبز التورتيلا بالردة، 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-bran-tortilla-bread-5-pieces/s/928436",
+      "filename": "ريتش-بايك-خبز-التورتيلا-بالردة،-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676bae1ac51adb028c79bf74.JPG?size=520",
+      "bytes": 778461,
+      "dimensions": [
+        520,
+        485
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ريتش بيك خبز القمح الكامل والشوفان 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-whole-wheat-oats-bread-5-pieces/s/919082",
+      "filename": "ريتش-بيك-خبز-القمح-الكامل-والشوفان-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000433102.jpg?size=520",
+      "bytes": 501963,
+      "dimensions": [
+        512,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ريف دايت خبز عالي البروتين، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-high-protein-bread-250g/s/919898",
+      "filename": "ريف-دايت-خبز-عالي-البروتين،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c71287fea6b97c93804.jpg?size=520",
+      "bytes": 1118300,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ريتش بيك خبز بلدى بالرده وبالساوردو 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-bake-balady-bready-bran-sourdough-4-pieces/s/939346",
+      "filename": "ريتش-بيك-خبز-بلدى-بالرده-وبالساوردو-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a9fd724ba27e6b86ef2c5.JPG?size=520",
+      "bytes": 630022,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ريف دايت خبز النخالة بلس، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-bran-plus-bread-250g/s/919896",
+      "filename": "ريف-دايت-خبز-النخالة-بلس،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c71287fea6b97c93802.jpg?size=520",
+      "bytes": 1068879,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "بريد واي خبز تورتيلا ساده 240 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/breadway-plain-tortilla-240g/s/907868",
+      "filename": "بريد-واي-خبز-تورتيلا-ساده-240-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687147d68b6ae261425f2df1.jpg?size=520",
+      "bytes": 606069,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بريد واى خبز تورتيلا نخالة القمح كبير450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/breadway-large-wheat-bran-tortilla-bread-450g/s/918459",
+      "filename": "بريد-واى-خبز-تورتيلا-نخالة-القمح-كبير450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007290913.jpg?size=520",
+      "bytes": 430919,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ريف دايت خبز عالي الألياف، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-high-fiber-bread-250g/s/919897",
+      "filename": "ريف-دايت-خبز-عالي-الالياف،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c6f287fea6b97c937fe.jpg?size=520",
+      "bytes": 1073622,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ريف دايت خبز الشعير، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-barley-bread-250g/s/919895",
+      "filename": "ريف-دايت-خبز-الشعير،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c6c287fea6b97c937ca.jpg?size=520",
+      "bytes": 1095215,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ريف دايت خبز بذور الكتان، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-flax-seeds-bread-250g/s/919894",
+      "filename": "ريف-دايت-خبز-بذور-الكتان،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c6e287fea6b97c937fa.jpg?size=520",
+      "bytes": 1111345,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "كاتشينو خبز بلدي، 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-balady-bread-5-pcs/s/923991",
+      "filename": "كاتشينو-خبز-بلدي،-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f655bcfaea645cb620b235.JPG?size=520",
+      "bytes": 324274,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ريف دايت خبز بذور الشيا، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-chia-seeds-bread-250g/s/919893",
+      "filename": "ريف-دايت-خبز-بذور-الشيا،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c6e287fea6b97c937fc.jpg?size=520",
+      "bytes": 1032431,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ريف دايت خبز الشوفان، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reef-diet-oats-bread-250g/s/919892",
+      "filename": "ريف-دايت-خبز-الشوفان،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9c70287fea6b97c93800.jpg?size=520",
+      "bytes": 1031036,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:47:29Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

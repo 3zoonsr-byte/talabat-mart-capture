@@ -1,0 +1,330 @@
+{
+  "category": "cold-cuts-deli__cheese-labneh",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cold-cuts-deli/cheese-labneh",
+  "output_dir": "/home/z/my-project/output/cold-cuts-deli__cheese-labneh",
+  "started_at": "2026-07-17T13:20:31Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cold-cuts-deli/cheese-labneh",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "الأصدقاء جبنة شيدر أبيض طبيعي مستوردة، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-imported-white-cheddar-cheese-250g/s/923779",
+      "filename": "الاصدقاء-جبنة-شيدر-ابيض-طبيعي-مستوردة،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50303.JPG?size=520",
+      "bytes": 459188,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "الأصدقاء جبنة رومي وسط، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-mild-roumi-cheese-250g/s/923776",
+      "filename": "الاصدقاء-جبنة-رومي-وسط،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50301.JPG?size=520",
+      "bytes": 465259,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "الأصدقاء جبنة رومي قديم، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-old-roumi-cheese-250g/s/923777",
+      "filename": "الاصدقاء-جبنة-رومي-قديم،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50305.JPG?size=520",
+      "bytes": 482157,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "الأصدقاء جبنة قليلة الملح، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-low-salt-cheese-250g/s/923785",
+      "filename": "الاصدقاء-جبنة-قليلة-الملح،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d5030b.JPG?size=520",
+      "bytes": 389435,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "الأصدقاء جبنة فيتا، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-feta-cheese-250g/s/923787",
+      "filename": "الاصدقاء-جبنة-فيتا،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d5030d.JPG?size=520",
+      "bytes": 385042,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "الاصدقاء سلطه جبنه قريش مع اعشاب 250جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-cottage-cheese-with-herbs-250g/s/929234",
+      "filename": "الاصدقاء-سلطه-جبنه-قريش-مع-اعشاب-250جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50312.JPG?size=520",
+      "bytes": 301498,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الاصدقاء قريش زعتر 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-cottage-cheese-with-thyme-250g/s/933634",
+      "filename": "الاصدقاء-قريش-زعتر-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5ceb0d808907d2d50315.JPG?size=520",
+      "bytes": 385683,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "افانتي شيدر احمرشرائح - 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/avanti-premium-slices-red-cheddar-cheese-150g/s/903332",
+      "filename": "افانتي-شيدر-احمرشرائح-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a27e9b28a931ab0a4a3268d.png?size=520",
+      "bytes": 287946,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "الأصدقاء جبنة اسطنبولي، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-istanbuly-cheese-250g/s/923786",
+      "filename": "الاصدقاء-جبنة-اسطنبولي،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50307.JPG?size=520",
+      "bytes": 378214,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "الأصدقاء جبنة حمراء، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-red-cheese-250g/s/923780",
+      "filename": "الاصدقاء-جبنة-حمراء،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50304.JPG?size=520",
+      "bytes": 437565,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "الأصدقاء لبنة، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-labneh-200g/s/923788",
+      "filename": "الاصدقاء-لبنة،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50311.JPG?size=520",
+      "bytes": 229339,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "الأصدقاء جبنة بيضاء ناشفة خزين، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-old-baramily-cheese-500-gm/s/923781",
+      "filename": "الاصدقاء-جبنة-بيضاء-ناشفة-خزين،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50308.JPG?size=520",
+      "bytes": 414905,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "الأصدقاء جبنة بيضاء ناشفة براميلي، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-baramily-plain-cheese-500g/s/923784",
+      "filename": "الاصدقاء-جبنة-بيضاء-ناشفة-براميلي،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cea0d808907d2d50309.JPG?size=520",
+      "bytes": 389646,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "الأصدقاء جبنة ريكفورد قابلة للدهن، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-roquefort-spread-cheese-200g/s/923791",
+      "filename": "الاصدقاء-جبنة-ريكفورد-قابلة-للدهن،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cf40d808907d2d507a1.JPG?size=520",
+      "bytes": 246979,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "الأصدقاء جبنة مدخنة قابلة للدهن، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-smoked-spread-cheese-200g/s/923794",
+      "filename": "الاصدقاء-جبنة-مدخنة-قابلة-للدهن،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cf50d808907d2d507a7.JPG?size=520",
+      "bytes": 240012,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "الأصدقاء جبنة قابلة للدهن بالسطرمة، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-spread-cheese-pastrami-200g/s/923790",
+      "filename": "الاصدقاء-جبنة-قابلة-للدهن-بالسطرمة،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cf30d808907d2d5079f.JPG?size=520",
+      "bytes": 246726,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "الأصدقاء جبنة قابلة للدهن، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-spread-cheese-200g/s/923789",
+      "filename": "الاصدقاء-جبنة-قابلة-للدهن،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cf30d808907d2d5079d.JPG?size=520",
+      "bytes": 254117,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "الأصدقاء جبنة بالزيتون قابلة للدهن، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-olive-spread-cheese-200g/s/923793",
+      "filename": "الاصدقاء-جبنة-بالزيتون-قابلة-للدهن،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff5cf50d808907d2d507a5.JPG?size=520",
+      "bytes": 268954,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "أفانتي شيدر شرائح طبيعي 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/avanti-cheese-slices-150-gm/s/903333",
+      "filename": "افانتي-شيدر-شرائح-طبيعي-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a27e9b28a931ab0a4a3268e.png?size=520",
+      "bytes": 317173,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "أفانتي شيدر شرائح رومي 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/avanti-roomy-cheddar-slices-150-gm/s/903331",
+      "filename": "افانتي-شيدر-شرائح-رومي-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a27e9b28a931ab0a4a32687.png?size=520",
+      "bytes": 305341,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:24:08Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
