@@ -1,0 +1,330 @@
+{
+  "category": "frozen-food__seafood",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/frozen-food/seafood",
+  "output_dir": "/home/z/my-project/output/frozen-food__seafood",
+  "started_at": "2026-07-17T14:25:55Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/frozen-food/seafood",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "المصرية للمأكولات البحرية مشكل 1 كيلو",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-sea-food-mix-1kg/s/909022",
+      "filename": "المصرية-للماكولات-البحرية-مشكل-1-كيلو.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008296652.JPG?size=520",
+      "bytes": 450606,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "المصرية رنجة سوبر 300جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-herring-super-vacuum-300-gm/s/909029",
+      "filename": "المصرية-رنجة-سوبر-300جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687144fe8b6ae261425eced0.jpg?size=520",
+      "bytes": 274064,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "المصريه فيليه سردين بالزيت 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-sardine-fillet-in-oil-200-gm/s/910509",
+      "filename": "المصريه-فيليه-سردين-بالزيت-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b35bde7ffc0df58e4faab0.JPG?size=520",
+      "bytes": 385856,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "المصريه فيليه رنجه مدخنه بالزيت 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-smoked-fillet-herring-in-oil-200-gm/s/910507",
+      "filename": "المصريه-فيليه-رنجه-مدخنه-بالزيت-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b35d5d9dc416a8cf2f363c.JPG?size=520",
+      "bytes": 399058,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "المصرية للمأكولات البحرية مكس 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-sea-food-mix-400g/s/909024",
+      "filename": "المصرية-للماكولات-البحرية-مكس-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008296980.JPG?size=520",
+      "bytes": 447354,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "المصريه سردين مملح 250جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-salted-sardine-250-gm/s/911209",
+      "filename": "المصريه-سردين-مملح-250جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/dbb17ca2-48f4-4342-89f9-8a36deeaae67.png?size=520",
+      "bytes": 438227,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "المصريه شرائح فيليه بالبقسماط 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-breaded-fillet-300-gm/s/910505",
+      "filename": "المصريه-شرائح-فيليه-بالبقسماط-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008296942.JPG?size=520",
+      "bytes": 497381,
+      "dimensions": [
+        520,
+        406
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "المصريه فسيخ بالزيت 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-fesikh-in-oil-200-gm/s/910508",
+      "filename": "المصريه-فسيخ-بالزيت-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b35cc57ffc0df58e4faab1.JPG?size=520",
+      "bytes": 411190,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "المصرية رنجة سوبر 300جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-cleaned-fesikh-300-gm/s/911208",
+      "filename": "المصرية-رنجة-سوبر-300جرام-11.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687144fe8b6ae261425eced0.jpg",
+      "bytes": 49907,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "المصرية باسا فيليه ابيض 1 كيلو",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-basa-white-fillet-1-kg/s/909018",
+      "filename": "المصرية-باسا-فيليه-ابيض-1-كيلو.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64ecab8c8d63f86d7f14e17d.jpg?size=520",
+      "bytes": 557782,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "هرمز جمبري لحم إماراتي  80 / 120 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hormuz-peeled-emarati-shrimp-80120-400g/s/922387",
+      "filename": "هرمز-جمبري-لحم-اماراتي-80-120-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6225000462861.jpg?size=520",
+      "bytes": 580164,
+      "dimensions": [
+        459,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "هرمز جمبري لحم إماراتي  60 / 80 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hormuz-peeled-emarati-shrimp-6080-400g/s/922386",
+      "filename": "هرمز-جمبري-لحم-اماراتي-60-80-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688384af8b4d17c9361b6d09.jpg?size=520",
+      "bytes": 544189,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "المصريه جمبرى صغير 800 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-small-shrimps-800-gm/s/912944",
+      "filename": "المصريه-جمبرى-صغير-800-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008296188.JPG?size=520",
+      "bytes": 494675,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "هرمز جمبري لحم إماراتي  20 / 30 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hormuz-peeled-emarati-shrimp-2030-400g/s/922384",
+      "filename": "هرمز-جمبري-لحم-اماراتي-20-30-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6225000462830.JPG?size=520",
+      "bytes": 578907,
+      "dimensions": [
+        459,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "هرمز جمبري لحم إماراتي 10 / 20 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hormuz-peeled-emarati-shrimp-10-20-900g/s/922434",
+      "filename": "هرمز-جمبري-لحم-اماراتي-10-20-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65801a13d140840d23494d9d.JPG?size=520",
+      "bytes": 538201,
+      "dimensions": [
+        365,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "هرمز كاليمـــــاري قمع 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hormuz-calamari-funnel-1kg/s/922389",
+      "filename": "هرمز-كاليماري-قمع-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010709027.JPG?size=520",
+      "bytes": 294435,
+      "dimensions": [
+        365,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "هرمز جمبري لحم بالذيل 21 / 25 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hormuz-peeled-emarati-shrimp-with-tail-2125-900g/s/922438",
+      "filename": "هرمز-جمبري-لحم-بالذيل-21-25-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6225000462885.JPG?size=520",
+      "bytes": 719455,
+      "dimensions": [
+        459,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "لامير سلمون مدخن شرائح 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/la-mer-hickory-oak-smoked-salmon-slices-100g/s/930386",
+      "filename": "لامير-سلمون-مدخن-شرائح-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67dbcbff44db5bbfbc9c3d69.png?size=520",
+      "bytes": 764792,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "المصرية سلمون مدخن 100 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masrya-smoked-salmon-100-gm/s/909016",
+      "filename": "المصرية-سلمون-مدخن-100-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b335bd63b8e26a01eb2f8d.JPG?size=520",
+      "bytes": 384341,
+      "dimensions": [
+        520,
+        510
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "المصرية رنجة فيليه مدخنة، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-masreya-smoked-herring-fillet-200g/s/909030",
+      "filename": "المصرية-رنجة-فيليه-مدخنة،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b35cf26a7e507bf4953a1a.jpg?size=520",
+      "bytes": 376888,
+      "dimensions": [
+        520,
+        510
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:29:38Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
