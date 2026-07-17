@@ -1,0 +1,330 @@
+{
+  "category": "condiments__sauces",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/condiments/sauces",
+  "output_dir": "/home/z/my-project/output/condiments__sauces",
+  "started_at": "2026-07-17T17:30:22Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/condiments/sauces",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "صلصة وتغميسة سيزر الكريمية من أميريكان جاردن، 267 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/american-garden-creamy-caesar-dressing-dip-267ml/s/934990",
+      "filename": "صلصة-وتغميسة-سيزر-الكريمية-من-اميريكان-جاردن،-267-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bd8bd88edd0bf4551e8233.jpg?size=520",
+      "bytes": 400081,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مايونيز أميريكان جاردن الأصيل بالفلفل الحار، خالٍ من الغلوتين والألبان، 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/american-garden-real-chilli-mayonnaise-squeeze-bottle-400ml/s/908006",
+      "filename": "مايونيز-اميريكان-جاردن-الاصيل-بالفلفل-الحار،-خال-من-الغلوتين-والالبان،-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bd8c018edd0bf4551e82ef.jpg?size=520",
+      "bytes": 405398,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "هاينز مايونيز 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-mayonnaise-125g/s/926875",
+      "filename": "هاينز-مايونيز-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66de9fa61eebcb604e685494.jpg?size=520",
+      "bytes": 390583,
+      "dimensions": [
+        381,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "هاينز صوص حار 165 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-premium-hot-sauce-165g/s/907493",
+      "filename": "هاينز-صوص-حار-165-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66336c49383c7bbda81a13de.JPG?size=520",
+      "bytes": 330236,
+      "dimensions": [
+        381,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "هاينز مايونز 310 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-mayonnaise-310-gm/s/902220",
+      "filename": "هاينز-مايونز-310-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221033177314.JPG?size=520",
+      "bytes": 542648,
+      "dimensions": [
+        444,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "هاينز صلصة الخردل الصفراء، 245 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-yellow-mustard-sauce-squeeze-bottle-245g/s/902214",
+      "filename": "هاينز-صلصة-الخردل-الصفراء،-245-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66336c25383c7bbda81a13dd.JPG?size=520",
+      "bytes": 228584,
+      "dimensions": [
+        384,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "هاينز كاتشب دوي باك سكويزي 285 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-ketchup-squeezy-duepack-285g/s/903915",
+      "filename": "هاينز-كاتشب-دوي-باك-سكويزي-285-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66336c69528260bbbd4b639c.JPG?size=520",
+      "bytes": 633645,
+      "dimensions": [
+        365,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "هاينز كاتشب حار 285 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-hot-ketchup-285g/s/907490",
+      "filename": "هاينز-كاتشب-حار-285-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66336ce4528260bbbd4b63c8.JPG?size=520",
+      "bytes": 667599,
+      "dimensions": [
+        365,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "البوادي طحينه 240 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-tahina-240-gm/s/902203",
+      "filename": "البوادي-طحينه-240-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e3f81bf7d12b672b0abb5c.JPG?size=520",
+      "bytes": 251974,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "البوادي طحينه 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-tahina-125-gm/s/902202",
+      "filename": "البوادي-طحينه-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e3f99af7d12b672b0abb90.JPG?size=520",
+      "bytes": 378348,
+      "dimensions": [
+        480,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "تايجر صلصة صويا داكنة، 320 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-dark-soya-sauce-320ml/s/935478",
+      "filename": "تايجر-صلصة-صويا-داكنة،-320-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69824dcce8f7ec4a9afa35cb.png?size=520",
+      "bytes": 256674,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "تايجر صلصة صويا لايت، 320 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-light-soya-sauce-320ml/s/935479",
+      "filename": "تايجر-صلصة-صويا-لايت،-320-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69824dd2e8f7ec4a9afa39e0.png?size=520",
+      "bytes": 254098,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "تايجر براند صلصة حلوة، 230 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-brand-sweet-sauce-230ml/s/935480",
+      "filename": "تايجر-براند-صلصة-حلوة،-230-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69824dcce8f7ec4a9afa35d1.png?size=520",
+      "bytes": 244205,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "هاينز كاتشب طماطم 295 جرام زجاج",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-tomato-ketchupglass-jar-295g/s/902206",
+      "filename": "هاينز-كاتشب-طماطم-295-جرام-زجاج.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e8066996a8efd549eeef21.jpg?size=520",
+      "bytes": 292773,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "هاينز كاتشب نكهة الخيار المخلل 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-tomato-ketchup-pickled-doypack-125g/s/925656",
+      "filename": "هاينز-كاتشب-نكهة-الخيار-المخلل-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221033001633.JPG?size=520",
+      "bytes": 643727,
+      "dimensions": [
+        459,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "هاينز كاتشب حار 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-hot-ketchup-200g/s/902207",
+      "filename": "هاينز-كاتشب-حار-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66336cfe383c7bbda81a143d.JPG?size=520",
+      "bytes": 289199,
+      "dimensions": [
+        224,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "هاينز صلصة جبنة 225 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-cheese-sauce-225ml/s/933793",
+      "filename": "هاينز-صلصة-جبنة-225-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880b538ca2f5847aee731f3.jpg?size=520",
+      "bytes": 440073,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "هاينز صلصة الفلفل الحلو 225 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-sweet-chili-sauce-225ml/s/933794",
+      "filename": "هاينز-صلصة-الفلفل-الحلو-225-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880b538ca2f5847aee731f6.jpg?size=520",
+      "bytes": 451646,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "هاينز كاتشب نكهة المشاوي 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-tomato-ketchup-grill-flavor-doypack-125g/s/925654",
+      "filename": "هاينز-كاتشب-نكهة-المشاوي-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221033001619.JPG?size=520",
+      "bytes": 647427,
+      "dimensions": [
+        459,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "هاينز صلصة ديناميت 225 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-dynamite-sauce-225ml/s/933795",
+      "filename": "هاينز-صلصة-ديناميت-225-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880b538ca2f5847aee731f5.jpg?size=520",
+      "bytes": 433000,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:33:53Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
