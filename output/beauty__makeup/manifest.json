@@ -1,0 +1,330 @@
+{
+  "category": "beauty__makeup",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beauty/makeup",
+  "output_dir": "/home/z/my-project/output/beauty__makeup",
+  "started_at": "2026-07-17T18:47:24Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beauty/makeup",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ملمع شفاه كوين - درجة 02",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-by-lord-lifter-lip-gloss-02-luscious/s/939242",
+      "filename": "ملمع-شفاه-كوين-درجة-02.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a27f450e96133fb0783d36c.JPG?size=520",
+      "bytes": 264448,
+      "dimensions": [
+        253,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "منظم مكياج أكريليك من إن سويت، 23.62×23.62×34.04 سنتيمتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/innsweet-acrylic-makeup-storage-organizer-2362x2362x3404cm/s/928346",
+      "filename": "منظم-مكياج-اكريليك-من-ان-سويت،-23-62-23-62-34-04-سنتيمتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7f7b7d94e05617681bb.JPG?size=520",
+      "bytes": 789704,
+      "dimensions": [
+        336,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "حاج عرفة تنت روز 9مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-tent-rose-9ml/s/925932",
+      "filename": "حاج-عرفة-تنت-روز-9مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa8f.jpg?size=520",
+      "bytes": 206990,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "حاج عرفة تنت برونز فاتح 9مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-tent-light-bronze-9ml/s/922877",
+      "filename": "حاج-عرفة-تنت-برونز-فاتح-9مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69980ab3b66a3731f6689d72.png?size=520",
+      "bytes": 237658,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "حاج عرفة تنت خوخ 9مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-peach-tent-9ml/s/922878",
+      "filename": "حاج-عرفة-تنت-خوخ-9مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdeebc.jpg?size=520",
+      "bytes": 221336,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "حاج عرفة ليب جلوس لايت روز 7مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-lip-sitting-light-rose-7ml/s/925934",
+      "filename": "حاج-عرفة-ليب-جلوس-لايت-روز-7مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdeea6.jpg?size=520",
+      "bytes": 141830,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ميبيلين نيويورك محدد عيون كحل كولوسال كاجال بزيت الارجان - 02 إكسترا بلاك أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-colossal-kajal-argan-oil-eyeliner-02-extra-black/s/927846",
+      "filename": "ميبيلين-نيويورك-محدد-عيون-كحل-كولوسال-كاجال-بزيت-الارجان-02-اكسترا-بلاك-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e13054e1800f082ead26.jpg?size=520",
+      "bytes": 87486,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مبراة قلم الحواجب بفتحتين مزدوجتين قطعة واحدة متعددة الألوان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/make-up-eyebrow-pencil-sharpener-2-holes-dual-multicolored-1-piece/s/931345",
+      "filename": "مبراة-قلم-الحواجب-بفتحتين-مزدوجتين-قطعة-واحدة-متعددة-الالوان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68249fb847789b199ba963bf.JPG?size=520",
+      "bytes": 239535,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ميبيلين نيويورك ماسكارا فوليم إكسبريس ذا كولوسال  القابلة للغسل  من مايبيلين نيويورك -  بلاك أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-mascara-volum-express-the-colossal-washable-black/s/927835",
+      "filename": "ميبيلين-نيويورك-ماسكارا-فوليم-اكسبريس-ذا-كولوسال-القابلة-للغسل-من-مايبيلين-نيويورك-بلاك-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e04054e1800f082ea90d.jpg?size=520",
+      "bytes": 247304,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ميبيلين نيويورك ماسكارا لاش سينساشونال سكاي هاي من ميبيلين نيو يورك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-high-lash-sensational-sky-mascara/s/927845",
+      "filename": "ميبيلين-نيويورك-ماسكارا-لاش-سينساشونال-سكاي-هاي-من-ميبيلين-نيو-يورك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e05054e1800f082ea974.jpg?size=520",
+      "bytes": 280642,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ميبيلين نيويورك ماسكارا ذا فالسز لاش ليفت ا - 01   أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-the-falsies-lash-lift-mascara-01-black/s/927847",
+      "filename": "ميبيلين-نيويورك-ماسكارا-ذا-فالسز-لاش-ليفت-ا-01-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e08654e1800f082ea9f8.jpg?size=520",
+      "bytes": 152604,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ميبيلين نيويورك خافي عيوب العين فيت مي - 25 ميديوم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-fit-me-eye-concealer-25-medium/s/927848",
+      "filename": "ميبيلين-نيويورك-خافي-عيوب-العين-فيت-مي-25-ميديوم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e0d854e1800f082eab1e.jpg?size=520",
+      "bytes": 110443,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ميبيلين نيويورك خافي عيوب العين فيت مي - 10 لايت",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-fit-me-eye-concealer-10-light/s/927823",
+      "filename": "ميبيلين-نيويورك-خافي-عيوب-العين-فيت-مي-10-لايت.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e0c054e1800f082eaab2.jpg?size=520",
+      "bytes": 105912,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ميبيلين نيويورك ايلاينر هايبر ايزي من ميبيلين نيو يورك - 800 نوك أوت بلاك أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-liquid-eyeliner-hyper-easy-800-knockout-black/s/927826",
+      "filename": "ميبيلين-نيويورك-ايلاينر-هايبر-ايزي-من-ميبيلين-نيو-يورك-800-نوك-اوت-بلاك-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e08a54e1800f082eaa04.jpg?size=520",
+      "bytes": 74775,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ميبلين نيويورك سوبر ستاي تيدي تينت للشفاه - درجة ني هاي رقم 55",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-super-stay-teddy-lip-tint-55-knee-high/s/930321",
+      "filename": "ميبلين-نيويورك-سوبر-ستاي-تيدي-تينت-للشفاه-درجة-ني-هاي-رقم-55.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d9123635cf7227ccd93c80.JPG?size=520",
+      "bytes": 276178,
+      "dimensions": [
+        520,
+        438
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "مايبيلين نيويورك ماسكارا كولوسال بابل، أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-colossal-bubble-black-mascara/s/938595",
+      "filename": "مايبيلين-نيويورك-ماسكارا-كولوسال-بابل،-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f70bea2d4c3e1ad44b7e93.jpg?size=520",
+      "bytes": 230400,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ميبيلين نيويورك أحمر شفاه سوبرستاي مات انك سائل - 65 سيداكترس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-superstay-matte-ink-liquid-lipstick-65-seductress/s/927827",
+      "filename": "ميبيلين-نيويورك-احمر-شفاه-سوبرستاي-مات-انك-سائل-65-سيداكترس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e1b554e1800f082eafc0.jpg?size=520",
+      "bytes": 198742,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ميبلين نيويورك سوبر ستاي تيدي تينت للشفاه - درجة سكني ديب رقم 15",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-super-stay-teddy-lip-tint-15-skinny-dip/s/930316",
+      "filename": "ميبلين-نيويورك-سوبر-ستاي-تيدي-تينت-للشفاه-درجة-سكني-ديب-رقم-15.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d9122035cf7227ccd93c3a.JPG?size=520",
+      "bytes": 270970,
+      "dimensions": [
+        520,
+        439
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ميبيلين نيويورك جل برايمر بيبي سكن اينستانت بور ايريزر - ترانسلوسنت",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-baby-skin-instant-pore-eraser-translucent/s/927852",
+      "filename": "ميبيلين-نيويورك-جل-برايمر-بيبي-سكن-اينستانت-بور-ايريزر-ترانسلوسنت.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799e06454e1800f082ea9a8.jpg?size=520",
+      "bytes": 216588,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ميبيلين نيويورك ملمع شفاه ليفتر بحمض الهيالورونيك - 003 مون",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/maybelline-new-york-lifter-gloss-lip-gloss-003-moon/s/927849",
+      "filename": "ميبيلين-نيويورك-ملمع-شفاه-ليفتر-بحمض-الهيالورونيك-003-مون.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-qatar/Products/QR_918599.jpg?size=520",
+      "bytes": 389646,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:50:54Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
