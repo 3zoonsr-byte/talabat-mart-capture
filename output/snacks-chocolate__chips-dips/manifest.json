@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__chips-dips",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/chips-dips",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__chips-dips",
+  "started_at": "2026-07-17T16:20:49Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/chips-dips",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كرانشي شيتوس جبنة 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cheetos-crunchy-fried-cheese-puffs-70g/s/925073",
+      "filename": "كرانشي-شيتوس-جبنة-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a3466195cc9b36904b1dfb.JPG?size=520",
+      "bytes": 727040,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "تايجر رقائق بطاطس مقلية بنكهة الفلفل الحار والليمون 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-chilli-lemon-flavour-fried-potato-chips-52-62g/s/930679",
+      "filename": "تايجر-رقائق-بطاطس-مقلية-بنكهة-الفلفل-الحار-والليمون-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693025070303a54c8f34bebc.png?size=520",
+      "bytes": 776443,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "تايجر رقائق بطاطس بنكهة الجبن المشكل 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-mix-cheese-flavour-potato-chips-52-62g/s/930683",
+      "filename": "تايجر-رقائق-بطاطس-بنكهة-الجبن-المشكل-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693025070303a54c8f34bebe.png?size=520",
+      "bytes": 748305,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "فلامنكو منتجات ذرة فشار  بطعم السوداني المملح 65-75 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/flaminco-corn-puff-snack-peanut-puffs-65-75-gm/s/924038",
+      "filename": "فلامنكو-منتجات-ذرة-فشار-بطعم-السوداني-المملح-65-75-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68135de4b27e8ed3a1a02268.jpg?size=520",
+      "bytes": 641468,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "شيبسى شطة وليمون 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chipsy-chili-lemon-flavor-chips-55g/s/902547",
+      "filename": "شيبسى-شطة-وليمون-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a346a4e2a1e69ea648de0d.JPG?size=520",
+      "bytes": 621111,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كرانشي شيتوس ليمون حار نار 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cheetos-crunchy-fried-flamin-hot-lemon-puffs-70g/s/925075",
+      "filename": "كرانشي-شيتوس-ليمون-حار-نار-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a346d6e2a1e69ea648e0b6.JPG?size=520",
+      "bytes": 735044,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "تايجر رقائق بطاطس مقلية بنكهة الكباب 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-kebab-flavour-fried-potato-chips-52-62g/s/930682",
+      "filename": "تايجر-رقائق-بطاطس-مقلية-بنكهة-الكباب-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693025070303a54c8f34bebd.png?size=520",
+      "bytes": 633574,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "تايجر رقائق بطاطس مقلية بنكهة الفلفل الحلو 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-sweet-chilli-flavour-fried-potato-chips-52-62g/s/930681",
+      "filename": "تايجر-رقائق-بطاطس-مقلية-بنكهة-الفلفل-الحلو-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693025070303a54c8f34bebb.png?size=520",
+      "bytes": 744726,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ليون شيبس بالفلفل الحار والليمون، 55-65 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lion-chilli-lemon-chips-55-65g/s/913626",
+      "filename": "ليون-شيبس-بالفلفل-الحار-والليمون،-55-65-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000418437.JPG?size=520",
+      "bytes": 544861,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "شيتوس سناكس بافس حار نار 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cheetos-flamin-hot-puffs-70g/s/925070",
+      "filename": "شيتوس-سناكس-بافس-حار-نار-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a34771e2a1e69ea648ebb4.JPG?size=520",
+      "bytes": 702720,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "تايجر رقائق بطاطس مقلية بنكهة الطماطم 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-tomato-flavour-fried-potato-chips-52-62g/s/930680",
+      "filename": "تايجر-رقائق-بطاطس-مقلية-بنكهة-الطماطم-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693025070303a54c8f34beba.png?size=520",
+      "bytes": 794388,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بيج تشيبس رقائق بطاطس بنكهة الجبن المتبل، 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/big-chips-seasoned-cheese-potato-chips-52-62g/s/930685",
+      "filename": "بيج-تشيبس-رقائق-بطاطس-بنكهة-الجبن-المتبل،-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3139948390c38140edd75d.png?size=520",
+      "bytes": 554371,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "تايجر رقائق بطاطس مقلية بنكهة الجبن 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tiger-seasoned-cheese-flavour-fried-potato-chips-52-62g/s/930678",
+      "filename": "تايجر-رقائق-بطاطس-مقلية-بنكهة-الجبن-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693025070303a54c8f34beb9.png?size=520",
+      "bytes": 751018,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "شيبسى رقائق بطاطس جبنه 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chipsy-cheese-flavor-chips-55g/s/922074",
+      "filename": "شيبسى-رقائق-بطاطس-جبنه-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a347eae2a1e69ea648f9b1.JPG?size=520",
+      "bytes": 597349,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "شيبسي شطة و ليمون 126 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chipsy-chili-lemon-potato-chips-126g/s/925068",
+      "filename": "شيبسي-شطة-و-ليمون-126-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/fd166775-45ef-4c06-af8b-5976e1a93322.png?size=520",
+      "bytes": 582137,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ليون شيبس بالملح، 58-68 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lion-salt-chips-58-68g/s/913625",
+      "filename": "ليون-شيبس-بالملح،-58-68-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000418468.JPG?size=520",
+      "bytes": 532348,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "شيبسي  - شريحة لحم بقري مع صلصة تشيميتشوري 49 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chipsy-beef-steak-with-chimichurri-sauce-chips-49g/s/938606",
+      "filename": "شيبسي-شريحة-لحم-بقري-مع-صلصة-تشيميتشوري-49-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f9e901214d2754f14982e6.png?size=520",
+      "bytes": 610271,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بيج تشيبس رقائق بطاطس نكهة الليمون الحلو، 52 - 62 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/big-chips-sweet-lemon-potato-chips-52-62g/s/930689",
+      "filename": "بيج-تشيبس-رقائق-بطاطس-نكهة-الليمون-الحلو،-52-62-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a34690e2a1e69ea648d98e.JPG?size=520",
+      "bytes": 724040,
+      "dimensions": [
+        389,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "بيج شيبس بريميوم - كريمة حامضة 70 - 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/big-chips-premium-sour-cream-chips-70-80g/s/924470",
+      "filename": "بيج-شيبس-بريميوم-كريمة-حامضة-70-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69147f180424d0348b6ad09f.png?size=520",
+      "bytes": 507448,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "شيبسى طماطم 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chipsy-tomato-flavor-chips-55g/s/902549",
+      "filename": "شيبسى-طماطم-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a347d8e2a1e69ea648f8a0.JPG?size=520",
+      "bytes": 632193,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:24:28Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
