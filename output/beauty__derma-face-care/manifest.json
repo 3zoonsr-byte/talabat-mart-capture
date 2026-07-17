@@ -1,0 +1,330 @@
+{
+  "category": "beauty__derma-face-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beauty/derma-face-care",
+  "output_dir": "/home/z/my-project/output/beauty__derma-face-care",
+  "started_at": "2026-07-17T18:50:55Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beauty/derma-face-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/neutrogena-illuminating-serum-bright-boost-reduces-appearance-of-dark-spots-30ml/s/917726",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "نيوتروجينا 2 فى 1 نقاء وحماية غسول وقناع للوجه، 150 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/neutrogena-spot-controlling-facial-wash-mask-150ml/s/902009",
+      "filename": "نيوتروجينا-2-فى-1-نقاء-وحماية-غسول-وقناع-للوجه،-150-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/697351d3f0ec5f9b65782e76.jpg?size=520",
+      "bytes": 287117,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "​ نيوتروجينا غسول الوجه ديب كلين، جل منظف لجميع أنواع البشرة، يزيل خلايا الجلد الميتة، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/neutrogena-deep-clean-face-wash-gel-cleanser-for-all-skin-types-removes-dead-skin-cells-200ml/s/902000",
+      "filename": "نيوتروجينا-غسول-الوجه-ديب-كلين،-جل-منظف-لجميع-انواع-البشرة،-يزيل-خلايا-الجلد-الميتة،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698f23fc97f394f584c0eae2.png?size=520",
+      "bytes": 171243,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vacation-sunscreen-lotion-spray-spf-50-200-ml/s/938339",
+      "filename": "Grocery-Shop-6.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ستارفيل صابون العناية بالتبييض، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-care-soap-100g/s/928737",
+      "filename": "ستارفيل-صابون-العناية-بالتبييض،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a8e.jpg?size=520",
+      "bytes": 163872,
+      "dimensions": [
+        520,
+        318
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ستارفيل منظف الوجه للبشرة المعرضة لحب الشباب، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-facial-cleanser-200ml/s/928733",
+      "filename": "ستارفيل-منظف-الوجه-للبشرة-المعرضة-لحب-الشباب،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69249b642f59151ac8de86f2.jpg?size=520",
+      "bytes": 350843,
+      "dimensions": [
+        240,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ستارفيل ميسلر مناديل مبللة 50 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-micellar-water-wipes-50-wipes/s/925283",
+      "filename": "ستارفيل-ميسلر-مناديل-مبللة-50-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692498782f59151ac8ddefe6.JPG?size=520",
+      "bytes": 287048,
+      "dimensions": [
+        520,
+        252
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ستارفيل صابون البشرة المعرضة لحب الشباب، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-soap-100g/s/928734",
+      "filename": "ستارفيل-صابون-البشرة-المعرضة-لحب-الشباب،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a8c.JPG?size=520",
+      "bytes": 308189,
+      "dimensions": [
+        520,
+        359
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ستارفيل قناع لتبييض الوجه 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-flawless-glow-whitening-brightening-rejuvenating-facial-sheet-mask-with-alpha-arbutin-phytexcell-for-all-skin-types-1-piece/s/924234",
+      "filename": "ستارفيل-قناع-لتبييض-الوجه-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c29a805d9e5c3043f7a33b.jpg?size=520",
+      "bytes": 509116,
+      "dimensions": [
+        392,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ستارفيل ميسلر مناديل مبللة 25 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-micellar-water-wipes-25-wipes/s/925284",
+      "filename": "ستارفيل-ميسلر-مناديل-مبللة-25-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692498772f59151ac8ddeeff.JPG?size=520",
+      "bytes": 363845,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ستارفيل منظف التبييض، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-cleanser-200ml/s/928738",
+      "filename": "ستارفيل-منظف-التبييض،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a9a.jpg?size=520",
+      "bytes": 160813,
+      "dimensions": [
+        245,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-hypoallergenic-antibacterial-purifying-facial-cleanser-gel-with-tea-tree-oil-for-oily-combined-skin-400ml/s/931693",
+      "filename": "Grocery-Shop-14.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ستارفيل كريم البشرة المعرضة لحب الشباب، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-cream-60g/s/928732",
+      "filename": "ستارفيل-كريم-البشرة-المعرضة-لحب-الشباب،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47d5.JPG?size=520",
+      "bytes": 236639,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ستارفيل مناديل مبللة للتفتيح 50 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-micellar-water-wipes-50-pieces/s/934216",
+      "filename": "ستارفيل-مناديل-مبللة-للتفتيح-50-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b555ece5b39a085f2f0221.JPG?size=520",
+      "bytes": 286404,
+      "dimensions": [
+        520,
+        479
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ستارفيل جل العناية الليلية للتبييض، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-night-care-gel-60g/s/928740",
+      "filename": "ستارفيل-جل-العناية-الليلية-للتبييض،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47d8.JPG?size=520",
+      "bytes": 237899,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "غسول ستارفيل المرطب للبشرة الدهنية و الحساسة 200مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-hydro-facial-cleanser-200ml/s/937652",
+      "filename": "غسول-ستارفيل-المرطب-للبشرة-الدهنية-و-الحساسة-200مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a19725a051309341ebaefd.png?size=520",
+      "bytes": 324130,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ستارفيل هيبوالرجينيك جل كونتور العين المضاد للتجاعيد مع فيتامين ايه و سي للهالات السوداء وجميع أنواع البشرة 30 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-hypoallergenic-anti-wrinkle-eye-contour-gel-with-vitamin-e-c-for-dark-circles-all-skin-types-30g/s/938090",
+      "filename": "ستارفيل-هيبوالرجينيك-جل-كونتور-العين-المضاد-للتجاعيد-مع-فيتامين-ايه-و-سي-للهالات-السوداء-وجميع-انواع-البشرة-30-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a91.jpg?size=520",
+      "bytes": 244660,
+      "dimensions": [
+        217,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ستارفيل كولاج كريم 40 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-collage-cream-40g/s/934214",
+      "filename": "ستارفيل-كولاج-كريم-40-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47eb.JPG?size=520",
+      "bytes": 311353,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ستارفيل كولاج سيروم 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-collage-serum-50ml/s/934215",
+      "filename": "ستارفيل-كولاج-سيروم-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47ee.JPG?size=520",
+      "bytes": 276441,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "شان منظف الوجه المرطب والتنظيف العميق بفيتامين إي وسي، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-moisturizing-antioxidant-face-body-gel-cleanser-with-vitamin-e-c-for-sensitive-all-skin-types-250ml/s/928747",
+      "filename": "شان-منظف-الوجه-المرطب-والتنظيف-العميق-بفيتامين-اي-وسي،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c29a705d9e5c3043f79caf.JPG?size=520",
+      "bytes": 243990,
+      "dimensions": [
+        219,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:54:27Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
