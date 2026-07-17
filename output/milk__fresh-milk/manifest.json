@@ -1,0 +1,330 @@
+{
+  "category": "milk__fresh-milk",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/milk/fresh-milk",
+  "output_dir": "/home/z/my-project/output/milk__fresh-milk",
+  "started_at": "2026-07-17T14:53:35Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/milk/fresh-milk",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-pasteurized-milk-085-l/s/900707",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مزارع دينا لبن بالشيكولاتة 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-chocolate-milk-250-ml/s/900717",
+      "filename": "مزارع-دينا-لبن-بالشيكولاتة-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688383b98b4d17c9361b5499.jpg?size=520",
+      "bytes": 347847,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-rayeb-plain-milk-220g/s/900906",
+      "filename": "Grocery-Shop-5.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "المراعي حليب رايب 425 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-rayeb-milk-425ml/s/900448",
+      "filename": "المراعي-حليب-رايب-425-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6926a885d498e54d83f8f3d2.JPG?size=520",
+      "bytes": 172138,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-rayeb-green-tea-lemon-220g/s/900912",
+      "filename": "Grocery-Shop-7.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-plain-rayeb-milk-440g/s/900905",
+      "filename": "Grocery-Shop-8.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جهينة رايب طبيعى 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-rayeb-plain-uht-milk-1l/s/900904",
+      "filename": "جهينة-رايب-طبيعى-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d06e42974911b3d1ae3.JPG?size=520",
+      "bytes": 178625,
+      "dimensions": [
+        520,
+        311
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "جهينة رايب لايت 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-rayeb-plain-light-milk-220g/s/900908",
+      "filename": "جهينة-رايب-لايت-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d60e42974911b3d1e79.JPG?size=520",
+      "bytes": 289406,
+      "dimensions": [
+        203,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "المراعي رايب ليمون نعناع 220مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-rayeb-lemon-mint-flavored-milk-220g/s/936017",
+      "filename": "المراعي-رايب-ليمون-نعناع-220مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6928154fb7d05129746dd552.png?size=520",
+      "bytes": 312232,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "المراعي رايب ليمون نعناع 425 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-rayeb-lemon-mint-flavored-milk-425g/s/936018",
+      "filename": "المراعي-رايب-ليمون-نعناع-425-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6928154fb7d05129746dd551.png?size=520",
+      "bytes": 306365,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جهينة شراب سوبيا رايب بالمانجو، 440 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-mango-sobia-rayeb-drink-440g/s/929805",
+      "filename": "جهينة-شراب-سوبيا-رايب-بالمانجو،-440-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b706014d79452d68758f22.jpg?size=520",
+      "bytes": 129910,
+      "dimensions": [
+        520,
+        398
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "مزارع دينا لبن بالبلح 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-dates-milk-250-ml/s/900715",
+      "filename": "مزارع-دينا-لبن-بالبلح-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688383a78b4d17c9361b5265.jpg?size=520",
+      "bytes": 320924,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "مزارع دينا عصير برتقال فريش 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-chocoloate-milk-085-l/s/900711",
+      "filename": "مزارع-دينا-عصير-برتقال-فريش-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710e618b6ae261425e4616.jpg",
+      "bytes": 46200,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-rayeb-plain-light-milk-440g/s/900907",
+      "filename": "Grocery-Shop-16.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "مزارع دينا عصير برتقال فريش 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-rayeb-milk-085-l/s/900709",
+      "filename": "مزارع-دينا-عصير-برتقال-فريش-850-مل-17.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710e618b6ae261425e4616.jpg",
+      "bytes": 46229,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ريفي حليب طازج كامل الدسم، 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reefy-full-cream-fresh-milk-850ml/s/908522",
+      "filename": "ريفي-حليب-طازج-كامل-الدسم،-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Images/Lulu/1876004-1.jpg?size=520",
+      "bytes": 302776,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "مزارع دينا لبن رايب 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-rayeb-milk-250-ml/s/900714",
+      "filename": "مزارع-دينا-لبن-رايب-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000432133.JPG?size=520",
+      "bytes": 245921,
+      "dimensions": [
+        210,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "مزارع دينا عصير برتقال فريش 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-dates-milk-085-l/s/900713",
+      "filename": "مزارع-دينا-عصير-برتقال-فريش-850-مل-20.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710e618b6ae261425e4616.jpg",
+      "bytes": 46237,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "مزارع دينا عصير برتقال فريش 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-strawberry-milk-085-l/s/900712",
+      "filename": "مزارع-دينا-عصير-برتقال-فريش-850-مل-21.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710e618b6ae261425e4616.jpg",
+      "bytes": 46232,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ذا ميلك مان حليب بالقهوة طبيعي 100% 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/the-milkman-fresh-milk-with-iced-coffee-200ml/s/926928",
+      "filename": "ذا-ميلك-مان-حليب-بالقهوة-طبيعي-100-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66eff696fa1dfc7fe2f63f87.jpg?size=520",
+      "bytes": 345117,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:57:17Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
