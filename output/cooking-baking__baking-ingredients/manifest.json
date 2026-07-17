@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__baking-ingredients",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/baking-ingredients",
+  "output_dir": "/home/z/my-project/output/cooking-baking__baking-ingredients",
+  "started_at": "2026-07-17T17:41:07Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/baking-ingredients",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "الضحى دقيق، 1 كيلوغرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-flour-1kg/s/900122",
+      "filename": "الضحى-دقيق،-1-كيلوغرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dab1602f62ccc8ccc78ffd.jpg?size=520",
+      "bytes": 757046,
+      "dimensions": [
+        380,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كوكس بيكنج بودر  16 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-baking-powder-16-gm/s/909317",
+      "filename": "كوكس-بيكنج-بودر-16-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001030003.JPG?size=520",
+      "bytes": 516472,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات دقيق أبيض، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-white-flour-1kg/s/934241",
+      "filename": "طلبات-دقيق-ابيض،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b5716b8a6549ba1e69afc5.png?size=520",
+      "bytes": 391837,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "خميرة فورية 11 جرام دريم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-dry-instant-yeast-11g/s/909305",
+      "filename": "خميرة-فورية-11-جرام-دريم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6223003942922.jpg?size=520",
+      "bytes": 572931,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كوكس نشا ذرة 240 جم أظرف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-corn-starch-240g/s/909320",
+      "filename": "كوكس-نشا-ذرة-240-جم-اظرف.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/652bd974458305155b35e03e.jpg?size=520",
+      "bytes": 444516,
+      "dimensions": [
+        454,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دريم فانيليا جامبو ٤ جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-vanilla-jumbo-4g/s/937616",
+      "filename": "دريم-فانيليا-جامبو-٤-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a7f16c35132c4197178832.JPG?size=520",
+      "bytes": 797180,
+      "dimensions": [
+        450,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جيلي فراولة دريم 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-jelly-strawberry-70-gm/s/909304",
+      "filename": "جيلي-فراولة-دريم-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/697761a2ce92f22bec27fc92.png?size=520",
+      "bytes": 497945,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كريم شانتية 45جم دريم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-whipping-topping-cream-45g/s/909306",
+      "filename": "كريم-شانتية-45جم-دريم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6989ecb3b28c955417d2f7cd.jpg?size=520",
+      "bytes": 589238,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "دريم مسحوق الكاكاو النقي 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-pure-cocoa-powder-80g/s/909325",
+      "filename": "دريم-مسحوق-الكاكاو-النقي-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223003942649.JPG?size=520",
+      "bytes": 533496,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كوكس كريم شانتية 45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-whipping-cream-45-gm/s/909436",
+      "filename": "كوكس-كريم-شانتية-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/652bd8c452d72bba64832523.jpg?size=520",
+      "bytes": 566208,
+      "dimensions": [
+        461,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كريم كراميل كوكس، 103 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-creme-caramel-103g/s/934190",
+      "filename": "كريم-كراميل-كوكس،-103-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b07a6f02050826198c15dd.JPG?size=520",
+      "bytes": 279144,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "دريم جيلى اناناس 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dream-jelly-pineapple-70-gm/s/916051",
+      "filename": "دريم-جيلى-اناناس-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6223001085034.jpg?size=520",
+      "bytes": 451426,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فانيليا برتقال كوكس 5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-vanillin-with-orange-flavor-5g/s/937736",
+      "filename": "فانيليا-برتقال-كوكس-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69afc12670bd268f4a8e3883.jpg?size=520",
+      "bytes": 370677,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "دوبيلا فانيليا سائله 30 مللى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-vanilla-food-liquid-30-ml/s/916751",
+      "filename": "دوبيلا-فانيليا-سائله-30-مللى.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006880627.jpg?size=520",
+      "bytes": 251672,
+      "dimensions": [
+        520,
+        463
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "بيكر دريم خميرة جافة فورية 11 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bakerdream-instant-dry-yeast-11g/s/916682",
+      "filename": "بيكر-دريم-خميرة-جافة-فورية-11-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6917790012066.jpg?size=520",
+      "bytes": 356571,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كريم شانتيه شوكولاتة دريم 45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-cream-chantilly-chocolate-45-gm/s/916057",
+      "filename": "كريم-شانتيه-شوكولاتة-دريم-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6988723afc43ff942cae78f6.png?size=520",
+      "bytes": 646523,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كوكس مج كيك  65 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-mug-cake-65g/s/926034",
+      "filename": "كوكس-مج-كيك-65-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/669facbe89e9d6ba12eec432.JPG?size=520",
+      "bytes": 492289,
+      "dimensions": [
+        457,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "كوكس كيك ميكس  فانيليا 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-vanilla-cake-mix-400g/s/926036",
+      "filename": "كوكس-كيك-ميكس-فانيليا-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/669facbf89e9d6ba12eec436.JPG?size=520",
+      "bytes": 661862,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دريم كريم شانتية 180 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-topping-cream-180-gm/s/916058",
+      "filename": "دريم-كريم-شانتية-180-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69930f682be45caae3be0b5b.png?size=520",
+      "bytes": 574961,
+      "dimensions": [
+        430,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "دريم كسترد فانيليا 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-vanilla-custard-300-gm/s/916096",
+      "filename": "دريم-كسترد-فانيليا-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Netscribe%20Images%28don%27t%20touch%29/Front%20Images/6223001085225.jpg?size=520",
+      "bytes": 374053,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:44:41Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
