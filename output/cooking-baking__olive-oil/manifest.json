@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__olive-oil",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/olive-oil",
+  "output_dir": "/home/z/my-project/output/cooking-baking__olive-oil",
+  "started_at": "2026-07-17T17:48:18Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/olive-oil",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات زيت زيتون بكر ممتاز، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-extra-virgin-olive-oil-250ml/s/933014",
+      "filename": "طلبات-زيت-زيتون-بكر-ممتاز،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687e1d0f4ccad50dfa939009.png?size=520",
+      "bytes": 224246,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مزارع دينا زيت زيتون بكر، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-virgin-olive-oil-250ml/s/929939",
+      "filename": "مزارع-دينا-زيت-زيتون-بكر،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2d429513fcab62fc3bd4.JPG?size=520",
+      "bytes": 181788,
+      "dimensions": [
+        292,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مزارع دينا زيت زيتون بكر، 1000 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-virgin-olive-oil-1000ml/s/929941",
+      "filename": "مزارع-دينا-زيت-زيتون-بكر،-1000-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2d489513fcab62fc3c03.JPG?size=520",
+      "bytes": 244953,
+      "dimensions": [
+        292,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مزارع دينا زيت زيتون بكر، 500 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-virgin-olive-oil-500ml/s/929940",
+      "filename": "مزارع-دينا-زيت-زيتون-بكر،-500-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2d459513fcab62fc3c01.JPG?size=520",
+      "bytes": 202528,
+      "dimensions": [
+        288,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مفازة زيت الزيتون البكر الممتاز مع الثوم المحمص، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-extra-virgin-olive-oil-with-roasted-garlic-250ml/s/930338",
+      "filename": "مفازة-زيت-الزيتون-البكر-الممتاز-مع-الثوم-المحمص،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d956f1c84c65c54eba7495.png?size=520",
+      "bytes": 194667,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "زيت زيتون بكر من دوبيلا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-virgin-olive-oil-150ml/s/916655",
+      "filename": "زيت-زيتون-بكر-من-دوبيلا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff6e9068440968955ceddf.JPG?size=520",
+      "bytes": 231020,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "وادي فود زيت زيتون بكر ممتاز 500 مل بلاستك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-extra-virgin-olive-oil-pet-500ml/s/907760",
+      "filename": "وادي-فود-زيت-زيتون-بكر-ممتاز-500-مل-بلاستك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b278c02f5b1ec8ddc9b.png?size=520",
+      "bytes": 235383,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "وادي فود زيت زيتون بكر ممتاز 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-extra-virgin-olive-oil-500ml/s/907757",
+      "filename": "وادي-فود-زيت-زيتون-بكر-ممتاز-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd229.png?size=520",
+      "bytes": 158123,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "وادي فود زيت زيتون بكر - 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-virgin-olive-oil-500ml/s/907758",
+      "filename": "وادي-فود-زيت-زيتون-بكر-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b268c02f5b1ec8ddc8b.png?size=520",
+      "bytes": 218233,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "وادي فود زيت زيتون بكر، 1 لتر + زيت زيتون بكر، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-virgin-olive-oil-1l-virgin-olive-oil-500ml/s/937036",
+      "filename": "وادي-فود-زيت-زيتون-بكر،-1-لتر-زيت-زيتون-بكر،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd24b.png?size=520",
+      "bytes": 395823,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دوبيلازيت زيتون 250مللي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-olive-oil-250-ml/s/916656",
+      "filename": "دوبيلازيت-زيتون-250مللي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff6faa68440968955cede4.JPG?size=520",
+      "bytes": 202538,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "دوبيلازيت زيتون 500 مللي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-olive-oil-500-ml/s/916657",
+      "filename": "دوبيلازيت-زيتون-500-مللي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756217.jpg?size=520",
+      "bytes": 236658,
+      "dimensions": [
+        330,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "دوبيلا زيت جوز الهند  البكر250جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-virgin-coconut-oil-250g/s/916667",
+      "filename": "دوبيلا-زيت-جوز-الهند-البكر250جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006881051.jpg?size=520",
+      "bytes": 310191,
+      "dimensions": [
+        420,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "دوبيلا زيت زيتون 1لتر بلاستيك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-olive-oil-1-liter/s/916658",
+      "filename": "دوبيلا-زيت-زيتون-1لتر-بلاستيك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff6ff068440968955cee16.JPG?size=520",
+      "bytes": 282384,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/daria-first-cold-pressed-virgin-olive-oil-500ml/s/936020",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ايزيس زيت زيتون بكر ممتاز – 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/isis-extra-virgin-olive-oil-500ml/s/918275",
+      "filename": "ايزيس-زيت-زيتون-بكر-ممتاز-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6919eee7804f864811cd0005.png?size=520",
+      "bytes": 213448,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ايزيس زيت زيتون بكر ممتاز – 750 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/isis-extra-virgin-olive-oil-750ml/s/918454",
+      "filename": "ايزيس-زيت-زيتون-بكر-ممتاز-750-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6919ed2f3d05d83205ac0639.png?size=520",
+      "bytes": 226357,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nile-garden-extra-virgin-olive-oil-250ml/s/922732",
+      "filename": "Grocery-Shop-20.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "نيل جاردنزيت زيتون بكر، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nile-garden-virgin-olive-oil-250ml/s/922735",
+      "filename": "نيل-جاردنزيت-زيتون-بكر،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6832e1eeea9931f022158a86.JPG?size=520",
+      "bytes": 220072,
+      "dimensions": [
+        520,
+        493
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "نيل جاردن زيت زيتون بكر، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nile-garden-virgin-olive-oil-500ml/s/922734",
+      "filename": "نيل-جاردن-زيت-زيتون-بكر،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6832e1eeea9931f022158a84.JPG?size=520",
+      "bytes": 258731,
+      "dimensions": [
+        464,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:51:57Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
