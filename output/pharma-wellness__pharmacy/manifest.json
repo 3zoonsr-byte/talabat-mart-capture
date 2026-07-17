@@ -1,0 +1,330 @@
+{
+  "category": "pharma-wellness__pharmacy",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/pharma-wellness/pharmacy",
+  "output_dir": "/home/z/my-project/output/pharma-wellness__pharmacy",
+  "started_at": "2026-07-17T22:44:08Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/pharma-wellness/pharmacy",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ميزان الحرارة الرقمي شاشة LCD قراءة مئوية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digital-thermometer-lcd-display-celsius-reading/s/931352",
+      "filename": "ميزان-الحرارة-الرقمي-شاشة-LCD-قراءة-مئوية.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68249fc147789b199ba963e3.JPG?size=520",
+      "bytes": 191724,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "سانيتا إليجانس ريلاكس حفاضات كبيرة للكبار 100-135 سم 14 قطعة في العبوة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-elegance-relax-large-adult-diaper-pants-100-135cm-14-per-pack/s/925036",
+      "filename": "سانيتا-اليجانس-ريلاكس-حفاضات-كبيرة-للكبار-100-135-سم-14-قطعة-في-العبوة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c2bb2a167ae6c401a0cc.jpg?size=520",
+      "bytes": 855705,
+      "dimensions": [
+        520,
+        427
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أكياس مكمل غذائي كروماكس كت بالجلوكومانان والكروميوم والإينولين لدعم التحكم بالوزن من ليمتلس ناتشرلز - خالٍ من المواد المعدّلة جينياً والمواد الحافظة والجلوتين 30 × 4.78 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-chromax-weight-loss-supplement-30-sachets/s/936828",
+      "filename": "اكياس-مكمل-غذائي-كروماكس-كت-بالجلوكومانان-والكروميوم-والاينولين-لدعم-التحكم-بالوزن-من-ليمتلس-ناتشرلز-خال-من-المواد.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496242f59151ac8dd4478.JPG?size=520",
+      "bytes": 664619,
+      "dimensions": [
+        520,
+        468
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ليميتلس ناتشورالز أقراص مكمل غذائي 150 ملغ من المغنيسيوم لدعم الجهاز العصبي ووظائف العضلات ومكافحة التعب، 30 قرصًا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-150mg-magnesium-nervous-system-muscles-function-anti-fatigue-support-supplement-30-tablets/s/936826",
+      "filename": "ليميتلس-ناتشورالز-اقراص-مكمل-غذائي-150-ملغ-من-المغنيسيوم-لدعم-الجهاز-العصبي-ووظائف-العضلات-ومكافحة-التعب،-30-قرصا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c96cfef70d93a235227.JPG?size=520",
+      "bytes": 522853,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ميجو بكر قماش لدعم العضلات 5 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/migo-virgin-muscle-support-fabric-5m/s/922465",
+      "filename": "ميجو-بكر-قماش-لدعم-العضلات-5-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c2172a167ae6c401563f.JPG?size=520",
+      "bytes": 534694,
+      "dimensions": [
+        387,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ليمتلس أقراص فيتامين ماكس للنساء 30 قرصًا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-max-womens-multivitamin-mineral-supplement-30-tablets/s/931188",
+      "filename": "ليمتلس-اقراص-فيتامين-ماكس-للنساء-30-قرصا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6902361464d3b816f63a22ac.jpg?size=520",
+      "bytes": 482083,
+      "dimensions": [
+        260,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ليمتلس هيدرات أوريجينال بلو راسبيري عبوة من 6 أصابع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-hydrate-original-blue-rasberry-6-stick/s/931192",
+      "filename": "ليمتلس-هيدرات-اوريجينال-بلو-راسبيري-عبوة-من-6-اصابع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681880ed00b01cc01782b419.JPG?size=520",
+      "bytes": 687933,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ليمتلس هيدرات أوريجينال مزيج التوت 6 حزمة عصا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-hydrate-glow-mix-berries-6-stick/s/931193",
+      "filename": "ليمتلس-هيدرات-اوريجينال-مزيج-التوت-6-حزمة-عصا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681880ed00b01cc01782b41b.JPG?size=520",
+      "bytes": 657068,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ليميتلس للسيدات مكملات غذائية متعددة المضغ 90 قرصًا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-womens-multivitamin-mineral-health-appearance-support-gummy-supplement-mango-flavor-90-pieces/s/932645",
+      "filename": "ليميتلس-للسيدات-مكملات-غذائية-متعددة-المضغ-90-قرصا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c96cfef70d93a235220.JPG?size=520",
+      "bytes": 422925,
+      "dimensions": [
+        253,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "مكملات غذائية ليمتلس مان متعددة العلكات، 90 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-mens-multivitamin-mineral-energy-support-gummy-supplement-cola-flavor-90-pieces/s/936834",
+      "filename": "مكملات-غذائية-ليمتلس-مان-متعددة-العلكات،-90-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c96cfef70d93a23521e.JPG?size=520",
+      "bytes": 393631,
+      "dimensions": [
+        249,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ليميتلس لاكتيز 12000 ملغ مكملات غذائية 30 قرصًا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-12000-fcc-lactase-enzyme-digestive-system-health-support-supplement-with-artificial-sweetener-30-tablets/s/932648",
+      "filename": "ليميتلس-لاكتيز-12000-ملغ-مكملات-غذائية-30-قرصا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c96cfef70d93a235216.JPG?size=520",
+      "bytes": 476210,
+      "dimensions": [
+        285,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ليمتلس هايدريت كيدز بنكهة البطيخ شرائط 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-hydrate-kids-watermelon-flavour-sachets-6-pieces/s/936837",
+      "filename": "ليمتلس-هايدريت-كيدز-بنكهة-البطيخ-شرائط-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496242f59151ac8dd4465.jpg?size=520",
+      "bytes": 577397,
+      "dimensions": [
+        295,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ليميتلس ماكس مكملات غذائية للنساء 100 قرص",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-naturals-max-womens-multivitamin-mineral-supplement-100-tablets/s/932644",
+      "filename": "ليميتلس-ماكس-مكملات-غذائية-للنساء-100-قرص.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6902361364d3b816f63a225f.JPG?size=520",
+      "bytes": 391646,
+      "dimensions": [
+        256,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "عبوات مشروب الكافيين Limitless Hydrate Charge، 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-hydrate-charge-caffeine-drink-mix-stick-packs-6-pieces/s/936835",
+      "filename": "عبوات-مشروب-الكافيين-Limitless-Hydrate-Charge،-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496242f59151ac8dd4464.JPG?size=520",
+      "bytes": 557771,
+      "dimensions": [
+        305,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ليمتلس جل فريز الأصلي 50 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-freeze-original-gel-50g/s/932652",
+      "filename": "ليمتلس-جل-فريز-الاصلي-50-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496242f59151ac8dd4463.JPG?size=520",
+      "bytes": 416584,
+      "dimensions": [
+        240,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ليمتلس مكمل غذائي بالكركم بلا حدود ٥٠٠ ملغ ٦٠ كبسولة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-turmeric-dietary-supplement-500mg-capsules-60-capsules/s/932646",
+      "filename": "ليمتلس-مكمل-غذائي-بالكركم-بلا-حدود-٥٠٠-ملغ-٦٠-كبسولة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690235be64d3b816f639fdf1.jpg?size=520",
+      "bytes": 462415,
+      "dimensions": [
+        265,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ليمتلس ألفا EAAs التوت المشكل 30 سكوب (296 جم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limitless-alpha-eaas-mixed-berries-30-scoops-jar-296g/s/931200",
+      "filename": "ليمتلس-الفا-EAAs-التوت-المشكل-30-سكوب-296-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496242f59151ac8dd4466.JPG?size=520",
+      "bytes": 407402,
+      "dimensions": [
+        335,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "استربسلز العسل والليمون 24 قرص",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/strepsils-honey-lemon-lozenges-24-lozenges/s/908365",
+      "filename": "استربسلز-العسل-والليمون-24-قرص.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_5000158103603.JPG?size=520",
+      "bytes": 515818,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "بيكتول بنكهة الليمون والعسل الإضافي المنعش 19.2 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pectol-fresh-extra-honey-lemon-flavour-candy-with-vitamin-c-192g/s/908240",
+      "filename": "بيكتول-بنكهة-الليمون-والعسل-الاضافي-المنعش-19-2-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ef35d4d4f9412520d6712a.JPG?size=520",
+      "bytes": 420359,
+      "dimensions": [
+        215,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "استربسلز بدون سكر 16 قرص",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/strepsils-sugar-free-lozenges-16-lozenges/s/908362",
+      "filename": "استربسلز-بدون-سكر-16-قرص.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496dd2f59151ac8dd8bb5.jpg?size=520",
+      "bytes": 395688,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:47:50Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

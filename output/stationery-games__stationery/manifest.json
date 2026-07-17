@@ -1,0 +1,330 @@
+{
+  "category": "stationery-games__stationery",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/stationery-games/stationery",
+  "output_dir": "/home/z/my-project/output/stationery-games__stationery",
+  "started_at": "2026-07-17T23:33:25Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/stationery-games/stationery",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "مارفل سبايدرمان كتاب تدريبات الرياضيات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/marvel-maths-practice-book-spiderman/s/933301",
+      "filename": "مارفل-سبايدرمان-كتاب-تدريبات-الرياضيات.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688c7d2cbc4cd6b819765476.png?size=520",
+      "bytes": 712437,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مارفل كتاب قصة الفصل \"معركة النمر الأسود من أجل واكاندا\"",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/marvel-story-chapter-book-black-panther-battle-for-wakanda/s/933304",
+      "filename": "مارفل-كتاب-قصة-الفصل-معركة-النمر-الاسود-من-اجل-واكاندا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688c7d2bbc4cd6b819765471.png?size=520",
+      "bytes": 854245,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مارفل مجموعة قصص لمارفل (غلاف مقوى)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/marvel-story-book-collection-hard-cover/s/933302",
+      "filename": "مارفل-مجموعة-قصص-لمارفل-غلاف-مقوى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688c7d2cbc4cd6b819765472.png?size=520",
+      "bytes": 1160825,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مينترا جامبو دفتر A4 5 (21×29.7 سم) 200 ورقة أخضر مريمي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-5-subjects-sage-green-21x297cm-200-sheets/s/932501",
+      "filename": "مينترا-جامبو-دفتر-A4-5-21-29-7-سم-200-ورقة-اخضر-مريمي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf81.JPG?size=520",
+      "bytes": 326155,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مينترا دفتر جامبو A4 5 (21×29.7 سم) مواضيع 200 ورقة لون لافندر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-5-subjects-lavender-21x297cm-200-sheets/s/932498",
+      "filename": "مينترا-دفتر-جامبو-A4-5-21-29-7-سم-مواضيع-200-ورقة-لون-لافندر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf74.JPG?size=520",
+      "bytes": 274355,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "مينترا دفتر جامبو A4 5 (21×29.7 سم) مواضيع 200 ورقة أزرق باستيل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-5-subjects-blue-pastel-21x297cm-200-sheets/s/932502",
+      "filename": "مينترا-دفتر-جامبو-A4-5-21-29-7-سم-مواضيع-200-ورقة-ازرق-باستيل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf6e.JPG?size=520",
+      "bytes": 382620,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "مينترا دفتر جامبو A4، 6 قطع (21×29.7 سم)، مواضيع، 240 ورقة، أزرق باستيل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-6-subjects-blue-pastel-21x297cm-240-sheets/s/932511",
+      "filename": "مينترا-دفتر-جامبو-A4،-6-قطع-21-29-7-سم-،-مواضيع،-240-ورقة،-ازرق-باستيل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf82.JPG?size=520",
+      "bytes": 384273,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مينترا جامبو دفتر A4 6 (21×29.7 سم) 240 ورقة أخضر مريمي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-6-subjects-sage-green-21x297cm-240-sheets/s/932510",
+      "filename": "مينترا-جامبو-دفتر-A4-6-21-29-7-سم-240-ورقة-اخضر-مريمي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf7c.JPG?size=520",
+      "bytes": 333568,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مينترا دفتر جامبو A4 6 (21×29.7 سم) مواضيع 240 ورقة لون لافندر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-6-subjects-lavender-21x297cm-240-sheets/s/932507",
+      "filename": "مينترا-دفتر-جامبو-A4-6-21-29-7-سم-مواضيع-240-ورقة-لون-لافندر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf77.JPG?size=520",
+      "bytes": 269195,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "مينترا دفتر جامبو A4 5 (21×29.7 سم) 200 ورقة صيفي أزرق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-jumbo-a4-notebook-5-subjects-summer-blue-21x297cm-200-sheets/s/932505",
+      "filename": "مينترا-دفتر-جامبو-A4-5-21-29-7-سم-200-ورقة-صيفي-ازرق.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68590c2d18d92b4e7297cf72.JPG?size=520",
+      "bytes": 404790,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "المعايرجي دفتر مسطر A4 60 ورقة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-stapled-lined-notebook-a4-60-sheets/s/933536",
+      "filename": "المعايرجي-دفتر-مسطر-A4-60-ورقة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8ee5.JPG?size=520",
+      "bytes": 237534,
+      "dimensions": [
+        520,
+        384
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "المعايرجي  دفتر مسطر 4A 80 ورقة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-stapled-lined-notebook-a4-80-sheets/s/933540",
+      "filename": "المعايرجي-دفتر-مسطر-4A-80-ورقة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8ee2.JPG?size=520",
+      "bytes": 231734,
+      "dimensions": [
+        520,
+        379
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "المعايرجي دفتر سلك 0.5 مربعات A4 100 ورقة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-spiral-05-squares-notebook-a4-100-sheets/s/933549",
+      "filename": "المعايرجي-دفتر-سلك-0-5-مربعات-A4-100-ورقة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8ed3.JPG?size=520",
+      "bytes": 454812,
+      "dimensions": [
+        520,
+        312
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "المعايرجي دفتر  مربعات كبيرة A4 60 ورقة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-stapled-big-squares-notebook-a4-60-sheets/s/933537",
+      "filename": "المعايرجي-دفتر-مربعات-كبيرة-A4-60-ورقة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8edd.JPG?size=520",
+      "bytes": 260283,
+      "dimensions": [
+        520,
+        380
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-plastic-ruler-with-oval-shapes/s/933563",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "المعايرجي دفتر فرنساوي 3 سطر A4 80 ورقة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-stapled-triple-lined-notebook-a4-80-sheets/s/933543",
+      "filename": "المعايرجي-دفتر-فرنساوي-3-سطر-A4-80-ورقة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8ee8.JPG?size=520",
+      "bytes": 293899,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "المعايرجي دفتر فرنساوي 3 سطر A4 60 ورقة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-stapled-triple-lined-notebook-a4-60-sheets/s/933538",
+      "filename": "المعايرجي-دفتر-فرنساوي-3-سطر-A4-60-ورقة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8ee7.JPG?size=520",
+      "bytes": 373211,
+      "dimensions": [
+        520,
+        378
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "المعايرجي مسطرة استنسل الكيمياء",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-chemistry-stencil-ruler/s/933565",
+      "filename": "المعايرجي-مسطرة-استنسل-الكيمياء.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689498fd46de3abbaf629f31.JPG?size=520",
+      "bytes": 432033,
+      "dimensions": [
+        520,
+        274
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "المعايرجي منقلة 360 درجة 20 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-protractor-360-degree-20cm/s/933577",
+      "filename": "المعايرجي-منقلة-360-درجة-20-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894834d3f7664dba69a8ed1.JPG?size=520",
+      "bytes": 341015,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "المعايرجي مجموعة من غلاف كتاب لاصق ذاتي 35 * 50 سم 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-maayergy-of-self-adhesive-book-cover-35x50cm-set-of-6-pieces/s/933491",
+      "filename": "المعايرجي-مجموعة-من-غلاف-كتاب-لاصق-ذاتي-35-50-سم-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68932f4c8ba711940273583b.JPG?size=520",
+      "bytes": 326128,
+      "dimensions": [
+        520,
+        356
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:36:52Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

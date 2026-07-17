@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__skin-body-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/skin-body-care",
+  "output_dir": "/home/z/my-project/output/personal-care__skin-body-care",
+  "started_at": "2026-07-17T22:26:20Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/skin-body-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "نيفيا لوشن غني لتغذية البشرة الجافة والجافة جداً 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-nourishing-body-lotion-for-extra-dry-skin-400ml/s/900615",
+      "filename": "نيفيا-لوشن-غني-لتغذية-البشرة-الجافة-والجافة-جدا-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68932136db8629812ae07c74.jpg?size=520",
+      "bytes": 319200,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "نيفيا سوفت، 50مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-soft-jar-50ml/s/900610",
+      "filename": "نيفيا-سوفت،-50مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689322e9db8629812ae087e4.jpg?size=520",
+      "bytes": 500885,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "نيفيا واقي شمسي 30 لوشن 200مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-sun-protect-moisture-lotion-spf-30-200ml/s/911478",
+      "filename": "نيفيا-واقي-شمسي-30-لوشن-200مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68931f5bdb8629812ae04874.jpg?size=520",
+      "bytes": 324333,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "جيل زيتي للجسم من ناتشيل بأرغان ورمان، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nutshell-body-gel-oil-with-argan-pomegranate-250ml/s/936573",
+      "filename": "جيل-زيتي-للجسم-من-ناتشيل-بارغان-ورمان،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6924966b2f59151ac8dd5c99.JPG?size=520",
+      "bytes": 228597,
+      "dimensions": [
+        221,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "فريدا هاند  اقتصادى الساحل الشمالي 520مل 1+1هدية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-northcost-hand-wash-2x520ml/s/911842",
+      "filename": "فريدا-هاند-اقتصادى-الساحل-الشمالي-520مل-1-1هدية.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682752ba5286cd3213fea1f8.jpg?size=520",
+      "bytes": 621032,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "فريدا صابون سائل للايدى  جوز الهند 520 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-coconut-hand-wash-liquid520ml/s/911840",
+      "filename": "فريدا-صابون-سائل-للايدى-جوز-الهند-520-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/Egypt/6224007537503.jpg?size=520",
+      "bytes": 292885,
+      "dimensions": [
+        204,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "وايت مناديل كروس وايبس بيضاء متعددة الأغراض، 10 مناديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-all-purpose-water-pocket-cross-wipes-10-wipes/s/935622",
+      "filename": "وايت-مناديل-كروس-وايبس-بيضاء-متعددة-الاغراض،-10-مناديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d25507.png?size=520",
+      "bytes": 324039,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "وايت مناديل مبللة متعددة الاغراض برائحة اللافندر و الفانيليا  50 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-lavender-vanilla-anti-bacterial-multipurpose-wipes-50-pieces/s/923037",
+      "filename": "وايت-مناديل-مبللة-متعددة-الاغراض-برائحة-اللافندر-و-الفانيليا-50-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c32f2a167ae6c401d393.JPG?size=520",
+      "bytes": 370244,
+      "dimensions": [
+        520,
+        253
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "وايت مناديل وايبس كروس متعددة الأغراض بجوز الهند، 10 مناديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-all-purpose-coconut-pocket-cross-wipes-10-wipes/s/935621",
+      "filename": "وايت-مناديل-وايبس-كروس-متعددة-الاغراض-بجوز-الهند،-10-مناديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d25511.png?size=520",
+      "bytes": 334213,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "فريدا هاند اقتصادى شرقي 520مل  1+1",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-liquid-oriental-hand-wash-2x520ml/s/911846",
+      "filename": "فريدا-هاند-اقتصادى-شرقي-520مل-1-1.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/62ee879c94617d0d77ed9976.jpg?size=520",
+      "bytes": 305773,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "وايت مناديل مبلل مضاد للبكتريا  50 منديل 2 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-antibacterial-lemon-lime-burst-wet-wipes-2x50-sheets/s/918385",
+      "filename": "وايت-مناديل-مبلل-مضاد-للبكتريا-50-منديل-2-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696e5b2664e2721dcf8be1ac.jpg?size=520",
+      "bytes": 776053,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "وايت مناديل وايبس مضادة للبكتيريا برائحة الليمون، 15 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-anti-bacterial-lemon-wipes-15-pieces/s/936320",
+      "filename": "وايت-مناديل-وايبس-مضادة-للبكتيريا-برائحة-الليمون،-15-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d2551b.png?size=520",
+      "bytes": 385567,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فريدا هاند  اقتصادى المزرعه  الخضراء520مل  1+1هدية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-green-vally-hand-wash-2x520ml/s/911843",
+      "filename": "فريدا-هاند-اقتصادى-المزرعه-الخضراء520مل-1-1هدية.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/Mahmoud%20El%20Far%20/Frida%20hand%20soap%20Green%20Valley%20show%20520g%202G.jpg?size=520",
+      "bytes": 307195,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فريدا شاور جيل السماء الصافيه 650 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-bath-shower-clear-sky-650-ml/s/913138",
+      "filename": "فريدا-شاور-جيل-السماء-الصافيه-650-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6827531b5286cd3213fea975.jpg?size=520",
+      "bytes": 297606,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "وايت مناديل جيب مضادة للبكتيريا (متعددة الأغراض) بنكهة الليمون، 10 مناديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-antibacterial-lemon-multipurpose-pocket-wipes-10-wipes/s/934502",
+      "filename": "وايت-مناديل-جيب-مضادة-للبكتيريا-متعددة-الاغراض-بنكهة-الليمون،-10-مناديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d254f3.png?size=520",
+      "bytes": 361353,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-shower-gel-sweet-day-12-l/s/913145",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "وايت مناديل ضد الجراثيم بالليمون 50 ق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-antibacterial-lemon-lime-burst-wet-wipes-50-sheets/s/910843",
+      "filename": "وايت-مناديل-ضد-الجراثيم-بالليمون-50-ق.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687149138b6ae261425f512b.jpg?size=520",
+      "bytes": 422472,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فريدا شاور جيل اليوم الجميل 650 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-bath-shower-sweet-day-650-ml/s/913141",
+      "filename": "فريدا-شاور-جيل-اليوم-الجميل-650-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM/6224008204787.jpg?size=520",
+      "bytes": 245132,
+      "dimensions": [
+        520,
+        492
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فريدا شاور جيل اشراقة 650 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-bath-shower-gel-sunshine-650-ml/s/913140",
+      "filename": "فريدا-شاور-جيل-اشراقة-650-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM/6224008204794.jpg?size=520",
+      "bytes": 271881,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "وايت مناديل مبللة للجيب، مناديل للشاشات والنظارات، علبة ٥٢ قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-screens-glasses-pocket-wet-wipes-box-52-pieces/s/932915",
+      "filename": "وايت-مناديل-مبللة-للجيب،-مناديل-للشاشات-والنظارات،-علبة-٥٢-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696e6c82e46a04a2f8b9b994.jpg?size=520",
+      "bytes": 285756,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:29:55Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

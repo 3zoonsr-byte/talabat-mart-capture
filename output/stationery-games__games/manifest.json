@@ -1,0 +1,330 @@
+{
+  "category": "stationery-games__games",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/stationery-games/games",
+  "output_dir": "/home/z/my-project/output/stationery-games__games",
+  "started_at": "2026-07-17T23:36:53Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/stationery-games/games",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "بدون كلام ترافل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bedoon-kalaam-travel/s/911659",
+      "filename": "بدون-كلام-ترافل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007320764.JPG?size=520",
+      "bytes": 615950,
+      "dimensions": [
+        520,
+        497
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "نيلكو ورق لعب بريميوم باللونين الأحمر والأزرق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-premium-playing-cards-red-and-blue/s/930519",
+      "filename": "نيلكو-ورق-لعب-بريميوم-باللونين-الاحمر-والازرق.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e2ba3a759cba331ef2de49.jpg?size=520",
+      "bytes": 344356,
+      "dimensions": [
+        465,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "نيلكو لعبة بدون كلام الجزء الثانى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-bedoon-kalaam-travel-the-second-episode/s/930524",
+      "filename": "نيلكو-لعبة-بدون-كلام-الجزء-الثانى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e2ba72561f666cb87cf6c3.jpg?size=520",
+      "bytes": 321576,
+      "dimensions": [
+        465,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ديزنى كوتشينه  افنجرز",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-disney-playing-cards-avengers/s/922359",
+      "filename": "ديزنى-كوتشينه-افنجرز.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007322058.JPG?size=520",
+      "bytes": 384174,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ديزنى ميمورى توى ستورى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-disney-memory-game-toy-story/s/922358",
+      "filename": "ديزنى-ميمورى-توى-ستورى.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007322027.JPG?size=520",
+      "bytes": 641486,
+      "dimensions": [
+        520,
+        450
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "نيلكو لعبة لوح لودو ميكي وأصدقائه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-mickey-and-friends-ludo-board-game/s/930514",
+      "filename": "نيلكو-لعبة-لوح-لودو-ميكي-واصدقائه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/672b2bcdec985368e9430faf.jpg?size=520",
+      "bytes": 630786,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "نيلكو ورق لعب بريميوم برتقالي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-premium-playing-cards-orange/s/930517",
+      "filename": "نيلكو-ورق-لعب-بريميوم-برتقالي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e2ba19561f666cb87cf670.jpg?size=520",
+      "bytes": 277611,
+      "dimensions": [
+        464,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "سيكونس ديلوكس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sequence-deluxe/s/911605",
+      "filename": "سيكونس-ديلوكس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007320269.JPG?size=520",
+      "bytes": 486554,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ديزنى تاجو الاميرات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-disney-tago-princess/s/922357",
+      "filename": "ديزنى-تاجو-الاميرات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007322003.JPG?size=520",
+      "bytes": 558791,
+      "dimensions": [
+        500,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جكارو",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/jackaroo/s/911580",
+      "filename": "جكارو.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007320016.JPG?size=520",
+      "bytes": 1043859,
+      "dimensions": [
+        520,
+        481
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جيبو فلاش كارد تعلم المشاعر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gibo-flash-card-learn-to-feelings/s/917654",
+      "filename": "جيبو-فلاش-كارد-تعلم-المشاعر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007321716.JPG?size=520",
+      "bytes": 587284,
+      "dimensions": [
+        520,
+        450
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "مافيا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-mafia-card-game/s/911626",
+      "filename": "مافيا.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007320856.JPG?size=520",
+      "bytes": 603325,
+      "dimensions": [
+        520,
+        381
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ديزني لعبة بازل \"الاميرة الحديثة\" 60 قطعة 4 في 1 (32×20 سم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-disney-princess-modern-4-in-1-puzzle-game-60-pieces-32x20cm/s/930526",
+      "filename": "ديزني-لعبة-بازل-الاميرة-الحديثة-60-قطعة-4-في-1-32-20-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e2b94ab28ab1092dde1a00.JPG?size=520",
+      "bytes": 561656,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "جيبو فلاش كارد تعلم الحروف الانجليزيه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gibo-flash-card-learn-to-alphabet/s/917650",
+      "filename": "جيبو-فلاش-كارد-تعلم-الحروف-الانجليزيه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007321679.JPG?size=520",
+      "bytes": 638214,
+      "dimensions": [
+        520,
+        450
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ديزني قصص و5 ألعاب بازل \"الأسد الملك\" 60 قطعة (32 × 20 سم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-disney-lion-king-storybook-5-puzzles-games-60-pieces-32x20cm/s/930534",
+      "filename": "ديزني-قصص-و5-العاب-بازل-الاسد-الملك-60-قطعة-32-20-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e2b93db28ab1092dde19f0.JPG?size=520",
+      "bytes": 529061,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جيبو فلاش كارد تعلم العد",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gibo-flash-card-learn-to-count/s/917651",
+      "filename": "جيبو-فلاش-كارد-تعلم-العد.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007321686.JPG?size=520",
+      "bytes": 601264,
+      "dimensions": [
+        520,
+        450
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "نيلكو بسبس بومبا",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-exploding-kittens-card-game/s/936309",
+      "filename": "نيلكو-بسبس-بومبا.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6945208e9c15b4984099323b.jpg?size=520",
+      "bytes": 413915,
+      "dimensions": [
+        520,
+        376
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "نيلكو دوبل الأصلية بنفسجي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-purple-dobble-original-card-game/s/936308",
+      "filename": "نيلكو-دوبل-الاصلية-بنفسجي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6945208e9c15b49840993238.jpg?size=520",
+      "bytes": 1163590,
+      "dimensions": [
+        502,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "نيلكو-أعجوبة المنتقمون تاغو لعبة الذاكرة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nilco-disney-tago-avengers/s/922362",
+      "filename": "نيلكو-اعجوبة-المنتقمون-تاغو-لعبة-الذاكرة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007322034.JPG?size=520",
+      "bytes": 588745,
+      "dimensions": [
+        500,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "بدون كلام علبة ماجنت",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bedoon-kalaam-magnetic/s/911628",
+      "filename": "بدون-كلام-علبة-ماجنت.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687144ef8b6ae261425ec948.jpg?size=520",
+      "bytes": 634682,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:40:23Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__dermo-cosmetics",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/dermo-cosmetics",
+  "output_dir": "/home/z/my-project/output/personal-care__dermo-cosmetics",
+  "started_at": "2026-07-17T22:15:38Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/dermo-cosmetics",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/neutrogena-illuminating-serum-bright-boost-reduces-appearance-of-dark-spots-30ml/s/917726",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ستارفيل منظف الوجه للبشرة المعرضة لحب الشباب، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-facial-cleanser-200ml/s/928733",
+      "filename": "ستارفيل-منظف-الوجه-للبشرة-المعرضة-لحب-الشباب،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69249b642f59151ac8de86f2.jpg?size=520",
+      "bytes": 350843,
+      "dimensions": [
+        240,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ستارفيل صابون البشرة المعرضة لحب الشباب، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-soap-100g/s/928734",
+      "filename": "ستارفيل-صابون-البشرة-المعرضة-لحب-الشباب،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a8c.JPG?size=520",
+      "bytes": 308189,
+      "dimensions": [
+        520,
+        359
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ستارفيل رول اون تفتيح و مزيل للعرق برائحة الفانيليا 60 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-roll-on-deodrant-sweet-vanilla-60-ml/s/921157",
+      "filename": "ستارفيل-رول-اون-تفتيح-و-مزيل-للعرق-برائحة-الفانيليا-60-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010337756.JPG?size=520",
+      "bytes": 324644,
+      "dimensions": [
+        304,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ستارفيل قناع لتبييض الوجه 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-flawless-glow-whitening-brightening-rejuvenating-facial-sheet-mask-with-alpha-arbutin-phytexcell-for-all-skin-types-1-piece/s/924234",
+      "filename": "ستارفيل-قناع-لتبييض-الوجه-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c29a805d9e5c3043f7a33b.jpg?size=520",
+      "bytes": 509116,
+      "dimensions": [
+        392,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ستارفيل منظف التبييض، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-cleanser-200ml/s/928738",
+      "filename": "ستارفيل-منظف-التبييض،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a9a.jpg?size=520",
+      "bytes": 160813,
+      "dimensions": [
+        245,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ستارفيل كريم البشرة المعرضة لحب الشباب، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-cream-60g/s/928732",
+      "filename": "ستارفيل-كريم-البشرة-المعرضة-لحب-الشباب،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47d5.JPG?size=520",
+      "bytes": 236639,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ستارفيل صابون العناية بالتبييض، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-care-soap-100g/s/928737",
+      "filename": "ستارفيل-صابون-العناية-بالتبييض،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8a8e.jpg?size=520",
+      "bytes": 163872,
+      "dimensions": [
+        520,
+        318
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ستارفيل جل العناية الليلية للتبييض، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-night-care-gel-60g/s/928740",
+      "filename": "ستارفيل-جل-العناية-الليلية-للتبييض،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47d8.JPG?size=520",
+      "bytes": 237899,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ستارفيل مزيل عرق ستيك برائحة الجوزهند  60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-light-pink-deodorant-stick-60ml/s/928743",
+      "filename": "ستارفيل-مزيل-عرق-ستيك-برائحة-الجوزهند-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8aa3.JPG?size=520",
+      "bytes": 294672,
+      "dimensions": [
+        251,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-hydrate-femme-intimate-cleansing-foam-150ml/s/928741",
+      "filename": "Grocery-Shop-13.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "شان حليب الجسم غير الدهني المقوي من شان بحمض الهيالورونيك والنياسيناميد والسيراميد للبشرة الجافة إلى الجافة جدا، 300 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-non-greasy-strengthening-body-milk-with-hyaluronic-acid-niacinamide-ceramide-for-dry-to-very-dry-skin-300ml/s/928748",
+      "filename": "شان-حليب-الجسم-غير-الدهني-المقوي-من-شان-بحمض-الهيالورونيك-والنياسيناميد-والسيراميد-للبشرة-الجافة-الى-الجافة-جدا،-300.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496b42f59151ac8dd7b29.jpg?size=520",
+      "bytes": 278844,
+      "dimensions": [
+        232,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "شان بلسم الشفاه المغذي والمرطب مع البانثينول وزبدة الكاكاو، 5 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-nourishing-moisturizing-lip-balm-with-panthenol-cocoa-butter-5g/s/928750",
+      "filename": "شان-بلسم-الشفاه-المغذي-والمرطب-مع-البانثينول-وزبدة-الكاكاو،-5-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/675bfff8d578e958c347bc89.png?size=520",
+      "bytes": 251503,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "شان كريم مرطب لتجديد شباب البشرة مع برو فيتامين ب5 للبشرة الجافة والحساسة، 120 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-rejuvenation-moisturizing-cream-with-pro-vitamin-b5-for-dry-sensitive-skin-120g/s/928746",
+      "filename": "شان-كريم-مرطب-لتجديد-شباب-البشرة-مع-برو-فيتامين-ب5-للبشرة-الجافة-والحساسة،-120-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69809ed567c58fbb27da47d7.JPG?size=520",
+      "bytes": 336908,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "شان توليب روز حليب الجسم، 300 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-tulip-rose-body-milk-300ml/s/928754",
+      "filename": "شان-توليب-روز-حليب-الجسم،-300-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6924989d2f59151ac8ddf5d5.JPG?size=520",
+      "bytes": 222957,
+      "dimensions": [
+        221,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "شان منظف الوجه المرطب والتنظيف العميق بفيتامين إي وسي، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-moisturizing-antioxidant-face-body-gel-cleanser-with-vitamin-e-c-for-sensitive-all-skin-types-250ml/s/928747",
+      "filename": "شان-منظف-الوجه-المرطب-والتنظيف-العميق-بفيتامين-اي-وسي،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c29a705d9e5c3043f79caf.JPG?size=520",
+      "bytes": 243990,
+      "dimensions": [
+        219,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "شان منظف ​​المناطق الحساسة، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-intimate-feminine-cleanser-250ml/s/928752",
+      "filename": "شان-منظف-المناطق-الحساسة،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c2ca2a167ae6c401a7b1.JPG?size=520",
+      "bytes": 357846,
+      "dimensions": [
+        220,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فيشي مزيل العرق المفرط عند الضغط يدوم لمدة ٧٢ ساعة ٥٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-72-hours-stress-resist-excessive-perspiration-deodorant-50ml/s/927900",
+      "filename": "فيشي-مزيل-العرق-المفرط-عند-الضغط-يدوم-لمدة-٧٢-ساعة-٥٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6449a20b-d060-4c9b-84ad-071ec4b95203.JPG?size=520",
+      "bytes": 299991,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "لاروش بوزيه سيكابلاست بوم بي 5+ كريم ملطف ومعالج 40مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/la-roche-posay-cicaplast-baume-b5-ultra-reparing-soothing-balm-40ml/s/927885",
+      "filename": "لاروش-بوزيه-سيكابلاست-بوم-بي-5-كريم-ملطف-ومعالج-40مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/b910e536-5a76-485c-b7d5-701c01aed114.JPG?size=520",
+      "bytes": 197747,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "لا روش بوزيه إيفاكلار جل غسول رغوي مُنظف للبشرة الدهنية والمعرضة لحب الشباب 200مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/la-roche-posay-effaclar-acne-foaming-cleansing-gel-for-oily-and-acne-prone-skin-200ml/s/927888",
+      "filename": "لا-روش-بوزيه-ايفاكلار-جل-غسول-رغوي-منظف-للبشرة-الدهنية-والمعرضة-لحب-الشباب-200مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/58949a2d-80e8-4419-b771-5ac327bc1f53.JPG?size=520",
+      "bytes": 258320,
+      "dimensions": [
+        520,
+        469
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:19:13Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

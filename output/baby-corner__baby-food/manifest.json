@@ -1,0 +1,330 @@
+{
+  "category": "baby-corner__baby-food",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/baby-corner/baby-food",
+  "output_dir": "/home/z/my-project/output/baby-corner__baby-food",
+  "started_at": "2026-07-17T22:56:52Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/baby-corner/baby-food",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "سيريلاك اكل اطفال قمح باللبن 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-wheat-with-milk-6-months-500g/s/906997",
+      "filename": "سيريلاك-اكل-اطفال-قمح-باللبن-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdba3d754b2cdae91f93a9.JPG?size=520",
+      "bytes": 569960,
+      "dimensions": [
+        301,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "سيريلاك للاطفال قمح باللبن 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-baby-food-wheat-milk-125-gm/s/907050",
+      "filename": "سيريلاك-للاطفال-قمح-باللبن-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007025894.JPG?size=520",
+      "bytes": 312153,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "سيريلاك غذاء اطفال حديد وتمر 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-baby-food-iron-dates-125-gm/s/907046",
+      "filename": "سيريلاك-غذاء-اطفال-حديد-وتمر-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007026921.JPG?size=520",
+      "bytes": 307239,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "سيريلاك اكل اطفال عسل باللبن 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-honey-wheat-with-milk-12-months-125g/s/907070",
+      "filename": "سيريلاك-اكل-اطفال-عسل-باللبن-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdba37754b2cdae91f8fcd.jpg?size=520",
+      "bytes": 842700,
+      "dimensions": [
+        395,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "هيرو جوديز بافس  الكريمة و الاعشاب 30 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-goodies-sour-cream-herbs-puffs-30g/s/933861",
+      "filename": "هيرو-جوديز-بافس-الكريمة-و-الاعشاب-30-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d4f2387fe2811f81637d34.png?size=520",
+      "bytes": 621985,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "سيريلاك للاطفال 3 فواكة باللبن 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-infant-cereal-with-3-fruits-wheat-milk-6-months-125g/s/907059",
+      "filename": "سيريلاك-للاطفال-3-فواكة-باللبن-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdba2e754b2cdae91f8999.jpg?size=520",
+      "bytes": 642297,
+      "dimensions": [
+        349,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "سيريلاك اكل اطفال 3 فواكة باللبن 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-baby-food-3-fruits-250-gm/s/907028",
+      "filename": "سيريلاك-اكل-اطفال-3-فواكة-باللبن-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007026051.JPG?size=520",
+      "bytes": 253782,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "سيريلاك قمح مع لبن بدون سكروز مضاف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-wheat-milk-no-sugar-infant-cereal-125g/s/935778",
+      "filename": "سيريلاك-قمح-مع-لبن-بدون-سكروز-مضاف.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6925565fb7ac04a869660f48.png?size=520",
+      "bytes": 1145056,
+      "dimensions": [
+        461,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "سيريلاك حبوب قمح للأطفال بدون حليب، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-wheat-infant-cereal-without-milk-400g/s/929679",
+      "filename": "سيريلاك-حبوب-قمح-للاطفال-بدون-حليب،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6924958f2f59151ac8dd0815.jpg?size=520",
+      "bytes": 621567,
+      "dimensions": [
+        305,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "سيريلاك اكل اطفال قمح 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-baby-food-wheat-125-gm/s/907047",
+      "filename": "سيريلاك-اكل-اطفال-قمح-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007025597.JPG?size=520",
+      "bytes": 324914,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "سيريلاك قمح و تفاح بدون لبن 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-baby-cereal-with-wheat-apple-6-months-125g/s/911216",
+      "filename": "سيريلاك-قمح-و-تفاح-بدون-لبن-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdba38754b2cdae91f90b9.jpg?size=520",
+      "bytes": 849057,
+      "dimensions": [
+        408,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "سيريلاك قرصيه بدون باللبن 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-prunes-without-milk-125g/s/937902",
+      "filename": "سيريلاك-قرصيه-بدون-باللبن-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69cdf01a909cade5b6bb4ebe.png?size=520",
+      "bytes": 901552,
+      "dimensions": [
+        520,
+        494
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "سيريلاك بالفاكهة والقمح مع اللبن من نستلة 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-3-fruits-wheat-with-milk-6-months-500g/s/904049",
+      "filename": "سيريلاك-بالفاكهة-والقمح-مع-اللبن-من-نستلة-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdba32754b2cdae91f8c30.JPG?size=520",
+      "bytes": 652842,
+      "dimensions": [
+        319,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "حبوب سيريلاك متعددة الحبوب، 200 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-multigrain-cereals-200g/s/932355",
+      "filename": "حبوب-سيريلاك-متعددة-الحبوب،-200-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/684ec3dabc295540f4ac0d9d.JPG?size=520",
+      "bytes": 974361,
+      "dimensions": [
+        357,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "سيريلاك اكل اطفال ارز 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cerelac-baby-food-rice-125-gm/s/907053",
+      "filename": "سيريلاك-اكل-اطفال-ارز-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007025610.JPG?size=520",
+      "bytes": 320556,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "هيرو بيبي مهروس ارز مع دجاج، من عمر ٦ أشهر، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-rice-chicken-puree-6-months-120g/s/903679",
+      "filename": "هيرو-بيبي-مهروس-ارز-مع-دجاج،-من-عمر-٦-اشهر،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d632f7400eee02da661660.JPG?size=520",
+      "bytes": 665221,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "هيرو بيبي مهروس خضروات مشكلة، من عمر ٦ أشهر، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-mixed-vegetables-puree-6-months-120g/s/903677",
+      "filename": "هيرو-بيبي-مهروس-خضروات-مشكلة،-من-عمر-٦-اشهر،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d632ff400eee02da6616da.png?size=520",
+      "bytes": 572738,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "هيرو بيبي مهروس فواكه مشكلة، من عمر ٦ أشهر، 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-mixed-fruits-puree-6-months-125g/s/903674",
+      "filename": "هيرو-بيبي-مهروس-فواكه-مشكلة،-من-عمر-٦-اشهر،-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d63309400eee02da661766.png?size=520",
+      "bytes": 585779,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "هيرو بيبي مهروس فواكه مع جزر وشوفان، من عمر ٦ أشهر، 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-fruits-with-carrots-oats-puree-6-months-125g/s/903676",
+      "filename": "هيرو-بيبي-مهروس-فواكه-مع-جزر-وشوفان،-من-عمر-٦-اشهر،-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d63306400eee02da66175e.png?size=520",
+      "bytes": 632061,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "هيرو طعام الأطفال بنكهة التفاح المهروس، 125 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-food-apple-puree-125g/s/903673",
+      "filename": "هيرو-طعام-الاطفال-بنكهة-التفاح-المهروس،-125-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/1cdc9999-8b2d-4cd9-87df-d0fdb4425387.jpg?size=520",
+      "bytes": 524949,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:00:30Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

@@ -1,0 +1,330 @@
+{
+  "category": "baby-corner__baby-hygiene",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/baby-corner/baby-hygiene",
+  "output_dir": "/home/z/my-project/output/baby-corner__baby-hygiene",
+  "started_at": "2026-07-17T23:00:31Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/baby-corner/baby-hygiene",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "​ جونسون بيبي زيت أطفال مغذي ومرطب، مثبت معمليًا أنه معتدل، لا يسبب الحساسية، مثالي للتدليك، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/johnsons-baby-oil-clinically-proven-mild-gentle-nourishing-and-moisturizing-hypoallergenic-200ml/s/902058",
+      "filename": "جونسون-بيبي-زيت-اطفال-مغذي-ومرطب،-مثبت-معمليا-انه-معتدل،-لا-يسبب-الحساسية،-مثالي-للتدليك،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e977e582ab57729dcdf8cc.JPG?size=520",
+      "bytes": 239345,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "​ جونسون بيبي شامبو، تركيبة لا دموع بعد اليوم اللطيفة لشعر ناعم ونظيف، مناسب للاستخدام اليومي، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/johnsons-baby-shampoo-gentle-no-tears-formula-for-soft-clean-hair-suitable-for-daily-use-200ml/s/902047",
+      "filename": "جونسون-بيبي-شامبو،-تركيبة-لا-دموع-بعد-اليوم-اللطيفة-لشعر-ناعم-ونظيف،-مناسب-للاستخدام-اليومي،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e977c382ab57729dcdf87c.JPG?size=520",
+      "bytes": 331214,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "جونسون لوشن ناعم للاطفال 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/johnsons-baby-soft-lotion-with-coconut-oil-200ml/s/902089",
+      "filename": "جونسون-لوشن-ناعم-للاطفال-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a1fee03c4928923bcf3941a.png?size=520",
+      "bytes": 253234,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "وايت مناديل مبلله واتر 50 منديل 3 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-995-purified-water-wipes-3x50-sheets/s/918386",
+      "filename": "وايت-مناديل-مبلله-واتر-50-منديل-3-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696e5b2664e2721dcf8be1a7.jpg?size=520",
+      "bytes": 430305,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "وايت مناديل مبللة للاطفال 72 منديل [بابونج]",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-moisturizing-nourishing-chamomile-baby-wet-wipes-72-sheets/s/925583",
+      "filename": "وايت-مناديل-مبللة-للاطفال-72-منديل-بابونج.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696e5b2664e2721dcf8be1b6.jpg?size=520",
+      "bytes": 463442,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "وايت كيدز مناديل مبللة للأطفال، 10 مناديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-pink-kids-wet-wipes-10-wipes/s/932910",
+      "filename": "وايت-كيدز-مناديل-مبللة-للاطفال،-10-مناديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6879f695251749f092f7081d.JPG?size=520",
+      "bytes": 295225,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "وايت مناديل مبللة للاطفال 72 منديل [للبشرة الحساسة]",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-sensitive-skin-baby-wet-wipes-72-sheets/s/925584",
+      "filename": "وايت-مناديل-مبللة-للاطفال-72-منديل-للبشرة-الحساسة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd686e83dec8ac393494e.png?size=520",
+      "bytes": 310907,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "وايت مناديل وايبس للأطفال، 15 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-baby-wipes-15-pieces/s/936318",
+      "filename": "وايت-مناديل-وايبس-للاطفال،-15-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d25520.png?size=520",
+      "bytes": 369599,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "وايت مناديل مبللة للاطفال 72 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-baby-wipes-72-sheets/s/908616",
+      "filename": "وايت-مناديل-مبللة-للاطفال-72-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688387b48b4d17c9361bbca2.jpg?size=520",
+      "bytes": 378670,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "وايت مناديل وايبس للأطفال برائحة البابونج الأبيض، 15 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-baby-chamomile-wipes-15-pieces/s/936317",
+      "filename": "وايت-مناديل-وايبس-للاطفال-برائحة-البابونج-الابيض،-15-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6945208e9c15b49840993232.jpg?size=520",
+      "bytes": 425063,
+      "dimensions": [
+        520,
+        240
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "وايت مناديل للأطفال - للبشرة الحساسة - 72 منديلًا - عبوة من قطعتين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-sensitive-skin-baby-wipes-72-wipes-pack-of-2/s/932906",
+      "filename": "وايت-مناديل-للاطفال-للبشرة-الحساسة-72-منديلا-عبوة-من-قطعتين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6997cb9dacf65d2578d.png?size=520",
+      "bytes": 379817,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "وايت مناديل للأطفال - بابونج - 72 منديل - عبوة من قطعتين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-chamomile-baby-wipes-72-wipes-pack-of-2/s/932905",
+      "filename": "وايت-مناديل-للاطفال-بابونج-72-منديل-عبوة-من-قطعتين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6997cb9dacf65d25797.png?size=520",
+      "bytes": 444002,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "وايت قفاز بيبى قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-wet-wipes-magic-baby-glove-for-single-use-1-piece/s/921033",
+      "filename": "وايت-قفاز-بيبى-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011512596.JPG?size=520",
+      "bytes": 257437,
+      "dimensions": [
+        438,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "مناديل مبللة للأطفال، 2x72 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-baby-wipes-2x72-sheets/s/910840",
+      "filename": "مناديل-مبللة-للاطفال،-2x72-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0eb07d84dc739b9225b6f.JPG?size=520",
+      "bytes": 607002,
+      "dimensions": [
+        520,
+        418
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "وايت ويت وايبس كيدز - أصفر، 10 مناديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-yellow-kids-wet-wipes-10-wipes/s/932911",
+      "filename": "وايت-ويت-وايبس-كيدز-اصفر،-10-مناديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6879f695251749f092f70826.JPG?size=520",
+      "bytes": 282194,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "وايت مناديل للأطفال خالية من البارابين وخالية من الكحول، 48 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-995-purified-water-xl-baby-water-wipes-48-sheets/s/926759",
+      "filename": "وايت-مناديل-للاطفال-خالية-من-البارابين-وخالية-من-الكحول،-48-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696e59b094ea89f82b3df4de.jpg?size=520",
+      "bytes": 397947,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "وايت مناديل وايبس للبشرة الحساسة للأطفال، 15 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-baby-sensitive-skin-wipes-15-pieces/s/936316",
+      "filename": "وايت-مناديل-وايبس-للبشرة-الحساسة-للاطفال،-15-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6945208e9c15b49840993234.jpg?size=520",
+      "bytes": 412872,
+      "dimensions": [
+        520,
+        240
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سيجنال معجون أسنان للأطفال بطعم الفراولة، 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-strawberry-toothpaste-for-kids-50ml/s/926437",
+      "filename": "سيجنال-معجون-اسنان-للاطفال-بطعم-الفراولة،-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496bc2f59151ac8dd7f1d.jpg?size=520",
+      "bytes": 494085,
+      "dimensions": [
+        520,
+        422
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "سيجنال معجون أسنان للأطفال بنكهة الفواكه يمنع التسوس، 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-kids-toothpaste-fruity-prevents-tooth-decay-tooth-cavity-50ml/s/926840",
+      "filename": "سيجنال-معجون-اسنان-للاطفال-بنكهة-الفواكه-يمنع-التسوس،-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66d9978cfc3e48940f83d624.JPG?size=520",
+      "bytes": 321776,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إيڤا أدڤانسد كير كلينيك كيدز كيرلز بلسم ليڤ-إن لترطيب الشعر الكيرلي للشعر المموج والمجعد والمتعرج 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-moisturizing-leave-in-conditioner-with-avocado-marshmallow-for-wavy-curly-coily-hair-200g/s/930157",
+      "filename": "ايڤا-ادڤانسد-كير-كلينيك-كيدز-كيرلز-بلسم-ليڤ-ان-لترطيب-الشعر-الكيرلي-للشعر-المموج-والمجعد-والمتعرج-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7bcbcfef70d93a22f2f5.JPG?size=520",
+      "bytes": 266391,
+      "dimensions": [
+        520,
+        369
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:04:05Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

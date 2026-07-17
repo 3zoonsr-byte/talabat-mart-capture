@@ -1,0 +1,330 @@
+{
+  "category": "cleaning-laundry__dishwashing",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cleaning-laundry/dishwashing",
+  "output_dir": "/home/z/my-project/output/cleaning-laundry__dishwashing",
+  "started_at": "2026-07-17T22:04:50Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cleaning-laundry/dishwashing",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات إسفنجة قماش، قوي التحمل، قطعة واحدة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-heavy-duty-fabric-cloth-sponge-1-piece/s/932365",
+      "filename": "طلبات-اسفنجة-قماش،-قوي-التحمل،-قطعة-واحدة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a275a.JPG?size=520",
+      "bytes": 639369,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات اسفنج تنظيف، حماية الأظافر، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-nail-saver-sponge-scourers-3-pieces/s/932359",
+      "filename": "طلبات-اسفنج-تنظيف،-حماية-الاظافر،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a2754.JPG?size=520",
+      "bytes": 345695,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات اسفنج تنظيف، مسطح، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-flat-sponge-scourers-3-pieces/s/932366",
+      "filename": "طلبات-اسفنج-تنظيف،-مسطح،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a275b.JPG?size=520",
+      "bytes": 322997,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات إسفنجة قماش، غير خداشة، قطعة واحدة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-non-scratch-fabric-cloth-sponge-1-piece/s/932364",
+      "filename": "طلبات-اسفنجة-قماش،-غير-خداشة،-قطعة-واحدة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a2758.JPG?size=520",
+      "bytes": 497958,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات اسفنج تنظيف، مع فولاذ مقاوم للصدأ، قطعة واحدة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-stainless-steel-sponge-scourer-1-piece/s/932367",
+      "filename": "طلبات-اسفنج-تنظيف،-مع-فولاذ-مقاوم-للصدا،-قطعة-واحدة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a275c.JPG?size=520",
+      "bytes": 364457,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كلوركس مبيض 950مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pril-lemon-dishwashing-liquid-600ml/s/913000",
+      "filename": "كلوركس-مبيض-950مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/632c60613b65e42fdd326a95.jpg",
+      "bytes": 29816,
+      "dimensions": [
+        1890,
+        2218
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "طلبات مناشف تنظيف، متعددة الاستخدام، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-multipurpose-cleaning-towels-3-pieces/s/932363",
+      "filename": "طلبات-مناشف-تنظيف،-متعددة-الاستخدام،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a2759.JPG?size=520",
+      "bytes": 436955,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طلبات لباد تنظيف، قوي التحمل، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-heavy-duty-scouring-pads-3-pieces/s/932361",
+      "filename": "طلبات-لباد-تنظيف،-قوي-التحمل،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a2756.JPG?size=520",
+      "bytes": 393384,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "طلبات لباد تنظيف، ناعم، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-soft-scouring-pads-3-pieces/s/932362",
+      "filename": "طلبات-لباد-تنظيف،-ناعم،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a2757.JPG?size=520",
+      "bytes": 434141,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طلبات اسفنج تنظيف، حماية الأظافر، 9 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-nail-saver-sponge-scourers-9-pieces/s/932360",
+      "filename": "طلبات-اسفنج-تنظيف،-حماية-الاظافر،-9-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68caaadb9b3d9cc1206a2755.JPG?size=520",
+      "bytes": 390282,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pril-dishwashing-liquid-green-lemon-1-l/s/912999",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بريل سائل منظف أطباق 2.5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pril-dishwashing-liquid-25l/s/912998",
+      "filename": "بريل-سائل-منظف-اطباق-2-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/671f522813aa94f138f1a89f.jpg?size=520",
+      "bytes": 476746,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كلوركس مبيض 950مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pril-lemon-dishwashing-liquid-600g/s/913001",
+      "filename": "كلوركس-مبيض-950مل-15.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/632c60613b65e42fdd326a95.jpg",
+      "bytes": 28597,
+      "dimensions": [
+        1890,
+        2218
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فيبا منظف اطباق سائل ليمون 4 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/feba-lemon-dishwashing-liquid-4kg/s/903792",
+      "filename": "فيبا-منظف-اطباق-سائل-ليمون-4-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67da91488894bfbdb4e3331f.jpg?size=520",
+      "bytes": 404590,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pril-balsam-dishwashing-liquid-600ml/s/909005",
+      "filename": "Grocery-Shop-17.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "أوكسي سائل جلي بالليمون الأخضر، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oxi-green-lemon-dishwashing-liquid-1l/s/908159",
+      "filename": "اوكسي-سائل-جلي-بالليمون-الاخضر،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69899e24fc43ff942cae998e.JPG?size=520",
+      "bytes": 308392,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "أوكسي غسول أطباق باليوسفي 600 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oxi-dish-wash-mandarin-600ml/s/920440",
+      "filename": "اوكسي-غسول-اطباق-باليوسفي-600-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223014212069.JPG?size=520",
+      "bytes": 219675,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فيبا منظف اطباق سائل ليمون 2 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/feba-lemon-dishwashing-liquid-2kg/s/900704",
+      "filename": "فيبا-منظف-اطباق-سائل-ليمون-2-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b8862a2da23c8e3c5ea021.JPG?size=520",
+      "bytes": 502194,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pril-apple-dishwashing-liquid-600g/s/913002",
+      "filename": "Grocery-Shop-21.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فيبا منظف اطباق ليمون 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/feba-dishwashing-liquid-lemon-scent-700g/s/900703",
+      "filename": "فيبا-منظف-اطباق-ليمون-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000232217.JPG?size=520",
+      "bytes": 341950,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:08:21Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

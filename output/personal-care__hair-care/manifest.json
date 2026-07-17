@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__hair-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/hair-care",
+  "output_dir": "/home/z/my-project/output/personal-care__hair-care",
+  "started_at": "2026-07-17T22:19:14Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/hair-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "او جي اكس شامبو بحليب جوز الهند، 577 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ogx-coconut-milk-shampoo-577ml/s/936931",
+      "filename": "او-جي-اكس-شامبو-بحليب-جوز-الهند،-577-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69883bcb38ecce0ea61c1d3c.png?size=520",
+      "bytes": 211601,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "او جي اكس بلسم زيت الأرجان المغربي، 577 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ogx-argan-oil-of-morocco-conditioner-577ml/s/936930",
+      "filename": "او-جي-اكس-بلسم-زيت-الارجان-المغربي،-577-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69883bcb38ecce0ea61c1d3b.png?size=520",
+      "bytes": 287454,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "او جي اكس بلسم حليب جوز الهند، 577 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ogx-coconut-milk-conditioner-577ml/s/936932",
+      "filename": "او-جي-اكس-بلسم-حليب-جوز-الهند،-577-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69883bcb38ecce0ea61c1d3e.png?size=520",
+      "bytes": 210436,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "موزع صبغة الشعر على شكل مشط مع زجاجة طقم تلوين الشعر، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hair-dye-root-comb-applicator-bottle-hair-coloring-set-3-pieces/s/928344",
+      "filename": "موزع-صبغة-الشعر-على-شكل-مشط-مع-زجاجة-طقم-تلوين-الشعر،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7efb7d94e05617681a7.JPG?size=520",
+      "bytes": 625591,
+      "dimensions": [
+        489,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "لوريال الفيف هيالورون بيور شامبو منقي 72 ساعة 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/loreal-elvive-hyaluron-pure-72h-purifying-shampoo-with-salicylic-hyaluronic-acids-for-oily-scalp-dehydrated-lengths-200ml/s/925837",
+      "filename": "لوريال-الفيف-هيالورون-بيور-شامبو-منقي-72-ساعة-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691e23da618b1881145bb4c7.png?size=520",
+      "bytes": 340940,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "إلفيف بلسم بالزيوت الاستثنائية، 200 ملليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/loreal-elvive-extraordinary-oil-nourishing-shampoo-with-macadamia-argan-oil-for-very-dry-hair-200ml/s/915993",
+      "filename": "الفيف-بلسم-بالزيوت-الاستثنائية،-200-ملليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691e23f0618b1881145bbe1d.png",
+      "bytes": 65541,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "إلفيف هيالورون بلسم المرطب النقي 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elvive-hyaluronic-pure-rehydrating-conditioner-200ml/s/925840",
+      "filename": "الفيف-هيالورون-بلسم-المرطب-النقي-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691e23e6618b1881145bb913.png?size=520",
+      "bytes": 360701,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "حاج عرفة شامبو 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-shampoo-250ml/s/922861",
+      "filename": "حاج-عرفة-شامبو-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa84.jpg?size=520",
+      "bytes": 291389,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "حاج عرفة بلسم 250 ملى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-conditioner-with-jojoba-oil-250ml/s/922855",
+      "filename": "حاج-عرفة-بلسم-250-ملى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdee8f.jpg?size=520",
+      "bytes": 240726,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dove-shampoo-intensive-repair-350ml/s/919903",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "إلفيف شامبو جلايكوليك غلوس للشعر الباهت، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elvive-glycolic-gloss-shampoo-for-dull-hair-200ml/s/932850",
+      "filename": "الفيف-شامبو-جلايكوليك-غلوس-للشعر-الباهت،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691e23a1618b1881145b99e6.png?size=520",
+      "bytes": 386388,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "إيفا كلينك جولد أرجان الحماية الثلاثية شامبو 230 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-hair-clinic-gold-argan-shampoo-for-all-hair-types-230ml/s/921833",
+      "filename": "ايفا-كلينك-جولد-ارجان-الحماية-الثلاثية-شامبو-230-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6975ef86531ff1ed54d45ea7.png?size=520",
+      "bytes": 264011,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "حاج عرفة معطر الشعر شوجر، 60 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-sugar-hair-mist-60ml/s/925938",
+      "filename": "حاج-عرفة-معطر-الشعر-شوجر،-60-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/Haj%20Arafa/10%20SEP/23021029.jpg?size=520",
+      "bytes": 129626,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "إلفيف شامبو مقوي للمقاومة الكاملة، 400 ملليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/loreal-elvive-full-resist-reinforcing-shampoo-with-vitamin-b5-biotin-arginine-for-weakened-hair-400ml/s/911314",
+      "filename": "الفيف-شامبو-مقوي-للمقاومة-الكاملة،-400-ملليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694a76298c9967aebf24a745.jpg?size=520",
+      "bytes": 486994,
+      "dimensions": [
+        201,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "إلفيف شامبو هيالورون المرطب للشعر الجاف، 200 ملليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/loreal-elvive-72h-moisture-filling-shampoo-with-hyaluronic-acid-for-dehydrated-dry-hair-200ml/s/915990",
+      "filename": "الفيف-شامبو-هيالورون-المرطب-للشعر-الجاف،-200-ملليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691e23e6618b1881145bb908.png?size=520",
+      "bytes": 363586,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "حاج عرفه عطر شعر 60 ملى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-hair-mist-60ml/s/922875",
+      "filename": "حاج-عرفه-عطر-شعر-60-ملى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdee9c.jpg?size=520",
+      "bytes": 192535,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "حاج عرفة شامبو للشعر الدهني 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-shampoo-for-oily-hair-250ml/s/922860",
+      "filename": "حاج-عرفة-شامبو-للشعر-الدهني-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa86.jpg?size=520",
+      "bytes": 299584,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "لوريال إلفيف غلايكوليك غلوس شامبو للشعر الباهت، 400مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/loreal-elvive-glycolic-gloss-shampoo-for-dull-hair-400ml/s/932851",
+      "filename": "لوريال-الفيف-غلايكوليك-غلوس-شامبو-للشعر-الباهت،-400مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/686237a8e1c6e4dafdf5b6f3.png?size=520",
+      "bytes": 384995,
+      "dimensions": [
+        280,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "حاج عرفة معطر الشعر بجوز الهند، 60 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-coconut-hair-mist-60ml/s/925937",
+      "filename": "حاج-عرفة-معطر-الشعر-بجوز-الهند،-60-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/Haj%20Arafa/10%20SEP/23021028.jpg?size=520",
+      "bytes": 132344,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "الفيف شامبو بالزيت المغذى للشعر الجاف 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/loreal-paris-elvive-extraordinary-oil-nourishing-shampoo-for-dry-hair-200ml/s/915992",
+      "filename": "الفيف-شامبو-بالزيت-المغذى-للشعر-الجاف-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6902387264d3b816f63acde8.jpg?size=520",
+      "bytes": 376754,
+      "dimensions": [
+        210,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:22:46Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

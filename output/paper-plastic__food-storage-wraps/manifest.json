@@ -1,0 +1,330 @@
+{
+  "category": "paper-plastic__food-storage-wraps",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/paper-plastic/food-storage-wraps",
+  "output_dir": "/home/z/my-project/output/paper-plastic__food-storage-wraps",
+  "started_at": "2026-07-17T22:01:17Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/paper-plastic/food-storage-wraps",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات كلينج فيلم 30سم 30متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cling-film-30mx30cm/s/931951",
+      "filename": "طلبات-كلينج-فيلم-30سم-30متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6835b8f02d7b27cc3aabb10b.png?size=520",
+      "bytes": 294126,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات كلينج فيلم 40سم 20متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cling-film-20mx40cm/s/931954",
+      "filename": "طلبات-كلينج-فيلم-40سم-20متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6835b8f02d7b27cc3aabb109.png?size=520",
+      "bytes": 312062,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات كلينج فيلم 30سم 15متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cling-film-15mx30cm/s/931952",
+      "filename": "طلبات-كلينج-فيلم-30سم-15متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6835b8f02d7b27cc3aabb108.png?size=520",
+      "bytes": 292451,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات اكياس ثلاجة وسط 20×35 سم 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fridge-bags-medium-20x35cm-50-bags/s/930192",
+      "filename": "طلبات-اكياس-ثلاجة-وسط-20-35-سم-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e68cf5c0d0b8725898f7f2.JPG?size=520",
+      "bytes": 285183,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات اكياس ثلاجة كبير 40x25 سم 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fridge-bags-large-40x25cm-50-bags/s/930191",
+      "filename": "طلبات-اكياس-ثلاجة-كبير-40x25-سم-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e68cf0c0d0b8725898f7c1.JPG?size=520",
+      "bytes": 289222,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات اكياس ثلاجة صغير 17x30سم 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fridge-bags-small-17x30cm-50-bags/s/930193",
+      "filename": "طلبات-اكياس-ثلاجة-صغير-17x30سم-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e68cfac0d0b8725898f7f8.JPG?size=520",
+      "bytes": 279042,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "طلبات ورق زبدة للخبز، 10 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-butter-baking-paper-10m/s/925976",
+      "filename": "طلبات-ورق-زبدة-للخبز،-10-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0de48b775ebb7c541b25c.JPG?size=520",
+      "bytes": 183801,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طلبات رول الومينيوم فويل , 8 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-aluminum-foil-roll-8m/s/925620",
+      "filename": "طلبات-رول-الومينيوم-فويل-8-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/668fb17ed93ef46f79e9acc5.jpg?size=520",
+      "bytes": 224247,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "طلبات رول الومينيوم فويل , 20 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-aluminum-foil-roll-20m/s/925619",
+      "filename": "طلبات-رول-الومينيوم-فويل-20-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/668fb17dd93ef46f79e9ac9f.jpg?size=520",
+      "bytes": 216553,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طلبات اكياس زيبلوك وسط 17×25 سم 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-ziplock-bags-medium-17x25cm-50-bags/s/930195",
+      "filename": "طلبات-اكياس-زيبلوك-وسط-17-25-سم-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67da846b25d7bfa5b27d9034.png?size=520",
+      "bytes": 533986,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "طلبات كلينج فيلم 40سم 40متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cling-film-40mx40cm/s/931953",
+      "filename": "طلبات-كلينج-فيلم-40سم-40متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6835b8f02d7b27cc3aabb10a.png?size=520",
+      "bytes": 310924,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "طلبات أكياس زيبلوك صغيرة 12×18 سم 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-ziplock-bags-small-12x18cm-50-bags/s/930196",
+      "filename": "طلبات-اكياس-زيبلوك-صغيرة-12-18-سم-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67da846e25d7bfa5b27d903c.png?size=520",
+      "bytes": 525205,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "غطاء طعام شفاف مرن لأغطية الأوعية، 100 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/food-cover-transparent-elastic-bowl-lids-100-pieces/s/928319",
+      "filename": "غطاء-طعام-شفاف-مرن-لاغطية-الاوعية،-100-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7e5b7d94e0561768187.JPG?size=520",
+      "bytes": 357083,
+      "dimensions": [
+        520,
+        357
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بطانات ورقية للمقلاة الهوائية، وسادات ورقية غير لاصقة مقاومة للزيت 6.3 بوصة، 100 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/air-fryer-paper-liners-non-stick-parchment-paper-pads-oil-resistant-63-inches-100-pieces/s/928320",
+      "filename": "بطانات-ورقية-للمقلاة-الهوائية،-وسادات-ورقية-غير-لاصقة-مقاومة-للزيت-6-3-بوصة،-100-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7c0b7d94e05617680d5.JPG?size=520",
+      "bytes": 746474,
+      "dimensions": [
+        424,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "طلبات ورق زبدة للخبز، 10 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-multipurpose-aluminum-foil-silver-5m-x40-cm/s/908619",
+      "filename": "طلبات-ورق-زبدة-للخبز،-10-متر-17.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0de48b775ebb7c541b25c.JPG",
+      "bytes": 36071,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "سانيتا المنيوم فويل 40 سم 10 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-multipurpose-aluminum-foil-10mx40-cm/s/908620",
+      "filename": "سانيتا-المنيوم-فويل-40-سم-10-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222022101532.jpg?size=520",
+      "bytes": 158005,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "سانيتا ورق الطبخ، 10 أمتار",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-cooking-baking-paper-10mx30cm-1-piece/s/908675",
+      "filename": "سانيتا-ورق-الطبخ،-10-امتار.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690236cb64d3b816f63a6315.jpg?size=520",
+      "bytes": 236871,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سانيتا اكياس فرن حرارية وسط 8 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-oven-bags-medium-8-bags/s/908665",
+      "filename": "سانيتا-اكياس-فرن-حرارية-وسط-8-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222022101860.jpg?size=520",
+      "bytes": 462236,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "سانيتا المنيوم فويل 40سم 20 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-multipurpose-aluminum-foil-20m-x40-cm/s/908621",
+      "filename": "سانيتا-المنيوم-فويل-40سم-20-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_5281001515396.jpg?size=520",
+      "bytes": 154288,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "سانيتا الومنيوم فويل سميك 40 سم 20 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-heavy-duty-thick-aluminum-foil-20mx40cm/s/908617",
+      "filename": "سانيتا-الومنيوم-فويل-سميك-40-سم-20-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_5281001511572.jpg?size=520",
+      "bytes": 164092,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:04:49Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

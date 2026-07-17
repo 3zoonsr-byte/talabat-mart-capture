@@ -1,0 +1,330 @@
+{
+  "category": "electronics__grooming-essentials",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/electronics/grooming-essentials",
+  "output_dir": "/home/z/my-project/output/electronics__grooming-essentials",
+  "started_at": "2026-07-17T23:49:40Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/electronics/grooming-essentials",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "راش براش X5 بالبخار باللون الكحلي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x5-navy-steamer/s/935331",
+      "filename": "راش-براش-X5-بالبخار-باللون-الكحلي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900af508532bc36d5ca5a06.JPG?size=520",
+      "bytes": 103481,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-hair-volumizer-v2-plus-navy/s/928514",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "راش براش مكواة فرد الشعر X1 أنفرا  باللون الأسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x1-infra-straightener-black/s/935321",
+      "filename": "راش-براش-مكواة-فرد-الشعر-X1-انفرا-باللون-الاسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900af508532bc36d5ca5a0e.JPG?size=520",
+      "bytes": 57351,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "راش براش فرشاة فرد الشعر - الكحلي  S2 Elite",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-s2-elite-hair-straightener-brush-navy/s/931888",
+      "filename": "راش-براش-فرشاة-فرد-الشعر-الكحلي-S2-Elite.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/683456ae699528315c5d6a1d.JPG?size=520",
+      "bytes": 194826,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مكواة فرد الشعر Rush Brush X1 Lite - أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x1-lite-straightener-black/s/931779",
+      "filename": "مكواة-فرد-الشعر-Rush-Brush-X1-Lite-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/El%20Tahan%20Pharmacies%20-%20%20New%20items%20need%20img%20%281%29/123364.jpg?size=520",
+      "bytes": 488323,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "راش براش مكواة فرد الشعر - روز جولد X3 Glam",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x3-glam-straightener-rose-gold/s/931882",
+      "filename": "راش-براش-مكواة-فرد-الشعر-روز-جولد-X3-Glam.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/683456ae699528315c5d6a17.JPG?size=520",
+      "bytes": 199012,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "راش براش فولوميزر في2 برو أسود، 1300 وات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-volumizer-v2-pro-black-1300-watt/s/927564",
+      "filename": "راش-براش-فولوميزر-في2-برو-اسود،-1300-وات.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67110d7f9212200975fd8bbe.JPG?size=520",
+      "bytes": 231107,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "راش براش فولوميزر في2 بلس أحمر، 1300 وات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-volumizer-v2-plus-red-1300-watt/s/927566",
+      "filename": "راش-براش-فولوميزر-في2-بلس-احمر،-1300-وات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/b469d367-0043-4861-b601-238de3c1e750.jpg?size=520",
+      "bytes": 385942,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "راش براش  يو 1 بلس لاتيه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-u1-plus-latte/s/935320",
+      "filename": "راش-براش-يو-1-بلس-لاتيه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900af508532bc36d5ca5a0c.JPG?size=520",
+      "bytes": 140079,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x2-infra-revolver-purple-brush/s/935327",
+      "filename": "Grocery-Shop-12.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "فرشاة راش X5 البخارية - أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x5-steamer-black/s/935150",
+      "filename": "فرشاة-راش-X5-البخارية-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/678519c326d0c5f49f42f055.jfif?size=520",
+      "bytes": 144835,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "راش براش مكواة فرد الشعر - روز جولد X6 PLUS",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x6-plus-straightener-rose-gold/s/931881",
+      "filename": "راش-براش-مكواة-فرد-الشعر-روز-جولد-X6-PLUS.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/683456ae699528315c5d6a1b.JPG?size=520",
+      "bytes": 196838,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "راش براش مكواة فرد الشعر جلام x3 باللون الأسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-glam-black-straightener/s/935330",
+      "filename": "راش-براش-مكواة-فرد-الشعر-جلام-x3-باللون-الاسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900af508532bc36d5ca5a0d.JPG?size=520",
+      "bytes": 58196,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "الشيف توني موكاتشينو باللوز",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x6-straightener-rose-gold/s/935332",
+      "filename": "الشيف-توني-موكاتشينو-باللوز.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/El%20Tahan%20Pharmacies%20-%20%20New%20items%20need%20img%20%281%29/127465.jpeg?size=520",
+      "bytes": 244816,
+      "dimensions": [
+        476,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "راش براش فولوميزر في3 راسبيري، 1400 وات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-volumizer-v3-raspberry-1400-watt/s/927562",
+      "filename": "راش-براش-فولوميزر-في3-راسبيري،-1400-وات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/01bfddac-0a48-4164-96b5-27724b4cf29e.jpg?size=520",
+      "bytes": 358937,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "مكواة فرد الشعر Rush Brush X6 - أحمر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-x6-straightener-red/s/931778",
+      "filename": "مكواة-فرد-الشعر-Rush-Brush-X6-احمر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68e7a8da4eedc74d9e139713.png?size=520",
+      "bytes": 256253,
+      "dimensions": [
+        493,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "راش برش سي1 تويستي كورلر (أسود)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-c1-twisty-curler-black/s/935316",
+      "filename": "راش-برش-سي1-تويستي-كورلر-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/El%20Tahan%20Pharmacies%20-%20%20New%20items%20need%20img%20%281%29/127454.jpg?size=520",
+      "bytes": 304959,
+      "dimensions": [
+        520,
+        495
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "راش براش V2 بلس باللون الأسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-v2-1200w-v2-plus-volumizer-black/s/935143",
+      "filename": "راش-براش-V2-بلس-باللون-الاسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f88de450ebee5b0220e37b.jpg?size=520",
+      "bytes": 149644,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "راش براش 6 في 1 بلس أير ستايلر - أسود، 1300 واط",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-6in1-plus-airstyler-1300w-black/s/929713",
+      "filename": "راش-براش-6-في-1-بلس-اير-ستايلر-اسود،-1300-واط.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ab67db5932c32569123c08.JPG?size=520",
+      "bytes": 148892,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "راش براش فرشاة التكثيف V2 PRO",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rush-brush-v2-pro-volumizer-brush-raspberry/s/931884",
+      "filename": "راش-براش-فرشاة-التكثيف-V2-PRO.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/683456ae699528315c5d6a16.JPG?size=520",
+      "bytes": 177534,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:53:07Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

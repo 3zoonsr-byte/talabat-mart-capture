@@ -1,0 +1,330 @@
+{
+  "category": "baby-corner__diapers",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/baby-corner/diapers",
+  "output_dir": "/home/z/my-project/output/baby-corner__diapers",
+  "started_at": "2026-07-17T22:49:37Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/baby-corner/diapers",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "هيرو بيبى جرو  لبن اطفال من سن 1 الي 10 سنين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-grow-milk-from-1-to-10-years-400g/s/938377",
+      "filename": "هيرو-بيبى-جرو-لبن-اطفال-من-سن-1-الي-10-سنين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f0754c44d6d6d1aea77c05.jpg?size=520",
+      "bytes": 672262,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مولفيكس حفاضات بانتس  عبوة جامبو  مقاس كبير جدًا 6  46 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-pants-diapers-jumbo-pack-xlarge-size-6-46-pieces/s/934355",
+      "filename": "مولفيكس-حفاضات-بانتس-عبوة-جامبو-مقاس-كبير-جدا-6-46-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c9416caee43460629e70a9.JPG?size=520",
+      "bytes": 473608,
+      "dimensions": [
+        250,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مولفيكس حفاضات اطفال عبوة ميجاجونيور مقاس 5 70 حفاضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-baby-diapers-mega-pack-junior-size-5-70-pieces/s/921384",
+      "filename": "مولفيكس-حفاضات-اطفال-عبوة-ميجاجونيور-مقاس-5-70-حفاضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007653039.JPG?size=520",
+      "bytes": 701908,
+      "dimensions": [
+        357,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مولفيكس حفاضات بريميوم أوكسجين للأطفال العبوة العملاقة مقاس كبير جداً 6 46 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-premium-oxygen-baby-diapers-jumbo-pack-xlarge-size-6-46-pieces/s/930741",
+      "filename": "مولفيكس-حفاضات-بريميوم-اوكسجين-للاطفال-العبوة-العملاقة-مقاس-كبير-جدا-6-46-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f7cea97f98b60821f3e899.JPG?size=520",
+      "bytes": 379557,
+      "dimensions": [
+        207,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مولفيكس حفاضات بانتس  عبوة جامبو مقاس جونيور ٥  ٥٦ قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-junior-pants-diapers-size-5-56-pieces/s/934354",
+      "filename": "مولفيكس-حفاضات-بانتس-عبوة-جامبو-مقاس-جونيور-٥-٥٦-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c9416caee43460629e70a4.JPG?size=520",
+      "bytes": 569758,
+      "dimensions": [
+        306,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "مولفيكس حفاضات بريميوم أوكسجين بيبي العبوة الكبيرة مقاس 4 56 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-premium-oxygen-baby-diapers-jumbo-pack-maxi-size-4-56-pieces/s/930739",
+      "filename": "مولفيكس-حفاضات-بريميوم-اوكسجين-بيبي-العبوة-الكبيرة-مقاس-4-56-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f7ce997f98b60821f3e87d.JPG?size=520",
+      "bytes": 584850,
+      "dimensions": [
+        325,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "مولفيكس حفاضات بريميوم أوكسجين للأطفال العبوة الكبيرة لحديثي الولادة مقاس 1 58 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-premium-oxygen-baby-diapers-jumbo-pack-newborn-size-1-58-pieces/s/930736",
+      "filename": "مولفيكس-حفاضات-بريميوم-اوكسجين-للاطفال-العبوة-الكبيرة-لحديثي-الولادة-مقاس-1-58-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f7ce807f98b60821f3e828.JPG?size=520",
+      "bytes": 588547,
+      "dimensions": [
+        362,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مولفيكس حفاضات اطفال عبوة جامبو ميدى مقاس 3 58 حفاضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-midi-baby-diapers-jumbo-pack-size-3-58-pieces/s/909921",
+      "filename": "مولفيكس-حفاضات-اطفال-عبوة-جامبو-ميدى-مقاس-3-58-حفاضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007557082.JPG?size=520",
+      "bytes": 587132,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مولفكس حفاضات مقاس 2 ميني 60 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-mini-diapers-size-2-60-pieces/s/909920",
+      "filename": "مولفكس-حفاضات-مقاس-2-ميني-60-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687110f78b6ae261425e8d75.jpg?size=520",
+      "bytes": 627808,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "مولفيكس حفاضات بانتس مقاس متوسط ​​٣  ٣١ قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-pants-diapers-midi-size-3-31-pieces/s/934349",
+      "filename": "مولفيكس-حفاضات-بانتس-مقاس-متوسط-٣-٣١-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c9416caee43460629e70a1.JPG?size=520",
+      "bytes": 623423,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "مولفكس حفاضات مقاس 4 ماكسي 08 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-maxi-diapers-size-4-80-pieces/s/909926",
+      "filename": "مولفكس-حفاضات-مقاس-4-ماكسي-08-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6506f64c08443ca3cde0e1f9.jpg?size=520",
+      "bytes": 899061,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "مولفيكس بريميوم حفاضات اطفال عبوة ميجا ماكسى مقاس 4 - 76 حفاضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molfix-premium-baby-diapers-maxi-size-4-7-18kg-76-pieces/s/935105",
+      "filename": "مولفيكس-بريميوم-حفاضات-اطفال-عبوة-ميجا-ماكسى-مقاس-4-76-حفاضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f88435b2d675b09005a577.jpg?size=520",
+      "bytes": 607424,
+      "dimensions": [
+        404,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "بيبي جوي حفاضات كلوت مقاس جامبو 5 52 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/baby-joy-junior-diaper-pants-size-5-52-pieces/s/935533",
+      "filename": "بيبي-جوي-حفاضات-كلوت-مقاس-جامبو-5-52-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/8a258ed9-5b27-43cf-ab8b-8e4797e29cca.png?size=520",
+      "bytes": 472737,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بيبى جوى مقاس 4 - 58 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/baby-joy-large-diapers-size-4-10-18kg-58-pieces/s/935538",
+      "filename": "بيبى-جوى-مقاس-4-58-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/04e2304c-c8a7-43fa-be7e-a9f5b321f250.png?size=520",
+      "bytes": 455642,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "بيبى جوى مقاس 5 - 58 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/baby-joy-junior-diapers-size-5-14-25kg-58-pieces/s/935539",
+      "filename": "بيبى-جوى-مقاس-5-58-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6c968f6a-0d5f-48cb-8688-5adaedcb3753.png?size=520",
+      "bytes": 448235,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "بيبي جوي حفاضات كلوت مقاس 4 جامبو 58 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/baby-joy-large-diaper-pants-size-4-11-18kg-58-pieces/s/935532",
+      "filename": "بيبي-جوي-حفاضات-كلوت-مقاس-4-جامبو-58-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/5e7962be-4ec0-4b80-9949-f51cb5315f57.png?size=520",
+      "bytes": 629285,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "بيبى جوى مقاس 2 - 60 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/baby-joy-newborn-baby-diapers-size-2-35-7kg-60-pieces/s/935536",
+      "filename": "بيبى-جوى-مقاس-2-60-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/75a47f3c-822c-44cf-a04f-586c0bd813d8.png?size=520",
+      "bytes": 511239,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بيبى جوى مقاس 1 - 60 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/baby-joy-newborn-diapers-size-1-60-pieces/s/935535",
+      "filename": "بيبى-جوى-مقاس-1-60-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/b0c3af01-a5ed-4270-91c1-5ba72ca32e5a.png?size=520",
+      "bytes": 624106,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فاين بيبي حفاضات أطفال مقاس ٥ ماكسي وزن ١١-١٨ كجم ٥٨ حفاضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fine-baby-diapers-size-5-maxi-11-18-kg-58-diapers/s/913934",
+      "filename": "فاين-بيبي-حفاضات-اطفال-مقاس-٥-ماكسي-وزن-١١-١٨-كجم-٥٨-حفاضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6694e925cee6cac1a1bec55d.jpg?size=520",
+      "bytes": 759996,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فاين بيبي حفاضات أطفال مقاس ٥ ماكسي وزن ١١-١٨ كجم ٧٦ حفاضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fine-baby-diapers-size-5-maxi-11-18-kg-76-diaper/s/913938",
+      "filename": "فاين-بيبي-حفاضات-اطفال-مقاس-٥-ماكسي-وزن-١١-١٨-كجم-٧٦-حفاضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6294018803324.JPG?size=520",
+      "bytes": 760459,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:53:16Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

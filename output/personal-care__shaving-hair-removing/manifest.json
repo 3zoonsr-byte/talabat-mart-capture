@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__shaving-hair-removing",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/shaving-hair-removing",
+  "output_dir": "/home/z/my-project/output/personal-care__shaving-hair-removing",
+  "started_at": "2026-07-17T22:40:35Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/shaving-hair-removing",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "لورد تريبل بلس بشريط مرطب للرجال 6+2 ماكينة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lord-triple-blades-red-plus-with-rubber-handle-for-men-62-disposable-razors/s/925336",
+      "filename": "لورد-تريبل-بلس-بشريط-مرطب-للرجال-6-2-ماكينة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496282f59151ac8dd464e.jpg?size=520",
+      "bytes": 498164,
+      "dimensions": [
+        307,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "نيفيا رغوة الحلاقة للرجال فريش وكول، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-men-fresh-cool-shaving-foam-200ml/s/900634",
+      "filename": "نيفيا-رغوة-الحلاقة-للرجال-فريش-وكول،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68931f3edb8629812ae0311b.jpg?size=520",
+      "bytes": 348989,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "نيفيا رغوة الحلاقة للرجال للبشرة الحساسة، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-men-shaving-foam-for-sensitive-skin-200ml/s/900633",
+      "filename": "نيفيا-رغوة-الحلاقة-للرجال-للبشرة-الحساسة،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689322b9db8629812ae08651.jpg?size=520",
+      "bytes": 288510,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "حاج عرفة جل حلاقة 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-shaving-gel-250-ml/s/922856",
+      "filename": "حاج-عرفة-جل-حلاقة-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa87.jpg?size=520",
+      "bytes": 287706,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كوين حلاقة ثلاثية للاستخدام مرة واحدة مع شريط ترطيب ومقبض مطاطي 4 شفرات في عبوة بلاستيكية فقاعية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-razors-triple-blades-plus-lubrastripe-rubber-handle-in-a-blister-card-4-disposable/s/922278",
+      "filename": "كوين-حلاقة-ثلاثية-للاستخدام-مرة-واحدة-مع-شريط-ترطيب-ومقبض-مطاطي-4-شفرات-في-عبوة-بلاستيكية-فقاعية.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b1f3959c8617ff12022e6d.JPG?size=520",
+      "bytes": 489700,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "حاج عرفة جل حلاقة 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-after-shave-moisturizer-250ml/s/922870",
+      "filename": "حاج-عرفة-جل-حلاقة-250مل-8.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa87.jpg",
+      "bytes": 50652,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كوين باي لورد شفرات حلاقة توين بليد لوبراستريب للاستخدام مرة واحدة، 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-disposable-womens-razor-with-aloe-vera-for-sensitive-skin-5-pieces/s/930819",
+      "filename": "كوين-باي-لورد-شفرات-حلاقة-توين-بليد-لوبراستريب-للاستخدام-مرة-واحدة،-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6911a52a6c60837d9bef04c4.png?size=520",
+      "bytes": 405000,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "نيفيا كريم الحلاقة للرجال فريش كيك، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-men-fresh-kick-shaving-gel-200ml/s/900636",
+      "filename": "نيفيا-كريم-الحلاقة-للرجال-فريش-كيك،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68931f3ddb8629812ae03119.png?size=520",
+      "bytes": 309875,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "نيفيا رغوة الحلاقة للرجال مرطبة أورجينالز، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-men-moisturizing-originals-shaving-foam-200ml/s/900632",
+      "filename": "نيفيا-رغوة-الحلاقة-للرجال-مرطبة-اورجينالز،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68931f3ddb8629812ae03118.png?size=520",
+      "bytes": 294459,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "نيفيا كريم الحلاقة للرجال ديب، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-men-deep-clean-shave-shaving-gel-200ml/s/900639",
+      "filename": "نيفيا-كريم-الحلاقة-للرجال-ديب،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68931f5bdb8629812ae048a5.png?size=520",
+      "bytes": 369921,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كوين شفرات للوجه و الحواجب 3 شفرات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-eyebrow-razor-for-women-multicolour-set-of-3/s/925338",
+      "filename": "كوين-شفرات-للوجه-و-الحواجب-3-شفرات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222001567090.JPG?size=520",
+      "bytes": 237737,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "لورد ماكينة حلاقة شفرتين بلاس جاهزة للاستعمال أزرق 10 ماكينات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lord-razors-twin-blade-with-lubricating-strip10-disposable/s/922279",
+      "filename": "لورد-ماكينة-حلاقة-شفرتين-بلاس-جاهزة-للاستعمال-ازرق-10-ماكينات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222001557015.JPG?size=520",
+      "bytes": 404029,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "لورد ماكينات حلاقة شفرة احادية للاستخدام مرة واحدة ازرق 5+1 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lord-blue-white-disposable-body-razors-6-pieces/s/922281",
+      "filename": "لورد-ماكينات-حلاقة-شفرة-احادية-للاستخدام-مرة-واحدة-ازرق-5-1-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690236be64d3b816f63a5e6c.JPG?size=520",
+      "bytes": 526073,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "لورد فریش خماسي بلس 1 ماكینة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lord-five-blades-disposable-razor-plus-lubrastrip-in-pouch-1-piece/s/924182",
+      "filename": "لورد-فریش-خماسي-بلس-1-ماكینة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222001565607.JPG?size=520",
+      "bytes": 372769,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "طقم ماكينة حلاقة نسائية معاصرة للوجه مكون من 3 قطع متعدد الألوان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/contemporary-facial-razor-set-for-women-multicolored-3-pieces/s/931342",
+      "filename": "طقم-ماكينة-حلاقة-نسائية-معاصرة-للوجه-مكون-من-3-قطع-متعدد-الالوان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68249fb547789b199ba9635f.JPG?size=520",
+      "bytes": 306357,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "لورد كريم الحلاقة ايموفريش مينثول 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lord-emofresh-menthol-shaving-cream-55-g/s/922285",
+      "filename": "لورد-كريم-الحلاقة-ايموفريش-مينثول-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222001551686.JPG?size=520",
+      "bytes": 456494,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كيس كوين رابر 5 ماكينة شفرتين بشريط مرطب راس متحركة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-by-lord-swivel-head-disposable-razors-for-women-5-pieces/s/939239",
+      "filename": "كيس-كوين-رابر-5-ماكينة-شفرتين-بشريط-مرطب-راس-متحركة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a27f450e96133fb0783d368.jpg?size=520",
+      "bytes": 446819,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "لورد ماكينة حلاقة 3 بشفرة ثنائية عبوة من 5",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lord-fresh-razors-triple-blades-5-disposable/s/922274",
+      "filename": "لورد-ماكينة-حلاقة-3-بشفرة-ثنائية-عبوة-من-5.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ccfd0cf45c35f9e6c40d12.jpg?size=520",
+      "bytes": 541080,
+      "dimensions": [
+        269,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "كوين للنساء حلاقة مزدوجة الشفرة بالإضافة إلى شريط لوبرا 4 شفرات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-for-women-razors-twin-blade-plus-lubra-stripe-4-disposable/s/922280",
+      "filename": "كوين-للنساء-حلاقة-مزدوجة-الشفرة-بالاضافة-الى-شريط-لوبرا-4-شفرات.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e1522c99965d57e336afe4.jpg?size=520",
+      "bytes": 389967,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كوين كارت ماكينة + 5 شفرة غيار كوين تريبل بلاس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/queen-triple-blade-disposable-razors-for-sensitive-skin-5-pieces/s/928559",
+      "filename": "كوين-كارت-ماكينة-5-شفرة-غيار-كوين-تريبل-بلاس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6911a5d6164ec74e647b25b5.png?size=520",
+      "bytes": 404154,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:44:07Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

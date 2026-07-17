@@ -1,0 +1,106 @@
+{
+  "category": "electronics__kitchen-appliances",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/electronics/kitchen-appliances",
+  "output_dir": "/home/z/my-project/output/electronics__kitchen-appliances",
+  "started_at": "2026-07-17T23:43:52Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/electronics/kitchen-appliances",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "تانك فلتر  برو - 6 وظائف تنقية مدمجة (مؤقت رقمي) - أبيض",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tank-pro-filter-6-purification-compact-functions-digital-timer-white/s/935265",
+      "filename": "تانك-فلتر-برو-6-وظائف-تنقية-مدمجة-مؤقت-رقمي-ابيض.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff6dadb34ff3e2d361a42b.JPG?size=520",
+      "bytes": 89371,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "تانك فلتر برو - 6 وظائف تنقية مدمجة (مؤقت رقمي) - أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tank-pro-filter-6-purification-compact-functions-digital-timer-black/s/935268",
+      "filename": "تانك-فلتر-برو-6-وظائف-تنقية-مدمجة-مؤقت-رقمي-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69006e24b34ff3e2d361b904.JPG?size=520",
+      "bytes": 195696,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ميانتا اير فراير 4.2 لتر 1500 وات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mienta-air-fryer-1500w-42l/s/934582",
+      "filename": "ميانتا-اير-فراير-4-2-لتر-1500-وات.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d4f2566bd28e3479d0131b.jpg?size=520",
+      "bytes": 398940,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ميانتا - صانعة القهوة - تركي - سينكو - 5 أكواب",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mienta-turkish-cinco-coffee-maker-5-cups/s/934598",
+      "filename": "ميانتا-صانعة-القهوة-تركي-سينكو-5-اكواب.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d4f2566bd28e3479d01324.jpg?size=520",
+      "bytes": 480518,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:45:12Z",
+  "captured": 6,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 7
+}

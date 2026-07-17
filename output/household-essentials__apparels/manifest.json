@@ -1,0 +1,92 @@
+{
+  "category": "household-essentials__apparels",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/household-essentials/apparels",
+  "output_dir": "/home/z/my-project/output/household-essentials__apparels",
+  "started_at": "2026-07-17T23:26:16Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/household-essentials/apparels",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "بونشو بحر للأطفال مطبوع بألوان من مينترا - موجات صيفية، 66x76 سم، XL",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-colored-printed-kids-poncho-summer-tides-xlarge-66x76cm/s/925048",
+      "filename": "بونشو-بحر-للاطفال-مطبوع-بالوان-من-مينترا-موجات-صيفية،-66x76-سم،-XL.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221236196617.JPG?size=520",
+      "bytes": 634441,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "بونشو بحر بونشو أطفال مطبوع بألوان من مينترا - حديقة الجنيات، 64x68 سم، L",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-colored-printed-kids-poncho-fairy-garden-large-64x68cm/s/925049",
+      "filename": "بونشو-بحر-بونشو-اطفال-مطبوع-بالوان-من-مينترا-حديقة-الجنيات،-64x68-سم،-L.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221236196778.JPG?size=520",
+      "bytes": 683674,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "بونشو فوطة مينترا للأطفال بتصميم ألوان الصيف - مقاس XL - سم 76*66 (عبوتان)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mintra-colored-printed-kids-poncho-summer-tides-xlarge-66x76cm2/s/7VN06L",
+      "filename": "بونشو-فوطة-مينترا-للاطفال-بتصميم-الوان-الصيف-مقاس-XL-سم-76-66-عبوتان.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/77a5fb34-0c29-4f15-aa4c-ea277845c7e0.jpg?size=520",
+      "bytes": 939098,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:27:31Z",
+  "captured": 5,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 6
+}

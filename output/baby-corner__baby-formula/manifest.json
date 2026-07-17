@@ -1,0 +1,330 @@
+{
+  "category": "baby-corner__baby-formula",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/baby-corner/baby-formula",
+  "output_dir": "/home/z/my-project/output/baby-corner__baby-formula",
+  "started_at": "2026-07-17T22:53:17Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/baby-corner/baby-formula",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "هيرو بيبى جرو  لبن اطفال من سن 1 الي 10 سنين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-grow-milk-from-1-to-10-years-400g/s/938377",
+      "filename": "هيرو-بيبى-جرو-لبن-اطفال-من-سن-1-الي-10-سنين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f0754c44d6d6d1aea77c05.jpg?size=520",
+      "bytes": 672262,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "نان حليب  تركيبة للرضع المرحلة 1 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-comfort-expert-pro-infant-milk-formula-400g/s/935779",
+      "filename": "نان-حليب-تركيبة-للرضع-المرحلة-1-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69255681b7ac04a869660f85.png?size=520",
+      "bytes": 403462,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "هيرو بيبي تركيبة حليب المرحلة 2 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-follow-on-milk-formula-stage-2-6-months-400g/s/930772",
+      "filename": "هيرو-بيبي-تركيبة-حليب-المرحلة-2-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c29cfef70d93a2325e8.png?size=520",
+      "bytes": 607197,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "هيرو بيبي دايجست- تركيبة حليب لحالات المغص او الامساك 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-digest-reduced-lactose-milk-formula-with-gos-dha-nucleotides-for-constipated-infants-0-12-months-400g/s/930779",
+      "filename": "هيرو-بيبي-دايجست-تركيبة-حليب-لحالات-المغص-او-الامساك-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c395bbf8a969c329a38248.jpg?size=520",
+      "bytes": 669778,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "هيرو بيبي تركيبة حليب للرضع ، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-infant-milk-formula-stage-1-0-months-400g/s/930771",
+      "filename": "هيرو-بيبي-تركيبة-حليب-للرضع-،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c395bbf8a969c329a38249.png?size=520",
+      "bytes": 501569,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "هيرو بيبي نيوتراديفنس تركيبة حليب فولو اون حليب مع الحديد المعزز ، جي او اس، دي اتش ايه والنيوكليوتيدات المرحلة 2 612 شهرًا ، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-nutradefense-follow-on-milk-formula-with-fortified-iron-gos-dha-nucleotides-stage-2-6-12-months-400g/s/930774",
+      "filename": "هيرو-بيبي-نيوتراديفنس-تركيبة-حليب-فولو-اون-حليب-مع-الحديد-المعزز-،-جي-او-اس،-دي-اتش-ايه-والنيوكليوتيدات-المرحلة-2-612.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c395bbf8a969c329a38246.png?size=520",
+      "bytes": 433225,
+      "dimensions": [
+        425,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "هيرو بيبي تركيبة حليب اتش ايه، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-ha-hydrolyzed-protein-infant-milk-formula-with-dha-prebiotics-nucleotides-0-months-400g/s/930778",
+      "filename": "هيرو-بيبي-تركيبة-حليب-اتش-ايه،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c29cfef70d93a2325ea.jpg?size=520",
+      "bytes": 560105,
+      "dimensions": [
+        361,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "هيرو بيبي تركيبة حليب للرضع من عمر 0 الى 12 شهر خالية من اللاكتوز ، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-lf-infant-milk-formula-0-12-months-with-dha-gos-nucleotides-400g/s/930776",
+      "filename": "هيرو-بيبي-تركيبة-حليب-للرضع-من-عمر-0-الى-12-شهر-خالية-من-اللاكتوز-،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c29cfef70d93a2325e7.JPG?size=520",
+      "bytes": 573615,
+      "dimensions": [
+        366,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "هيرو بيبي تركيبة حليب الأطفال المضادة للقلس من عمر 0 الى شهر ، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-baby-anti-regurgitation-infant-milk-formula-with-dhaaa-probiotics-nucleotides-0-months-400g/s/930777",
+      "filename": "هيرو-بيبي-تركيبة-حليب-الاطفال-المضادة-للقلس-من-عمر-0-الى-شهر-،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7c29cfef70d93a2325dc.JPG?size=520",
+      "bytes": 507799,
+      "dimensions": [
+        366,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "نيدو لبن بودرة للاطفال فوق سنه 288 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nido-baby-milk-powder-for-1-years-288g/s/907143",
+      "filename": "نيدو-لبن-بودرة-للاطفال-فوق-سنه-288-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a5afe2687d8d7584e0c1aa.jpg?size=520",
+      "bytes": 542453,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "نان 3 اوبتيبرو 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-opti-pro-3-growing-up-milk-from-1-to-3-years-400g/s/931263",
+      "filename": "نان-3-اوبتيبرو-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69b65e646c73cd4c27d30a08.jpg?size=520",
+      "bytes": 529987,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "نستله نان أوبتيبرو 3 حليب مجفف للأطفال (1-3 سنوات)، 800 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-optipro-3-growing-up-milk-powder-1-3-years-800g/s/924969",
+      "filename": "نستله-نان-اوبتيبرو-3-حليب-مجفف-للاطفال-1-3-سنوات-،-800-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a4b8e264892a3ff503db6f2.jpg?size=520",
+      "bytes": 548901,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "نان اوبتي رقم 2 حليب 800 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-2-optipro-baby-milk-6-12-month-800g/s/924966",
+      "filename": "نان-اوبتي-رقم-2-حليب-800-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6761272fccd24bb54b44b0bf.jpg?size=520",
+      "bytes": 493481,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "حليب الأطفال نان أوبتيبرو 2، من 6 إلى 12 شهرًا، 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-optipro-2-infant-formula-6-12-months-400g/s/930635",
+      "filename": "حليب-الاطفال-نان-اوبتيبرو-2،-من-6-الى-12-شهرا،-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a9773fc61dc443e0094711.jpg?size=520",
+      "bytes": 533665,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "نستله نان 1 حليب اطفال أوبتبرو 400 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-optipro-1-infant-formula-0-6-months-400g/s/924964",
+      "filename": "نستله-نان-1-حليب-اطفال-اوبتبرو-400-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a977f9c61dc443e009474d.jpg?size=520",
+      "bytes": 525887,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "نان اوبتي برو 1 حليب للاطفال 800 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nan-optipro-1-infant-formula-milk-0-6-months-800g/s/924965",
+      "filename": "نان-اوبتي-برو-1-حليب-للاطفال-800-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2031b6e74f4dea153996dc.jpg?size=520",
+      "bytes": 561764,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "إس-26 جولد حليب مرحلة النمو المرحلة 3 (1-3) سنوات ، 900 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/s-26-gold-growing-up-milk-formula-vanilla-flavor-stage-3-1-3-years-900g/s/926698",
+      "filename": "اس-26-جولد-حليب-مرحلة-النمو-المرحلة-3-1-3-سنوات-،-900-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a5c331347e8ab1ca3c254a.jpg?size=520",
+      "bytes": 668246,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "إس-26 جولد حليب بودرة بنكهة الفانيليا الفاخرة للأطفال الصغار المرحلة 3 (1-3 سنوات)، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/s-26-progress-gold-premium-vanilla-flavor-milk-powder-for-toddlers-stage-3-1-3-years-400g/s/926699",
+      "filename": "اس-26-جولد-حليب-بودرة-بنكهة-الفانيليا-الفاخرة-للاطفال-الصغار-المرحلة-3-1-3-سنوات-،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a688a5cdf7abb93f60d00f.JPG?size=520",
+      "bytes": 363106,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "إس-26 جولد حليب الأطفال المرحلة 1 (0-6 أشهر)، 900 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/s-26-gold-stage-1-infant-formula-tin-from-0-6-months-900g/s/926696",
+      "filename": "اس-26-جولد-حليب-الاطفال-المرحلة-1-0-6-اشهر-،-900-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a5c33f347e8ab1ca3c2592.jpg?size=520",
+      "bytes": 644422,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إس-26 جولد حليب أطفال المرحلة 1 من 0-6 أشهر, 400 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/s-26-gold-stage-1-milk-formula-0-6-months-400g/s/926701",
+      "filename": "اس-26-جولد-حليب-اطفال-المرحلة-1-من-0-6-اشهر-400-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a6d00cb7a6ac8be5ab8b76.webp?size=520",
+      "bytes": 647700,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:56:51Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

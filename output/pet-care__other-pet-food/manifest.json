@@ -1,0 +1,106 @@
+{
+  "category": "pet-care__other-pet-food",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/pet-care/other-pet-food",
+  "output_dir": "/home/z/my-project/output/pet-care__other-pet-food",
+  "started_at": "2026-07-17T23:11:06Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/pet-care/other-pet-food",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "بابلو بذور طيور كوكتيل 800 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pablo-cocktail-seeds-for-birds-900g/s/914330",
+      "filename": "بابلو-بذور-طيور-كوكتيل-800-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487024.jpg?size=520",
+      "bytes": 558924,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "بابلو مزيج بذور طعام الأسرة 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pablo-seeds-family-food-blend-900-gm/s/914333",
+      "filename": "بابلو-مزيج-بذور-طعام-الاسرة-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487093.JPG?size=520",
+      "bytes": 487864,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "بابلو بذور فيجا 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pablo-seeds-viga-seed-900-gm/s/914334",
+      "filename": "بابلو-بذور-فيجا-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487086.JPG?size=520",
+      "bytes": 260093,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "بابلو مزيج بذور الكناري بريميوم 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pablo-zebra-food-blend-for-birds-900-gm/s/914331",
+      "filename": "بابلو-مزيج-بذور-الكناري-بريميوم-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487062.JPG?size=520",
+      "bytes": 249905,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:12:25Z",
+  "captured": 6,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 7
+}

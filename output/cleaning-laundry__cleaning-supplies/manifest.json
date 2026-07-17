@@ -1,0 +1,330 @@
+{
+  "category": "cleaning-laundry__cleaning-supplies",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cleaning-laundry/cleaning-supplies",
+  "output_dir": "/home/z/my-project/output/cleaning-laundry__cleaning-supplies",
+  "started_at": "2026-07-17T22:08:22Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cleaning-laundry/cleaning-supplies",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات منظف ومعقم متعدد الاستخدامات، برائحة الليمون، ٩٠٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-multipurpose-disinfectant-cleaner-lemon-scent-900ml/s/934012",
+      "filename": "طلبات-منظف-ومعقم-متعدد-الاستخدامات،-برائحة-الليمون،-٩٠٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a6d722022334d8c595b8a5.jpg?size=520",
+      "bytes": 250815,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات سائل مطهر، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-general-disinfectant-500ml/s/933731",
+      "filename": "طلبات-سائل-مطهر،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a43e818e356b80a4cee20b.png?size=520",
+      "bytes": 333572,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات منظف زجاج برائحة اللافندر، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-lavender-scent-glass-cleaner-500ml/s/937416",
+      "filename": "طلبات-منظف-زجاج-برائحة-اللافندر،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69957df1d34276301b83b569.jpg?size=520",
+      "bytes": 239305,
+      "dimensions": [
+        520,
+        327
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات منظف زجاج، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-glass-cleaner-500ml/s/933732",
+      "filename": "طلبات-منظف-زجاج،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a43eab2aa63663ad6b18a4.png?size=520",
+      "bytes": 268377,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "فريدا منظف معطر لجميع الاسطح المنزلية نظافه 480مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-all-purpose-home-cleaning-fragrance-clean-480ml/s/911822",
+      "filename": "فريدا-منظف-معطر-لجميع-الاسطح-المنزلية-نظافه-480مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Netscribe%20Images%28don%27t%20touch%29/Front%20Images/6224008668435.jpg?size=520",
+      "bytes": 300074,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات سائل مطهر، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-general-disinfectant-250ml/s/933730",
+      "filename": "طلبات-سائل-مطهر،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a43e5c8e356b80a4cee1d5.png?size=520",
+      "bytes": 317504,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "طلبات منظف المرحاض برائحة الصنوبر، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-pine-scent-toilet-cleaner-500ml/s/937408",
+      "filename": "طلبات-منظف-المرحاض-برائحة-الصنوبر،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69957df1d34276301b83b56c.jpg?size=520",
+      "bytes": 246023,
+      "dimensions": [
+        520,
+        356
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طلبات منظف ومعقم متعدد الاستخدامات، برائحة الصنوبر، ٩٠٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-multipurpose-disinfectant-cleaner-pine-scent-900ml/s/934013",
+      "filename": "طلبات-منظف-ومعقم-متعدد-الاستخدامات،-برائحة-الصنوبر،-٩٠٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a6d722022334d8c595b8a6.jpg?size=520",
+      "bytes": 280644,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "منظف تواليت طلبات أورجينال، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-original-toilet-cleaner-500ml/s/937407",
+      "filename": "منظف-تواليت-طلبات-اورجينال،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69957df1d34276301b83b56d.jpg?size=520",
+      "bytes": 257319,
+      "dimensions": [
+        520,
+        359
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طلبات بخاخ مزيل دهون المطبخ، ٥٠٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-kitchen-degreaser-spray-500ml/s/938939",
+      "filename": "طلبات-بخاخ-مزيل-دهون-المطبخ،-٥٠٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a030a4cbf887a84c83ec334.png?size=520",
+      "bytes": 223839,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "توصية: منظف زجاج برائحة الزهور من طلبات، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-floral-scent-glass-cleaner-500ml/s/937418",
+      "filename": "توصية-منظف-زجاج-برائحة-الزهور-من-طلبات،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69957df1d34276301b83b56a.jpg?size=520",
+      "bytes": 252666,
+      "dimensions": [
+        520,
+        336
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "زجاجة إعادة تعبئة منظف الزجاج من طلبات، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-glass-cleaner-refill-bottle-500ml/s/935806",
+      "filename": "زجاجة-اعادة-تعبئة-منظف-الزجاج-من-طلبات،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996b4c8f0734fc75b947954.jpg?size=520",
+      "bytes": 325053,
+      "dimensions": [
+        520,
+        406
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "طلبات منظف زجاج برائحة الصنوبر، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-pine-scent-glass-cleaner-500ml/s/937419",
+      "filename": "طلبات-منظف-زجاج-برائحة-الصنوبر،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69957df1d34276301b83b56b.jpg?size=520",
+      "bytes": 274663,
+      "dimensions": [
+        520,
+        339
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "طلبات بخاخ منظف المطبخ، ٥٠٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-kitchen-cleaner-spray-500ml/s/938938",
+      "filename": "طلبات-بخاخ-منظف-المطبخ،-٥٠٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a030a4cbf887a84c83ec335.png?size=520",
+      "bytes": 238924,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "طلبات منظف زجاج برائحة الليمون، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-lemon-scent-glass-cleaner-500ml/s/937417",
+      "filename": "طلبات-منظف-زجاج-برائحة-الليمون،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69957df1d34276301b83b568.jpg?size=520",
+      "bytes": 295546,
+      "dimensions": [
+        520,
+        356
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "طقم مناشف ميكروفايبر في علبة - أخضر 20×20 سنتيمتر، 20 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/microfiber-towel-box-set-green-20x20cm-20-pieces/s/928324",
+      "filename": "طقم-مناشف-ميكروفايبر-في-علبة-اخضر-20-20-سنتيمتر،-20-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7f8b7d94e05617681bd.JPG?size=520",
+      "bytes": 597774,
+      "dimensions": [
+        520,
+        447
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "طقم مناشف ميكروفايبر في علبة - وردي 20×20 سنتيمتر، 20 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/microfiber-towel-box-set-pink-20x20cm-20-pieces/s/928325",
+      "filename": "طقم-مناشف-ميكروفايبر-في-علبة-وردي-20-20-سنتيمتر،-20-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7fab7d94e05617681c1.JPG?size=520",
+      "bytes": 611545,
+      "dimensions": [
+        520,
+        450
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فريدا منظف زجاج 2عبوة 550 مللى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-glass-cleaner-2-packs-550ml/s/911865",
+      "filename": "فريدا-منظف-زجاج-2عبوة-550-مللى.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007537374.JPG?size=520",
+      "bytes": 347780,
+      "dimensions": [
+        481,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فريدا منظف و ملمع للاثاث و الخشب 600 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-wood-furniture-cleaner-polisher-600ml/s/913142",
+      "filename": "فريدا-منظف-و-ملمع-للاثاث-و-الخشب-600-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Spinneys/396213.jpg?size=520",
+      "bytes": 263608,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فريدا فلور مطهر ومنظف 3*1 امواج البحر 2لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-sea-waves-floor-disinfectant-cleaner-2l/s/918332",
+      "filename": "فريدا-فلور-مطهر-ومنظف-3-1-امواج-البحر-2لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008204701.JPG?size=520",
+      "bytes": 267557,
+      "dimensions": [
+        495,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:11:55Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

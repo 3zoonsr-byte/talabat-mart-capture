@@ -1,0 +1,330 @@
+{
+  "category": "electronics__mobiles-accessories",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/electronics/mobiles-accessories",
+  "output_dir": "/home/z/my-project/output/electronics__mobiles-accessories",
+  "started_at": "2026-07-17T23:40:25Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/electronics/mobiles-accessories",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "باور بانك وايرليس 5000 امبير",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-wireless-power-bank-5000-mah/s/939619",
+      "filename": "باور-بانك-وايرليس-5000-امبير.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a423afa0e909c23d8f265fc.jpg?size=520",
+      "bytes": 211845,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "شاحن سريع 65 وات Type A$2C",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-gan-2type-c-qc30-65watt-wall-charger/s/939620",
+      "filename": "شاحن-سريع-65-وات-Type-A-2C.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a423afa0e909c23d8f265fa.jpg?size=520",
+      "bytes": 231484,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "باور بانك 10000 امبير - كابلات خلفية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-power-bank-10000-mah/s/939621",
+      "filename": "باور-بانك-10000-امبير-كابلات-خلفية.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a423afa0e909c23d8f265fe.jpg?size=520",
+      "bytes": 137405,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طقم صناعة الفيديو مع ريموت بلوتوث، ميكروفون، حامل ثلاثي صغير، إضاءة ال اي دي وحامل هاتف للآيفون - أندرويد، ضمان لمدة سنة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/video-making-kit-with-bluetooth-remote-mic-mini-tripod-stand-led-light-phone-holder-clip-for-iphoneandroid-1-year-warranty/s/928297",
+      "filename": "طقم-صناعة-الفيديو-مع-ريموت-بلوتوث،-ميكروفون،-حامل-ثلاثي-صغير،-اضاءة-ال-اي-دي-وحامل-هاتف-للايفون-اندرويد،-ضمان-لمدة-سنة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df856b7d94e056176829f.JPG?size=520",
+      "bytes": 340405,
+      "dimensions": [
+        312,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفريدي فانوس LED القابل للطي بقوة 350 لومن",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eveaready-led-collapsible-lantern-350-lumens/s/932247",
+      "filename": "ايفريدي-فانوس-LED-القابل-للطي-بقوة-350-لومن.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6852794b19765eeb4e654712.JPG?size=520",
+      "bytes": 550616,
+      "dimensions": [
+        314,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "اي لوك كابل شحن سريع USB-A إلى iPhone - 1 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-fast-charging-cable-usb-a-to-iphone-1m/s/933006",
+      "filename": "اي-لوك-كابل-شحن-سريع-USB-A-الى-iPhone-1-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880bab463f3b2a164ce97c4.JPG?size=520",
+      "bytes": 264981,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "اي لوك كابل شحن سريع من USB-A إلى Micro - 1 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-fast-charging-cable-usb-a-to-micro-1m/s/933008",
+      "filename": "اي-لوك-كابل-شحن-سريع-من-USB-A-الى-Micro-1-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880bab463f3b2a164ce97c6.JPG?size=520",
+      "bytes": 264413,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "اي لوك شاحن من النوع C&A للشحن السريع -1.5 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-mini-charger-type-c-a-fast-charging-15m/s/933002",
+      "filename": "اي-لوك-شاحن-من-النوع-C-A-للشحن-السريع-1-5-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880bab463f3b2a164ce97c8.JPG?size=520",
+      "bytes": 205077,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "اي لوك شاحن سريع الشحن Type A - 1.5 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilock-mini-charger-pro-2x-type-a-fast-charging-15m/s/933000",
+      "filename": "اي-لوك-شاحن-سريع-الشحن-Type-A-1-5-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880bab463f3b2a164ce97cb.JPG?size=520",
+      "bytes": 264359,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ايكونز كابل شاحن موبايل يو اس بي Link L26 XBCL20 بمنفذ لايتنينج بقوة 2.4 امبير شحن سريع 1 متر - ازرق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-link-l26-xbcl20-type-c-to-lightning-iphone-cable-36w-fast-charging-blue-1m/s/917933",
+      "filename": "ايكونز-كابل-شاحن-موبايل-يو-اس-بي-Link-L26-XBCL20-بمنفذ-لايتنينج-بقوة-2-4-امبير-شحن-سريع-1-متر-ازرق.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/1ed9a7cb-be14-472c-9b13-7c61145e5831.jpg?size=520",
+      "bytes": 219897,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ايكونز كابل لايتنينج لون اسود 1 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-lightning-iphone-cable-black-1m/s/917938",
+      "filename": "ايكونز-كابل-لايتنينج-لون-اسود-1-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/94a15a40-d0b6-4b8d-9715-e50efd5f94d3.jpg?size=520",
+      "bytes": 122862,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كابل بمنفذ Type-C ابيض 1 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-type-c-cable-white-1m/s/917936",
+      "filename": "كابل-بمنفذ-Type-C-ابيض-1-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/81b19c95-47ee-443a-80e6-3b4001ad3005.jpg?size=520",
+      "bytes": 140436,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ايكونز كابل شحن تايب سى ابفون",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-pd-20w-qc-30-type-c-to-lightning-iphone-cable/s/911916",
+      "filename": "ايكونز-كابل-شحن-تايب-سى-ابفون.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/0bae2975-3f02-447f-9a2e-e2e26530deae.jpg?size=520",
+      "bytes": 426584,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ايكونز  كابل USB نوع سي الي USB نوع سي ازرق كحلي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-cable-usb-c-to-usb-c-navy-blue/s/917940",
+      "filename": "ايكونز-كابل-USB-نوع-سي-الي-USB-نوع-سي-ازرق-كحلي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/a9b09d44-1907-475e-a624-d4aef3a1d2c8.jpg?size=520",
+      "bytes": 219156,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ايكونز كابل بمنفذ Micro USB ابيض 1 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-micro-usb-cable-white-1m/s/917935",
+      "filename": "ايكونز-كابل-بمنفذ-Micro-USB-ابيض-1-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/60044fbb-d323-49ad-b462-34174305dc13.jpg?size=520",
+      "bytes": 141122,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ايكونز كابل شاحن موبايل يو اس بي Link L26 XBCL20 بمنفذ لايتنينج بقوة 2.4 امبير شحن سريع 1 متر - برتقالي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-link-l26-xbcl20-type-c-to-lightning-iphone-cable-36w-fast-charging-orange-1m/s/917934",
+      "filename": "ايكونز-كابل-شاحن-موبايل-يو-اس-بي-Link-L26-XBCL20-بمنفذ-لايتنينج-بقوة-2-4-امبير-شحن-سريع-1-متر-برتقالي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/899d873e-3a53-49a0-b69e-57e092a43a11.jpg?size=520",
+      "bytes": 218104,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ايكونز شاحن حائط بمنفذين Type-C ابيض",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-pd-wall-charger-20watt/s/923041",
+      "filename": "ايكونز-شاحن-حائط-بمنفذين-Type-C-ابيض.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/04a368ec-d4be-4b0c-8789-ec84d5dd198a.jpg?size=520",
+      "bytes": 167213,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ايكونز كابل لايتنينج لون ابيض 1 متر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-lightning-iphone-cable-white-1m/s/917937",
+      "filename": "ايكونز-كابل-لايتنينج-لون-ابيض-1-متر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/7ed6eca7-4700-40f9-b200-0ba6883fd5d3.jpg?size=520",
+      "bytes": 142570,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "أيكونز كابل شحن تيب سى تولايتنينج 100 وات 1 متر أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-type-c-to-lightning-cable-cl12k-black-100w-1m/s/935029",
+      "filename": "ايكونز-كابل-شحن-تيب-سى-تولايتنينج-100-وات-1-متر-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/ff54cf3f-ac9d-47e8-97ab-f6536f384d42.jpg?size=520",
+      "bytes": 172123,
+      "dimensions": [
+        213,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "أيكونز كابل شحن تيب سى تو تيب سى 60 وات 1 متر أسود مزود بشاشه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/iconz-type-c-to-type-c-60w-cable-1m-black-with-lcd-screen-cc11k/s/935054",
+      "filename": "ايكونز-كابل-شحن-تيب-سى-تو-تيب-سى-60-وات-1-متر-اسود-مزود-بشاشه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f62d9c11930a16fb08b079.jpg?size=520",
+      "bytes": 172723,
+      "dimensions": [
+        240,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:43:51Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

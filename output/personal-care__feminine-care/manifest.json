@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__feminine-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/feminine-care",
+  "output_dir": "/home/z/my-project/output/personal-care__feminine-care",
+  "started_at": "2026-07-17T22:33:27Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/feminine-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كير فري غسول حميمي بفيتامين اي و مستخلص القطن 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carefree-intimate-wash-with-vitamin-e-cotton-extract-200ml/s/902104",
+      "filename": "كير-فري-غسول-حميمي-بفيتامين-اي-و-مستخلص-القطن-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bda416754b2cdae9188074.jpg?size=520",
+      "bytes": 331110,
+      "dimensions": [
+        224,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كير فري فوط يومية كبيرة برائحة منعشة، 20 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carefree-plus-large-fresh-scent-pantyliners-20-pieces/s/902033",
+      "filename": "كير-فري-فوط-يومية-كبيرة-برائحة-منعشة،-20-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bda449754b2cdae918a5be.JPG?size=520",
+      "bytes": 497995,
+      "dimensions": [
+        281,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كيرفري فوط صحية نسائية يومية ملمس قطني عادي غير معطر متوسطة الحجم، 56 فوطة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carefree-cotton-feel-normal-unscented-medium-panty-liners-56-pieces/s/902023",
+      "filename": "كيرفري-فوط-صحية-نسائية-يومية-ملمس-قطني-عادي-غير-معطر-متوسطة-الحجم،-56-فوطة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b486bb4b5229b8953687b1.jpg?size=520",
+      "bytes": 673584,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "برايفت فوط صحية ليلى رقيقة جدا بالاجنحة 14 قطع حجم اقتصادى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-extra-thin-night-pads-with-wings-14-pieces/s/908635",
+      "filename": "برايفت-فوط-صحية-ليلى-رقيقة-جدا-بالاجنحة-14-قطع-حجم-اقتصادى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67909661f49a077178a14106.jpg?size=520",
+      "bytes": 506716,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "برايفت بوكت فوط صحية ليلى بالاجنحة 16 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-monthly-maxi-pocket-night-pads-16-pads-economical-pack/s/908639",
+      "filename": "برايفت-بوكت-فوط-صحية-ليلى-بالاجنحة-16-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a5bcbd355f71c5fe1e99c6.jpg?size=520",
+      "bytes": 385150,
+      "dimensions": [
+        520,
+        519
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "برايفت فوط جيب ماكسي ليلية، 24 فوطة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-maxi-pocket-night-feminine-pads-24-pieces/s/908641",
+      "filename": "برايفت-فوط-جيب-ماكسي-ليلية،-24-فوطة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a5bcc2355f71c5fe1e9a1a.jpg?size=520",
+      "bytes": 567910,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "برايفت فوط صحية حجم سوبر رقيقة جدا بالاجنحة 16 قطع حجم اقتصادى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-extra-thin-normal-pads-with-wings-16-pieces/s/908631",
+      "filename": "برايفت-فوط-صحية-حجم-سوبر-رقيقة-جدا-بالاجنحة-16-قطع-حجم-اقتصادى.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/08162ed9-8a56-485c-840b-3dadbf983227.png?size=520",
+      "bytes": 420488,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "برايفت فوط جيب ماكسي سوبر، 9 فوط",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-maxi-pocket-super-pads-with-wings-9-pieces/s/915586",
+      "filename": "برايفت-فوط-جيب-ماكسي-سوبر،-9-فوط.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a5bd2b4c162fea202d1e7f.jpg?size=520",
+      "bytes": 363779,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "فوط سوفي الصحية بالأجنحة ماكسي سميكة ناعمة ولا تتكتل طويلة جداً - عرض خاص 2 × 14 لكل عبوة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sofy-soft-lump-free-musk-scent-extra-long-maxi-thick-pads-with-wings-special-offer-2-x-14-pads/s/926648",
+      "filename": "فوط-سوفي-الصحية-بالاجنحة-ماكسي-سميكة-ناعمة-ولا-تتكتل-طويلة-جدا-عرض-خاص-2-14-لكل-عبوة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692498562f59151ac8dde586.JPG?size=520",
+      "bytes": 857393,
+      "dimensions": [
+        520,
+        342
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "برايفت فوط رقيقة جداً سوبر، 8 فوط",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-extra-thin-super-pads-with-wings-8-pieces/s/908630",
+      "filename": "برايفت-فوط-رقيقة-جدا-سوبر،-8-فوط.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a373806ec9732542c0eb3.png?size=520",
+      "bytes": 614349,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "برايفت فوط صحية ميس تيين رقيقة جدا بالاجنحة 10 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-monthly-miss-teen-extra-thin-pads-10-pads/s/908636",
+      "filename": "برايفت-فوط-صحية-ميس-تيين-رقيقة-جدا-بالاجنحة-10-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496832f59151ac8dd66f4.jpg?size=520",
+      "bytes": 702469,
+      "dimensions": [
+        520,
+        422
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "برايفيت ماكسى فوط كبيرة 9 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-monthly-maxi-super-pads-9-pads/s/915585",
+      "filename": "برايفيت-ماكسى-فوط-كبيرة-9-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6964fb1fd3a1c7e230a06297.jpg?size=520",
+      "bytes": 285028,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "برايفت فوط صحية عادية ماكسي بالأجنحة 8 فوط",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/private-monthly-maxi-normal-pads-8-pads/s/915584",
+      "filename": "برايفت-فوط-صحية-عادية-ماكسي-بالاجنحة-8-فوط.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691d838e554fcc6251b31687.jpg?size=520",
+      "bytes": 245977,
+      "dimensions": [
+        519,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فوط صحية ليلية سوفي ماكسي السميكة الطويلة جدًا برائحة المسك - عرض خاص 2 × 12 لكل عبوة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sofy-maxi-thick-super-extra-long-sanitary-pads-musk-scent-special-offer-2x12-pieces/s/926649",
+      "filename": "فوط-صحية-ليلية-سوفي-ماكسي-السميكة-الطويلة-جدا-برائحة-المسك-عرض-خاص-2-12-لكل-عبوة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c29a795d9e5c3043f7a055.jpg?size=520",
+      "bytes": 566349,
+      "dimensions": [
+        520,
+        293
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "سوفى فوط صحية سميكة كبيرة 16 فوطة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sofy-thick-long-sanitary-towel-pads-16-pads/s/926642",
+      "filename": "سوفى-فوط-صحية-سميكة-كبيرة-16-فوطة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6922e80058e0cc37cfcd8e9f.png?size=520",
+      "bytes": 261244,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sofy-musk-very-long-sanitary-towel-pads-14-pads/s/926644",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "مولبد حماية ضد البكتيريا عبوة كبيرة طويلة جدًا برائحة مسك الأزهار 34+6 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molped-girl-pwr-maxi-compressed-extra-long-pads-floral-musk-scent-with-wings-40-pieces/s/924937",
+      "filename": "مولبد-حماية-ضد-البكتيريا-عبوة-كبيرة-طويلة-جدا-برائحة-مسك-الازهار-34-6-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007654951.JPG?size=520",
+      "bytes": 503898,
+      "dimensions": [
+        404,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "مولبيد نسائية اكسترا هايجن مضاد للبكتريا طويل 22+2 قطع حجم توفير",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/molped-extra-hygiene-antibacterial-maxi-thick-long-pads-with-wings-26-pieces/s/918565",
+      "filename": "مولبيد-نسائية-اكسترا-هايجن-مضاد-للبكتريا-طويل-22-2-قطع-حجم-توفير.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/669f816bbde67ed12bf1a227.jpg?size=520",
+      "bytes": 514126,
+      "dimensions": [
+        496,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sofy-very-long-sanitary-towel-pads-14-pads/s/926643",
+      "filename": "Grocery-Shop-21.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "سوفى فوط صحية طويلة جدا 14 فوطة 2 عبوة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sofy-very-long-sanitary-towel-pads-2x14-pads/s/926647",
+      "filename": "سوفى-فوط-صحية-طويلة-جدا-14-فوطة-2-عبوة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM/6223004791734.jpg?size=520",
+      "bytes": 445918,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:36:59Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

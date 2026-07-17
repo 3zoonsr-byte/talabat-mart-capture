@@ -1,0 +1,330 @@
+{
+  "category": "household-essentials__kitchen-dining",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/household-essentials/kitchen-dining",
+  "output_dir": "/home/z/my-project/output/household-essentials__kitchen-dining",
+  "started_at": "2026-07-17T23:27:32Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/household-essentials/kitchen-dining",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "زيينيا زجاجة مياه زجاج  1 لتر رترو 1",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/zinnia-retro-glass-water-bottle-1l-1-piece/s/939464",
+      "filename": "زيينيا-زجاجة-مياه-زجاج-1-لتر-رترو-1.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a58b43bc02054dfc8adabb4.png?size=520",
+      "bytes": 209645,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "زيينيا زجاجة مياه زجاج 1 لتر بحر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/zinnia-sea-glass-water-bottle-1l/s/939466",
+      "filename": "زيينيا-زجاجة-مياه-زجاج-1-لتر-بحر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3bb7b3c35931f38619b345.png?size=520",
+      "bytes": 199495,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "زيينيا زجاجة مياه زجاج 1 لتر ليمون",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/zinnia-lemon-glass-water-bottle-1l/s/939465",
+      "filename": "زيينيا-زجاجة-مياه-زجاج-1-لتر-ليمون.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3bb7b3c35931f38619b344.png?size=520",
+      "bytes": 182083,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "زجاجة رذاذ زيت بلاستيكية بيضاء، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oil-spray-plastic-bottle-white-200ml/s/928309",
+      "filename": "زجاجة-رذاذ-زيت-بلاستيكية-بيضاء،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df80eb7d94e05617681ed.JPG?size=520",
+      "bytes": 215358,
+      "dimensions": [
+        223,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ولاعة غاز على شكل مسدس ولاعة كهربائية لفرن المطبخ فولاذ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gas-lighter-gun-shape-electric-lighter-for-kitchen-stove-steel/s/928299",
+      "filename": "ولاعة-غاز-على-شكل-مسدس-ولاعة-كهربائية-لفرن-المطبخ-فولاذ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7e9b7d94e0561768195.JPG?size=520",
+      "bytes": 170074,
+      "dimensions": [
+        350,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "بابلز كوب زجاجي مع غطاء على شكل دبة وملعقة، 300 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bubbles-glass-cup-with-bear-lid-and-spoon-300ml/s/928328",
+      "filename": "بابلز-كوب-زجاجي-مع-غطاء-على-شكل-دبة-وملعقة،-300-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7d0b7d94e0561768124.JPG?size=520",
+      "bytes": 467976,
+      "dimensions": [
+        511,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "صانع رغوة الحليب كهربائي محمول قابل لإعادة الشحن عبر يو اس بي مع خفاقة من الفولاذ المقاوم للصدأ - أبيض",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/milk-frother-handheld-usb-rechargeable-electric-foam-maker-with-2-stainless-whisks-white/s/928301",
+      "filename": "صانع-رغوة-الحليب-كهربائي-محمول-قابل-لاعادة-الشحن-عبر-يو-اس-بي-مع-خفاقة-من-الفولاذ-المقاوم-للصدا-ابيض.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7ffb7d94e05617681cf.JPG?size=520",
+      "bytes": 539526,
+      "dimensions": [
+        481,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مضخة مياه قابلة لإعادة الشحن عبر يو اس بي مضخة موزع مياه محمولة للتخييم - أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/usb-charging-water-bottle-pump-portable-water-dispenser-pump-for-camping-black/s/928327",
+      "filename": "مضخة-مياه-قابلة-لاعادة-الشحن-عبر-يو-اس-بي-مضخة-موزع-مياه-محمولة-للتخييم-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df848b7d94e0561768279.JPG?size=520",
+      "bytes": 555556,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مفرمة ومقطعة يدوية للخضار والفواكه، 33.7×17.2×13.1 سنتيمتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chopper-and-slicer-manual-for-vegetables-and-fruits-337x172x131cm/s/928312",
+      "filename": "مفرمة-ومقطعة-يدوية-للخضار-والفواكه،-33-7-17-2-13-1-سنتيمتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df7d3b7d94e0561768157.JPG?size=520",
+      "bytes": 847114,
+      "dimensions": [
+        520,
+        497
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "فرامة طعام محمولة لاسلكية قابلة لإعادة الشحن عبر يو اس بي وردية، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/portable-cordless-usb-rechargeable-food-chopper-pink-250ml/s/928316",
+      "filename": "فرامة-طعام-محمولة-لاسلكية-قابلة-لاعادة-الشحن-عبر-يو-اس-بي-وردية،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df81bb7d94e056176820f.JPG?size=520",
+      "bytes": 416524,
+      "dimensions": [
+        385,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "طقم شاليموه باشكال فواكة ٤ قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fruit-shaped-straw-4-pieces/s/930962",
+      "filename": "طقم-شاليموه-باشكال-فواكة-٤-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811e97fe5c1b48846ccbf39.JPG?size=520",
+      "bytes": 699607,
+      "dimensions": [
+        508,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كوب قهوة زجاجي مكتوب عليه \"صباح الخير\" 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/glass-coffee-mug-with-good-morning-400ml/s/930965",
+      "filename": "كوب-قهوة-زجاجي-مكتوب-عليه-صباح-الخير-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811e987e5c1b48846ccbf5b.JPG?size=520",
+      "bytes": 248585,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "مصفاة شبكية من الستانلس ستيل للتوابل والأعشاب والشاي، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/stainless-steel-mesh-strainer-for-spices-herbs-tea-1-piece/s/930955",
+      "filename": "مصفاة-شبكية-من-الستانلس-ستيل-للتوابل-والاعشاب-والشاي،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811e974e5c1b48846ccbeef.JPG?size=520",
+      "bytes": 397294,
+      "dimensions": [
+        520,
+        361
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "قوالب سيليكون للهوائي - وردي 20.4×14.4×6.1 سنتيمتر، 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/silicone-molds-for-airfryer-pink-204x144x61cm-6-pieces/s/928308",
+      "filename": "قوالب-سيليكون-للهوائي-وردي-20-4-14-4-6-1-سنتيمتر،-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df82fb7d94e056176823b.JPG?size=520",
+      "bytes": 560869,
+      "dimensions": [
+        520,
+        361
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "برطمانات توابل زجاجية محكمة الغلق مع غطاء فضي طقم من 4",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/empty-airtight-glass-spice-jars-with-silver-lids-4-pieces/s/930952",
+      "filename": "برطمانات-توابل-زجاجية-محكمة-الغلق-مع-غطاء-فضي-طقم-من-4.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811e96fe5c1b48846ccbecf.JPG?size=520",
+      "bytes": 271279,
+      "dimensions": [
+        520,
+        324
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "حافظة تخزين اعشاب للحفاظ على الاعشاب طازجة في الثلاجة لمدة طويله",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/herb-keeper-container-for-fridge-keeps-herbs-fresh-longer/s/930986",
+      "filename": "حافظة-تخزين-اعشاب-للحفاظ-على-الاعشاب-طازجة-في-الثلاجة-لمدة-طويله.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811e9a4e5c1b48846ccc030.JPG?size=520",
+      "bytes": 225504,
+      "dimensions": [
+        520,
+        435
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ملصقات عبوات التوابل لتنظيم المطبخ مقاومة للماء (عربي وإنجليزي)، 140 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/spice-jar-label-stickers-for-kitchen-organization-waterproof-arabic-english-140-pieces/s/930953",
+      "filename": "ملصقات-عبوات-التوابل-لتنظيم-المطبخ-مقاومة-للماء-عربي-وانجليزي-،-140-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6948efa79c15b49840997aac.png?size=520",
+      "bytes": 444397,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ميجو 2 قواعد سخن بيضاوى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/migos-oval-preheat-bases-2-pieces/s/917349",
+      "filename": "ميجو-2-قواعد-سخن-بيضاوى.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222004199212.jpg?size=520",
+      "bytes": 556481,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "روزا زيينيا جولدن ديكوريشن طقم حلو 7 ق + استاند",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rosa-by-zinnia-porcelain-golden-decorations-dessert-set-7-pieces-stand/s/936527",
+      "filename": "روزا-زيينيا-جولدن-ديكوريشن-طقم-حلو-7-ق-استاند.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695390963290c433c47b1acc.JPG?size=520",
+      "bytes": 418616,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "روزا زيينيا جولدن ديكوريشن طبق تقديم هلال",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rosa-by-zinnia-porcelain-golden-decorations-crescent-serving-plate/s/936559",
+      "filename": "روزا-زيينيا-جولدن-ديكوريشن-طبق-تقديم-هلال.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695390963290c433c47b1ad3.JPG?size=520",
+      "bytes": 363755,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:31:01Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

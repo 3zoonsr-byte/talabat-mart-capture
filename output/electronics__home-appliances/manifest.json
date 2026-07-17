@@ -1,0 +1,106 @@
+{
+  "category": "electronics__home-appliances",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/electronics/home-appliances",
+  "output_dir": "/home/z/my-project/output/electronics__home-appliances",
+  "started_at": "2026-07-17T23:45:13Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/electronics/home-appliances",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كاردو ميزان ذكي ميزان رقمي مزود بـ 28 مقياس للجسم ذهبي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cardoo-smart-scale-pro-digital-scale-with-28-body-parameters-gold/s/927500",
+      "filename": "كاردو-ميزان-ذكي-ميزان-رقمي-مزود-ب-28-مقياس-للجسم-ذهبي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/abe44253-d578-47c9-9e8f-e6bf22a68d4f.jpg?size=520",
+      "bytes": 789171,
+      "dimensions": [
+        520,
+        518
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "أرزوم أوكا ماكينة صنع القهوة التركية مينيو جيت - 1182 مل - 400 واط - أسود/نحاسي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/arzum-okka-minio-jet-turkish-coffee-maker-blackcopper-400w-1182ml/s/934937",
+      "filename": "ارزوم-اوكا-ماكينة-صنع-القهوة-التركية-مينيو-جيت-1182-مل-400-واط-اسود-نحاسي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d547ac457b7c695a79b7ff.png?size=520",
+      "bytes": 244846,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أرزوم أوكا ماكينة تحضير القهوة التركية مينيو جيت - 1182 مل - 400 وات - أسود/كروم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/arzum-okka-minio-jet-turkish-coffee-machine-blackchrome-400w-1182ml/s/934604",
+      "filename": "ارزوم-اوكا-ماكينة-تحضير-القهوة-التركية-مينيو-جيت-1182-مل-400-وات-اسود-كروم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d5493df2ba1086d118a735.png?size=520",
+      "bytes": 245253,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أرزوم أوكا مينيو - ماكينة تحضير القهوة التركية - 480 وات - 500 مل - أسود/نحاسي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/arzum-okka-minio-turkish-coffee-machine-blackcopper-480w-500ml/s/934599",
+      "filename": "ارزوم-اوكا-مينيو-ماكينة-تحضير-القهوة-التركية-480-وات-500-مل-اسود-نحاسي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d530183238bbf14409ed95.jpg?size=520",
+      "bytes": 440055,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:46:35Z",
+  "captured": 6,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 7
+}

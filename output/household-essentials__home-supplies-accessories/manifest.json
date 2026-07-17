@@ -1,0 +1,330 @@
+{
+  "category": "household-essentials__home-supplies-accessories",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/household-essentials/home-supplies-accessories",
+  "output_dir": "/home/z/my-project/output/household-essentials__home-supplies-accessories",
+  "started_at": "2026-07-17T23:22:50Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/household-essentials/home-supplies-accessories",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "منظم مجوهرات أكريليك شفاف مع 3 أدراج - بيج، 23.5×12.5×10 سنتيمتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/transparent-acrylic-jewelry-organizer-box-with-3-drawers-beige-235x125x10cm/s/928345",
+      "filename": "منظم-مجوهرات-اكريليك-شفاف-مع-3-ادراج-بيج،-23-5-12-5-10-سنتيمتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673df841b7d94e0561768265.JPG?size=520",
+      "bytes": 843687,
+      "dimensions": [
+        517,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طقم صينية تقديم رمضان معدنية زخارف تصميم إسلامي مقاس 28 سم لون ذهبي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ramadan-metal-serving-tray-set-ornaments-islamic-design-28cm-golden-color/s/929273",
+      "filename": "طقم-صينية-تقديم-رمضان-معدنية-زخارف-تصميم-اسلامي-مقاس-28-سم-لون-ذهبي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6798e7fad508319d1122ad89.JPG?size=520",
+      "bytes": 247785,
+      "dimensions": [
+        520,
+        381
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensations-chill-out-air-freshener-spray-460ml/s/911808",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-oud-air-freshener-460ml/s/911805",
+      "filename": "Grocery-Shop-6.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensations-treasure-air-freshener-spray-460ml/s/911812",
+      "filename": "Grocery-Shop-7.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "فريدا معطر جو ارابيسك 460مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-arabesque-air-freshener-460ml/s/911810",
+      "filename": "فريدا-معطر-جو-ارابيسك-460مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Netscribe%20Images%28don%27t%20touch%29/Front%20Images/6224008668411.jpg?size=520",
+      "bytes": 193190,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-meadows-air-freshener-460ml/s/911807",
+      "filename": "Grocery-Shop-9.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "فريدا معطر جو اكوا سينسيشنز برائحة التوت 460 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensations-framboise-air-freshener-spray-460ml/s/911809",
+      "filename": "فريدا-معطر-جو-اكوا-سينسيشنز-برائحة-التوت-460-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7d90cfef70d93a239629.jpg?size=520",
+      "bytes": 218356,
+      "dimensions": [
+        236,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "فريدا معطر جو شيكادى 460 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensation-chicka-dee-air-freshener-460ml/s/918326",
+      "filename": "فريدا-معطر-جو-شيكادى-460-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006130968.jpg?size=520",
+      "bytes": 247282,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "وايت مناديل مبللة ملمع احذية 20 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-shoe-cleaning-wet-wipes-20-sheets/s/917812",
+      "filename": "وايت-مناديل-مبللة-ملمع-احذية-20-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007860922.jpg?size=520",
+      "bytes": 373628,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensation-vanilla-cinnamon-air-freshener-460ml/s/918324",
+      "filename": "Grocery-Shop-13.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فريدا معطر جو خوخ 460مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-peach-air-freshener-460ml/s/911804",
+      "filename": "فريدا-معطر-جو-خوخ-460مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/Egypt/6224007537886.jpg?size=520",
+      "bytes": 287128,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فريدا معطر جو ياسمين 460مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-air-freshener-jasmine-460ml/s/911806",
+      "filename": "فريدا-معطر-جو-ياسمين-460مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ccef50448bf0994f4681b0.jpg?size=520",
+      "bytes": 231699,
+      "dimensions": [
+        520,
+        476
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فريدا معطر جو جوسبورت 460مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensation-sports-air-freshener-460ml/s/918327",
+      "filename": "فريدا-معطر-جو-جوسبورت-460مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6223006130975.jpg?size=520",
+      "bytes": 265281,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensations-tuberose-air-freshener-spray-460ml/s/911813",
+      "filename": "Grocery-Shop-17.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "فريدا معطر جو مانجو بابايا 460مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-mango-papaya-air-freshener-460ml/s/911811",
+      "filename": "فريدا-معطر-جو-مانجو-بابايا-460مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Netscribe%20Images%28don%27t%20touch%29/Front%20Images/6224008668404.jpg?size=520",
+      "bytes": 192029,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "فريدا معطر الجو اكوا سينسيشنز ليالي اصدار رمضان 460 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-aqua-sensations-ramadan-layali-air-freshener-460ml/s/918325",
+      "filename": "فريدا-معطر-الجو-اكوا-سينسيشنز-ليالي-اصدار-رمضان-460-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6634add4ca60d5976bd2829a.png?size=520",
+      "bytes": 171113,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فريدا ايرماتيك نسيم الصباح بخاخ 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-airmatic-spray-fresh-morning-250ml/s/911858",
+      "filename": "فريدا-ايرماتيك-نسيم-الصباح-بخاخ-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008668329.JPG?size=520",
+      "bytes": 139935,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فريدا ايرماتيك عطور عربيه 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-airmatic-arabian-scents-250ml/s/911863",
+      "filename": "فريدا-ايرماتيك-عطور-عربيه-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688377c18b4d17c9361a8486.jpg?size=520",
+      "bytes": 325888,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فريدا معطر جو ايرماتيك ايس كريم التوت 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/frida-airmatic-raspberry-ice-cream-air-freshener-aerosol-refill-250ml/s/911862",
+      "filename": "فريدا-معطر-جو-ايرماتيك-ايس-كريم-التوت-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008668367.JPG?size=520",
+      "bytes": 142842,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:26:15Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

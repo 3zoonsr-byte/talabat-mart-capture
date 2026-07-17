@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__oral-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/oral-care",
+  "output_dir": "/home/z/my-project/output/personal-care__oral-care",
+  "started_at": "2026-07-17T22:29:56Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/oral-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ليسترين، غسول الفم، حماية الأسنان واللثة، خالٍ من الكحول، نعناع ناعم، مذاق أقل حدة ، ٥٠٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/listerine-total-care-gum-protect-6in1-milder-taste-mouthwash-fresh-mint-flavor-500ml/s/902014",
+      "filename": "ليسترين،-غسول-الفم،-حماية-الاسنان-واللثة،-خال-من-الكحول،-نعناع-ناعم،-مذاق-اقل-حدة-،-٥٠٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b00578628ad28d598f3ee9.jpg?size=520",
+      "bytes": 335703,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ليستيرين توتال كير حماية من الجير، غسول فم بالفلورايد يوفر 6 فوائد، بنكهة نعناع القطب الشمالي، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/listerine-total-care-tartar-protect-6-benefit-fluoride-mouthwash-arctic-mint-250ml/s/913855",
+      "filename": "ليستيرين-توتال-كير-حماية-من-الجير،-غسول-فم-بالفلورايد-يوفر-6-فوائد،-بنكهة-نعناع-القطب-الشمالي،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_3574661197326.JPG?size=520",
+      "bytes": 314689,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ليسترين غسول الفم بنكهة النعناع المنعش 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/listerine-zero-mouthwash-milder-taste-mint-flavor-250ml/s/930822",
+      "filename": "ليسترين-غسول-الفم-بنكهة-النعناع-المنعش-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6894add285d10fb532d5f669.jpg?size=520",
+      "bytes": 290391,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "سيجنال كافيتي فايتر معجون أسنان مع الكالسيوم الصغير والفلورايد، 120 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-cavity-fighter-toothpaste-with-micro-calcium-pro-fluoride-120ml/s/925889",
+      "filename": "سيجنال-كافيتي-فايتر-معجون-اسنان-مع-الكالسيوم-الصغير-والفلورايد،-120-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66ccbc523304c91d9663c639.JPG?size=520",
+      "bytes": 267180,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "سيجنال المتكامل 8 معجون أسنان بالفحم 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-complete-8-charcoal-toothpaste-100ml/s/901106",
+      "filename": "سيجنال-المتكامل-8-معجون-اسنان-بالفحم-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Images/Lulu/1611691-1.jpg?size=520",
+      "bytes": 327822,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "سيجنال وايت ناو معجون أسنان لتبيض فوري 3 مرات و لمعان أكثر  75 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-white-now-toothpaste-extra-shine3x-instant-whitening-extra-shiny-teeth-75ml/s/926807",
+      "filename": "سيجنال-وايت-ناو-معجون-اسنان-لتبيض-فوري-3-مرات-و-لمعان-اكثر-75-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66d073c6b179d053d8e9e5c5.JPG?size=520",
+      "bytes": 258566,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "سيجنل فرش اسنان ناعمة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-toothbrush-senstive-soft-1pc/s/919911",
+      "filename": "سيجنل-فرش-اسنان-ناعمة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Istanbul/8690637722721.jpg?size=520",
+      "bytes": 383231,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "سيجنل فرش اسنان ابيض لامع متوسط",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-toothbrush-shiny-white-medium-1pc/s/919912",
+      "filename": "سيجنل-فرش-اسنان-ابيض-لامع-متوسط.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8690637722745.JPG?size=520",
+      "bytes": 236339,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "سيجنل فرش اسنان لتنظيف عميق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-toothbrush-deep-clean-medium-1pc/s/919910",
+      "filename": "سيجنل-فرش-اسنان-لتنظيف-عميق.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Hero_Images/Final/8690637722783.png?size=520",
+      "bytes": 178014,
+      "dimensions": [
+        520,
+        425
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "سيجنال وايت ناو معجون أسنان لتبيض فوري 3 مرات و إنتعاش اكثر 75 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-white-now-toothpaste-extra-fresh-3x-instant-whitening-fresh-breath-75ml/s/926806",
+      "filename": "سيجنال-وايت-ناو-معجون-اسنان-لتبيض-فوري-3-مرات-و-انتعاش-اكثر-75-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66d073c4b179d053d8e9e5bd.JPG?size=520",
+      "bytes": 258648,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "سيجنال معجون أسنان للأطفال بنكهة الفواكه يمنع التسوس، 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-kids-toothpaste-fruity-prevents-tooth-decay-tooth-cavity-50ml/s/926840",
+      "filename": "سيجنال-معجون-اسنان-للاطفال-بنكهة-الفواكه-يمنع-التسوس،-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66d9978cfc3e48940f83d624.JPG?size=520",
+      "bytes": 321776,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "سيجنال معجون الأسنان للعناية باللثة اعشاب 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-herbal-gum-care-toothpaste-100ml/s/901105",
+      "filename": "سيجنال-معجون-الاسنان-للعناية-باللثة-اعشاب-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Images/Lulu/1491865-1.jpg?size=520",
+      "bytes": 376684,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "سيجنال معجون أسنان مبيض للأسنان الحساسة 2في1 75 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/signal-toothpaste-whienin-for-sensetive-2in1-75ml/s/910356",
+      "filename": "سيجنال-معجون-اسنان-مبيض-للاسنان-الحساسة-2في1-75-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6883998b8b4d17c9361c6f5d.jpg?size=520",
+      "bytes": 224111,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ايفا بودره سموكرز كبير بالقرنفل 45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-smoker-tooth-powder-wclove-45-gm/s/902634",
+      "filename": "ايفا-بودره-سموكرز-كبير-بالقرنفل-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692498f82f59151ac8de0dfb.JPG?size=520",
+      "bytes": 630213,
+      "dimensions": [
+        445,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "خيط تنظيف الأسنان لتنظيف والعناية بالأسنان واللثة مجموعة من 30 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dental-floss-to-clean-and-take-care-of-teeth-gums-set-of-30-pieces/s/931351",
+      "filename": "خيط-تنظيف-الاسنان-لتنظيف-والعناية-بالاسنان-واللثة-مجموعة-من-30-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68249fbc47789b199ba963d7.JPG?size=520",
+      "bytes": 473307,
+      "dimensions": [
+        520,
+        365
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "سنسوداين معجون أسنان عناية متعددة و تبييض 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sensodyne-toothpaste-multi-care-whitening-100-ml/s/904532",
+      "filename": "سنسوداين-معجون-اسنان-عناية-متعددة-و-تبييض-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b0595e7c985ff94ced579b.jpg?size=520",
+      "bytes": 137872,
+      "dimensions": [
+        520,
+        262
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "سنسوداين معجون أسنان تبيض+عناية كاملة 50مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sensodyne-multi-care-toothpaste-50ml/s/907698",
+      "filename": "سنسوداين-معجون-اسنان-تبيض-عناية-كاملة-50مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b05952879eac1d1fcc6328.jpg?size=520",
+      "bytes": 134083,
+      "dimensions": [
+        520,
+        304
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سنسوداين معجون أسنان مفعول سريع 75مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sensodyne-toothpaste-rapid-relief-75ml/s/907699",
+      "filename": "سنسوداين-معجون-اسنان-مفعول-سريع-75مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b05952879eac1d1fcc6329.jpg?size=520",
+      "bytes": 146900,
+      "dimensions": [
+        520,
+        304
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sensodyne-deep-clean-gel-toothpaste-100ml/s/904533",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "سنسوداين معجون أسنان انتعاش زائد 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sensodyne-extra-fresh-toothpaste-50ml/s/915895",
+      "filename": "سنسوداين-معجون-اسنان-انتعاش-زائد-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b0595e7c985ff94ced579c.jpg?size=520",
+      "bytes": 130476,
+      "dimensions": [
+        520,
+        304
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:33:26Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

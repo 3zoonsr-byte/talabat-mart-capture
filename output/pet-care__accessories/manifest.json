@@ -1,0 +1,330 @@
+{
+  "category": "pet-care__accessories",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/pet-care/accessories",
+  "output_dir": "/home/z/my-project/output/pet-care__accessories",
+  "started_at": "2026-07-17T23:15:55Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/pet-care/accessories",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "وايت قفاز حيوانات اليفة قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-wet-wipes-magic-pet-shower-glove-for-single-use-1-piece/s/921034",
+      "filename": "وايت-قفاز-حيوانات-اليفة-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011512626.JPG?size=520",
+      "bytes": 320784,
+      "dimensions": [
+        438,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "باور مونشيز لحم بقري 14 شريحة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-munchies-beef-14-slices/s/933237",
+      "filename": "باور-مونشيز-لحم-بقري-14-شريحة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688889b2546f3e66bdbb6373.JPG?size=520",
+      "bytes": 906393,
+      "dimensions": [
+        430,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "باور مونشيز دجاج 14 شريحة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-munchies-chicken-14-slices/s/933238",
+      "filename": "باور-مونشيز-دجاج-14-شريحة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688889b2546f3e66bdbb6372.JPG?size=520",
+      "bytes": 960522,
+      "dimensions": [
+        430,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "باور لفائف الكالسيوم - 5 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-calcium-roll-5-pieces/s/933236",
+      "filename": "باور-لفائف-الكالسيوم-5-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688889b2546f3e66bdbb6371.JPG?size=520",
+      "bytes": 523136,
+      "dimensions": [
+        430,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "نعومي مقود مع طوق للكلاب متوسط رمادي 1 عبوة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-medium-gray-dog-leash-with-collar-1-piece/s/936063",
+      "filename": "نعومي-مقود-مع-طوق-للكلاب-متوسط-رمادي-1-عبوة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696b956890c8cb610a541067.jpg?size=520",
+      "bytes": 298512,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "نعومي لعبة لعض الكلاب الأليفة بمواد طبيعية متينة مناسبة للقطط والكلاب مقاس 6*16 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-dog-bite-toy-with-durable-natural-material-suitable-for-cats-dogs-6x16cm/s/928403",
+      "filename": "نعومي-لعبة-لعض-الكلاب-الاليفة-بمواد-طبيعية-متينة-مناسبة-للقطط-والكلاب-مقاس-6-16-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f0515b7d94e056176a508.JPG?size=520",
+      "bytes": 312215,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "نعومي لعبة كرة عض الكلاب بمقبض للكلاب متعددة الالوان 14.5*11.5 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-dog-bite-toy-ball-with-handle-for-dog-multicolor-145x115cm/s/928404",
+      "filename": "نعومي-لعبة-كرة-عض-الكلاب-بمقبض-للكلاب-متعددة-الالوان-14-5-11-5-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f0516b7d94e056176a50b.JPG?size=520",
+      "bytes": 417842,
+      "dimensions": [
+        520,
+        471
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ناعومي لعبة حبل قطن للحيوانات الأليفة بمادة طبيعية متينة مناسبة للقطط والكلاب مقاس 30*22 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-cotton-rope-toy-with-durable-natural-material-suitable-for-cats-dogs-30x22cm/s/928402",
+      "filename": "ناعومي-لعبة-حبل-قطن-للحيوانات-الاليفة-بمادة-طبيعية-متينة-مناسبة-للقطط-والكلاب-مقاس-30-22-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f0514b7d94e056176a4da.JPG?size=520",
+      "bytes": 335063,
+      "dimensions": [
+        520,
+        443
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "نعومي طوق حيوانات أليفة متوسط وردي، 2×120 سنتيمتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-leash-medium-pink-2x120cm/s/928411",
+      "filename": "نعومي-طوق-حيوانات-اليفة-متوسط-وردي،-2-120-سنتيمتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f036188887e57124d9216.JPG?size=520",
+      "bytes": 121157,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "نعومي لعبة للكلاب ثعلب محشو البرتقالي والأصفر، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-fo-plush-dog-toy-orange-yellow/s/936062",
+      "filename": "نعومي-لعبة-للكلاب-ثعلب-محشو-البرتقالي-والاصفر،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat/Menuitems/Naomi_Orange__Yellow_Fox_638685812387171973.jpg?size=520",
+      "bytes": 435286,
+      "dimensions": [
+        228,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "نعومي طوق حيوانات أليفة صغير متعدد الألوان 2×120 سنتيمتر، 2 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-leash-2x120cm-small-multicolor-2-pieces/s/928408",
+      "filename": "نعومي-طوق-حيوانات-اليفة-صغير-متعدد-الالوان-2-120-سنتيمتر،-2-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f03f2b7d94e056176a4a8.jpg?size=520",
+      "bytes": 463923,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "نعومي حزام حيوانات أليفة الرقبة 28 سنتيمتر، الصدر 34-45 سنتيمتر صغير - أزرق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-harness-neck-28cm-chest-34-45cm-small-blue/s/928413",
+      "filename": "نعومي-حزام-حيوانات-اليفة-الرقبة-28-سنتيمتر،-الصدر-34-45-سنتيمتر-صغير-ازرق.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f036288887e57124d921a.JPG?size=520",
+      "bytes": 414866,
+      "dimensions": [
+        520,
+        309
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "نعومي طوق حيوانات أليفة متوسط متعدد الألوان 1.5×120 سنتيمتر، 2 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-leash-15x120cm-medium-multicolor-2-pieces/s/928409",
+      "filename": "نعومي-طوق-حيوانات-اليفة-متوسط-متعدد-الالوان-1-5-120-سنتيمتر،-2-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f03f3b7d94e056176a4aa.jpg?size=520",
+      "bytes": 463923,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "نعومي حزام حيوانات أليفة الصدر 65-80 سنتيمتر متوسط - أزرق داكن",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-harness-chest-65-80cm-medium-dark-blue/s/928414",
+      "filename": "نعومي-حزام-حيوانات-اليفة-الصدر-65-80-سنتيمتر-متوسط-ازرق-داكن.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f036388887e57124d921c.JPG?size=520",
+      "bytes": 276201,
+      "dimensions": [
+        520,
+        458
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "نعومي طوق حيوانات أليفة رمادي، 2.5×180 سنتيمتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-leash-gray-25x180cm/s/928410",
+      "filename": "نعومي-طوق-حيوانات-اليفة-رمادي،-2-5-180-سنتيمتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f036088887e57124d9214.JPG?size=520",
+      "bytes": 273432,
+      "dimensions": [
+        520,
+        452
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "نعومي لعبة محشوة للحيوانات الأليفة مصنوعة من مواد طبيعية ومتينة مناسبة للقطط والكلاب، 22×42 سنتيمتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/naomi-pet-plush-toy-with-durable-natural-material-suitable-for-cats-dogs-22x42cm/s/928405",
+      "filename": "نعومي-لعبة-محشوة-للحيوانات-الاليفة-مصنوعة-من-مواد-طبيعية-ومتينة-مناسبة-للقطط-والكلاب،-22-42-سنتيمتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f035c88887e57124d920c.JPG?size=520",
+      "bytes": 419395,
+      "dimensions": [
+        520,
+        450
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "بيجا ستيكس عالية البروتين للكلاب العصي والوجبات الخفيفة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bega-bones-dog-chew-sticks-munchy/s/926886",
+      "filename": "بيجا-ستيكس-عالية-البروتين-للكلاب-العصي-والوجبات-الخفيفة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e038125d7674b6ee1c8875.JPG?size=520",
+      "bytes": 764631,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بيجا ستيكس عالية البروتين للكلاب المعقودة والأذنين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bega-bones-dog-chew-knotted-ears/s/926887",
+      "filename": "بيجا-ستيكس-عالية-البروتين-للكلاب-المعقودة-والاذنين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e038135d7674b6ee1c8877.JPG?size=520",
+      "bytes": 471753,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "مودرنا وعاء دينر تايم للحيوانات الأليفة مقاس صغير جدًا 200 مل مرجاني حار",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moderna-dinnertime-pet-bowl-x-small-spicy-coral-200ml/s/931185",
+      "filename": "مودرنا-وعاء-دينر-تايم-للحيوانات-الاليفة-مقاس-صغير-جدا-200-مل-مرجاني-حار.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Pet_Park/5412087018857.jpg?size=520",
+      "bytes": 265657,
+      "dimensions": [
+        443,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "مودرنا وعاء دينر تايم للحيوانات الأليفة صغير 350 مل أسود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moderna-dinnertime-pet-bowl-small-black-350ml/s/931183",
+      "filename": "مودرنا-وعاء-دينر-تايم-للحيوانات-الاليفة-صغير-350-مل-اسود.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/5412087017478.jpg?size=520",
+      "bytes": 185197,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:19:19Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

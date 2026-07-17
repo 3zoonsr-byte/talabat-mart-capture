@@ -1,0 +1,148 @@
+{
+  "category": "pharma-wellness__sensual-wellness",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/pharma-wellness/sensual-wellness",
+  "output_dir": "/home/z/my-project/output/pharma-wellness__sensual-wellness",
+  "started_at": "2026-07-17T22:47:52Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/pharma-wellness/sensual-wellness",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "دوريكس واقي ذكري ميوتوال بليجر 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-mutual-pleasure-condoms-3-pieces/s/904505",
+      "filename": "دوريكس-واقي-ذكري-ميوتوال-بليجر-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/818257a4-b157-4b33-87a5-32cdb512ef6d.JPG?size=520",
+      "bytes": 1004018,
+      "dimensions": [
+        485,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ديوركس واقي ذكري آمن للغاية للرجال، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-extra-safe-condoms-3-pieces/s/912856",
+      "filename": "ديوركس-واقي-ذكري-امن-للغاية-للرجال،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/3ed0a182-8a97-4cea-9b16-de7f8089227e.JPG?size=520",
+      "bytes": 941938,
+      "dimensions": [
+        486,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ديوركس واقي ذكري فيذرلايت الترا، 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-feel-ultra-thin-condoms-3-pieces/s/904649",
+      "filename": "ديوركس-واقي-ذكري-فيذرلايت-الترا،-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/b0c475c5-3ff8-404a-a656-4f6c729b1f64.JPG?size=520",
+      "bytes": 811281,
+      "dimensions": [
+        485,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "دوريكس واقي ذكري للمتعة المتبادلة – ١٠ قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-mutual-pleasure-condoms-10-pieces/s/907164",
+      "filename": "دوريكس-واقي-ذكري-للمتعة-المتبادلة-١٠-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/968c4b78-9225-48a5-b275-afade966a8ef.JPG?size=520",
+      "bytes": 521211,
+      "dimensions": [
+        312,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ديوركس عازل طبى أمان تام 12 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-extra-safe-condoms-12-pieces/s/907162",
+      "filename": "ديوركس-عازل-طبى-امان-تام-12-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/ffd427e9-c818-47dd-8947-4fd9fedc14ee.JPG?size=520",
+      "bytes": 612114,
+      "dimensions": [
+        289,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دوريكس واقي ذكري إنتنس بليجر 12 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-intense-pleasure-condoms-with-dots-ribs-for-men-12-pieces/s/907163",
+      "filename": "دوريكس-واقي-ذكري-انتنس-بليجر-12-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/3fefd203-8da8-4652-b061-1cbeb368bdd7.JPG?size=520",
+      "bytes": 527370,
+      "dimensions": [
+        312,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ديوركس عازل طبي رقيق 10 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/durex-feel-ultra-thin-condom-10-pieces/s/907165",
+      "filename": "ديوركس-عازل-طبي-رقيق-10-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/e8a97ea1-3b13-4caf-ae0b-94baf38607bb.JPG?size=520",
+      "bytes": 598465,
+      "dimensions": [
+        291,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:49:36Z",
+  "captured": 9,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 10
+}

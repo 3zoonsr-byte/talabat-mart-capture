@@ -1,0 +1,330 @@
+{
+  "category": "personal-care__face-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/personal-care/face-care",
+  "output_dir": "/home/z/my-project/output/personal-care__face-care",
+  "started_at": "2026-07-17T22:22:47Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/personal-care/face-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "لابيلو العناية بالشفاه بلسم مرطّب للشفاه بلمعان التوت البري 4.8 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/labello-24h-moisturizing-blackberry-shine-burgundy-tinted-lip-balm-with-shea-butter-natural-oils-vitamins-1-piece/s/926681",
+      "filename": "لابيلو-العناية-بالشفاه-بلسم-مرطب-للشفاه-بلمعان-التوت-البري-4-8-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689320a4db8629812ae07946.jpg?size=520",
+      "bytes": 809883,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "لابيلو مقشر مرطب للشفاه بزيت ثمر الورد، 4.8 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/labello-caring-lip-scrub-with-rosehip-oil-vitamin-e-1-piece/s/917819",
+      "filename": "لابيلو-مقشر-مرطب-للشفاه-بزيت-ثمر-الورد،-4-8-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68932237db8629812ae08284.png?size=520",
+      "bytes": 614113,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "نيفيا ماء ميسيلار للوجه مزيل مكياج بزيت روز كير، 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nivea-rose-care-face-micellar-water-in-oil-makeup-remover-400ml/s/911471",
+      "filename": "نيفيا-ماء-ميسيلار-للوجه-مزيل-مكياج-بزيت-روز-كير،-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68931f5bdb8629812ae04897.jpg?size=520",
+      "bytes": 385996,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "وسادات قطنية دائرية بيضاء متعددة الأغراض، 80 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-makeup-remover-organic-rounded-cotton-pads-80-pieces/s/924378",
+      "filename": "وسادات-قطنية-دائرية-بيضاء-متعددة-الاغراض،-80-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696e5b2264e2721dcf8bdf3c.jpg?size=520",
+      "bytes": 334443,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "وايت وسادات قطنية عضوية مزيلة للمكياج، 3×80 فوطة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-makeup-remover-round-shaped-cotton-pads-3x80-pieces/s/927008",
+      "filename": "وايت-وسادات-قطنية-عضوية-مزيلة-للمكياج،-3-80-فوطة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e31f96340cc0ba3ccf3488.JPG?size=520",
+      "bytes": 517339,
+      "dimensions": [
+        389,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "وايت - وسادات قطنية لإزالة المكياج - مربع 40 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-square-makeup-remover-cotton-pads-40-pieces/s/935080",
+      "filename": "وايت-وسادات-قطنية-لازالة-المكياج-مربع-40-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d25502.png?size=520",
+      "bytes": 395662,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "سانيتا اعواد قطن 100 عود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-charm-cotton-swabs-100-pieces/s/916256",
+      "filename": "سانيتا-اعواد-قطن-100-عود.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdb7ca754b2cdae91e0753.jpg?size=520",
+      "bytes": 288296,
+      "dimensions": [
+        364,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "وايت وسادات قطنية لإزالة المكياج - بيضاوية - 40 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/white-oval-makeup-remover-cotton-pads-40-pieces/s/935079",
+      "filename": "وايت-وسادات-قطنية-لازالة-المكياج-بيضاوية-40-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696dd6937cb9dacf65d254fd.png?size=520",
+      "bytes": 293441,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "حاج عرفة جل صبار 250 ملى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-aloe-vera-gel-250ml/s/922857",
+      "filename": "حاج-عرفة-جل-صبار-250-ملى.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc2b8ece0130fcdee83.jpg?size=520",
+      "bytes": 241056,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "سانيتا شارم الأقراص القطنية قطن 100% 80 قرص",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-charm-100-cotton-makeup-remover-round-pads-80-count/s/915577",
+      "filename": "سانيتا-شارم-الاقراص-القطنية-قطن-100-80-قرص.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695ce17639eb22d716b7e601.jpg?size=520",
+      "bytes": 324801,
+      "dimensions": [
+        225,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "حاج عرفة صابون جلسرين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-glycerin-soap-90g/s/922863",
+      "filename": "حاج-عرفة-صابون-جلسرين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687a150f63f3b2a164cac832.jpg?size=520",
+      "bytes": 518037,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "حاج عرفة مرطب شفايف فراولة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-strawberry-flavor-lip-balm-25g/s/926748",
+      "filename": "حاج-عرفة-مرطب-شفايف-فراولة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa8b.jpg?size=520",
+      "bytes": 675328,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ايفا ماء ورد تونيك 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-rose-water-face-tonic-100-ml/s/902673",
+      "filename": "ايفا-ماء-ورد-تونيك-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223004372865.JPG?size=520",
+      "bytes": 279141,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "حاج عرفة صابون شجرة الشاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-tea-tree-soap-90g/s/925928",
+      "filename": "حاج-عرفة-صابون-شجرة-الشاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69980ab3b66a3731f6689d70.webp?size=520",
+      "bytes": 372420,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "حاج عرفة ماء ورد 135مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-rose-water-135ml/s/922866",
+      "filename": "حاج-عرفة-ماء-ورد-135مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa81.jpg?size=520",
+      "bytes": 232680,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "حاج عرفة صابون البشرة الحساسة 90 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-sensitive-skin-soap-90g/s/922862",
+      "filename": "حاج-عرفة-صابون-البشرة-الحساسة-90-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa83.jpg?size=520",
+      "bytes": 535651,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "قناع ايفا سكين كلينيك للبشرة المعرضة لحب الشباب مناديل مبللة للوجه 3 شيت ماسك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-clinicacne-prone-skin-sheet-mask-3-sheetmasks/s/923516",
+      "filename": "قناع-ايفا-سكين-كلينيك-للبشرة-المعرضة-لحب-الشباب-مناديل-مبللة-للوجه-3-شيت-ماسك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c14c2a167ae6c400fe79.JPG?size=520",
+      "bytes": 461136,
+      "dimensions": [
+        397,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "إيڤا سكين كير ﺇشراقة طبيعية غسول الوجه للبشرة العادية إلى الجافة 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-natural-glow-facial-wash-with-grapefuit-licorice-lupine-extracts-for-normal-to-dry-skin-100ml/s/922238",
+      "filename": "ايڤا-سكين-كير-اشراقة-طبيعية-غسول-الوجه-للبشرة-العادية-الى-الجافة-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68df7df3cfef70d93a23b12f.JPG?size=520",
+      "bytes": 228550,
+      "dimensions": [
+        204,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "سانيتا اعواد قطن 200 عود",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-charm-100-cotton-earbuds-buds-200-count/s/908674",
+      "filename": "سانيتا-اعواد-قطن-200-عود.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Images/Hero_Images/New_Hero_Images/5281001950036.jpg?size=520",
+      "bytes": 434331,
+      "dimensions": [
+        517,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إيڤا سكين كير ماء ميسيلار للتنظيف بالڤيتامينات 7 فى 1 لجميع أنواع البشرة 110 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-micellar-cleansing-water-with-vitamins-7-in-1-for-all-skin-types-110ml/s/935530",
+      "filename": "ايڤا-سكين-كير-ماء-ميسيلار-للتنظيف-بالڤيتامينات-7-فى-1-لجميع-انواع-البشرة-110-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900d39e34e0d3868814125f.jpg?size=520",
+      "bytes": 346081,
+      "dimensions": [
+        296,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:26:19Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

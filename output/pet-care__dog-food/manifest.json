@@ -1,0 +1,330 @@
+{
+  "category": "pet-care__dog-food",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/pet-care/dog-food",
+  "output_dir": "/home/z/my-project/output/pet-care__dog-food",
+  "started_at": "2026-07-17T23:07:36Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/pet-care/dog-food",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ريتش عضم لحم 4 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-dog-food-beef-stick-4-pcs/s/914392",
+      "filename": "ريتش-عضم-لحم-4-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504731160.JPG?size=520",
+      "bytes": 478261,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ريتش علب طعام رطب فاخر للكلاب والبط 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-premium-duck-dog-wet-food-can-400g/s/933753",
+      "filename": "ريتش-علب-طعام-رطب-فاخر-للكلاب-والبط-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dbffd287fea6b97c954a2.JPG?size=520",
+      "bytes": 253189,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ريتش علب طعام رطب فاخر للكلاب بنكهة التونة 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-premium-tuna-dog-wet-food-can-400g/s/933754",
+      "filename": "ريتش-علب-طعام-رطب-فاخر-للكلاب-بنكهة-التونة-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689dbffd287fea6b97c954a3.JPG?size=520",
+      "bytes": 255804,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ريتش عضم فراخ 4 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-dog-food-chicken-stick-4-pcs/s/914393",
+      "filename": "ريتش-عضم-فراخ-4-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504731170.JPG?size=520",
+      "bytes": 330473,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ريتش كرات لحم 20 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-dog-food-beef-meatballs-20-p/s/916534",
+      "filename": "ريتش-كرات-لحم-20-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504731042.JPG?size=520",
+      "bytes": 427592,
+      "dimensions": [
+        520,
+        491
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ريتش كرات فراخ 20 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-dog-food-chicken-meatballs-20-p/s/916535",
+      "filename": "ريتش-كرات-فراخ-20-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504731011.JPG?size=520",
+      "bytes": 417061,
+      "dimensions": [
+        520,
+        491
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ريتش شرائح دجاج 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-dog-food-chicken-strips-100-gm/s/916533",
+      "filename": "ريتش-شرائح-دجاج-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504731004.JPG?size=520",
+      "bytes": 373452,
+      "dimensions": [
+        381,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "باور طعام للكلاب البالغة 1 كيلوجرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-dog-food-adults-1-kg/s/913275",
+      "filename": "باور-طعام-للكلاب-البالغة-1-كيلوجرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Egypt/pawer_2.jpg?size=520",
+      "bytes": 477206,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "باور طعام للكلاب الصغيرة 1 كيلوجرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-dog-food-puppies-1-kg/s/913276",
+      "filename": "باور-طعام-للكلاب-الصغيرة-1-كيلوجرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Egypt/pawer_puppies_.jpg?size=520",
+      "bytes": 465409,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "باور بتس بايتس للكلاب فراخ و ارز و خضار 4 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-pets-bites-for-adult-dogs-with-chicken-rice-vegetables-4-kg/s/921251",
+      "filename": "باور-بتس-بايتس-للكلاب-فراخ-و-ارز-و-خضار-4-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6225000457188.JPG?size=520",
+      "bytes": 362379,
+      "dimensions": [
+        329,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "بورينا برو بلان طعام جاف للكلاب البالغة بالدجاج 3 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/purina-pro-plan-light-sterilised-all-size-adult-dog-food-with-chicken-3kg/s/931155",
+      "filename": "بورينا-برو-بلان-طعام-جاف-للكلاب-البالغة-بالدجاج-3-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/651fb4a72d62d58394001246.jpg?size=520",
+      "bytes": 545394,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بورينا برو بلان طعام جاف للكلاب البالغة بالدجاج 3 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/purina-pro-plan-everyday-nutrition-small-and-mini-adult-dry-dog-food-with-chicken-3kg/s/926923",
+      "filename": "بورينا-برو-بلان-طعام-جاف-للكلاب-البالغة-بالدجاج-3-كجم-14.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/651fb4a62d62d58394001245.jpg?size=520",
+      "bytes": 560764,
+      "dimensions": [
+        343,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "بورينا برو بلان طعام جاف للكلاب البالغة بسمك السلمون 3 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/purina-pro-plan-sensitive-skin-medium-adult-dog-food-with-salmon-3kg/s/931156",
+      "filename": "بورينا-برو-بلان-طعام-جاف-للكلاب-البالغة-بسمك-السلمون-3-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/651fb4a32d62d58394001241.jpg?size=520",
+      "bytes": 617883,
+      "dimensions": [
+        343,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بورينا برو بلان طعام الجراء بالدجاج 3 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/purina-pro-plan-healthy-start-small-mini-puppy-dry-food-with-chicken-3kg/s/926922",
+      "filename": "بورينا-برو-بلان-طعام-الجراء-بالدجاج-3-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/651fb4a12d62d5839400123e.jpg?size=520",
+      "bytes": 530572,
+      "dimensions": [
+        343,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ريتش عضم لحم 14 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-stick-dog-treats-14-per-pack/s/914390",
+      "filename": "ريتش-عضم-لحم-14-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/06772504731110.jpg?size=520",
+      "bytes": 853639,
+      "dimensions": [
+        500,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "دونكانينو دراى فود كلاب كبيرة بيف 1 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-dry-food-with-beef-for-adult-dogs-1kg/s/914307",
+      "filename": "دونكانينو-دراى-فود-كلاب-كبيرة-بيف-1-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687a181763f3b2a164cb23b1.jpg?size=520",
+      "bytes": 411389,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "دونكانينو دراى فود كلاب كبيرة فراخ 1 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-dry-food-with-chicken-for-adult-dogs-1kg/s/914309",
+      "filename": "دونكانينو-دراى-فود-كلاب-كبيرة-فراخ-1-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/0680147221133.jpg?size=520",
+      "bytes": 630707,
+      "dimensions": [
+        520,
+        477
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "دونكانينو بسكويت فراخ وسط 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-biscuits-medium-chicken-150gm/s/921993",
+      "filename": "دونكانينو-بسكويت-فراخ-وسط-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011113120.JPG?size=520",
+      "bytes": 341380,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دونكانينو بسكويت فراخ كبير 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-biscuits-large-chicken-400gm/s/921990",
+      "filename": "دونكانينو-بسكويت-فراخ-كبير-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011113229.jpg?size=520",
+      "bytes": 644224,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "دونكانينو بسكويت لحم وسط 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-biscuits-medium-beef-400gm/s/921992",
+      "filename": "دونكانينو-بسكويت-لحم-وسط-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011113199.jpg?size=520",
+      "bytes": 606374,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:11:05Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}

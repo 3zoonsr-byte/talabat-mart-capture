@@ -1,0 +1,330 @@
+{
+  "category": "pet-care__hygiene",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/pet-care/hygiene",
+  "output_dir": "/home/z/my-project/output/pet-care__hygiene",
+  "started_at": "2026-07-17T23:12:26Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/pet-care/hygiene",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "باور سبراي ضد الحشرات 30 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-spray-anti-ticks-fleas-30ml/s/937845",
+      "filename": "باور-سبراي-ضد-الحشرات-30-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ca2e442adebb72a189013e.jpg?size=520",
+      "bytes": 218256,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "باور دراي شامبو للحيوانات الاليفة 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-dry-shampoo-for-pets-100ml/s/937842",
+      "filename": "باور-دراي-شامبو-للحيوانات-الاليفة-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ca2e442adebb72a189013c.jpg?size=520",
+      "bytes": 253573,
+      "dimensions": [
+        453,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "باور بيرفيوم للاحيوانات الاليفة 120 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-perfume-for-pets-120ml/s/937844",
+      "filename": "باور-بيرفيوم-للاحيوانات-الاليفة-120-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ca2e442adebb72a189013d.jpg?size=520",
+      "bytes": 230554,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "باور سبوت. طارد للبراغيث والقراد، 3 قطارات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pawer-spot-on-flea-tick-repellent-for-cats-3-pieces/s/938094",
+      "filename": "باور-سبوت-طارد-للبراغيث-والقراد،-3-قطارات.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69e711cc590765a7c24ae730.jpg?size=520",
+      "bytes": 448921,
+      "dimensions": [
+        492,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ديجا رمل برائحة لافندر 5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dija-sand-scented-lavender-5-l/s/915610",
+      "filename": "ديجا-رمل-برائحة-لافندر-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487680.JPG?size=520",
+      "bytes": 654877,
+      "dimensions": [
+        425,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ديجا رمل برائحة بودرة الأطفال 5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dija-sand-scented-baby-powder-5-l/s/915609",
+      "filename": "ديجا-رمل-برائحة-بودرة-الاطفال-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487529.JPG?size=520",
+      "bytes": 452306,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ديجا رمل برائحة بودرة الأطفال 10 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dija-sand-scented-baby-powder-10-l/s/915612",
+      "filename": "ديجا-رمل-برائحة-بودرة-الاطفال-10-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487567.JPG?size=520",
+      "bytes": 644709,
+      "dimensions": [
+        385,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ديجا رمل غير معطر 5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dija-sand-unscented-5-l/s/923975",
+      "filename": "ديجا-رمل-غير-معطر-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6772504487796.JPG?size=520",
+      "bytes": 459170,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "دونكانينو مفرش تدريب الكلاب 10 ق 60سم *90 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-training-dog-pads-10-pec/s/914324",
+      "filename": "دونكانينو-مفرش-تدريب-الكلاب-10-ق-60سم-90-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_680147188894.JPG?size=520",
+      "bytes": 284798,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "دونكانينو مفرش تدريب الكلاب (60 سم * 90 سم) 20 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-training-dog-pads-60x90cm-20-count/s/914323",
+      "filename": "دونكانينو-مفرش-تدريب-الكلاب-60-سم-90-سم-20-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_680147188900.JPG?size=520",
+      "bytes": 274220,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دونكانينو مفرش تدريب الكلاب 30 ق 60سم *90 سم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/don-canino-training-pads-for-puppies-60x90cm-30-per-pack/s/914325",
+      "filename": "دونكانينو-مفرش-تدريب-الكلاب-30-ق-60سم-90-سم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_68014799984.JPG?size=520",
+      "bytes": 283727,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "أومني جارد مناديل مضادة للطفيليات، 40 منديل مبلل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/omni-guard-anti-parasitic-wipes-40-wipes/s/931159",
+      "filename": "اومني-جارد-مناديل-مضادة-للطفيليات،-40-منديل-مبلل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68134d75e5c1b48846cfb6ce.jpg?size=520",
+      "bytes": 414860,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "أومني جارد مناديل للعناية بالشعر 40 منديل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/omni-guard-grooming-wipes-40-sheets/s/931157",
+      "filename": "اومني-جارد-مناديل-للعناية-بالشعر-40-منديل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/6224010574366.jpg?size=520",
+      "bytes": 380757,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "أومني جارد مناديل مبللة لعيون الحيوانات الأليفة، 40 منديل مبلل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/omni-guard-wipes-for-pet-eye-40-wipes/s/931158",
+      "filename": "اومني-جارد-مناديل-مبللة-لعيون-الحيوانات-الاليفة،-40-منديل-مبلل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68134d74e5c1b48846cfb6cc.jpg?size=520",
+      "bytes": 384925,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "أومني جارد شامبو مضاد للطفيليات للحيوانات الأليفة، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/omni-guard-anti-parasitic-shampoo-for-pet-250ml/s/931160",
+      "filename": "اومني-جارد-شامبو-مضاد-للطفيليات-للحيوانات-الاليفة،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68134d76e5c1b48846cfb6d0.jpg?size=520",
+      "bytes": 455215,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "أومني جارد شامبو للشعر وفروة الرأس للحيوانات الأليفة، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/omni-guard-shampoo-hair-scalp-for-pet-250ml/s/931161",
+      "filename": "اومني-جارد-شامبو-للشعر-وفروة-الراس-للحيوانات-الاليفة،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68134d77e5c1b48846cfb6d2.jpg?size=520",
+      "bytes": 441283,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ميو لافوندر فضلات القطط المتكتلة، 10 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mio-lavwnder-cat-litter-clumping-10l/s/931163",
+      "filename": "ميو-لافوندر-فضلات-القطط-المتكتلة،-10-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68134d7be5c1b48846cfb6d6.jpg?size=520",
+      "bytes": 714362,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بينو بادز حفاضات للكلاب جل امتصاص عالي لتدريب منزلي (60*90) 30 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pino-pads-house-training-pads-60x90cm-30-pieces/s/930398",
+      "filename": "بينو-بادز-حفاضات-للكلاب-جل-امتصاص-عالي-لتدريب-منزلي-60-90-30-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67dfe27f78c10e5e0b7716d3.png?size=520",
+      "bytes": 485780,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دراي نايتس فوط للكلاب كبيرة الحجم 30 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/drynights-large-ultra-soft-layers-dog-pads-30-pieces/s/927064",
+      "filename": "دراي-نايتس-فوط-للكلاب-كبيرة-الحجم-30-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66ea9d1ad76538afe6b334d6.JPG?size=520",
+      "bytes": 530352,
+      "dimensions": [
+        359,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "هيلو كيتي متكتل فضلات القطط بالصابون 10 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hello-kitty-bentonite-marseille-soap-clumping-cat-litter-10l/s/931165",
+      "filename": "هيلو-كيتي-متكتل-فضلات-القطط-بالصابون-10-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6761340dccd24bb54b44b69c.png?size=520",
+      "bytes": 543064,
+      "dimensions": [
+        499,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T23:15:54Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
