@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__cakes",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/cakes",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__cakes",
+  "started_at": "2026-07-17T16:17:06Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/cakes",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "هوهوز كينج كيك ملفوف شوكولاتة بالكريمة، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hohos-king-rolled-chocolate-cake-with-cream-60g/s/925864",
+      "filename": "هوهوز-كينج-كيك-ملفوف-شوكولاتة-بالكريمة،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e601cf8fd5beef0b139b4.png?size=520",
+      "bytes": 300351,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "لارش كعكة الشوكولاتة المذابة مع صوص الشوكولاتة، 55 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/larch-melt-cocoa-cake-with-chocolate-sauce-55g/s/929368",
+      "filename": "لارش-كعكة-الشوكولاتة-المذابة-مع-صوص-الشوكولاتة،-55-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/679f452d677c3d54a52c0666.JPG?size=520",
+      "bytes": 328172,
+      "dimensions": [
+        520,
+        274
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "تودو بومب 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/todo-bomb-chocolate-cake-with-cream-filling-and-cocoa-coating-50g/s/903149",
+      "filename": "تودو-بومب-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c547c426dc227c3744921e.png?size=520",
+      "bytes": 408914,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "توينكيز ديو كيك بكريمة وفراولة، 45 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twinkies-duo-cream-x-strawberry-cake-45g/s/930585",
+      "filename": "توينكيز-ديو-كيك-بكريمة-وفراولة،-45-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f38919e51818ae30bdb922.JPG?size=520",
+      "bytes": 249230,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "هوهوز ميكس كيك ملفوف، 60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hohos-mix-rolled-cake-60g/s/921294",
+      "filename": "هوهوز-ميكس-كيك-ملفوف،-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e6091f8fd5beef0b13bb1.png?size=520",
+      "bytes": 336074,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "فن داى مافين كيك بنكهة الفانيليا وقطع الشيكولاتة  58جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fun-day-twin-cakes-muffin-wvanillachoco-chips-58gm/s/912691",
+      "filename": "فن-داى-مافين-كيك-بنكهة-الفانيليا-وقطع-الشيكولاتة-58جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/679b3eb414e25aa1a8cfa224.jpg?size=520",
+      "bytes": 613764,
+      "dimensions": [
+        520,
+        409
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "هوهوز كينغ كيك ذهبي ملفوف محشو بكريمة الكاكاو، 55 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hohos-king-rolled-golden-cake-with-cocoa-cream-filling-55g/s/929690",
+      "filename": "هوهوز-كينغ-كيك-ذهبي-ملفوف-محشو-بكريمة-الكاكاو،-55-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67af6bd6909522f3800e8671.png?size=520",
+      "bytes": 327499,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "هوهوز كينغ كيك ذهبي ملفوف محشو بجلي وكريمة بنكهة الفراولة، 55 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hohos-king-rolled-golden-cake-with-strawberry-flavored-jelly-and-cream-filling-55g/s/929691",
+      "filename": "هوهوز-كينغ-كيك-ذهبي-ملفوف-محشو-بجلي-وكريمة-بنكهة-الفراولة،-55-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67af6bd8909522f3800e8673.png?size=520",
+      "bytes": 341085,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "تودو كب كيك شوكولاتة محشو بكريمة الكاكاو 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/todo-chocolate-cupcake-filled-with-chocolate-1pcs/s/923233",
+      "filename": "تودو-كب-كيك-شوكولاتة-محشو-بكريمة-الكاكاو-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c547c526dc227c3744921f.png?size=520",
+      "bytes": 405623,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "فن داى كيك ريد فلفيت بالحليب  58جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fun-day-twin-cakes-red-velvet-cake-58g/s/912689",
+      "filename": "فن-داى-كيك-ريد-فلفيت-بالحليب-58جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a30fc08e9d7c5bc80667bcc.jpg?size=520",
+      "bytes": 476937,
+      "dimensions": [
+        520,
+        302
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "فن داى كب كيك محشو بكريمة الفراولة 64 - 58 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fun-day-cupcakes-filled-with-strawberry-cream-64-58-gm/s/920897",
+      "filename": "فن-داى-كب-كيك-محشو-بكريمة-الفراولة-64-58-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Lulu_Web_Scrapped/6224010268609.0_0.jpg?size=520",
+      "bytes": 374586,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "توينكيز شوكولاته سوبر 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twinkies-super-chocolate-50g/s/931473",
+      "filename": "توينكيز-شوكولاته-سوبر-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6825a7b217f52685dfac87a5.JPG?size=520",
+      "bytes": 186618,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فن داي كاب كيك الفانيليا مع حشوة كريمة التوت المختلط، 55 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/funday-mixed-berries-cream-filling-vanilla-cupcake-55g/s/930469",
+      "filename": "فن-داي-كاب-كيك-الفانيليا-مع-حشوة-كريمة-التوت-المختلط،-55-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676a8ccdc51adb028c7877aa.JPG?size=520",
+      "bytes": 411147,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "توينكيز ديو كيك بكريمة وشوكولاتة، 45 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twinkies-duo-cream-x-chocolate-cake-45g/s/930583",
+      "filename": "توينكيز-ديو-كيك-بكريمة-وشوكولاتة،-45-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f38916e51818ae30bdb8f2.JPG?size=520",
+      "bytes": 257443,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "توينكيز سوبر فراولة ٥٠ جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twinkies-super-strawberry-50g/s/933032",
+      "filename": "توينكيز-سوبر-فراولة-٥٠-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6880d6f4a037520092d36dae.JPG?size=520",
+      "bytes": 178903,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "توينكز ايسنج كريمة 41.5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twinkies-vanilla-icing-cake-415g/s/903143",
+      "filename": "توينكز-ايسنج-كريمة-41-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694b989848ae3876c187a440.png?size=520",
+      "bytes": 315044,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "توينكز ايسنج شيكولاتة  41.5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twinkies-icing-chocolate-cake-415g/s/903142",
+      "filename": "توينكز-ايسنج-شيكولاتة-41-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676e605af8fd5beef0b13a25.jpg?size=520",
+      "bytes": 282692,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "تاوتاو تربو كيك فراولة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tawtaw-strawberry-turbo-cake/s/921056",
+      "filename": "تاوتاو-تربو-كيك-فراولة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223005596826.jpg?size=520",
+      "bytes": 240925,
+      "dimensions": [
+        520,
+        259
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "تورتة ديلايتس كيك لاتيه 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/novy-torta-delights-latte-cake-bar-50g/s/937138",
+      "filename": "تورتة-ديلايتس-كيك-لاتيه-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6996fe097f1197fd6fbc43e4.JPG?size=520",
+      "bytes": 382513,
+      "dimensions": [
+        520,
+        269
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/novy-torta-rolls-coated-chocolate-filling-chocolate-60g/s/937136",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:20:48Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
