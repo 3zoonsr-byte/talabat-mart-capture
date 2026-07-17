@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__pulses-grains",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/pulses-grains",
+  "output_dir": "/home/z/my-project/output/cooking-baking__pulses-grains",
+  "started_at": "2026-07-17T18:12:05Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/pulses-grains",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات ذرة فشار 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-pop-corn-500g/s/930102",
+      "filename": "طلبات-ذرة-فشار-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a059dd112ee559d9c7d423c.png?size=520",
+      "bytes": 391938,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات عدس أصفر 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-yellow-lentils-500g/s/930104",
+      "filename": "طلبات-عدس-اصفر-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a059dd112ee559d9c7d423e.png?size=520",
+      "bytes": 391439,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات عدس بجبة 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-brown-lentils-500g/s/930100",
+      "filename": "طلبات-عدس-بجبة-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a059dd112ee559d9c7d423a.png?size=520",
+      "bytes": 394345,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "الضحى فريك، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-freek-500g/s/900131",
+      "filename": "الضحى-فريك،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dac1e6c0be5a40113c0030.jpg?size=520",
+      "bytes": 627410,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات لوبيا 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-black-eyed-peas-500g/s/930099",
+      "filename": "طلبات-لوبيا-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a059dd112ee559d9c7d4239.png?size=520",
+      "bytes": 395938,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات فاصوليا بيضاء 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-white-beans-500g/s/930103",
+      "filename": "طلبات-فاصوليا-بيضاء-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a059dd112ee559d9c7d423d.png?size=520",
+      "bytes": 370497,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الضحى سمسم مقشر، 50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-peeled-sesame-50g/s/900137",
+      "filename": "الضحى-سمسم-مقشر،-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/625fcf04678ef73881f18445.jpg?size=520",
+      "bytes": 745613,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "الضحى عدس أصفر، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-yellow-lentil-500g/s/900126",
+      "filename": "الضحى-عدس-اصفر،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dabdbfe37b246f24dbf8aa.jpg?size=520",
+      "bytes": 584401,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ملوخية جافة من الضحى 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-dry-mallow-100g/s/900138",
+      "filename": "ملوخية-جافة-من-الضحى-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837edb8b4d17c9361accd9.jpg?size=520",
+      "bytes": 702648,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طلبات فول تدميس 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fava-beans-500g/s/930101",
+      "filename": "طلبات-فول-تدميس-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a059dd112ee559d9c7d423b.png?size=520",
+      "bytes": 379237,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "الضحى قمح مبشور، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-peeled-wheat-500g/s/900130",
+      "filename": "الضحى-قمح-مبشور،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687ba80463f3b2a164cb909c.jpg?size=520",
+      "bytes": 712961,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "الضحى ترمس 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-lupine-500-g/s/900134",
+      "filename": "الضحى-ترمس-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837edb8b4d17c9361accd5.jpg?size=520",
+      "bytes": 634952,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "الضحى فاصوليا بيضاء، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-white-beans-500g/s/900124",
+      "filename": "الضحى-فاصوليا-بيضاء،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dabc4d69f7a0b45393c3d3.jpg?size=520",
+      "bytes": 599741,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "الضحى حمص الشام، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-chickpeas-500g/s/900133",
+      "filename": "الضحى-حمص-الشام،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dac33cc0be5a40113c0035.jpg?size=520",
+      "bytes": 593662,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "الضحى برغل، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-bulgur-500g/s/900132",
+      "filename": "الضحى-برغل،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837edb8b4d17c9361accd7.jpg?size=520",
+      "bytes": 721147,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "الضحى فول تدميس مصري، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-egyptian-fava-beans-500g/s/900128",
+      "filename": "الضحى-فول-تدميس-مصري،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dabfa1cb67ca3123006ffd.jpg?size=520",
+      "bytes": 600768,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "الضحى لوبيا، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-black-eyed-peas-500g/s/900125",
+      "filename": "الضحى-لوبيا،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837ed98b4d17c9361acbad.jpg?size=520",
+      "bytes": 650513,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "الضحى حلبة حصى  50جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-fenugreek-50g/s/900141",
+      "filename": "الضحى-حلبة-حصى-50جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6871115e8b6ae261425e98cf.jpg?size=520",
+      "bytes": 688745,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "الضحى فول مدشوش 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-crushed-fava-beans-500g/s/900129",
+      "filename": "الضحى-فول-مدشوش-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837ed98b4d17c9361acbb0.jpg?size=520",
+      "bytes": 717049,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "الضحى حمص الطبيخ 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-chickpeas-50-gm/s/900136",
+      "filename": "الضحى-حمص-الطبيخ-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/62d3e71e3c5a941eadd92088.JPG?size=520",
+      "bytes": 899117,
+      "dimensions": [
+        513,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:15:43Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
