@@ -1,0 +1,330 @@
+{
+  "category": "healthy-special-diet__protein",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/healthy-special-diet/protein",
+  "output_dir": "/home/z/my-project/output/healthy-special-diet__protein",
+  "started_at": "2026-07-17T18:33:03Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/healthy-special-diet/protein",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "بالانس بروتين كراكرز بالكريمة الحامضية 70 - 78 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-sour-cream-onion-protein-crackers-70-78g/s/922118",
+      "filename": "بالانس-بروتين-كراكرز-بالكريمة-الحامضية-70-78-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a347c5e2a1e69ea648f3d5.JPG?size=520",
+      "bytes": 707630,
+      "dimensions": [
+        418,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "بالانس سويت ليمون بريميوم خبز مقرمش بروتيني بنكهة الليمون الحلو، 60-70 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-sweet-lemon-premium-bread-snack-protein-crackers-60-70g/s/917125",
+      "filename": "بالانس-سويت-ليمون-بريميوم-خبز-مقرمش-بروتيني-بنكهة-الليمون-الحلو،-60-70-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a346d9e2a1e69ea648e0ec.JPG?size=520",
+      "bytes": 722512,
+      "dimensions": [
+        418,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "بالانس سويت تشيلي بريميوم خبز مقرمش بروتيني بنكهة الفلفل الحلو، 60-70 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-sweet-chili-premium-bread-snack-protein-crackers-60-70g/s/917124",
+      "filename": "بالانس-سويت-تشيلي-بريميوم-خبز-مقرمش-بروتيني-بنكهة-الفلفل-الحلو،-60-70-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a346d9e2a1e69ea648e0ea.JPG?size=520",
+      "bytes": 718061,
+      "dimensions": [
+        418,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "بالانس برميم رقائق خبز مع بروتين الزبدة والعسل 70-78 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-honey-butter-premium-bread-snack-protein-crackers-70-78g/s/932148",
+      "filename": "بالانس-برميم-رقائق-خبز-مع-بروتين-الزبدة-والعسل-70-78-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a34690e2a1e69ea648d992.JPG?size=520",
+      "bytes": 735893,
+      "dimensions": [
+        418,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "سناكس بروتين بالبصل والكريمة، 60 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/snacks-protein-onions-cream-60g/s/919310",
+      "filename": "سناكس-بروتين-بالبصل-والكريمة،-60-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423ac06.png?size=520",
+      "bytes": 517754,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "أبو عوف وجبات خفيفة بروتينية مشوية مدخنة، 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-smoked-bbq-protein-snacks-60g/s/919312",
+      "filename": "ابو-عوف-وجبات-خفيفة-بروتينية-مشوية-مدخنة،-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423ac05.png?size=520",
+      "bytes": 502804,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أبو عوف بروتين بار براونيز الشوكولاتة، 70 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-chocolate-brownies-protein-bar-70g/s/915849",
+      "filename": "ابو-عوف-بروتين-بار-براونيز-الشوكولاتة،-70-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c532c4627164b423abbd.png?size=520",
+      "bytes": 268019,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "أبو عوف لوح بروتين الكاكاو والقهوة والشوكولاتة، 70 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-cocoa-coffee-chocolate-protein-bar-70g/s/903603",
+      "filename": "ابو-عوف-لوح-بروتين-الكاكاو-والقهوة-والشوكولاتة،-70-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239880.png?size=520",
+      "bytes": 269256,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "الضحى فيت تشويس مكرونة عدس اصفر، 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-fit-choice-oat-pasta-400g/s/915120",
+      "filename": "الضحى-فيت-تشويس-مكرونة-عدس-اصفر،-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69281bf3848855aef1a2deb0.png",
+      "bytes": 106800,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "الضحى فيت تشويس مكرونة عدس اصفر، 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-fit-choice-yellow-lentils-pasta-400g/s/915121",
+      "filename": "الضحى-فيت-تشويس-مكرونة-عدس-اصفر،-400-غرام-12.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69281bf3848855aef1a2deb0.png?size=520",
+      "bytes": 593471,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-sweet-heat-protein-shots-70-78g/s/926622",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "أبو عوف بروتين بار بالبندق، 70 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-hazelnut-protein-bar-70g/s/915853",
+      "filename": "ابو-عوف-بروتين-بار-بالبندق،-70-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c532c4627164b423abc0.png?size=520",
+      "bytes": 267383,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "أبو عوف بروتين بار الموز والكاجو، 70 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-banana-and-cashew-protein-bar-70g/s/915850",
+      "filename": "ابو-عوف-بروتين-بار-الموز-والكاجو،-70-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c532c4627164b423abbe.png?size=520",
+      "bytes": 266506,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بالانس بروتين بافس ذرة حلو 70-78 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-sweet-corn-protein-puffs-70-78g/s/926860",
+      "filename": "بالانس-بروتين-بافس-ذرة-حلو-70-78-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a8706c812b219cd9b23cc6.jpg?size=520",
+      "bytes": 480292,
+      "dimensions": [
+        389,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "أبوعوف بار مكسرات بجوز الهند والفواكه 40 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-coconut-fruit-nut-bar-40g/s/924508",
+      "filename": "ابوعوف-بار-مكسرات-بجوز-الهند-والفواكه-40-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423ac86.png?size=520",
+      "bytes": 326587,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "أبو عوف لوح بروتين التوت البري وجوز الهند، 70 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-cranberries-coconut-protein-bar-70g/s/903601",
+      "filename": "ابو-عوف-لوح-بروتين-التوت-البري-وجوز-الهند،-70-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239881.png?size=520",
+      "bytes": 270503,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-sweet-corn-protein-shots-70-78g/s/926623",
+      "filename": "Grocery-Shop-19.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "أبو عوف بروتين بار زبدة الفول السوداني، 70 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-peanut-butter-protein-bar-70g/s/915854",
+      "filename": "ابو-عوف-بروتين-بار-زبدة-الفول-السوداني،-70-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abfe.png?size=520",
+      "bytes": 272170,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "أبو عوف بروتين بار اللوز، 70 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-almond-bliss-protein-bar-70g/s/915851",
+      "filename": "ابو-عوف-بروتين-بار-اللوز،-70-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c532c4627164b423abc1.png?size=520",
+      "bytes": 272153,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "أبوعوف بروتين بار بالكوكيز والكريمة  50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-cookies-cream-protein-bar-50g/s/924028",
+      "filename": "ابوعوف-بروتين-بار-بالكوكيز-والكريمة-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423ac8d.png?size=520",
+      "bytes": 365569,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:36:36Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
