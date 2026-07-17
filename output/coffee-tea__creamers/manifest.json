@@ -1,0 +1,120 @@
+{
+  "category": "coffee-tea__creamers",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/coffee-tea/creamers",
+  "output_dir": "/home/z/my-project/output/coffee-tea__creamers",
+  "started_at": "2026-07-17T17:00:08Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/coffee-tea/creamers",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "دريم كريمر 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-coffee-creamer-jar-300-g/s/909322",
+      "filename": "دريم-كريمر-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687a194863f3b2a164cb429b.jpg?size=520",
+      "bytes": 327280,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "دريم كريمر 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dreem-coffee-creamer-jar-150-g/s/909323",
+      "filename": "دريم-كريمر-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_2/734077943518.jpg?size=520",
+      "bytes": 465948,
+      "dimensions": [
+        200,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "نستله مبيض قهوه 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-coffee-mate-400g/s/904065",
+      "filename": "نستله-مبيض-قهوه-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67058e21af9d6fa72c65c488.png?size=520",
+      "bytes": 387726,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "نستله مبيض قهوه 170 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-coffee-mate-170g/s/904066",
+      "filename": "نستله-مبيض-قهوه-170-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67058e23af9d6fa72c65c48a.png?size=520",
+      "bytes": 408678,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "بيستو حليب مبخر 170جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bestow-evaporated-milk-170g/s/931277",
+      "filename": "بيستو-حليب-مبخر-170جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682087734cf48bee950bda45.JPG?size=520",
+      "bytes": 339772,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:01:35Z",
+  "captured": 7,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 8
+}
