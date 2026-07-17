@@ -1,0 +1,330 @@
+{
+  "category": "milk__long-life-milk",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/milk/long-life-milk",
+  "output_dir": "/home/z/my-project/output/milk__long-life-milk",
+  "started_at": "2026-07-17T14:57:18Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/milk/long-life-milk",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "المراعي لبن كامل الدسم عبوه بلاستيك 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-plain-milk-full-fat-bottle-1l/s/900392",
+      "filename": "المراعي-لبن-كامل-الدسم-عبوه-بلاستيك-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/0e6153bc-cf77-41cc-be2d-710fac49ddab.JPG?size=520",
+      "bytes": 418738,
+      "dimensions": [
+        314,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "بخيره حليب كامل الدسم 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bekhero-milk-full-cream-1-l/s/905119",
+      "filename": "بخيره-حليب-كامل-الدسم-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000350256.JPG?size=520",
+      "bytes": 712295,
+      "dimensions": [
+        376,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "بخيره حليب كامل الدسم 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bekhero-milk-full-cream-500-ml/s/905120",
+      "filename": "بخيره-حليب-كامل-الدسم-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000350157.JPG?size=520",
+      "bytes": 670048,
+      "dimensions": [
+        354,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مزارع دينا لبن بالقهوة 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-coffee-milk-250-ml/s/906761",
+      "filename": "مزارع-دينا-لبن-بالقهوة-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687144fc8b6ae261425ecdde.jpg?size=520",
+      "bytes": 333869,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "جهينه حليب ميكس فراولة 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-mix-strawberry-uht-milk-200ml/s/900840",
+      "filename": "جهينه-حليب-ميكس-فراولة-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d14534411e84a004e2800a.jpg?size=520",
+      "bytes": 395500,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-skimmed-uht-milk-1l/s/900833",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جهينه حليب ميكس فانيليا 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-mix-vanilla-uht-milk-200ml/s/904887",
+      "filename": "جهينه-حليب-ميكس-فانيليا-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d14665411e84a004e28016.jpg?size=520",
+      "bytes": 370568,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "جهينه حليب كامل الدسم 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-full-cream-uht-milk-200ml/s/900835",
+      "filename": "جهينه-حليب-كامل-الدسم-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000350010.JPG?size=520",
+      "bytes": 426734,
+      "dimensions": [
+        201,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "جهينه حليب ميكس  كراميل 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-mix-caramel-uht-milk-200ml/s/905033",
+      "filename": "جهينه-حليب-ميكس-كراميل-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d1462b411e84a004e28013.jpg?size=520",
+      "bytes": 275838,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-skimmed-uht-milk-15l/s/908258",
+      "filename": "Grocery-Shop-12.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جهينه حليب خالي من اللاكتوز خالي الدسم 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-uht-skimmed-milk-lactose-free-1l/s/904886",
+      "filename": "جهينه-حليب-خالي-من-اللاكتوز-خالي-الدسم-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a58c1adb5c31dea6ff25ad.jpg?size=520",
+      "bytes": 171372,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "جهينه حليب منزوع الدسم 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-skimmed-milk-200-ml/s/900836",
+      "filename": "جهينه-حليب-منزوع-الدسم-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000350201.JPG?size=520",
+      "bytes": 383735,
+      "dimensions": [
+        206,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "حليب جوهينا الخالي من اللاكتوز، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-lactose-free-milk-500ml/s/938414",
+      "filename": "حليب-جوهينا-الخالي-من-اللاكتوز،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f1e5df19b387d1261c6f9c.png?size=520",
+      "bytes": 274751,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-0-fat-uht-milk-1l/s/900834",
+      "filename": "Grocery-Shop-16.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "دانجو لبن فراولة 2190 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dango-strawberry-milk-190-ml/s/910022",
+      "filename": "دانجو-لبن-فراولة-2190-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65f2e217edb13ecd319d0ae0.jpg?size=520",
+      "bytes": 608130,
+      "dimensions": [
+        257,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "دانجو لبن موز 190 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dango-banana-milk-190-ml/s/910023",
+      "filename": "دانجو-لبن-موز-190-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65f2e2467b99532960e03b93.jpg?size=520",
+      "bytes": 583307,
+      "dimensions": [
+        257,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "جهينه لبن كامل الدسم 1.5 لتر *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-milk-mix-vanilla-200ml-x2/s/956A6R",
+      "filename": "جهينه-لبن-كامل-الدسم-1-5-لتر-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a391557385e84ea0d2188e1.png",
+      "bytes": 63191,
+      "dimensions": [
+        2896,
+        2892
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "جهينه لبن كامل الدسم 1.5 لتر *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-full-cream-uht-milk-15l-x2/s/WCO9N1",
+      "filename": "جهينه-لبن-كامل-الدسم-1-5-لتر-2-20.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a391557385e84ea0d2188e1.png?size=520",
+      "bytes": 484331,
+      "dimensions": [
+        520,
+        519
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "جهينه لبن كامل الدسم 1.5 لتر *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-milk-mix-vanilla-200ml-x4/s/J3VNVR",
+      "filename": "جهينه-لبن-كامل-الدسم-1-5-لتر-2-21.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a391557385e84ea0d2188e1.png",
+      "bytes": 63191,
+      "dimensions": [
+        2896,
+        2892
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "جهينه لبن كامل الدسم 1.5 لتر *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-full-cream-uht-milk-15l-x2/s/ORTX02",
+      "filename": "جهينه-لبن-كامل-الدسم-1-5-لتر-2-22.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a391557385e84ea0d2188e1.png?size=520",
+      "bytes": 484331,
+      "dimensions": [
+        520,
+        519
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:01:07Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
