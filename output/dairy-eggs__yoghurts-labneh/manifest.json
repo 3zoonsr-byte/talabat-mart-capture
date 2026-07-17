@@ -1,0 +1,330 @@
+{
+  "category": "dairy-eggs__yoghurts-labneh",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/dairy-eggs/yoghurts-labneh",
+  "output_dir": "/home/z/my-project/output/dairy-eggs__yoghurts-labneh",
+  "started_at": "2026-07-17T14:41:58Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/dairy-eggs/yoghurts-labneh",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "جهينه زبادي يوناني توت 180جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-greek-mixed-berries-yoghurt-180g/s/913132",
+      "filename": "جهينه-زبادي-يوناني-توت-180جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b0423b628ad28d59900292.jpg?size=520",
+      "bytes": 521035,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جهينة لبنة سادة 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-labneh-plain-250g/s/929348",
+      "filename": "جهينة-لبنة-سادة-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d06e42974911b3d1ae0.JPG?size=520",
+      "bytes": 139708,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "المراعي يوجو مشروب زبادي فراولة 220 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-yogo-strawberry-drinking-yoghurt-220ml/s/900446",
+      "filename": "المراعي-يوجو-مشروب-زبادي-فراولة-220-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/4e65d662-6890-4952-afa4-35e3b4285eae.JPG?size=520",
+      "bytes": 459464,
+      "dimensions": [
+        223,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "جهينه زبادي يوناني فراوله 180جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-greek-strawberry-yoghurt-180g/s/913129",
+      "filename": "جهينه-زبادي-يوناني-فراوله-180جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b04238628ad28d59900244.jpg?size=520",
+      "bytes": 525510,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-zabado-strawberry-drinking-yoghurt-220g/s/900917",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "مزارع دينا لبنة  250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-labneh-250g/s/917149",
+      "filename": "مزارع-دينا-لبنة-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011439107.JPG?size=520",
+      "bytes": 248961,
+      "dimensions": [
+        419,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جهينة زبادو خوخ 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-zabado-peach-drinking-yoghurt-220g/s/900918",
+      "filename": "جهينة-زبادو-خوخ-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a194d64fb52d9f31b032a3.jpg?size=520",
+      "bytes": 257083,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "المراعي تريتس لبن بالتوت، 150غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-berry-yoghurt-150g/s/918063",
+      "filename": "المراعي-تريتس-لبن-بالتوت،-150غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-jo/Jordan%20Items/JOR-6223007521345.jpg?size=520",
+      "bytes": 479982,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "المراعي زبادي يوناني 170جم فراولة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-greek-yogurt-strawberry-170-gm/s/908931",
+      "filename": "المراعي-زبادي-يوناني-170جم-فراولة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6215006cf2715cf61c51356d.jpg?size=520",
+      "bytes": 679440,
+      "dimensions": [
+        520,
+        455
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جهينه زبادي يوناني خوخ 180جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-greek-peach-yoghurt-180g/s/913130",
+      "filename": "جهينه-زبادي-يوناني-خوخ-180جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b04239628ad28d59900250.jpg?size=520",
+      "bytes": 515817,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "المراعي تريتس لبن بالفراولة، 150غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-strawberry-yoghurt-150g/s/918062",
+      "filename": "المراعي-تريتس-لبن-بالفراولة،-150غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-jo/Jordan%20Items/JOR-6223007521307.jpg?size=520",
+      "bytes": 442746,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "المراعي تريتس لبن بالخوخ، 150غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-peach-yoghurt-150g/s/918064",
+      "filename": "المراعي-تريتس-لبن-بالخوخ،-150غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-jo/Jordan%20Items/JOR-6223007521338.jpg?size=520",
+      "bytes": 424783,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "زبادي يوناني بالمانجو وباشن فروت من المراعي، يحتوي على 8 غ بروتين، 170 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-mango-passion-fruit-greek-yogurt-8g-protein-170g/s/935218",
+      "filename": "زبادي-يوناني-بالمانجو-وباشن-فروت-من-المراعي،-يحتوي-على-8-غ-بروتين،-170-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d63b20a53747474278ce78.JPG?size=520",
+      "bytes": 523038,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "المراعي تريتس زبادي توت 105 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-yogurt-blackberry-105-gm/s/900438",
+      "filename": "المراعي-تريتس-زبادي-توت-105-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688383f88b4d17c9361b5b42.jpg?size=520",
+      "bytes": 614063,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "جهينة لبنة سادة 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-labneh-plain-500g/s/929349",
+      "filename": "جهينة-لبنة-سادة-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d06e42974911b3d1ae1.JPG?size=520",
+      "bytes": 243220,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جهينة زبادي يوناني بالشوفان وبذور الكتان 180 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-oats-flaxseeds-greek-yogurt-180g/s/926313",
+      "filename": "جهينة-زبادي-يوناني-بالشوفان-وبذور-الكتان-180-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b04239628ad28d5990024d.jpg?size=520",
+      "bytes": 475171,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "المراعي يوجو مشروب زبادي خوخ 220 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-yogo-peach-drinking-yoghurt-220ml/s/900445",
+      "filename": "المراعي-يوجو-مشروب-زبادي-خوخ-220-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/800ddc14-f0a0-4209-bce6-c78abd19cf76.JPG?size=520",
+      "bytes": 440726,
+      "dimensions": [
+        223,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "جهينة زبادو توت 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-zabado-mixed-berries-drinking-yoghurt-220g/s/900920",
+      "filename": "جهينة-زبادو-توت-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689f1dbb00301c6d33335fd4.jpg?size=520",
+      "bytes": 241933,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "المراعي زبادي تريتس فراولة 105 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-yogurt-strawberry-105-gm/s/900434",
+      "filename": "المراعي-زبادي-تريتس-فراولة-105-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001874973.jpg?size=520",
+      "bytes": 556557,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "المراعي يوجو مشروب زبادي فراولة 425 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-yogo-strawberry-drinking-yogurt-425ml/s/900443",
+      "filename": "المراعي-يوجو-مشروب-زبادي-فراولة-425-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/da14cbf4-2fc4-47c1-80c4-a42362939f29.JPG?size=520",
+      "bytes": 452568,
+      "dimensions": [
+        223,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:45:42Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
