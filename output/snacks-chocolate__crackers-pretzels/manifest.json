@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__crackers-pretzels",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/crackers-pretzels",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__crackers-pretzels",
+  "started_at": "2026-07-17T16:31:36Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/crackers-pretzels",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات كراكرز صيني، 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-chinese-crackers-150g/s/934260",
+      "filename": "طلبات-كراكرز-صيني،-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9b8.jpg?size=520",
+      "bytes": 518638,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات بريتزل بنكهة الجبنة، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cheese-flavor-pretzels-120g/s/934257",
+      "filename": "طلبات-بريتزل-بنكهة-الجبنة،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69660ebf5adb3dbc5bfdf5c2.png?size=520",
+      "bytes": 483763,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات ذرة محمصة بنكهة الكاتشب 175ج",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-ketchup-flavor-roasted-corn-175g/s/936079",
+      "filename": "طلبات-ذرة-محمصة-بنكهة-الكاتشب-175ج.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69303e7038b7a31b9367a13c.jpg?size=520",
+      "bytes": 559264,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات بريتزل بنكهة الكاتشب، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-ketchup-flavor-pretzels-120g/s/934258",
+      "filename": "طلبات-بريتزل-بنكهة-الكاتشب،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69660ebf5adb3dbc5bfdf5c3.png?size=520",
+      "bytes": 485624,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ابو عوف بريتزل جبنة  40 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-cheese-pretzels-40g/s/919322",
+      "filename": "ابو-عوف-بريتزل-جبنة-40-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abec.png?size=520",
+      "bytes": 396251,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات بريتزل بنكهة الباربكيو، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-bbq-flavor-pretzels-120g/s/934256",
+      "filename": "طلبات-بريتزل-بنكهة-الباربكيو،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69660ebf5adb3dbc5bfdf5c0.png?size=520",
+      "bytes": 482460,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "بريتزل كاتشب  200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-ketchup-pretzels-200g/s/924817",
+      "filename": "بريتزل-كاتشب-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe7.png?size=520",
+      "bytes": 587828,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "بريتزل باربيكيو  200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-bbq-pretzels-200g/s/924818",
+      "filename": "بريتزل-باربيكيو-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe8.png?size=520",
+      "bytes": 579279,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "بـريــتزل باربكــيو لايف جرين 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/live-green-bbq-flavor-pretzels-100g/s/915790",
+      "filename": "بريتزل-باربكيو-لايف-جرين-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/d575ab4a-85ba-4dc4-8aae-d2975916cce6.JPG?size=520",
+      "bytes": 561277,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "أبو عوف توستينو وجبات خفيفة بالكاتشب 50 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-tostino-snacks-with-ketchup-50g/s/928452",
+      "filename": "ابو-عوف-توستينو-وجبات-خفيفة-بالكاتشب-50-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423ac8a.png?size=520",
+      "bytes": 499301,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "بـريــتزل جبــنه لايف جرين 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/live-green-cheese-flavor-pretzels-100g/s/915789",
+      "filename": "بريتزل-جبنه-لايف-جرين-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/9e748133-ecb7-4d74-b867-483b6e3eb7f0.JPG?size=520",
+      "bytes": 550393,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بريتززو أعواد بريتزل بالملح 45-55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/prtezo-sticks-pretzels-with-salt-45-55g/s/QBUITX",
+      "filename": "بريتززو-اعواد-بريتزل-بالملح-45-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c480fd59dc99f9821e09.png?size=520",
+      "bytes": 563310,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "بريتززو أعواد بريتزل  بالجبن 45-55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/prtezo-sticks-pretzels-with-cheese-45-55g/s/HR86PR",
+      "filename": "بريتززو-اعواد-بريتزل-بالجبن-45-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c483fd59dc99f9821e93.png?size=520",
+      "bytes": 545552,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بريتزو ميكسي تشيز بريتزل، 40-50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pretzo-mixy-cheese-pretzels-40-50g/s/3GB3UL",
+      "filename": "بريتزو-ميكسي-تشيز-بريتزل،-40-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c49afd59dc99f9821f7d.png?size=520",
+      "bytes": 527637,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "بريتزو ميكسي توماتو بريتزل، 40-50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pretzo-mixy-tomato-pretzels-40-50g/s/WDXMKR",
+      "filename": "بريتزو-ميكسي-توماتو-بريتزل،-40-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c49bfd59dc99f9821f7f.png?size=520",
+      "bytes": 529059,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "بريتزو الأصلي المخبوز والمملح، 50-60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pretzo-original-baked-salted-pretzels-50-60g/s/HRU9SF",
+      "filename": "بريتزو-الاصلي-المخبوز-والمملح،-50-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c495fd59dc99f9821f45.png?size=520",
+      "bytes": 534561,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "بريتززو أعواد بريتزل الفلفل الحار والليمون 45-55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/prtezo-sticks-pretzels-with-chili-lemon-45-55g/s/Y1BY2W",
+      "filename": "بريتززو-اعواد-بريتزل-الفلفل-الحار-والليمون-45-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c49ffd59dc99f9821fb5.png?size=520",
+      "bytes": 563520,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بريتزو ميكسي مملح، 40-50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pretzo-mixy-salt-pretzels-40-50g/s/EIJ509",
+      "filename": "بريتزو-ميكسي-مملح،-40-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c325a4a77efd2ae8857e.png?size=520",
+      "bytes": 521079,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "بريتزو ميني ستيكس  بنكهة الملح 50-60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pretzo-salt-mini-sticks-50-60g/s/6P8W7U",
+      "filename": "بريتزو-ميني-ستيكس-بنكهة-الملح-50-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c48dfd59dc99f9821f05.png?size=520",
+      "bytes": 562053,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "بريتزو الأصلي بالجبنة، 50-60 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pretzo-original-cheese-pretzels-50-60g/s/A71MV0",
+      "filename": "بريتزو-الاصلي-بالجبنة،-50-60-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c480fd59dc99f9821e11.png?size=520",
+      "bytes": 540885,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:35:02Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
