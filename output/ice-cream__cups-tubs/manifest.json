@@ -1,0 +1,316 @@
+{
+  "category": "ice-cream__cups-tubs",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ice-cream/cups-tubs",
+  "output_dir": "/home/z/my-project/output/ice-cream__cups-tubs",
+  "started_at": "2026-07-17T16:40:20Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ice-cream/cups-tubs",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "وندر فيت آيس كريم بالشوكولاتة بدون سكر كوب، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderfit-chocolate-without-sugar-ice-cream-cup-200ml/s/925778",
+      "filename": "وندر-فيت-ايس-كريم-بالشوكولاتة-بدون-سكر-كوب،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/685a5aeb2f3c98f672d1eddb.JPG?size=520",
+      "bytes": 705407,
+      "dimensions": [
+        480,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "وندر فيت آيس كريم بنكهة الفانيليا بدون سكر كوب، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderfit-vanilla-without-sugar-ice-cream-cup-200ml/s/925777",
+      "filename": "وندر-فيت-ايس-كريم-بنكهة-الفانيليا-بدون-سكر-كوب،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6693bca5cee6cac1a1bebe66.jpg?size=520",
+      "bytes": 542117,
+      "dimensions": [
+        444,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "وندر فيت آيس كريم بنكهة الزبادي وصلصة التوت الأزرق بدون سكر كوب، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderfit-yogurt-blueberry-sauce-without-sugar-ice-cream-cup-200ml/s/925779",
+      "filename": "وندر-فيت-ايس-كريم-بنكهة-الزبادي-وصلصة-التوت-الازرق-بدون-سكر-كوب،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6693bcc2cee6cac1a1bebe69.jpg?size=520",
+      "bytes": 618773,
+      "dimensions": [
+        479,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "وندر فيل آيس كريم ساندويتش لوتس والفانيليا، 135 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-louts-vanilla-sandwich-ice-cream-135ml/s/914519",
+      "filename": "وندر-فيل-ايس-كريم-ساندويتش-لوتس-والفانيليا،-135-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922376.jpg?size=520",
+      "bytes": 230312,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "أوريو آيس كريم كوب 140 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oreo-ice-cream-cup-140ml/s/900330",
+      "filename": "اوريو-ايس-كريم-كوب-140-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/670d70e2088d2ba7e05f24e4?size=520",
+      "bytes": 431570,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "وندرفيل آيس كريم الشوكولاتة بجوز الهند المزدوج عصا، 90 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-double-coconut-chocolate-round-stick-ice-cream-90ml/s/926870",
+      "filename": "وندرفيل-ايس-كريم-الشوكولاتة-بجوز-الهند-المزدوج-عصا،-90-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66dd9f148436984011e6e7bd.JPG?size=520",
+      "bytes": 485595,
+      "dimensions": [
+        480,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "وندر فيل آيس كريم علكة كون، 105 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-bubble-gum-cone-ice-cream-105ml/s/914508",
+      "filename": "وندر-فيل-ايس-كريم-علكة-كون،-105-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922765.jpg?size=520",
+      "bytes": 177777,
+      "dimensions": [
+        351,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كولدستون كيري تشيز كيك توت كوب آيس كريم، 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cold-stone-kiri-cup-blueberry-cheese-cake-ice-cream-150ml/s/932141",
+      "filename": "كولدستون-كيري-تشيز-كيك-توت-كوب-ايس-كريم،-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/684000b0b2dd4269dca0b215.jpg?size=520",
+      "bytes": 550324,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "باراديس ايس كريم شوكولاتة كوب -104 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/paradise-chocolate-ice-cream-cup-140ml/s/900309",
+      "filename": "باراديس-ايس-كريم-شوكولاتة-كوب-104-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50354d719e3338ccb28bb.JPG?size=520",
+      "bytes": 488332,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كادبوري ديري ميلك كراميل علبة 600 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-caramel-ice-cream-tub-600ml/s/909570",
+      "filename": "كادبوري-ديري-ميلك-كراميل-علبة-600-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222020803698.jpg?size=520",
+      "bytes": 695285,
+      "dimensions": [
+        499,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كادبوري ديري ميلك شوكولاتة ناعمة، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-smooth-chocolate-center-tub-500ml/s/915877",
+      "filename": "كادبوري-ديري-ميلك-شوكولاتة-ناعمة،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66962589cee6cac1a1bece11.JPG?size=520",
+      "bytes": 300327,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "وندرفيل آيس كريم بالفراولة كوب، 150 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-strawberry-ice-cream-cup-150ml/s/925158",
+      "filename": "وندرفيل-ايس-كريم-بالفراولة-كوب،-150-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/beit/6224009922024.jpeg?size=520",
+      "bytes": 380507,
+      "dimensions": [
+        520,
+        477
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "وندرفيل آيس كريم بابل جم كوب، 150 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-bubble-gum-cup-ice-cream-150ml/s/917500",
+      "filename": "وندرفيل-ايس-كريم-بابل-جم-كوب،-150-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922536.jpg?size=520",
+      "bytes": 251800,
+      "dimensions": [
+        520,
+        464
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "وندرفيل آيس كريم كوتون كاندي كوب، 150 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-cotton-candy-ice-cream-cup-150ml/s/917499",
+      "filename": "وندرفيل-ايس-كريم-كوتون-كاندي-كوب،-150-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922062.jpg?size=520",
+      "bytes": 309201,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "وندرفيل آيس كريم مانجو، 900 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-mango-ice-cream-900ml/s/925776",
+      "filename": "وندرفيل-ايس-كريم-مانجو،-900-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66e85bab9ace1a23949b8d40.JPG?size=520",
+      "bytes": 427374,
+      "dimensions": [
+        520,
+        518
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جيلاتو فاكتوري آيس كريم مستكة بالفستق، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-mastic-with-pistachio-250-ml/s/923226",
+      "filename": "جيلاتو-فاكتوري-ايس-كريم-مستكة-بالفستق،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_1755000050560.jpg?size=520",
+      "bytes": 313975,
+      "dimensions": [
+        520,
+        421
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "جيلاتو فاكتوري شوكولاتة جيلاتو، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-chocolate-gelato-250-ml/s/923225",
+      "filename": "جيلاتو-فاكتوري-شوكولاتة-جيلاتو،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_1755000050539.jpg?size=520",
+      "bytes": 319179,
+      "dimensions": [
+        520,
+        421
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سموتشي  ليمون كريمي  موتشي آيس كريم 64 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/smoochy-creamy-lemon-mochi-ice-cream-64g/s/939831",
+      "filename": "سموتشي-ليمون-كريمي-موتشي-ايس-كريم-64-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a50bff69cabd1fac7293f5d.png?size=520",
+      "bytes": 382395,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "سموتشي ريد بطيخ موتشي آيس كريم 192 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/smoochy-red-watermelon-mochi-ice-cream-192g/s/939773",
+      "filename": "سموتشي-ريد-بطيخ-موتشي-ايس-كريم-192-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a4e62163e5ba0c665afd3c2.jpg?size=520",
+      "bytes": 718230,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:43:41Z",
+  "captured": 21,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 22
+}
