@@ -28,6 +28,7 @@ interface ControlPanelProps {
     headless: boolean
     maxScrollRounds: number
     settleMs: number
+    maxPages: number
   }) => Promise<void>
   onStop: () => Promise<void>
   onReset: () => void
@@ -49,6 +50,7 @@ export function ControlPanel({
   const [headless, setHeadless] = useState(true)
   const [maxScrollRounds, setMaxScrollRounds] = useState(20)
   const [settleMs, setSettleMs] = useState(3000)
+  const [maxPages, setMaxPages] = useState(50)
   const [busy, setBusy] = useState(false)
 
   const handleStart = async () => {
@@ -66,6 +68,7 @@ export function ControlPanel({
         headless,
         maxScrollRounds,
         settleMs,
+        maxPages,
       })
       toast.success('Capture started')
     } catch (e: any) {
@@ -107,7 +110,7 @@ export function ControlPanel({
             className="font-mono text-xs"
           />
         </div>
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
           <div className="space-y-1.5">
             <Label htmlFor="category" className="text-xs">Leaf category</Label>
             <Input
@@ -128,6 +131,21 @@ export function ControlPanel({
               value={maxScrollRounds}
               onChange={(e) =>
                 setMaxScrollRounds(parseInt(e.target.value || '20', 10))
+              }
+              disabled={running || busy}
+              className="font-mono text-xs"
+            />
+          </div>
+          <div className="space-y-1.5">
+            <Label htmlFor="maxpages" className="text-xs">Max pages</Label>
+            <Input
+              id="maxpages"
+              type="number"
+              min={1}
+              max={200}
+              value={maxPages}
+              onChange={(e) =>
+                setMaxPages(parseInt(e.target.value || '50', 10))
               }
               disabled={running || busy}
               className="font-mono text-xs"
@@ -154,6 +172,11 @@ export function ControlPanel({
           <p className="text-[10px] text-muted-foreground">
             Waits for the image to fully paint before capturing. Prevents
             white/blank screenshots. 3000ms is the default.
+          </p>
+          <p className="text-[10px] text-muted-foreground">
+            <strong>Max pages</strong> walks the category pagination
+            (next-page button) and captures products from <em>every</em>
+            page, not just the first. Set high (e.g. 50) to grab all pages.
           </p>
         </div>
         <div className="space-y-1.5">

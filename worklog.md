@@ -104,3 +104,33 @@ Stage Summary:
 - Queue populated with 160 URLs across 28 categories; first item (`fruit-veg__best-in-season`) running and saving screenshots (17 PNGs captured so far, including Arabic-named files like `بيكو-تفاح-احمر-1ك.png` at 292KB).
 - Agent Browser verification: UI shows "live" WS connection, 160 total / 1 running / 159 pending queue items, "processing" badge active, "Load JSON" button present, all 8 components rendering.
 - Each queue item saves into its own `parent__sub` folder under `/home/z/my-project/output/`, guaranteeing no collisions (e.g. `frozen-food__ready-meals` vs `ready-to-eat__ready-meals`).
+
+---
+Task ID: PAGINATION
+Agent: main
+Task: Add pagination support to capture.py so categories with >20 products (multi-page) have ALL their products captured, not just page 1. User reported seeing a "next page" button at the bottom of some sections.
+
+Work Log:
+- Confirmed project was NOT wiped (all code from previous REBUILD task intact).
+- Diagnosed Talabat Mart category page structure with Playwright: most subcategory pages load ALL products on a single page via lazy/infinite scroll (e.g. fresh-fruit = 23 cards, no change after 25 scroll rounds). No traditional pagination buttons found on probed categories (fresh-fruit, chocolates, soft-drinks).
+- Rewrote `mini-services/capture-service/capture.py` with a two-phase architecture to handle BOTH infinite-scroll AND true pagination:
+  - Phase 1 (DISCOVERY): walk every page of the category — scroll to load lazy cards, collect every product-card href, then detect + click a "next page" / "load more" control (18 selector patterns: data-testid, aria-label, Arabic text "التالي"/"تحميل المزيد", English "Next"/"Load more", SVG arrow buttons in nav). De-duplicate by href (strip query/fragment). Stop when no next control, no new products, or max-pages reached.
+  - Phase 2 (CAPTURE): for each unique product URL, navigate directly to the detail page (no fragile go_back), wait for hero <img>, settle, screenshot. Tracks source_page per product in manifest.
+  - New CLI arg `--max-pages` (default 50).
+  - New event types: `page` (per page walked), enriched `card-found`/`navigate` with page number, `done` includes pages count.
+  - Loop guards: stops discovery if a page yields 0 new products or if clicking "next" doesn't change URL or card count.
+- Updated `src/lib/capture-store.ts`: added `maxPages: number` to CaptureConfig, passed `--max-pages` to Python args, `buildCfgFromPartial` defaults maxPages=50, `processNextQueueItem` forwards maxPages.
+- Updated `src/app/api/capture/start/route.ts`: reads body.maxPages (default 50).
+- Updated `src/components/capture/control-panel.tsx`: added "Max pages" number input (3-col grid with category + scroll rounds), explanatory help text.
+- Updated `src/components/capture/queue-panel.tsx`: added maxPages state + "Max pages" input in shared options (4-col grid), passed in enqueue payload.
+- Updated `src/app/page.tsx`: handleStart + handleEnqueue signatures include maxPages; updated hero copy + spec tags to mention "pagination: all pages".
+- Updated `scripts/populate-queue.mjs`: each item now carries maxPages: 50.
+- Stopped the old (pre-pagination) capture, cleared all 160 old queue items, wiped the incomplete output folders (best-in-season/fresh-fruit/fresh-vegetables/herbs-leafy-greens were captured page-1-only).
+- Re-populated the queue via `node scripts/populate-queue.mjs` — 160 URLs across 28 categories, all with maxPages: 50. First item started immediately.
+- Verified: lint clean, dev server compiles, capture running with maxPages=50. fresh-fruit manifest confirms all 23 products discovered on page 1, 22 captured (1 skip). best-in-season 12 PNGs. Queue progressing: done/running/pending advancing.
+
+Stage Summary:
+- capture.py now walks ALL pages of every category (pagination-aware) + scrolls for lazy-load on each page. Product de-duplication by href prevents re-capturing the same product across pages.
+- New `--max-pages` / `maxPages` config threaded through Python → capture-store → API → UI (both single-capture control panel and queue composer).
+- Queue re-populated (160 items) and running with the new script. Each product's source_page is recorded in manifest.json.
+- Diagnostic finding: most Talabat Mart subcategory pages load all products on a single page (infinite scroll), so the pagination path is a safety net for any category that does split across pages.

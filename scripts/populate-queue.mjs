@@ -42,6 +42,7 @@ for (const [catName, subItems] of Object.entries(data)) {
       headless: true,
       maxScrollRounds: 20,
       settleMs: 3000,
+      maxPages: 50,
     })
   }
 }

@@ -56,6 +56,7 @@ export default function Home() {
       headless: boolean
       maxScrollRounds: number
       settleMs: number
+      maxPages: number
     }) => {
       const r = await fetch('/api/capture/start', {
         method: 'POST',
@@ -93,6 +94,7 @@ export default function Home() {
       headless: boolean
       maxScrollRounds: number
       settleMs: number
+      maxPages: number
     }>) => {
       const r = await fetch('/api/capture/queue', {
         method: 'POST',
@@ -200,8 +202,9 @@ export default function Home() {
                 Capture every product image, cleanly.
               </h2>
               <p className="max-w-2xl text-sm text-muted-foreground">
-                Clicks each product card on a Talabat Mart category page, waits
-                for the hero image on the detail page (no{' '}
+                Walks every page of a Talabat Mart category (pagination-aware),
+                collects every product card, then for each one navigates to its
+                detail page, waits for the hero image (no{' '}
                 <code className="rounded bg-muted px-1 py-0.5 font-mono text-[11px]">+</code>{' '}
                 overlay), screenshots the raw{' '}
                 <code className="rounded bg-muted px-1 py-0.5 font-mono text-[11px]">&lt;img&gt;</code>,
@@ -294,6 +297,7 @@ export default function Home() {
                 <SpecTag>filename sanitization</SpecTag>
                 <SpecTag>Cloudflare + login-aware</SpecTag>
                 <SpecTag>Queue: parent__sub folders</SpecTag>
+                <SpecTag>Pagination: all pages</SpecTag>
               </div>
             </div>
           </div>

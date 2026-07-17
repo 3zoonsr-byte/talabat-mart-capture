@@ -45,6 +45,7 @@ interface QueuePanelProps {
     headless: boolean
     maxScrollRounds: number
     settleMs: number
+    maxPages: number
   }>) => Promise<void>
   onRemove: (id: string) => Promise<void>
   onClear: (includePending: boolean) => Promise<void>
@@ -186,6 +187,7 @@ export function QueuePanel({
   const [headless, setHeadless] = useState(true)
   const [maxScrollRounds, setMaxScrollRounds] = useState(20)
   const [settleMs, setSettleMs] = useState(3000)
+  const [maxPages, setMaxPages] = useState(50)
   const [busy, setBusy] = useState(false)
   const fileInputRef = useRef<HTMLInputElement>(null)
 
@@ -279,6 +281,7 @@ export function QueuePanel({
         headless,
         maxScrollRounds,
         settleMs,
+        maxPages,
       }))
       await onEnqueue(payload)
       toast.success(`Added ${payload.length} item(s) to the queue`)
@@ -437,7 +440,7 @@ export function QueuePanel({
           </div>
 
           {/* Shared options */}
-          <div className="grid grid-cols-1 gap-2 border-t border-border/60 pt-3 sm:grid-cols-3">
+          <div className="grid grid-cols-1 gap-2 border-t border-border/60 pt-3 sm:grid-cols-4">
             <div className="space-y-1">
               <Label className="text-[11px] text-muted-foreground">
                 Scroll rounds
@@ -465,6 +468,21 @@ export function QueuePanel({
                 value={settleMs}
                 onChange={(e) =>
                   setSettleMs(parseInt(e.target.value || '3000', 10))
+                }
+                className="h-8 font-mono text-xs"
+              />
+            </div>
+            <div className="space-y-1">
+              <Label className="text-[11px] text-muted-foreground">
+                Max pages
+              </Label>
+              <Input
+                type="number"
+                min={1}
+                max={200}
+                value={maxPages}
+                onChange={(e) =>
+                  setMaxPages(parseInt(e.target.value || '50', 10))
                 }
                 className="h-8 font-mono text-xs"
               />

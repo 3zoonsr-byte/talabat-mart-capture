@@ -24,6 +24,7 @@ export async function POST(req: NextRequest) {
     headless: body.headless ?? true,
     maxScrollRounds: Number(body.maxScrollRounds ?? 20),
     settleMs: Number(body.settleMs ?? 3000),
+    maxPages: Number(body.maxPages ?? 50),
   }
 
   if (!cfg.url || !cfg.url.startsWith('http')) {

@@ -2,7 +2,8 @@
   "category": "fruit-veg__fresh-fruit",
   "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/fruit-veg/fresh-fruit",
   "output_dir": "/home/z/my-project/output/fruit-veg__fresh-fruit",
-  "started_at": "2026-07-17T11:50:02Z",
+  "started_at": "2026-07-17T12:21:39Z",
+  "max_pages": 50,
   "items": [
     {
       "index": 1,
@@ -15,7 +16,8 @@
       "dimensions": [
         1000,
         1000
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 2,
@@ -28,7 +30,8 @@
       "dimensions": [
         200,
         200
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 3,
@@ -41,7 +44,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 4,
@@ -54,7 +58,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 5,
@@ -67,7 +72,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 6,
@@ -80,7 +86,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 7,
@@ -93,7 +100,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 8,
@@ -106,7 +114,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 9,
@@ -119,7 +128,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 10,
@@ -132,7 +142,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 11,
@@ -145,7 +156,8 @@
       "dimensions": [
         520,
         520
-      ]
+      ],
+      "source_page": 1
     },
     {
       "index": 12,
@@ -158,7 +170,148 @@
       "dimensions": [
         520,
         489
-      ]
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "خضار.كوم اناناس سكري قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-sweet-pineapple-pc/s/910146",
+      "filename": "خضار-كوم-اناناس-سكري-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160046.JPG?size=520",
+      "bytes": 418988,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فريش سورس تفاح رويال جالا 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-royal-gala-apple-1kg/s/904290",
+      "filename": "فريش-سورس-تفاح-رويال-جالا-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aa45cb50afaeea3ffd415.jpg?size=520",
+      "bytes": 400290,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فريش سورس أفوكادو مستورد، 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-imported-avocado-500g/s/904296",
+      "filename": "فريش-سورس-افوكادو-مستورد،-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636a9f16b50afaeea3ffd2c9.jpg?size=520",
+      "bytes": 299258,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فريش سورس تفاح مشكل 0.5 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-mixed-apples-05-kg/s/904293",
+      "filename": "فريش-سورس-تفاح-مشكل-0-5-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aac70b50afaeea3ffd5f6.jpg?size=520",
+      "bytes": 389031,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "فريش سورس تفاح أصفر مستور 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-yellow-apple-imported-1kg/s/902167",
+      "filename": "فريش-سورس-تفاح-اصفر-مستور-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636ab2040fedbada93d6b525.jpg?size=520",
+      "bytes": 330115,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "فريش سورس تفاح احمر مستورد 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-red-apple-imported-1kg/s/902168",
+      "filename": "فريش-سورس-تفاح-احمر-مستورد-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aab7bb50afaeea3ffd5d0.jpg?size=520",
+      "bytes": 362848,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "فريش سورس مانجو عويس 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-mango-owais-1-kg/s/902176",
+      "filename": "فريش-سورس-مانجو-عويس-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010502062.JPG?size=520",
+      "bytes": 336835,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "بيكو ليتشى 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pico-lychee-250-gm/s/912813",
+      "filename": "بيكو-ليتشى-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001531364.jpg?size=520",
+      "bytes": 229263,
+      "dimensions": [
+        520,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فريش سورس مانجو زبدية 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-mango-zibdia-1-kg/s/907631",
+      "filename": "فريش-سورس-مانجو-زبدية-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010502642.JPG?size=520",
+      "bytes": 321293,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فريش سورس أناناس شجر - 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-pineapple-1-pcs/s/902163",
+      "filename": "فريش-سورس-اناناس-شجر-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aa7b50fedbada93d6b390.jpg?size=520",
+      "bytes": 471949,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
     }
   ],
   "failed": [],
@@ -169,5 +322,9 @@
       "reason": "no hero image"
     }
   ],
-  "stopped_at": "2026-07-17T11:53:22Z"
+  "finished_at": "2026-07-17T12:25:14Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
 }

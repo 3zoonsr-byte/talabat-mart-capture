@@ -38,6 +38,7 @@ export interface CaptureConfig {
   headless: boolean
   maxScrollRounds: number
   settleMs: number
+  maxPages: number
 }
 
 export type QueueItemStatus =
@@ -225,6 +226,7 @@ function spawnCapture(
     '--headless', cfg.headless ? 'true' : 'false',
     '--max-scroll-rounds', String(cfg.maxScrollRounds),
     '--settle-ms', String(cfg.settleMs ?? 3000),
+    '--max-pages', String(cfg.maxPages ?? 50),
   ]
   if (cfg.proxy) args.push('--proxy', cfg.proxy)
 
@@ -393,6 +395,7 @@ function buildCfgFromPartial(
     headless: p.headless ?? true,
     maxScrollRounds: p.maxScrollRounds ?? 20,
     settleMs: p.settleMs ?? 3000,
+    maxPages: p.maxPages ?? 50,
   }
 }
 
@@ -523,6 +526,7 @@ function processNextQueueItem(): void {
     headless: next.headless,
     maxScrollRounds: next.maxScrollRounds,
     settleMs: next.settleMs,
+    maxPages: next.maxPages,
   }
 
   const res = spawnCapture(cfg, (code, _signal) => {
