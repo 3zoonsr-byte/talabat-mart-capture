@@ -1,0 +1,330 @@
+{
+  "category": "beverages__juices",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/juices",
+  "output_dir": "/home/z/my-project/output/beverages__juices",
+  "started_at": "2026-07-17T15:28:30Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/juices",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "مزارع دينا عصير برتقال فريش 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-fresh-orange-juice-850-ml/s/904168",
+      "filename": "مزارع-دينا-عصير-برتقال-فريش-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710e618b6ae261425e4616.jpg?size=520",
+      "bytes": 248202,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "سن توب عصير توت مشكل 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/suntop-mixed-berry-juice-250ml/s/915083",
+      "filename": "سن-توب-عصير-توت-مشكل-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/Zaher/27%20oct/6224000490836.jpg?size=520",
+      "bytes": 607730,
+      "dimensions": [
+        421,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "سن توب عصير برتقال 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/suntop-orange-juice-250ml/s/915084",
+      "filename": "سن-توب-عصير-برتقال-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/Zaher/27%20oct/6224001167423.jpg?size=520",
+      "bytes": 805003,
+      "dimensions": [
+        323,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "جهينة عصير بريميم مانجو 235 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-mango-juice-235ml/s/900854",
+      "filename": "جهينة-عصير-بريميم-مانجو-235-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014330506.JPG?size=520",
+      "bytes": 165119,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مزارع دينا عصير برتقال فريش 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-fresh-orange-juice-250-ml/s/904172",
+      "filename": "مزارع-دينا-عصير-برتقال-فريش-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000432539.JPG?size=520",
+      "bytes": 316438,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "جهينة عصير مانجو 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-mango-juice-1l/s/900842",
+      "filename": "جهينة-عصير-مانجو-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014336133.JPG?size=520",
+      "bytes": 210244,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جهينة عصير جوافة 235 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-guava-juice-235ml/s/900859",
+      "filename": "جهينة-عصير-جوافة-235-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014330513.JPG?size=520",
+      "bytes": 160840,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "سن توب عصير مانجو 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/suntop-mango-fruit-drink-250-ml/s/921876",
+      "filename": "سن-توب-عصير-مانجو-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65673d4c26d9ec111a4713d4.JPG?size=520",
+      "bytes": 583081,
+      "dimensions": [
+        350,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "جهينة عصير أناناس 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-pineapple-juice-1l/s/900843",
+      "filename": "جهينة-عصير-اناناس-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014336164.JPG?size=520",
+      "bytes": 227518,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جهينة بيور عصير تفاح 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-pure-juice-apple-1l/s/900869",
+      "filename": "جهينة-بيور-عصير-تفاح-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014335525.JPG?size=520",
+      "bytes": 166452,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جهينة عصير عنب أحمر 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-red-grapes-juice-1l/s/900848",
+      "filename": "جهينة-عصير-عنب-احمر-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014336195.JPG?size=520",
+      "bytes": 228285,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "جهينة عصير برتقال 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-orange-juice-1l/s/900846",
+      "filename": "جهينة-عصير-برتقال-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014336140.JPG?size=520",
+      "bytes": 220428,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "مزارع دينا عصير مانجو فريش 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-fresh-mango-juice-850-ml/s/904169",
+      "filename": "مزارع-دينا-عصير-مانجو-فريش-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000432508.JPG?size=520",
+      "bytes": 273657,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "المراعي عصير تفاح 1لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-juice-apple-1l/s/911762",
+      "filename": "المراعي-عصير-تفاح-1لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007520737.JPG?size=520",
+      "bytes": 357716,
+      "dimensions": [
+        323,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "جهينة عصير ميكس بيرى 235 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-blend-mixed-berries-juice-235ml/s/900863",
+      "filename": "جهينة-عصير-ميكس-بيرى-235-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014334252.JPG?size=520",
+      "bytes": 196702,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "المراعي عصير مانجو 1لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-juice-mango-1l/s/911761",
+      "filename": "المراعي-عصير-مانجو-1لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007520720.JPG?size=520",
+      "bytes": 351091,
+      "dimensions": [
+        323,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "جهينة عصير كوكتيل 235 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-classic-cocktail-juice-235ml/s/900857",
+      "filename": "جهينة-عصير-كوكتيل-235-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014330520.JPG?size=520",
+      "bytes": 170943,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "جهينة بيورعصير مانجو & خوخ 235 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-pure-juice-mango-peach-235ml/s/900884",
+      "filename": "جهينة-بيورعصير-مانجو-خوخ-235-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688384978b4d17c9361b6a65.jpg?size=520",
+      "bytes": 456218,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "مزارع دينا عصير مانجو فريش 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-mango-juice-fresh-250-ml/s/904173",
+      "filename": "مزارع-دينا-عصير-مانجو-فريش-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687111738b6ae261425e9b56.jpg?size=520",
+      "bytes": 328399,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "جهينة بيور عصير برتقال 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-pure-juice-orange-1l/s/900871",
+      "filename": "جهينة-بيور-عصير-برتقال-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014335518.JPG?size=520",
+      "bytes": 176695,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:32:18Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
