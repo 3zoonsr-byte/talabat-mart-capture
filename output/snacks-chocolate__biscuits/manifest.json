@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__biscuits",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/biscuits",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__biscuits",
+  "started_at": "2026-07-17T16:13:31Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/biscuits",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كادبوري لفائف ويفر أصبعين بالشوكولاتة، 22 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-2-fingers-wafer-choco-rolls-22g/s/936031",
+      "filename": "كادبوري-لفائف-ويفر-اصبعين-بالشوكولاتة،-22-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698882f44934803ff834e736.png?size=520",
+      "bytes": 325230,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ويفر كريمه كبير (6قطع)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bisco-wafer-vanilla-big-6-pieces/s/921569",
+      "filename": "ويفر-كريمه-كبير-6قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222001100570.JPG?size=520",
+      "bytes": 506508,
+      "dimensions": [
+        520,
+        275
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كادبري بسكويت شوكولاتة تشوكو ديلايت، 34 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-choco-delight-biscuits-34g/s/906977",
+      "filename": "كادبري-بسكويت-شوكولاتة-تشوكو-ديلايت،-34-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ee8add18fc84edaf6def2e.jpg?size=520",
+      "bytes": 403172,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "بسكو مصربسكويت لوكس سادة أصلي 12 قطعة، 50 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bisco-misr-luxe-original-plain-biscuits-12-pieces-50g/s/906588",
+      "filename": "بسكو-مصربسكويت-لوكس-سادة-اصلي-12-قطعة،-50-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/62fe20c61b2cd015d16b705a.jpg?size=520",
+      "bytes": 490866,
+      "dimensions": [
+        520,
+        233
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كادبوري بسكويت دبل شوكولاتة 25.5 جرام 1قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-chocolate-delight-biscuits-1-cookie-255g/s/921306",
+      "filename": "كادبوري-بسكويت-دبل-شوكولاتة-25-5-جرام-1قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_7622202015915.JPG?size=520",
+      "bytes": 549006,
+      "dimensions": [
+        520,
+        380
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oreo-vanilla-creme-filled-biscuits-3-biscuits-24g/s/936959",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ماكفيتيز جوي تشيز كيك بالتوت كريمة 42 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mcvities-joy-raspberry-cheesecake-cream-biscuits-42g/s/932917",
+      "filename": "ماكفيتيز-جوي-تشيز-كيك-بالتوت-كريمة-42-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687a6c654ccad50dfa9274d0.png?size=520",
+      "bytes": 274714,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "بيمبو اوريجينال 31 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bimbo-original-coated-filled-with-cocoa-cream-vanilla-biscuits-1-piece/s/911970",
+      "filename": "بيمبو-اوريجينال-31-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdbb6d754b2cdae91ffd2e.JPG?size=520",
+      "bytes": 750224,
+      "dimensions": [
+        392,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "أوريو كادبري بسكويت مغطى بالشوكولاتة، 31.3 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oreo-cadbury-chocolate-coated-biscuits-313g/s/919543",
+      "filename": "اوريو-كادبري-بسكويت-مغطى-بالشوكولاتة،-31-3-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ee8ce218fc84edaf6df435.jpg?size=520",
+      "bytes": 475421,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/freska-chocolate-coated-wafer-bar-100g/s/924925",
+      "filename": "Grocery-Shop-12.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "بيمبو بسكويت شوكو ماكس، 31 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bimbo-choco-max-coated-biscuit-filled-with-chocolate-cream-1-piece/s/911969",
+      "filename": "بيمبو-بسكويت-شوكو-ماكس،-31-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdbb6b754b2cdae91ffbea.JPG?size=520",
+      "bytes": 557458,
+      "dimensions": [
+        353,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بيمبو ستيفيا بسكويت الشوفان الكلاسيكي بدون سكر مضاف، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bimbo-stevia-no-sugar-added-classic-oat-biscuits-1-piece/s/927929",
+      "filename": "بيمبو-ستيفيا-بسكويت-الشوفان-الكلاسيكي-بدون-سكر-مضاف،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b1ccec142e4a60101c7e9c.jpg?size=520",
+      "bytes": 549790,
+      "dimensions": [
+        520,
+        502
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "شاتو بسكويت محشو بالشوكولاتة، 140غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chatto-biscuits-filled-with-chocolate-140g/s/921142",
+      "filename": "شاتو-بسكويت-محشو-بالشوكولاتة،-140غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001160601.JPG?size=520",
+      "bytes": 341213,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "جالاكسي فلوتس شوكولاتة الكريمية إصبعين 22.5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/galaxy-flutes-cream-chocolate-2-fingers-225g/s/919076",
+      "filename": "جالاكسي-فلوتس-شوكولاتة-الكريمية-اصبعين-22-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891be01fd59dc99f981f845.jpg?size=520",
+      "bytes": 376680,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "أوريو بسكويت محشو بكريمة الفانيليا، 6 قطع، 48 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oreo-vanilla-creme-filled-biscuits-6-biscuits-48g/s/936962",
+      "filename": "اوريو-بسكويت-محشو-بكريمة-الفانيليا،-6-قطع،-48-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0c394cc0d454d0d1f5aa5f.png?size=520",
+      "bytes": 280766,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "فيتنيس بسكويت الشوفان برقائق بنكهة الشوكولاتة، 30 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fitness-oat-biscuits-with-chocolate-flavored-chips-30g/s/929676",
+      "filename": "فيتنيس-بسكويت-الشوفان-برقائق-بنكهة-الشوكولاتة،-30-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67aca1a877be538e6a559cf2.png?size=520",
+      "bytes": 431556,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "بسكويت الشوفان بيمبو مع الزبيب ستيفيابدون سكر مضاف 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bimbo-oat-biscuits-with-raisin-stevia-no-sugar-added-1pc/s/927930",
+      "filename": "بسكويت-الشوفان-بيمبو-مع-الزبيب-ستيفيابدون-سكر-مضاف-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69e615669057315ae6a2d77f.jpg?size=520",
+      "bytes": 662494,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ماندولين ويفر مغطي بالشوكولاته 33 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mandolin-wafer-covered-with-chocolate-33g/s/930716",
+      "filename": "ماندولين-ويفر-مغطي-بالشوكولاته-33-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689c43fa5f5ad34785f7aa71.png?size=520",
+      "bytes": 189532,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ماكفيتيز جوي كريمة فادج البندق 42 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mcvities-joy-hazelnut-fudge-cream-biscuits-42g/s/932918",
+      "filename": "ماكفيتيز-جوي-كريمة-فادج-البندق-42-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687a6c654ccad50dfa9274ce.png?size=520",
+      "bytes": 269155,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "مكفيتيز بسكويت دايجستيف شوفان ذهبى 2+1",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mcvities-original-oat-biscuits-3-pieces/s/921915",
+      "filename": "مكفيتيز-بسكويت-دايجستيف-شوفان-ذهبى-2-1.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222024103060.JPG?size=520",
+      "bytes": 654151,
+      "dimensions": [
+        378,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:17:05Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
