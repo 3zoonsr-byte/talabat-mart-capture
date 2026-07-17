@@ -1,0 +1,330 @@
+{
+  "category": "ice-cream__bars-cones-sticks",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ice-cream/bars-cones-sticks",
+  "output_dir": "/home/z/my-project/output/ice-cream__bars-cones-sticks",
+  "started_at": "2026-07-17T16:36:48Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ice-cream/bars-cones-sticks",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "نستله ميجا آيس كريم شوكولاتة على عصا، 95 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-mega-chocolate-ice-cream-stick-95ml/s/900297",
+      "filename": "نستله-ميجا-ايس-كريم-شوكولاتة-على-عصا،-95-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e5035bd719e3338ccb2962.JPG?size=520",
+      "bytes": 474478,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "نستله ميجا آيس كريم فانيليا على عصا، 95 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-mega-vanilla-ice-cream-stick-95ml/s/900296",
+      "filename": "نستله-ميجا-ايس-كريم-فانيليا-على-عصا،-95-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e5035bd719e3338ccb2960.JPG?size=520",
+      "bytes": 502797,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كيمو كونو فانيليا  ايس كريم  - 105 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kimo-cono-vanilla-ice-cream-cone-105ml/s/900306",
+      "filename": "كيمو-كونو-فانيليا-ايس-كريم-105-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007083177.JPG?size=520",
+      "bytes": 448285,
+      "dimensions": [
+        274,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ميجا زبادى توت 85 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-mega-blackberry-yoghurt-ice-cream-85ml/s/937565",
+      "filename": "ميجا-زبادى-توت-85-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69b904b51d7dc81e627df742.jpg?size=520",
+      "bytes": 483033,
+      "dimensions": [
+        520,
+        515
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "نستله ميجا آيس كريم أبيض على عصا، 95 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-mega-white-chocolate-ice-cream-stick-95ml/s/900298",
+      "filename": "نستله-ميجا-ايس-كريم-ابيض-على-عصا،-95-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e5035bd719e3338ccb2966.JPG?size=520",
+      "bytes": 449134,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ميجا فراولة وفانيليا كرانش 85 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-mega-strawberry-vanilla-crunch-85ml/s/924481",
+      "filename": "ميجا-فراولة-وفانيليا-كرانش-85-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e65964aa043612e9853e46.jpg?size=520",
+      "bytes": 480733,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ميجا مانجو ايس كريم 85 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mega-mango-vanilla-crunch-ice-cream-stick-85ml/s/930314",
+      "filename": "ميجا-مانجو-ايس-كريم-85-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688f51efddb61f22f5190b40.jpeg?size=520",
+      "bytes": 454167,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "دولسي ويتش آيس كريم ساندويتش كريمة 95 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolce-wich-cream-ice-cream-sandwich-80ml/s/912261",
+      "filename": "دولسي-ويتش-ايس-كريم-ساندويتش-كريمة-95-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221007003298.JPG?size=520",
+      "bytes": 383782,
+      "dimensions": [
+        520,
+        252
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "دولسي ويتش آيس كريم ساندويتش شوكولاتة وكريمة 95 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolce-wich-cream-choco-ice-cream-sandwich-80ml/s/912260",
+      "filename": "دولسي-ويتش-ايس-كريم-ساندويتش-شوكولاتة-وكريمة-95-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50349d719e3338ccb283f.JPG?size=520",
+      "bytes": 407730,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "سكويز اب مانجو - 120 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/squizz-up-mango-sorbet-120ml/s/900327",
+      "filename": "سكويز-اب-مانجو-120-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50349d719e3338ccb2841.JPG?size=520",
+      "bytes": 360829,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "آيس كريم سكويز بنكهة الليمون والنعناع، ​​60 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/squizz-lemon-mint-ice-cream-stick-60ml/s/930576",
+      "filename": "ايس-كريم-سكويز-بنكهة-الليمون-والنعناع،-60-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ee74e867a1bbbb7451c7a9.jpg?size=520",
+      "bytes": 473139,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "سكويز أب ميكسد بيري 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-squizz-up-mixed-berries-ice-cream-120g/s/924921",
+      "filename": "سكويز-اب-ميكسد-بيري-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50346d719e3338ccb2835.JPG?size=520",
+      "bytes": 424332,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كادبوري آيس كريم دايري ميلك بالكراميل في مخروط، 110 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-caramel-ice-cream-cone-110ml/s/907854",
+      "filename": "كادبوري-ايس-كريم-دايري-ميلك-بالكراميل-في-مخروط،-110-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688f521fddb61f22f5190b41.jpeg?size=520",
+      "bytes": 509425,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "وندرفيل آيس كريم عصا زبادي توت العليق، 90 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-yougurt-rasberry-stick-ice-cream-90ml/s/914504",
+      "filename": "وندرفيل-ايس-كريم-عصا-زبادي-توت-العليق،-90-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223009520490.jpg?size=520",
+      "bytes": 335369,
+      "dimensions": [
+        282,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "وندرفيل آيس كريم شوكولاتة عصا، 90 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-chocolate-stick-ice-cream-90ml/s/914498",
+      "filename": "وندرفيل-ايس-كريم-شوكولاتة-عصا،-90-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922154.jpg?size=520",
+      "bytes": 362833,
+      "dimensions": [
+        520,
+        231
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "دولسي ويتش آيس كريم ساندويتش بسكويت الشوكولاتة 120 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolce-wich-choco-cookies-ice-cream-sandwich-120ml/s/912259",
+      "filename": "دولسي-ويتش-ايس-كريم-ساندويتش-بسكويت-الشوكولاتة-120-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50343d719e3338ccb282f.JPG?size=520",
+      "bytes": 417313,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "أوريو آيس كريم عصا، 90 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oreo-ice-cream-stick-90ml/s/900332",
+      "filename": "اوريو-ايس-كريم-عصا،-90-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50359d719e3338ccb2927.JPG?size=520",
+      "bytes": 418699,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "دولسي ويتش آيس كريم ساندويتش كريم كوكي 120 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolce-wich-cookies-ice-cream-sandwich-120ml/s/912258",
+      "filename": "دولسي-ويتش-ايس-كريم-ساندويتش-كريم-كوكي-120-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e505c0f7d12b672b0abe52.png?size=520",
+      "bytes": 394740,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "كادبري ايس كريم ستيك 90 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-ice-cream-stick-90ml/s/900333",
+      "filename": "كادبري-ايس-كريم-ستيك-90-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50348d719e3338ccb283b.JPG?size=520",
+      "bytes": 387830,
+      "dimensions": [
+        520,
+        518
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كادبوري آيس كريم دايري ميلك كون، 110 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cadbury-dairy-milk-ice-cream-cone-110ml/s/922936",
+      "filename": "كادبوري-ايس-كريم-دايري-ميلك-كون،-110-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50345d719e3338ccb2833.JPG?size=520",
+      "bytes": 491711,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:40:18Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
