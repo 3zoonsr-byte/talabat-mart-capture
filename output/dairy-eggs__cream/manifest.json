@@ -1,0 +1,288 @@
+{
+  "category": "dairy-eggs__cream",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/dairy-eggs/cream",
+  "output_dir": "/home/z/my-project/output/dairy-eggs__cream",
+  "started_at": "2026-07-17T14:47:31Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/dairy-eggs/cream",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "المراعي كريمة طبخ، 200مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-cooking-cream-200ml/s/900453",
+      "filename": "المراعي-كريمة-طبخ،-200مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001873556.JPG?size=520",
+      "bytes": 480217,
+      "dimensions": [
+        372,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "المراعي كريمة طبخ، 500مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-cooking-cream-500ml/s/900452",
+      "filename": "المراعي-كريمة-طبخ،-500مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001877936.JPG?size=520",
+      "bytes": 628024,
+      "dimensions": [
+        349,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "جهينة كريمه طهى 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-thick-cooking-cream-200ml/s/900893",
+      "filename": "جهينة-كريمه-طهى-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837f038b4d17c9361ad99f.jpg?size=520",
+      "bytes": 447617,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "المراعي كريمة حلويات، 200مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-whipping-cream-200ml/s/900451",
+      "filename": "المراعي-كريمة-حلويات،-200مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811d661ccf8140c804dc3d4.jpg?size=520",
+      "bytes": 437527,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "جهينة كريمه خفق 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-whipping-cream-200-ml/s/900890",
+      "filename": "جهينة-كريمه-خفق-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d2ae42974911b3d1d03.JPG?size=520",
+      "bytes": 532419,
+      "dimensions": [
+        222,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "المراعي كريمة طبخ، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-cooking-cream-1l/s/908935",
+      "filename": "المراعي-كريمة-طبخ،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-jo/Jordan%20Items/JOR-6223001876434.jpg?size=520",
+      "bytes": 341659,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جهينة كريمة طبخ - 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-cooking-cream-500-ml/s/920720",
+      "filename": "جهينة-كريمة-طبخ-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d06e42974911b3d1adf.JPG?size=520",
+      "bytes": 328585,
+      "dimensions": [
+        520,
+        410
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "جهينة كريمة حامضة - 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-sour-cream-250-ml/s/920721",
+      "filename": "جهينة-كريمة-حامضة-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d0de42974911b3d1be7.JPG?size=520",
+      "bytes": 332512,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "المراعي كريمة حلويات، 500مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-whipping-cream-500ml/s/900450",
+      "filename": "المراعي-كريمة-حلويات،-500مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-jo/Jordan%20Items/JOR-6223001877943.jpg?size=520",
+      "bytes": 284349,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جهينه كريمه خفق 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-whipping-cream-500-ml/s/914621",
+      "filename": "جهينه-كريمه-خفق-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d2ce42974911b3d1d09.JPG?size=520",
+      "bytes": 545799,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "جهينة كريمة حمضية 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-sour-cream-500-gm/s/920724",
+      "filename": "جهينة-كريمة-حمضية-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d0fe42974911b3d1beb.JPG?size=520",
+      "bytes": 558634,
+      "dimensions": [
+        520,
+        276
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ميلك مان كريمه لبانى 200مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/the-milkman-double-cream-200ml/s/914582",
+      "filename": "ميلك-مان-كريمه-لبانى-200مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636cf6050fedbada93d6c8e0.png?size=520",
+      "bytes": 267921,
+      "dimensions": [
+        223,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "دريا كريمة جوز هند 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/daria-coconut-cream-400-ml/s/905274",
+      "filename": "دريا-كريمة-جوز-هند-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000740446.JPG?size=520",
+      "bytes": 818774,
+      "dimensions": [
+        356,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "بريما قشطة طازجة 240 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/prima-fresh-cream-240-gm/s/919493",
+      "filename": "بريما-قشطة-طازجة-240-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000420093.jpg?size=520",
+      "bytes": 576230,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ايزى كوك كريمة الطبخ 40 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/easy-cook-cooking-cream-40g/s/936648",
+      "filename": "ايزى-كوك-كريمة-الطبخ-40-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693e926285d584984d7d4a9b.JPG?size=520",
+      "bytes": 460547,
+      "dimensions": [
+        258,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جهينة كريمه طهى 200 مل *2",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-thick-cooking-cream-200ml-x2/s/JGFX64",
+      "filename": "جهينة-كريمه-طهى-200-مل-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/61d13a95-94fb-497e-b64c-528a286536d1.jpg?size=520",
+      "bytes": 200085,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "سيجنال معجون أسنان للأطفال بطعم الفراولة، 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-whipping-cream-500-ml-x2/s/CX0PYG",
+      "filename": "سيجنال-معجون-اسنان-للاطفال-بطعم-الفراولة،-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496bc2f59151ac8dd7f1d.jpg",
+      "bytes": 85858,
+      "dimensions": [
+        1329,
+        1080
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:50:48Z",
+  "captured": 19,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 20
+}
