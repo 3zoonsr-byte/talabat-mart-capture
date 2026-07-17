@@ -1,0 +1,120 @@
+{
+  "category": "beverages__red-bull-mocktails",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/red-bull-mocktails",
+  "output_dir": "/home/z/my-project/output/beverages__red-bull-mocktails",
+  "started_at": "2026-07-17T15:08:32Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/red-bull-mocktails",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري اينرجى كوكو لادا تويست - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-coco-lada-twist-550ml/s/300849",
+      "filename": "ايفري-داي-روستري-اينرجى-كوكو-لادا-تويست-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a374.jpg?size=520",
+      "bytes": 506963,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري اينرجى بري مانجو ليمون - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-berry-mango-lemon-550ml/s/300853",
+      "filename": "ايفري-داي-روستري-اينرجى-بري-مانجو-ليمون-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a373.jpg?size=520",
+      "bytes": 442856,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري اينرجى جرين بول باشون - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-green-bull-passion-550ml/s/300850",
+      "filename": "ايفري-داي-روستري-اينرجى-جرين-بول-باشون-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a38c.jpg?size=520",
+      "bytes": 636672,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري اينرجى تروپيكال مانجو - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-tropical-mango-550ml/s/300852",
+      "filename": "ايفري-داي-روستري-اينرجى-تروپيكال-مانجو-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3ac.jpg?size=520",
+      "bytes": 659017,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري اينرجى پيشي بلو - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-peachy-blue-550ml/s/300851",
+      "filename": "ايفري-داي-روستري-اينرجى-پيشي-بلو-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a378.jpg?size=520",
+      "bytes": 491106,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:10:02Z",
+  "captured": 7,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 8
+}
