@@ -1,0 +1,316 @@
+{
+  "category": "paper-plastic__garbage-bags",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/paper-plastic/garbage-bags",
+  "output_dir": "/home/z/my-project/output/paper-plastic__garbage-bags",
+  "started_at": "2026-07-17T21:57:50Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/paper-plastic/garbage-bags",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات اكياس قمامة كبيرة 70x90سم، 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-garbage-bags-large-90x70cm-50-bags/s/924019",
+      "filename": "طلبات-اكياس-قمامة-كبيرة-70x90سم،-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65e97c5dbd80de203e480a86.jpg?size=520",
+      "bytes": 405502,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات اكياس قمامة متوسطة بشريط برائحة النعناع 70x60سم، 15 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-mint-scented-drawstring-garbage-bags-medium-70x60cm-15-bags/s/924016",
+      "filename": "طلبات-اكياس-قمامة-متوسطة-بشريط-برائحة-النعناع-70x60سم،-15-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65f169fa425241e583c8ddac.jpg?size=520",
+      "bytes": 365421,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات اكياس قمامة متوسطة بشريط برائحة اللافندر70x60سم، 15 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-lavender-scented-drawstring-garbage-bags-medium-70x60cm-15-bags/s/924017",
+      "filename": "طلبات-اكياس-قمامة-متوسطة-بشريط-برائحة-اللافندر70x60سم،-15-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65f16a0f425241e583c8ddad.jpg?size=520",
+      "bytes": 413251,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات اكياس نفايات، وسط، 70x60 سم، 15 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-medium-garbage-bags-70x60cm-15-bags/s/925972",
+      "filename": "طلبات-اكياس-نفايات،-وسط،-70x60-سم،-15-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0de46b775ebb7c541b231.JPG?size=520",
+      "bytes": 354790,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات اكياس نفايات، صغير، 40x50 سم، 25 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-small-garbage-bags-40x50cm-25-bags/s/925973",
+      "filename": "طلبات-اكياس-نفايات،-صغير،-40x50-سم،-25-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0de47b775ebb7c541b256.JPG?size=520",
+      "bytes": 354667,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات اكياس نفايات، وسط، سهل الربط، 70x60 سم، 15 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-medium-easy-tie-garbage-bags-70x60cm-15-bags/s/925974",
+      "filename": "طلبات-اكياس-نفايات،-وسط،-سهل-الربط،-70x60-سم،-15-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0de47b775ebb7c541b258.JPG?size=520",
+      "bytes": 376749,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "طلبات اكياس نفايات، صغير، سهل الربط، 40x50 سم، 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-small-easy-tie-garbage-bags-40x50cm-20-bags/s/925975",
+      "filename": "طلبات-اكياس-نفايات،-صغير،-سهل-الربط،-40x50-سم،-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66a0de48b775ebb7c541b25a.JPG?size=520",
+      "bytes": 411053,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طلبات اكياس قمامة كبيرة بشريط 70x90سم، 25 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-drawstring-garbage-bags-large-90x70cm-25-bags/s/924018",
+      "filename": "طلبات-اكياس-قمامة-كبيرة-بشريط-70x90سم،-25-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65f16ae2c42a8003d28b4cad.jpg?size=520",
+      "bytes": 377186,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "سانيتا اكياس قمامة كبير 90*70 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-black-garbage-bags-large-90x70cm-20-pieces/s/908662",
+      "filename": "سانيتا-اكياس-قمامة-كبير-90-70-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222022100849.JPG?size=520",
+      "bytes": 186425,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "سانيتا اكياس قمامة كبير 90*70 40 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-black-garbage-bags-large-90x70cm-40-pieces/s/908663",
+      "filename": "سانيتا-اكياس-قمامة-كبير-90-70-40-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222022100856.JPG?size=520",
+      "bytes": 229258,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "سانيتا اكياس قمامة معطرة بالورد 55*50 25 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-trash-bags-extra-small-pink-scented-rose-55x50-25-pieces/s/908660",
+      "filename": "سانيتا-اكياس-قمامة-معطرة-بالورد-55-50-25-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222022101785.JPG?size=520",
+      "bytes": 129496,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "سانيتا اكياس قمامة معطرة بالليمون 65*50 25 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sanita-trash-bags-small-yellow-scented-lemon-65x50-25-pieces/s/908661",
+      "filename": "سانيتا-اكياس-قمامة-معطرة-بالليمون-65-50-25-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222022101808.JPG?size=520",
+      "bytes": 116407,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "طلبات اكياس قمامة متوسطة بشريط برائحة اللافندر70x60سم، 15 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-fath-abo-shereeta-roll-trash-bags-60x70cm/s/903465",
+      "filename": "طلبات-اكياس-قمامة-متوسطة-بشريط-برائحة-اللافندر70x60سم،-15-كيس-15.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65f16a0f425241e583c8ddad.jpg",
+      "bytes": 74399,
+      "dimensions": [
+        1400,
+        1400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "الفتح أكياس قمامة للباسكت رول 70×90 سنتيمتر، 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-fath-basket-trash-bags-70x90cm-50-bags/s/903469",
+      "filename": "الفتح-اكياس-قمامة-للباسكت-رول-70-90-سنتيمتر،-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007224823.JPG?size=520",
+      "bytes": 401515,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "فور أكياس للنفايات الثقيلة شديد التحمل أبيض مقاوم للروائح (70x90) 20 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/four-contractor-extra-strength-multipurpose-storage-bags-white-scented-70x90-20-pics/s/919149",
+      "filename": "فور-اكياس-للنفايات-الثقيلة-شديد-التحمل-ابيض-مقاوم-للروائح-70x90-20-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008348061.JPG?size=520",
+      "bytes": 336023,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ورق تواليت مضغوط زينة  2 رول",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-garbage-bags-large-easy-tie-90x70cm-25-bags-x2/s/SJ2SQE",
+      "filename": "ورق-تواليت-مضغوط-زينة-2-رول.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001241096.JPG",
+      "bytes": 56616,
+      "dimensions": [
+        4000,
+        4000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ورق تواليت مضغوط زينة  2 رول",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-mint-scented-garbage-bags-medium-easy-tie-70x60cm-15-bags-x2/s/NT2PTF",
+      "filename": "ورق-تواليت-مضغوط-زينة-2-رول-19.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001241096.JPG",
+      "bytes": 56616,
+      "dimensions": [
+        4000,
+        4000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ورق تواليت مضغوط زينة  2 رول",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-lavender-scented-garbage-bags-medium-easy-tie-70x60cm15-bags-x2/s/0LWP9W",
+      "filename": "ورق-تواليت-مضغوط-زينة-2-رول-20.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001241096.JPG",
+      "bytes": 56616,
+      "dimensions": [
+        4000,
+        4000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ورق تواليت مضغوط زينة  2 رول",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-garbage-bags-large-90x70cm-50-bags-x2/s/66J7LH",
+      "filename": "ورق-تواليت-مضغوط-زينة-2-رول-21.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001241096.JPG",
+      "bytes": 56616,
+      "dimensions": [
+        4000,
+        4000
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T22:01:15Z",
+  "captured": 21,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 22
+}

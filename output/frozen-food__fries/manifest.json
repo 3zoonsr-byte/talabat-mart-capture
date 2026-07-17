@@ -2,7 +2,7 @@
   "category": "frozen-food__fries",
   "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/frozen-food/fries",
   "output_dir": "/home/z/my-project/output/frozen-food__fries",
-  "started_at": "2026-07-17T15:58:00Z",
+  "started_at": "2026-07-17T21:57:00Z",
   "max_pages": 50,
   "items": [],
   "failed": [],
@@ -18,7 +18,7 @@
       "reason": "no hero image"
     }
   ],
-  "finished_at": "2026-07-17T15:58:49Z",
+  "finished_at": "2026-07-17T21:57:49Z",
   "captured": 0,
   "failed_count": 0,
   "skipped_count": 2,
