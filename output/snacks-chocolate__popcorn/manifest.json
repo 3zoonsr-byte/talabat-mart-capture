@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__popcorn",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/popcorn",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__popcorn",
+  "started_at": "2026-07-17T16:28:00Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/popcorn",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "أبو عوف فشار بالكراميل والشوكولاتة، 100 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-popcorn-caramel-chocolate-100g/s/919314",
+      "filename": "ابو-عوف-فشار-بالكراميل-والشوكولاتة،-100-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423ac16.png?size=520",
+      "bytes": 477695,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "فن داى ذرة فشار جبنة من 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/funday-cheese-popcorn-80g/s/925320",
+      "filename": "فن-داى-ذرة-فشار-جبنة-من-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010267879.JPG?size=520",
+      "bytes": 615829,
+      "dimensions": [
+        474,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ابو عوف فشار زبدة الفول السوداني - 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-peanut-butter-pop-popcorn-80g/s/938614",
+      "filename": "ابو-عوف-فشار-زبدة-الفول-السوداني-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abfc.png?size=520",
+      "bytes": 633633,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ابو عوف فشار كاندي - 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-candy-crunch-popcorn-80g/s/938611",
+      "filename": "ابو-عوف-فشار-كاندي-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abf9.png?size=520",
+      "bytes": 651849,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ابو عوف فشار جوز الهند - 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-coco-nuts-popcorn-80g/s/938613",
+      "filename": "ابو-عوف-فشار-جوز-الهند-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abfa.png?size=520",
+      "bytes": 643635,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ابو عوف فشار بطعم الكولا - 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-cola-loca-popcorn-80g/s/938612",
+      "filename": "ابو-عوف-فشار-بطعم-الكولا-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abfb.png?size=520",
+      "bytes": 638169,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "فن داى ذرة فشار كراميل 60 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/funday-caramel-popcorn-60gm/s/915593",
+      "filename": "فن-داى-ذرة-فشار-كراميل-60-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6224009765546.jpg?size=520",
+      "bytes": 546940,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "فن داي ذرة فشار فواكة 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fun-day-popcorn-fruits-60-gm/s/915592",
+      "filename": "فن-داي-ذرة-فشار-فواكة-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/PIM/6224009765607.jpg?size=520",
+      "bytes": 819155,
+      "dimensions": [
+        404,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "جاغوار فشار - ملح خفيف 53-63 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/jaguar-light-salt-popcorn-53-63g/s/938431",
+      "filename": "جاغوار-فشار-ملح-خفيف-53-63-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f9e901214d2754f14982f2.png?size=520",
+      "bytes": 687170,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "حاج عرفة فشار سولتد كراميل 100  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-salted-caramel-popcorn-100g/s/922665",
+      "filename": "حاج-عرفة-فشار-سولتد-كراميل-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cd1b8ece0130fcdfbb5.jpg?size=520",
+      "bytes": 635838,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "حاج عرفة فشار سينامون كراميل 100  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-cinnamon-caramel-popcorn-100g/s/922667",
+      "filename": "حاج-عرفة-فشار-سينامون-كراميل-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cd6b8ece0130fcdfd3a.jpg?size=520",
+      "bytes": 622803,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "جاغوار فشار - حلو حار 57-67 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/jaguar-sweet-heat-puffs-57-67g/s/938435",
+      "filename": "جاغوار-فشار-حلو-حار-57-67-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69f9e901214d2754f14982f0.png?size=520",
+      "bytes": 626688,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "حاج عرفة فشار شوكلت كراميل 100  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-popcorn-chocolate-caramel-100g/s/922666",
+      "filename": "حاج-عرفة-فشار-شوكلت-كراميل-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cd6b8ece0130fcdfd42.jpg?size=520",
+      "bytes": 621496,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "شيل اوت فشار فراخ 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chill-out-chicken-flavor-popcorn-60g/s/934275",
+      "filename": "شيل-اوت-فشار-فراخ-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68b827c40735661287107022.jpg?size=520",
+      "bytes": 583347,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "شيكا بوف كورن بالذرة الحلوة، 60-70 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chicka-sweet-corn-puffcorn-60-70g/s/929736",
+      "filename": "شيكا-بوف-كورن-بالذرة-الحلوة،-60-70-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67af6bc8909522f3800e865f.png?size=520",
+      "bytes": 616944,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "شيكا بوف كورن بالجبنة الكريمية، 60-70 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chicka-creamy-cheese-puffcorn-60-70g/s/929733",
+      "filename": "شيكا-بوف-كورن-بالجبنة-الكريمية،-60-70-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67af6bc4909522f3800e8630.png?size=520",
+      "bytes": 620474,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "شيكا بوف كورن بالليمون الملفوف، 60-70 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/chicka-twisted-lemon-puffcorn-60-70g/s/929735",
+      "filename": "شيكا-بوف-كورن-بالليمون-الملفوف،-60-70-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67af6bca909522f3800e8661.png?size=520",
+      "bytes": 609127,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "توب اوف ذا بوب ذرة فشار بالكراميل المملح  100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/top-of-the-pop-salted-caramel-popcorn-100g/s/906014",
+      "filename": "توب-اوف-ذا-بوب-ذرة-فشار-بالكراميل-المملح-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6204e51148971ba44d16e0df.jpg?size=520",
+      "bytes": 673608,
+      "dimensions": [
+        350,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "توب اوف ذا بوب ذرة فشار بالفلفل الحار 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/top-of-the-pop-hot-pepper-popcorn-100g/s/906013",
+      "filename": "توب-اوف-ذا-بوب-ذرة-فشار-بالفلفل-الحار-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6204e583ec3b302f5ffbe403.jpg?size=520",
+      "bytes": 843959,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "توب اوف ذا بوب فشار بالشوكولاتة والكراميل، 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/top-of-the-pop-choco-caramel-popcorn-100g/s/905269",
+      "filename": "توب-اوف-ذا-بوب-فشار-بالشوكولاتة-والكراميل،-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_3800203050676.JPG?size=520",
+      "bytes": 910917,
+      "dimensions": [
+        454,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:31:35Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
