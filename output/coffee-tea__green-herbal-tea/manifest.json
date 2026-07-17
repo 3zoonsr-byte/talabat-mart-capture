@@ -1,0 +1,330 @@
+{
+  "category": "coffee-tea__green-herbal-tea",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/coffee-tea/green-herbal-tea",
+  "output_dir": "/home/z/my-project/output/coffee-tea__green-herbal-tea",
+  "started_at": "2026-07-17T16:54:34Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/coffee-tea/green-herbal-tea",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ليبتون شاي اخضر بالنعناع 25 فتلة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-green-tea-with-mint-25-bags/s/919174",
+      "filename": "ليبتون-شاي-اخضر-بالنعناع-25-فتلة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8720608632855.jpg?size=520",
+      "bytes": 378015,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إمتنان شاي البقدونس والكرفس، 18 كيس شاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-parsley-celery-tea-18-tea-bags/s/930770",
+      "filename": "امتنان-شاي-البقدونس-والكرفس،-18-كيس-شاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742bfc.png?size=520",
+      "bytes": 515291,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ليبتون نعناع 20 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-mint-20-20-bag/s/921872",
+      "filename": "ليبتون-نعناع-20-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8720608632886.JPG?size=520",
+      "bytes": 482520,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ليبتون شاي أخضر بالنعناع ​​12 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-mint-green-tea-bags-12-pieces/s/929650",
+      "filename": "ليبتون-شاي-اخضر-بالنعناع-12-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6811fd11846822abd0c9627a.JPG?size=520",
+      "bytes": 762190,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ليبتون شاى اخضر بالنعناع -50فتله",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-green-tea-bags-with-mint-50-pieces/s/932380",
+      "filename": "ليبتون-شاى-اخضر-بالنعناع-50فتله.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/685130353f55df6a777b52e5.JPG?size=520",
+      "bytes": 990294,
+      "dimensions": [
+        520,
+        489
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ليبتون شاي الاعشاب باليانسون 12 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-herbal-infusion-anise-tea-bags-12-pieces/s/929651",
+      "filename": "ليبتون-شاي-الاعشاب-باليانسون-12-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65e211ece0c148f4791246f1.JPG?size=520",
+      "bytes": 548092,
+      "dimensions": [
+        520,
+        340
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "حاج عرفة اعشاب ينسون 20 فتلة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-herbs-anise-tea-bags-20-bags/s/928215",
+      "filename": "حاج-عرفة-اعشاب-ينسون-20-فتلة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc3b8ece0130fcdee9d.jpg?size=520",
+      "bytes": 659729,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ليبتون شاي كركديه، 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-hibiscus-tea-20-bags/s/929663",
+      "filename": "ليبتون-شاي-كركديه،-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c55dca82bfb6075ff488a0.jpg?size=520",
+      "bytes": 595549,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "إمتنان شاي لدعم النظام الغذائي، 18 كيس شاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-diet-support-tea-18-tea-bags/s/909779",
+      "filename": "امتنان-شاي-لدعم-النظام-الغذائي،-18-كيس-شاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742bfa.png?size=520",
+      "bytes": 481886,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "بقدونس و كرفس 20 ظرف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-parsley-celery-enveloped-tea-bags-20-tea-bags/s/930794",
+      "filename": "بقدونس-و-كرفس-20-ظرف.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67fcf0e4d3b70c25d000f181.png?size=520",
+      "bytes": 406407,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "امتنان-مشروب النعناع الفلفلى العضوي 16 فلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-organic-peppermint-herbal-drink-16-teabag/s/930764",
+      "filename": "امتنان-مشروب-النعناع-الفلفلى-العضوي-16-فلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742c02.png?size=520",
+      "bytes": 401034,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "إمتنان شاي الكركديه ، 16 كيس شاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-hibiscus-tea-16-tea-bags/s/930765",
+      "filename": "امتنان-شاي-الكركديه-،-16-كيس-شاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742c00.png?size=520",
+      "bytes": 427055,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "رويال  نعناع 12 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-mint-tea-bags-12-tea-bags/s/926121",
+      "filename": "رويال-نعناع-12-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688f0e566f978454c760537a.png?size=520",
+      "bytes": 602094,
+      "dimensions": [
+        501,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "رويال  نعناع 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-mint-tea-bags-20-tea-bags/s/928516",
+      "filename": "رويال-نعناع-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68049539c93df68d3a0fd23f.png?size=520",
+      "bytes": 373468,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "رويال  ليمون بالزنجبيل 12 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-lemon-ginger-tea-bags-12-tea-bags/s/926129",
+      "filename": "رويال-ليمون-بالزنجبيل-12-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69252c96f57d2d29419fd425.png?size=520",
+      "bytes": 406459,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "إمتنان شاي القرفة ، 16 كيس شاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-cinnamon-tea-16-tea-bags/s/930768",
+      "filename": "امتنان-شاي-القرفة-،-16-كيس-شاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742c06.png?size=520",
+      "bytes": 450162,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "رويال  كمون & ليمون 20 *48 ظرف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-cumin-lemon-tea-bags-20-tea-bags/s/930795",
+      "filename": "رويال-كمون-ليمون-20-48-ظرف.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68064468c93df68d3a106ede.JPG?size=520",
+      "bytes": 483643,
+      "dimensions": [
+        380,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "رويال  ليمون بالزنجبيل 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-lemon-ginger-tea-bags-20-tea-bags/s/928521",
+      "filename": "رويال-ليمون-بالزنجبيل-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6804953dc93df68d3a0fd274.png?size=520",
+      "bytes": 338187,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "رويال  زنجبيل بالقرفه 20 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-ginger-cinnamon-tea-bags-20-tea-bags/s/928520",
+      "filename": "رويال-زنجبيل-بالقرفه-20-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6806446ac93df68d3a106f10.JPG?size=520",
+      "bytes": 404331,
+      "dimensions": [
+        368,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "رويال  تفاح بالقرفة 20  فلتر ظرف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-herbs-apple-cider-tea-bags-20-tea-bags/s/926135",
+      "filename": "رويال-تفاح-بالقرفة-20-فلتر-ظرف.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6718bf89ce0ec4d03184ec0d.png?size=520",
+      "bytes": 478054,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:58:08Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
