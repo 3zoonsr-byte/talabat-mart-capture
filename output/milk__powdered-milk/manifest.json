@@ -1,0 +1,330 @@
+{
+  "category": "milk__powdered-milk",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/milk/powdered-milk",
+  "output_dir": "/home/z/my-project/output/milk__powdered-milk",
+  "started_at": "2026-07-17T15:04:50Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/milk/powdered-milk",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كيس حليب بودرة ميرو كامل الدسم، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-bag-400g/s/903750",
+      "filename": "كيس-حليب-بودرة-ميرو-كامل-الدسم،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2d09e426dbe2a7a305cc6.png?size=520",
+      "bytes": 570748,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مسحوق حليب كامل الدسم ميرو، 250 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-250g/s/903752",
+      "filename": "مسحوق-حليب-كامل-الدسم-ميرو،-250-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2cf2534282da697b40a9d.jpg?size=520",
+      "bytes": 468858,
+      "dimensions": [
+        520,
+        518
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "حليب ميرو بودر 100 جم كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-100g/s/930570",
+      "filename": "حليب-ميرو-بودر-100-جم-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2d1c6426dbe2a7a305cf7.jpg?size=520",
+      "bytes": 477082,
+      "dimensions": [
+        514,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ميرو لبن بودرة خالى الدسم 300 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-skimmed-cream-milk-powder-250g/s/903754",
+      "filename": "ميرو-لبن-بودرة-خالى-الدسم-300-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/affaa296-bcc2-48a4-95fb-9a2ff6e698d9.JPG?size=520",
+      "bytes": 145311,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "نيدو حليب  بودر الأساسى 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nido-el-assassy-milk-powder-500g/s/936808",
+      "filename": "نيدو-حليب-بودر-الاساسى-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6989936ac3f9975c31ce2386.png?size=520",
+      "bytes": 768419,
+      "dimensions": [
+        487,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "نيدو حليب بودر 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nido-powdered-milk-fiber-bag-500g/s/933675",
+      "filename": "نيدو-حليب-بودر-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68947d16ecf7567baccfd9f2.JPG?size=520",
+      "bytes": 763024,
+      "dimensions": [
+        476,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ميروحليب مجفف كامل الدسم علبه 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-250g/s/903751",
+      "filename": "ميروحليب-مجفف-كامل-الدسم-علبه-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68e2189ab63c2552c994a25c.jpg?size=520",
+      "bytes": 227216,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ميرو حليب بودرة كامل الدسم كيس 1500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-bag-1500g/s/903748",
+      "filename": "ميرو-حليب-بودرة-كامل-الدسم-كيس-1500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2d05f34282da697b40b3b.png?size=520",
+      "bytes": 488264,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ميرو لبن بودرة خالى الدسم 700 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-skimmed-milk-powder-700g/s/903753",
+      "filename": "ميرو-لبن-بودرة-خالى-الدسم-700-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65e5e9e7c73ac1d5d02fed26.JPG?size=520",
+      "bytes": 466017,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ميرو لبن بودرة كامل الدسم 20 ظرف - 15 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-20x15g/s/932453",
+      "filename": "ميرو-لبن-بودرة-كامل-الدسم-20-ظرف-15-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2cb8f426dbe2a7a305bbd.jpg?size=520",
+      "bytes": 465109,
+      "dimensions": [
+        520,
+        461
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ميرو حليب مجفف كامل الدسم علبه 1500جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-full-cream-milk-powder-1500g/s/903747",
+      "filename": "ميرو-حليب-مجفف-كامل-الدسم-علبه-1500جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2d00c34282da697b40b01.png?size=520",
+      "bytes": 532834,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ميرو لبن بودرة خالى الدسم 20 ظرف -  جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-skimmed-milk-powder-20-sachet-20-gm/s/932456",
+      "filename": "ميرو-لبن-بودرة-خالى-الدسم-20-ظرف-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6224000178895.jpg?size=520",
+      "bytes": 683998,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "نيدو حليب لمرحلة نمو الاطفال بطعم العسل الطبيعى 1+ 576 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nido-1-powdered-milk-with-honey-flavor-576-g/s/909368",
+      "filename": "نيدو-حليب-لمرحلة-نمو-الاطفال-بطعم-العسل-الطبيعى-1-576-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68aadd473dd406acd8a9089b.jpg?size=520",
+      "bytes": 536830,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ميرو مسحوق حليب بسكويت الفانيليا سريع التحضير ، 12 × 30 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-instant-vanilla-biscuit-milk-powder-12x30g/s/932460",
+      "filename": "ميرو-مسحوق-حليب-بسكويت-الفانيليا-سريع-التحضير-،-12-30-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6224000178925.jpg?size=520",
+      "bytes": 616001,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ميرو ميكس شراب حليب سريع التحضير بنكهة الشوكولاتة ، 12 × 30 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-mix-chocolate-flavor-instant-milk-drink-12x30g/s/932457",
+      "filename": "ميرو-ميكس-شراب-حليب-سريع-التحضير-بنكهة-الشوكولاتة-،-12-30-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6224000178222.JPG?size=520",
+      "bytes": 641607,
+      "dimensions": [
+        251,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ميرو ميكس مشروب حليب سريع التحضير بنكهة الموز ، 12 × 30 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/miro-mix-banana-flavor-instant-milk-drink-12x30g/s/932459",
+      "filename": "ميرو-ميكس-مشروب-حليب-سريع-التحضير-بنكهة-الموز-،-12-30-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6224000178710.JPG?size=520",
+      "bytes": 520274,
+      "dimensions": [
+        380,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "مزاق شاي لاتيه 3 في 1 شاي سريع التحضير مع الحليب ، 12 × 27 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mazaq-tea-latte-3-in-1-instant-tea-with-milk-12x27g/s/932463",
+      "filename": "مزاق-شاي-لاتيه-3-في-1-شاي-سريع-التحضير-مع-الحليب-،-12-27-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6224000178697.JPG?size=520",
+      "bytes": 551834,
+      "dimensions": [
+        266,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "مذاق شاي كلاسيك لاتيه 2 في 1 شاي سريع التحضير بالحليب ، 12 × 16 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mazaq-classic-tea-latte-2-in-1-instant-tea-with-milk-12x16g/s/932461",
+      "filename": "مذاق-شاي-كلاسيك-لاتيه-2-في-1-شاي-سريع-التحضير-بالحليب-،-12-16-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6224000178147.jpg?size=520",
+      "bytes": 586187,
+      "dimensions": [
+        317,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "مذاق شاي منزوع الدسم لاتيه 2 في 1 شاي سريع التحضير بالحليب ، 12 × 19 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mazaq-skimmed-tea-latte-2-in-1-instant-tea-with-milk-12x19g/s/932462",
+      "filename": "مذاق-شاي-منزوع-الدسم-لاتيه-2-في-1-شاي-سريع-التحضير-بالحليب-،-12-19-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/SSC_PIM_1/6224000178567.jpg?size=520",
+      "bytes": 500567,
+      "dimensions": [
+        315,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كيس مسحوق حليب تامبو كامل الدسم، 700 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tambo-fat-filled-milk-powder-bag-700g/s/903756",
+      "filename": "كيس-مسحوق-حليب-تامبو-كامل-الدسم،-700-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687a187563f3b2a164cb2d22.jpg?size=520",
+      "bytes": 450956,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:08:30Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
