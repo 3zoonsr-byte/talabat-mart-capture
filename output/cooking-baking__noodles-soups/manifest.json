@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__noodles-soups",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/noodles-soups",
+  "output_dir": "/home/z/my-project/output/cooking-baking__noodles-soups",
+  "started_at": "2026-07-17T18:02:58Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/noodles-soups",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كلوجز شعرية بنكهة سجق شرقي 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-oriental-sausage-flavor-noodles-jumbo-pack-100g/s/904792",
+      "filename": "كلوجز-شعرية-بنكهة-سجق-شرقي-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/5b32836e-7364-4c19-ad2e-df69abd5c1ff.jpg?size=520",
+      "bytes": 771193,
+      "dimensions": [
+        409,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كيلوجز نودلز بطعم الدجاج المقلى الحار 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-spicy-fried-chicken-noodles-100g/s/933844",
+      "filename": "كيلوجز-نودلز-بطعم-الدجاج-المقلى-الحار-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/766cee9f-696c-4b65-9bad-0dd4b3303435.jpg?size=520",
+      "bytes": 764369,
+      "dimensions": [
+        409,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كلوجز شعرية سبايسي 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-noodles-spicy-70g/s/911866",
+      "filename": "كلوجز-شعرية-سبايسي-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a39173206ec97325427dba7.png?size=520",
+      "bytes": 527949,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "كيلوجزنودلز دجاج حارة كورية، 140 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-korean-spicy-chicken-noodles-140g/s/928599",
+      "filename": "كيلوجزنودلز-دجاج-حارة-كورية،-140-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6756ae588087c59fa7fb49a6.JPG?size=520",
+      "bytes": 279768,
+      "dimensions": [
+        520,
+        319
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كلوجز شعرية بنكهة لحم 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-beef-flavour-instant-noodles-70g/s/904801",
+      "filename": "كلوجز-شعرية-بنكهة-لحم-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a39173206ec97325427dba9.png?size=520",
+      "bytes": 473743,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كيلوقز نولدلز الدجاج 70 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-chicken-flavour-noodles-70g/s/904794",
+      "filename": "كيلوقز-نولدلز-الدجاج-70-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a39173206ec97325427dba6.png?size=520",
+      "bytes": 472970,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كيلوجز نودلز سجق 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-oriental-sausage-flavour-noodles-70g/s/904802",
+      "filename": "كيلوجز-نودلز-سجق-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a39173206ec97325427dbaa.png?size=520",
+      "bytes": 482077,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كيلوجز نودلز بطعم الخضار الحار 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-spicy-vegetable-noodles-100g/s/933847",
+      "filename": "كيلوجز-نودلز-بطعم-الخضار-الحار-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/aed2933c-430f-444c-8c26-67e95d582eea.jpg?size=520",
+      "bytes": 763718,
+      "dimensions": [
+        409,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "كيلوغز نودلز الخضراوات 70 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-vegetable-flavour-noodles-70g/s/904790",
+      "filename": "كيلوغز-نودلز-الخضراوات-70-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a39173206ec97325427dba8.png?size=520",
+      "bytes": 474110,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كيلوجز نودلز فراخ 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-chicken-noodles-100g/s/924574",
+      "filename": "كيلوجز-نودلز-فراخ-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/7edfe251-0542-4240-848a-f5a8b79ccd24.jpg?size=520",
+      "bytes": 778111,
+      "dimensions": [
+        409,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كيلوجز نودلز بطعم اللحمه 70 جرام -  5*1",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-beef-flavoured-instant-noodles-5x70g/s/913263",
+      "filename": "كيلوجز-نودلز-بطعم-اللحمه-70-جرام-5-1.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/660f972f84db64d2f4cbf9fc.jpg?size=520",
+      "bytes": 644229,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كوكى نودلز الدجاج 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-chicken-noodles-55g/s/937908",
+      "filename": "كوكى-نودلز-الدجاج-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69cdf01a909cade5b6bb4ec7.jpg?size=520",
+      "bytes": 484418,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كيلوجز نودلز بطعم السجق 70 جرام   - 5*1",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/kelloggs-oriental-sausage-flavour-noodles-5x70g/s/913264",
+      "filename": "كيلوجز-نودلز-بطعم-السجق-70-جرام-5-1.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68309a46ea9931f022153017.jpg?size=520",
+      "bytes": 335062,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "كوكى نودلز اللحم 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-beef-noodles-55g/s/937910",
+      "filename": "كوكى-نودلز-اللحم-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69cdf01a909cade5b6bb4ec0.jpg?size=520",
+      "bytes": 465074,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "كوكى نودلز الخضروات 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-vegetables-noodles-55g/s/937909",
+      "filename": "كوكى-نودلز-الخضروات-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69cdf01a909cade5b6bb4ed1.jpg?size=520",
+      "bytes": 527816,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كنور شوربة الدجاج بالشعيرية 56جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/knorr-chicken-noodle-soup-56g/s/909078",
+      "filename": "كنور-شوربة-الدجاج-بالشعيرية-56جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221155002242.JPG?size=520",
+      "bytes": 804414,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كنور شوربة كريمة خضار 70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/knorr-cream-of-vegetables-soup-70g/s/904844",
+      "filename": "كنور-شوربة-كريمة-خضار-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68309bd8ea9931f022155759.jpg?size=520",
+      "bytes": 841602,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "يامي فود كانج شي فوه نودلز لحم حار، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-meat-spicy-noodles-105g/s/925329",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-لحم-حار،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6939299f7d5d769c11a9fb59.jpg?size=520",
+      "bytes": 581109,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "يامي فود كانج شي فوه نودلز لحم بقري، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-beef-noodles-105g/s/922493",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-لحم-بقري،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6939299c7d5d769c11a9fb1c.jpg?size=520",
+      "bytes": 643928,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "يامي فود كانج شي فوه نودلز خضار، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-vegetables-noodles-105g/s/925631",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-خضار،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693929a07d5d769c11a9fb5b.JPG?size=520",
+      "bytes": 777266,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:06:38Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
