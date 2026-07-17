@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__seeds-nuts",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/seeds-nuts",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__seeds-nuts",
+  "started_at": "2026-07-17T16:24:29Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/seeds-nuts",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات زبيب ذهبي، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-golden-raisins-175g/s/934261",
+      "filename": "طلبات-زبيب-ذهبي،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9b9.jpg?size=520",
+      "bytes": 512295,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات كاجو محمص مملح، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-salted-roasted-cashews-175g/s/934246",
+      "filename": "طلبات-كاجو-محمص-مملح،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9a7.jpg?size=520",
+      "bytes": 525059,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات لوز طازج، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-raw-almonds-175g/s/934242",
+      "filename": "طلبات-لوز-طازج،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9a6.jpg?size=520",
+      "bytes": 510509,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات فول سوداني مجطى بنكهة الجبنة 175ج",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cheese-flavor-coated-peanuts-175g/s/936077",
+      "filename": "طلبات-فول-سوداني-مجطى-بنكهة-الجبنة-175ج.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69303e7038b7a31b9367a13b.jpg?size=520",
+      "bytes": 554325,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات عين الجمل مقشر، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-raw-peeled-walnuts-175g/s/934263",
+      "filename": "طلبات-عين-الجمل-مقشر،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9ad.jpg?size=520",
+      "bytes": 538877,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات ذرة محمصة مملحة، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-salted-roasted-corn-175g/s/934262",
+      "filename": "طلبات-ذرة-محمصة-مملحة،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9b3.jpg?size=520",
+      "bytes": 538389,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أبو عوف كاجو محمص ومملح، 50 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-roasted-salted-cashew-50g/s/903572",
+      "filename": "ابو-عوف-كاجو-محمص-ومملح،-50-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239844.jpg?size=520",
+      "bytes": 545075,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طلبات شرائح لوز مقشر، 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-peeled-almond-slices-150g/s/934251",
+      "filename": "طلبات-شرائح-لوز-مقشر،-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696925b7f2d8de48ae3c9a79.png?size=520",
+      "bytes": 563051,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "طلبات سوداني مغطى بنكهة الخل و الملح 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-salt-vinegar-flavor-coated-peanuts-175g/s/934248",
+      "filename": "طلبات-سوداني-مغطى-بنكهة-الخل-و-الملح-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69660ebf5adb3dbc5bfdf5c4.png?size=520",
+      "bytes": 562192,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طلبات كاجو محمص بنكهة مدخنة، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-smoked-flavor-roasted-cashews-175g/s/934247",
+      "filename": "طلبات-كاجو-محمص-بنكهة-مدخنة،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9b1.jpg?size=520",
+      "bytes": 531095,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "طلبات لوز محمص مملح، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-salted-roasted-almonds-175g/s/934243",
+      "filename": "طلبات-لوز-محمص-مملح،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9b0.jpg?size=520",
+      "bytes": 536543,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "طلبات فول سوداني مجطى بنكهة الباربكيو 175ج",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-bbq-flavor-coated-peanuts-175g/s/936078",
+      "filename": "طلبات-فول-سوداني-مجطى-بنكهة-الباربكيو-175ج.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69303e7038b7a31b9367a13f.jpg?size=520",
+      "bytes": 558010,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "طلبات فستق محمص مملح، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-salted-roasted-pistachios-175g/s/934255",
+      "filename": "طلبات-فستق-محمص-مملح،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9ac.jpg?size=520",
+      "bytes": 545219,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "طلبات لوز محمص بنكهة مدخنة، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-smoked-flavor-roasted-almonds-175g/s/934245",
+      "filename": "طلبات-لوز-محمص-بنكهة-مدخنة،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9b5.jpg?size=520",
+      "bytes": 533136,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "طلبات بندق طازج، 175 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-raw-hazelnuts-175g/s/934249",
+      "filename": "طلبات-بندق-طازج،-175-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68edf8460569b594fdf5f9aa.jpg?size=520",
+      "bytes": 509080,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "أبو عوف فستق محمص مملح، 50 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-salted-roasted-pistachios-50g/s/903570",
+      "filename": "ابو-عوف-فستق-محمص-مملح،-50-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239843.png?size=520",
+      "bytes": 503757,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ابوعوف مكسرات مشكله -275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-mixed-nuts-275-gm/s/919301",
+      "filename": "ابوعوف-مكسرات-مشكله-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe0.png?size=520",
+      "bytes": 489758,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "أبو عوف لوز محمص ومملح، 50 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-roasted-salted-almonds-50g/s/903571",
+      "filename": "ابو-عوف-لوز-محمص-ومملح،-50-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239845.png?size=520",
+      "bytes": 601905,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "أبو عوف كاجو محمص، 275 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-roasted-cashew-275g/s/919302",
+      "filename": "ابو-عوف-كاجو-محمص،-275-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c117e3de8532a5afd367.png?size=520",
+      "bytes": 720925,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "أبو عوف فستق محمص ومملح، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-pistachio-roasted-salted-200g/s/915042",
+      "filename": "ابو-عوف-فستق-محمص-ومملح،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239849.png?size=520",
+      "bytes": 581626,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:27:59Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
