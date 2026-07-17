@@ -1,0 +1,330 @@
+{
+  "category": "canned-jarred__fava-bean",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/canned-jarred/fava-bean",
+  "output_dir": "/home/z/my-project/output/canned-jarred__fava-bean",
+  "started_at": "2026-07-17T18:26:37Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/canned-jarred/fava-bean",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "امريكانا فول مدمس الطعم الاصلي ،400غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-plain-fava-beans-400g/s/900958",
+      "filename": "امريكانا-فول-مدمس-الطعم-الاصلي-،400غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a7a8b5b3784d2e9c1e573.jpg?size=520",
+      "bytes": 625162,
+      "dimensions": [
+        504,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "امريكانا فاصوليا حمراء 400 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-red-beans-400g/s/900977",
+      "filename": "امريكانا-فاصوليا-حمراء-400-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a592ee65e58e49212b080.jpg?size=520",
+      "bytes": 634677,
+      "dimensions": [
+        355,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "هارفست فول مصفى  سادة 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-drained-beans-400-gm/s/922102",
+      "filename": "هارفست-فول-مصفى-سادة-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001062448.JPG?size=520",
+      "bytes": 595575,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "هارفست فول مصفي بالليمون المعصفر 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-fava-beans-with-lemon-pickles-400-gm/s/908311",
+      "filename": "هارفست-فول-مصفي-بالليمون-المعصفر-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/654cbf137e06589fe1cc3423.jpg?size=520",
+      "bytes": 664085,
+      "dimensions": [
+        345,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "امريكانا فول بالصلصة 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-foul-with-salsa-400g/s/927473",
+      "filename": "امريكانا-فول-بالصلصة-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-jo/Jordan%20Items/JOR-32894022165.JPG?size=520",
+      "bytes": 790413,
+      "dimensions": [
+        380,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "أمريكانا فول مقشور بالفلفل الحار 400جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-peeled-fava-beans-with-chili-400g/s/900961",
+      "filename": "امريكانا-فول-مقشور-بالفلفل-الحار-400جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a823acb3d47378bdad93b.jpg?size=520",
+      "bytes": 628973,
+      "dimensions": [
+        504,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "امريكانا فاصوليا بيضاء 400 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-white-beans-400g/s/900976",
+      "filename": "امريكانا-فاصوليا-بيضاء-400-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a56efe563a7d6dae3c122.jpg?size=520",
+      "bytes": 605908,
+      "dimensions": [
+        355,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "أمريكانا فول مدمس بالليمون والكمون، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-fava-beans-with-lemon-and-cumin-400g/s/900959",
+      "filename": "امريكانا-فول-مدمس-بالليمون-والكمون،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a820ae45d44c071d98e4e.jpg?size=520",
+      "bytes": 637424,
+      "dimensions": [
+        504,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "أمريكانا فول مدمس اسكندراني",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-iskandrani-fava-beans-400g/s/900960",
+      "filename": "امريكانا-فول-مدمس-اسكندراني.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a8220cb3d47378bdad908.jpg?size=520",
+      "bytes": 616302,
+      "dimensions": [
+        504,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "امريكانا فول بزيت الزيتون 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-fava-with-olive-oil-400g/s/900962",
+      "filename": "امريكانا-فول-بزيت-الزيتون-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6814eae7e09dd3b6490d5377.jpg?size=520",
+      "bytes": 780607,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "هارفست فول مدمس مصفى بالليمون المعصفر، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-fava-beans-with-lemon-safflower-400g/s/923091",
+      "filename": "هارفست-فول-مدمس-مصفى-بالليمون-المعصفر،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001062561.JPG.jpg?size=520",
+      "bytes": 570762,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "حدائق كاليفورنيا فاصوليا حمراء سهل الفتح 400جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-garden-red-kidney-beans-400g/s/903113",
+      "filename": "حدائق-كاليفورنيا-فاصوليا-حمراء-سهل-الفتح-400جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61efec62200b881d399fba64.jpg?size=520",
+      "bytes": 584949,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "حدائق كاليفورنيا فول مقشور بالخلطة السرية سهل الفتح 400جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-peeled-fava-w-special-recipe/s/907235",
+      "filename": "حدائق-كاليفورنيا-فول-مقشور-بالخلطة-السرية-سهل-الفتح-400جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61efea84fd4daa65daa0a789.jpg?size=520",
+      "bytes": 628919,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فول مدمس مقشور بصلصة الطماطم 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-peeled-fava-beans-with-tomato-sauce-400-g/s/902183",
+      "filename": "فول-مدمس-مقشور-بصلصة-الطماطم-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68dd367ac9f92cbe42bc21a5.jpg?size=520",
+      "bytes": 821589,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "كاليفورنيا فول مدمس مهروس  400  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-mashed-medames-fava-bean-400-gm/s/919548",
+      "filename": "كاليفورنيا-فول-مدمس-مهروس-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222027800133.JPG?size=520",
+      "bytes": 619087,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "حدائق كاليفورنيا فول مقشور خلطه مصريه سهل الفتح 400 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-garden-fava-beans-egyptian-recipe-400g/s/903107",
+      "filename": "حدائق-كاليفورنيا-فول-مقشور-خلطه-مصريه-سهل-الفتح-400-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61f115265baa0491f827b6f8.jpg?size=520",
+      "bytes": 594440,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "دريا فاصوليا حمراء داكنة سهلة الفتح 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/daria-red-kidney-beans-400-gm/s/905276",
+      "filename": "دريا-فاصوليا-حمراء-داكنة-سهلة-الفتح-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223003395445.JPG?size=520",
+      "bytes": 926411,
+      "dimensions": [
+        361,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "حدائق كاليفورنيا مدمس مقشر بالفلفل الحار",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-garden-peeled-fava-beans-with-chili-400g/s/903108",
+      "filename": "حدائق-كاليفورنيا-مدمس-مقشر-بالفلفل-الحار.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3cdfc6c129e8e7b0216336.jpg?size=520",
+      "bytes": 572159,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "كاليفورنيا جاردن فول مقشور بالوصفة السرية، 2×330 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-garden-fava-beans-peeled-secret-recipe-2x330g/s/936820",
+      "filename": "كاليفورنيا-جاردن-فول-مقشور-بالوصفة-السرية،-2-330-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696f75ffe650ed72a8080ee7.jpg?size=520",
+      "bytes": 454570,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كاليفورنيا جاردن فول بوصفة مصرية، 2×330 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-garden-fava-beans-with-egyption-recipe-2x330g/s/936821",
+      "filename": "كاليفورنيا-جاردن-فول-بوصفة-مصرية،-2-330-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696f75ffe650ed72a8080ee8.jpg?size=520",
+      "bytes": 408506,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:30:18Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
