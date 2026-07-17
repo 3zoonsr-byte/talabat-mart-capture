@@ -1,0 +1,330 @@
+{
+  "category": "breakfast-food__jams",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/breakfast-food/jams",
+  "output_dir": "/home/z/my-project/output/breakfast-food__jams",
+  "started_at": "2026-07-17T17:22:57Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/breakfast-food/jams",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "البوادي مربى كريمي  فراولة  365 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elbawadi-strawberry-creamy-jam-365g/s/931620",
+      "filename": "البوادي-مربى-كريمي-فراولة-365-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682e0010a8c57552c6cf6554.JPG?size=520",
+      "bytes": 218814,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "فيتراك مربى فراولة بالقطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-strawberry-jam-230g/s/930505",
+      "filename": "فيتراك-مربى-فراولة-بالقطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e26c6eaadaab500f644416.png?size=520",
+      "bytes": 566799,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "البوادي مربى كريمي تين  365 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elbawadi-fig-creamy-jam-365g/s/931621",
+      "filename": "البوادي-مربى-كريمي-تين-365-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682e0010a8c57552c6cf6555.JPG?size=520",
+      "bytes": 217032,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "البوادي مربى  كريمي مشمش  365 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elbawadi-apricot-creamy-jam-365g/s/931622",
+      "filename": "البوادي-مربى-كريمي-مشمش-365-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682e0010a8c57552c6cf6556.JPG?size=520",
+      "bytes": 206967,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "فيتراك مربى لايت فراولة 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-strawberry-light-jam-220g/s/902598",
+      "filename": "فيتراك-مربى-لايت-فراولة-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/650811ae08443ca3cde0e7c1.jpg?size=520",
+      "bytes": 506018,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "حلوانى مربى فراولة 750 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-strawberry-jam-750-gm/s/903972",
+      "filename": "حلوانى-مربى-فراولة-750-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6323143b37e82916e5c5f8d7.jpg?size=520",
+      "bytes": 553769,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "آد مي برطمان مربى فراوله، 360 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-strawberry-jam-jar-360g/s/916149",
+      "filename": "اد-مي-برطمان-مربى-فراوله،-360-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6537b0a21f456f78b558bb3a.jpg?size=520",
+      "bytes": 520703,
+      "dimensions": [
+        252,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "آد مي برطمان مربى مشمش، 360 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-jam-jar-apricot-360g/s/916150",
+      "filename": "اد-مي-برطمان-مربى-مشمش،-360-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6537b11f3fa0345143df1624.jpg?size=520",
+      "bytes": 509149,
+      "dimensions": [
+        252,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مربى كريمي فراولة 430 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-creamy-strawberry-jam-430g/s/902590",
+      "filename": "مربى-كريمي-فراولة-430-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221024008276.jpg?size=520",
+      "bytes": 475295,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "حلوانى مربى مشمش لايت 380 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-light-apricot-jam-380-gm/s/903970",
+      "filename": "حلوانى-مربى-مشمش-لايت-380-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221029610153.JPG?size=520",
+      "bytes": 576053,
+      "dimensions": [
+        278,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "حلوانى مربى فراولة لايت 380 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-light-strawberry-jam-380-gm/s/903969",
+      "filename": "حلوانى-مربى-فراولة-لايت-380-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/632315608aca134967bb3492.jpg?size=520",
+      "bytes": 429582,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فيتراك مربى الفراولة والتوت، 430 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-strawberry-raspberry-jam-430g/s/930502",
+      "filename": "فيتراك-مربى-الفراولة-والتوت،-430-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/a38f2be5-5d29-44a5-9a3c-15202bd9e79c.png?size=520",
+      "bytes": 269757,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "حلوانى مربى مشمش 380 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-apricot-jam-380-gm/s/903945",
+      "filename": "حلوانى-مربى-مشمش-380-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6323146e37e82916e5c5f900.jpg?size=520",
+      "bytes": 384303,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فيتراك مربى لايت تين 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-fig-light-jam-220-gm/s/902600",
+      "filename": "فيتراك-مربى-لايت-تين-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6508117db34d98cd98c22f21.jpg?size=520",
+      "bytes": 464002,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "فيتراك مربى لايت مشمش 220 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-apricot-light-jam-220g/s/902599",
+      "filename": "فيتراك-مربى-لايت-مشمش-220-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/650811f608443ca3cde0e7c2.jpg?size=520",
+      "bytes": 470303,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "فيتراك مربى تين 430 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-fig-jam-430g/s/902589",
+      "filename": "فيتراك-مربى-تين-430-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837f348b4d17c9361ae792.jpg?size=520",
+      "bytes": 438467,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "فيتراك مربى التوت الأزرق البري  430 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-blueberry-jam-430g/s/902593",
+      "filename": "فيتراك-مربى-التوت-الازرق-البري-430-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/bb4b40bd-982d-47c1-9eea-1fbf057904bd.png?size=520",
+      "bytes": 256395,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فيتراك مربى فراولة صفيح 850 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-strawberry-jam-850g/s/902596",
+      "filename": "فيتراك-مربى-فراولة-صفيح-850-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e3f5b8a343141ce47cdd1e.JPG?size=520",
+      "bytes": 538918,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "فيتراك مربي بلح 340جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-dates-jam-340g/s/930501",
+      "filename": "فيتراك-مربي-بلح-340جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e26d42c0770444b926ab92.JPG?size=520",
+      "bytes": 506646,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فيتراك مربى التوت الأحمر  430 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vitrac-raspberry-jam-430g/s/902595",
+      "filename": "فيتراك-مربى-التوت-الاحمر-430-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/86a60c39-115c-4f08-857e-9d183b0aeb64.png?size=520",
+      "bytes": 267331,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:26:46Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
