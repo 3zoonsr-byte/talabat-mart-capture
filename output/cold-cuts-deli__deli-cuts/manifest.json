@@ -1,0 +1,330 @@
+{
+  "category": "cold-cuts-deli__deli-cuts",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cold-cuts-deli/deli-cuts",
+  "output_dir": "/home/z/my-project/output/cold-cuts-deli__deli-cuts",
+  "started_at": "2026-07-17T13:25:41Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cold-cuts-deli/deli-cuts",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ريتش سموك تركى 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-smoked-turkey-250g/s/909853",
+      "filename": "ريتش-سموك-تركى-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e3b9c14b02116bc23cf39.jpg?size=520",
+      "bytes": 620665,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "فريش فارم لانشون بقرى بالزيتون 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-farm-luncheon-with-olives-200g/s/903344",
+      "filename": "فريش-فارم-لانشون-بقرى-بالزيتون-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68235df7694df95fb2e703d7.jpg?size=520",
+      "bytes": 355956,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "فريش فارم لانشون دجاج ساده 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-farm-chicken-luncheon-plain-200g/s/903348",
+      "filename": "فريش-فارم-لانشون-دجاج-ساده-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681e2c624b9b53f2e578cc21.jpg?size=520",
+      "bytes": 365821,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "فريش فارم لانشون دجاج مع زيتون ٢٠٠ جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-farm-chicken-luncheon-with-olives-200g/s/903349",
+      "filename": "فريش-فارم-لانشون-دجاج-مع-زيتون-٢٠٠-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6985d99edc3c06b11bfe3b06.jpg?size=520",
+      "bytes": 357758,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "فريش فارم هوت دوج هاليبينو 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-farm-hot-dog-jalapeno-400-gm/s/903365",
+      "filename": "فريش-فارم-هوت-دوج-هاليبينو-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/63c003cef3733e7d09750476.jpg?size=520",
+      "bytes": 476091,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "فريش فارم لحم بقري مجهز 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-farm-processed-beef-meat-200g/s/903352",
+      "filename": "فريش-فارم-لحم-بقري-مجهز-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681e29d24b9b53f2e578a9bb.jpg?size=520",
+      "bytes": 452645,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الاصدقاء بسطرمة حلواني 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-pastrami-halawni-250g/s/923804",
+      "filename": "الاصدقاء-بسطرمة-حلواني-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a01ee8482660fbb4d3b13d2.JPG?size=520",
+      "bytes": 548466,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "الاصدقاء لانشون فلفل حلواني 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-luncheon-pepper-halawni-250g/s/923800",
+      "filename": "الاصدقاء-لانشون-فلفل-حلواني-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a01ee8482660fbb4d3b13ce.JPG?size=520",
+      "bytes": 464637,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "الاصدقاء سلامي بالفلفل حلواني 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-salami-pepper-halawni-250g/s/923802",
+      "filename": "الاصدقاء-سلامي-بالفلفل-حلواني-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a01ee8482660fbb4d3b13d0.JPG?size=520",
+      "bytes": 582654,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ريتش سموك بيف 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-smoked-beef-250g/s/909854",
+      "filename": "ريتش-سموك-بيف-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e3b5d3039ebfa8a5fdf09.jpg?size=520",
+      "bytes": 528551,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "مفازا فرانكفورتر لحم مدخن 250جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-beef-frankfurters-250g/s/925949",
+      "filename": "مفازا-فرانكفورتر-لحم-مدخن-250جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009117956.JPG?size=520",
+      "bytes": 750372,
+      "dimensions": [
+        443,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ريتش لانشون سادة 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-luncheon-plain-250g/s/909842",
+      "filename": "ريتش-لانشون-سادة-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e390b083adbfbfb4e862f.jpg?size=520",
+      "bytes": 508638,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ريتش لانشون زيتون 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-luncheon-olive-250g/s/909843",
+      "filename": "ريتش-لانشون-زيتون-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e3995083adbfbfb4e8654.jpg?size=520",
+      "bytes": 520004,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "مفازا سلامى بقرى مدخن شرائح 170جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-smoked-beef-salami-slices-170g/s/934720",
+      "filename": "مفازا-سلامى-بقرى-مدخن-شرائح-170جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0d8b31e760c8d110ad34f4.JPG?size=520",
+      "bytes": 683148,
+      "dimensions": [
+        394,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ريتش لانشون دجاج 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-chicken-luncheon-250g/s/909847",
+      "filename": "ريتش-لانشون-دجاج-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e3aaf4930951f95a3ac5c.jpg?size=520",
+      "bytes": 497847,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "مفازا فرانكفورتر دجاج مدخن 250جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-chicken-frankfurters-250g/s/925948",
+      "filename": "مفازا-فرانكفورتر-دجاج-مدخن-250جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009117239.JPG?size=520",
+      "bytes": 662738,
+      "dimensions": [
+        448,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ريتش سموك تشكين 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-smoked-chicken-250g/s/909855",
+      "filename": "ريتش-سموك-تشكين-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e3bd8910126b584c4d955.jpg?size=520",
+      "bytes": 520330,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "مفازا شرائح لحم بقري مدخن 170جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-smoked-beef-slices-170g/s/925954",
+      "filename": "مفازا-شرائح-لحم-بقري-مدخن-170جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0d8b31e760c8d110ad34ef.JPG?size=520",
+      "bytes": 558529,
+      "dimensions": [
+        394,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ريتش بيف بيكون 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rich-beef-bacon-250g/s/909849",
+      "filename": "ريتش-بيف-بيكون-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/622e3c9f083adbfbfb4e86c5.jpg?size=520",
+      "bytes": 626447,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "مفازا فرانكفورتر بقري مدخن 500جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mafaza-beef-frankfurters-500g/s/925951",
+      "filename": "مفازا-فرانكفورتر-بقري-مدخن-500جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009117659.JPG?size=520",
+      "bytes": 700732,
+      "dimensions": [
+        520,
+        342
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:29:26Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
