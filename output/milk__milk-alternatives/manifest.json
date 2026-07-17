@@ -1,0 +1,330 @@
+{
+  "category": "milk__milk-alternatives",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/milk/milk-alternatives",
+  "output_dir": "/home/z/my-project/output/milk__milk-alternatives",
+  "started_at": "2026-07-17T15:01:09Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/milk/milk-alternatives",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "جهينة حليب نباتي بجوز الهند غير مُحلى، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-unsweetened-coconut-plant-based-drink-1l/s/905124",
+      "filename": "جهينة-حليب-نباتي-بجوز-الهند-غير-محلى،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a29737d873222e5cea6b860.png?size=520",
+      "bytes": 247927,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جهينة حليب باريستا جوز الهند 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-barista-coconut-plant-based-drink-500ml/s/939275",
+      "filename": "جهينة-حليب-باريستا-جوز-الهند-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a21965a6fdb1af56a33c733.png?size=520",
+      "bytes": 394562,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "جهينة حليب باريستا جوز الهند 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-barista-coconut-plant-based-drink-1l/s/939279",
+      "filename": "جهينة-حليب-باريستا-جوز-الهند-1-لتر-5.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a21964bfef06d0fe8a2b610.png?size=520",
+      "bytes": 248324,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "جهينة حليب اللوز غير محلي 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-unsweetened-almond-plant-based-drink-1l/s/905121",
+      "filename": "جهينة-حليب-اللوز-غير-محلي-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2196676fdb1af56a33c734.png?size=520",
+      "bytes": 259751,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "جهينة باريستا حليب نباتي باللوز، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-barista-almond-plant-based-drink-1l/s/939278",
+      "filename": "جهينة-باريستا-حليب-نباتي-باللوز،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a21b6ee6429811eba68b7c1.png?size=520",
+      "bytes": 249396,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "حليب جوز الهند جرو باريستا، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-barista-coconut-milk-200ml/s/930323",
+      "filename": "حليب-جوز-الهند-جرو-باريستا،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d92133c84c65c54eb9190b.JPG?size=520",
+      "bytes": 235999,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جرو لبن لوز - خالي من السكر 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-zero-sugar-almond-milk-200ml/s/937379",
+      "filename": "جرو-لبن-لوز-خالي-من-السكر-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a057acedecc20936909a589.jpg?size=520",
+      "bytes": 364136,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "جرو حليب جوز هند  1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-coconut-milk-1l/s/914232",
+      "filename": "جرو-حليب-جوز-هند-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5a059f7c4b2ce99386b08.png?size=520",
+      "bytes": 255410,
+      "dimensions": [
+        431,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "جرو بريستا حليب جوز هند 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-barista-coconut-milk-1l/s/914235",
+      "filename": "جرو-بريستا-حليب-جوز-هند-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b59fde4d79452d68757de9.png?size=520",
+      "bytes": 253444,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "جرو حليب لوز1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-almond-milk-1l/s/914231",
+      "filename": "جرو-حليب-لوز1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5a0a64d79452d6875805a.png?size=520",
+      "bytes": 269377,
+      "dimensions": [
+        431,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "حليب جوز الهند من جرو، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-coconut-milk-200ml/s/930322",
+      "filename": "حليب-جوز-الهند-من-جرو،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d92130c84c65c54eb918dd.JPG?size=520",
+      "bytes": 223763,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "جرو لوز شوكولاته لبن نباتي 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-100-vegan-chocolate-almond-milk-200ml/s/931258",
+      "filename": "جرو-لوز-شوكولاته-لبن-نباتي-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681c768db4f2d4f7a71969b3.png?size=520",
+      "bytes": 355981,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "جرو  بريستا حليب لوز 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-barista-almond-milk-1l/s/914234",
+      "filename": "جرو-بريستا-حليب-لوز-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5a000f7c4b2ce993869e7.png?size=520",
+      "bytes": 265185,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "جرو بريستا حليب شوفان  1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-barista-oat-milk-1-l/s/914236",
+      "filename": "جرو-بريستا-حليب-شوفان-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69689ee6262f072d99b85632.jpg?size=520",
+      "bytes": 367546,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "جرو حليب شوفان 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-oat-milk-1-l/s/914233",
+      "filename": "جرو-حليب-شوفان-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69689e89262f072d99b855fc.jpg?size=520",
+      "bytes": 344720,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جرو لبن لوز شوكولاته 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gro-almond-chocolate-milk-1l/s/934119",
+      "filename": "جرو-لبن-لوز-شوكولاته-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ad61b67cca8c58d29b46fb.JPG?size=520",
+      "bytes": 401939,
+      "dimensions": [
+        431,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ألبرو - مشروب جوز الهند باريستا النباتي، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alpro-plant-based-barista-coconut-drink-1l/s/911775",
+      "filename": "البرو-مشروب-جوز-الهند-باريستا-النباتي،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69faedc443160d0e9ed91e46.jpg?size=520",
+      "bytes": 462162,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ألبرو حليب اللوز بدون سكر، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alpro-almond-unsweetened-milk-1l/s/911778",
+      "filename": "البرو-حليب-اللوز-بدون-سكر،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69dd0771da509aaa168b4152.png?size=520",
+      "bytes": 354949,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ألبرو - مشروب اللوز باريستا النباتي، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alpro-plant-based-barista-almond-drink-1l/s/911774",
+      "filename": "البرو-مشروب-اللوز-باريستا-النباتي،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0ebb2d5be4a87b0db090b5.png?size=520",
+      "bytes": 333001,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "مشروب صويا باريستا نباتي من ألبرو، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alpro-plant-based-barista-soya-drink-1l/s/911777",
+      "filename": "مشروب-صويا-باريستا-نباتي-من-البرو،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691dbd77def2be9b7f0ad24e.png?size=520",
+      "bytes": 352677,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:04:49Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
