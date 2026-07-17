@@ -1,0 +1,162 @@
+{
+  "category": "everyday-roastery-coffee__everyday-desserts",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/everyday-roastery-coffee/everyday-desserts",
+  "output_dir": "/home/z/my-project/output/everyday-roastery-coffee__everyday-desserts",
+  "started_at": "2026-07-17T14:11:59Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/everyday-roastery-coffee/everyday-desserts",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري كوب تشيز كيك بالتوت الأزرق، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cheese-cake-blueberry-cup-1-piece/s/300693",
+      "filename": "ايفري-داي-روستري-كوب-تشيز-كيك-بالتوت-الازرق،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff651869f94dbee2178877.jpg?size=520",
+      "bytes": 312637,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري كوكيز رقائق الشوكولاتة الأصلية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-original-chocolate-chips-cookies-1-piece/s/300886",
+      "filename": "ايفري-داي-روستري-كوكيز-رقائق-الشوكولاتة-الاصلية.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3a2.jpeg?size=520",
+      "bytes": 1244965,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري كوكيز لوتس - 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-lotus-cookies-1-piece/s/300887",
+      "filename": "ايفري-داي-روستري-كوكيز-لوتس-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3a1.jpeg?size=520",
+      "bytes": 1226486,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري براونيز سادة - 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-plain-brownie-1-piece/s/300890",
+      "filename": "ايفري-داي-روستري-براونيز-سادة-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3b1.jpg?size=520",
+      "bytes": 364436,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري كوكيزشوكولاتة بندق مع كيت كات - 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-hazelnut-chocolate-cookies-with-kitkat-1-piece/s/300888",
+      "filename": "ايفري-داي-روستري-كوكيزشوكولاتة-بندق-مع-كيت-كات-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3af.jpeg?size=520",
+      "bytes": 782120,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "إيفري داي روستري براونيز شوكلت اوريو  - 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-oreo-chocolate-brownie-1-piece/s/300891",
+      "filename": "ايفري-داي-روستري-براونيز-شوكلت-اوريو-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3b2.jpeg?size=520",
+      "bytes": 1087510,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "إيفري داي روستري كوكيز شوكلت لافا - 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-chocolate-lava-cookies-1-piece/s/300889",
+      "filename": "ايفري-داي-روستري-كوكيز-شوكلت-لافا-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a363.jpeg?size=520",
+      "bytes": 814141,
+      "dimensions": [
+        518,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "إيفري داي روستري كوب كيك الشوكولاتة، 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-chocolate-cake-cup-1-piece/s/300718",
+      "filename": "ايفري-داي-روستري-كوب-كيك-الشوكولاتة،-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688f08e4623d929a96e11051.jpg?size=520",
+      "bytes": 230726,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:13:59Z",
+  "captured": 10,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 11
+}
