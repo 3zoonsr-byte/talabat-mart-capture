@@ -1,0 +1,330 @@
+{
+  "category": "canned-jarred__canned-vegetables",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/canned-jarred/canned-vegetables",
+  "output_dir": "/home/z/my-project/output/canned-jarred__canned-vegetables",
+  "started_at": "2026-07-17T18:22:56Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/canned-jarred/canned-vegetables",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "امريكانا ذرة حلوة سهلة الفتح، 330 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-sweet-corn-easy-to-open-330g/s/900973",
+      "filename": "امريكانا-ذرة-حلوة-سهلة-الفتح،-330-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3a5af667b2494bfc07193c.jpg?size=520",
+      "bytes": 652514,
+      "dimensions": [
+        355,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "فودي ذره حلوه 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/foody-sweet-corn400gm/s/917311",
+      "filename": "فودي-ذره-حلوه-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6814eae3e09dd3b6490d5368.jpg?size=520",
+      "bytes": 730656,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "وادي فوود فاصوليا حمراء معلبة 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-red-kidney-beans-canned-400g/s/925990",
+      "filename": "وادي-فوود-فاصوليا-حمراء-معلبة-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd248.png?size=520",
+      "bytes": 619117,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "وادي فود مخلل مشكل 650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-mixed-pickles-jar-650g/s/907903",
+      "filename": "وادي-فود-مخلل-مشكل-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b278c02f5b1ec8ddca2.png?size=520",
+      "bytes": 437925,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "وادي فود حبوب ذرة حلوه كاملة  400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-whole-kernel-sweet-corn-can-400g/s/925989",
+      "filename": "وادي-فود-حبوب-ذرة-حلوه-كاملة-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd242.png?size=520",
+      "bytes": 611015,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "وادي فود زيتون اسود مفروم بالشطة 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-black-olives-paste-with-chili-300g/s/907912",
+      "filename": "وادي-فود-زيتون-اسود-مفروم-بالشطة-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b298c02f5b1ec8ddd96.png?size=520",
+      "bytes": 776680,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "وادي فود هلبينو شرايح 1 كجم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-jalapeno-sliced-jar-1kg/s/907908",
+      "filename": "وادي-فود-هلبينو-شرايح-1-كجم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd222.png?size=520",
+      "bytes": 486085,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "وادي فود حمص، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-chickpeas-400g/s/937452",
+      "filename": "وادي-فود-حمص،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd231.png?size=520",
+      "bytes": 645676,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "وادي فود مخلل مشكل 1 كجم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-mixed-pickles-jar-1kg/s/907907",
+      "filename": "وادي-فود-مخلل-مشكل-1-كجم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b268c02f5b1ec8ddc96.png?size=520",
+      "bytes": 451150,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "وادي فود زيتون كلاماتا  650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-kalamata-olives-whole-jar-650g/s/907901",
+      "filename": "وادي-فود-زيتون-كلاماتا-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b2e8c02f5b1ec8dddd7.png?size=520",
+      "bytes": 439306,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "وادي فود زيتون اخضر شرائح 650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-sliced-green-olives-jar-650g/s/907897",
+      "filename": "وادي-فود-زيتون-اخضر-شرائح-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b248c02f5b1ec8ddbc3.png?size=520",
+      "bytes": 506716,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "وادي فود زيتون اسود شرائح مؤكسد 650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-sliced-black-olives-jar-650g/s/907899",
+      "filename": "وادي-فود-زيتون-اسود-شرائح-مؤكسد-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd23e.png?size=520",
+      "bytes": 494308,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "وادي فود زيتون كلاماتا مخلى  650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-pitted-kalamata-olives-jar-650g/s/907902",
+      "filename": "وادي-فود-زيتون-كلاماتا-مخلى-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd223.png?size=520",
+      "bytes": 457844,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "وادي فود زيتون اسود مفروم بالزعتر 300 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-black-olives-paste-with-thyme-300g/s/907911",
+      "filename": "وادي-فود-زيتون-اسود-مفروم-بالزعتر-300-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b288c02f5b1ec8ddd5d.png?size=520",
+      "bytes": 779119,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "وادي فود زيتون اسود مفروم ساده 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-black-olives-paste-plain-300-gm/s/907910",
+      "filename": "وادي-فود-زيتون-اسود-مفروم-ساده-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b278c02f5b1ec8ddca0.png?size=520",
+      "bytes": 790702,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "وادي فود فلفل مكسيكي مخلل  650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-pickled-mexican-hot-pepper-jar-650g/s/907906",
+      "filename": "وادي-فود-فلفل-مكسيكي-مخلل-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd22c.png?size=520",
+      "bytes": 422677,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "وادي فود زيتون اسود  650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-whole-black-olives-jar-650g/s/907898",
+      "filename": "وادي-فود-زيتون-اسود-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd23f.png?size=520",
+      "bytes": 457375,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "وادي فود ليمون مخلل 650 جم برطمان",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-pickled-lemon-jar-650g/s/907905",
+      "filename": "وادي-فود-ليمون-مخلل-650-جم-برطمان.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd232.png?size=520",
+      "bytes": 402777,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "وادي فود حمص بالفلفل الحار والليمون، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-chickpeas-with-chilli-lemon-400g/s/937453",
+      "filename": "وادي-فود-حمص-بالفلفل-الحار-والليمون،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b158c02f5b1ec8dd24c.png?size=520",
+      "bytes": 676954,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "أمريكانا حمص 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-chick-peas-400-g/s/919820",
+      "filename": "امريكانا-حمص-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6814e316e09dd3b6490d3efa.jpg?size=520",
+      "bytes": 599911,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:26:36Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
