@@ -1,0 +1,330 @@
+{
+  "category": "condiments__salad-dressings-vinegar",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/condiments/salad-dressings-vinegar",
+  "output_dir": "/home/z/my-project/output/condiments__salad-dressings-vinegar",
+  "started_at": "2026-07-17T17:26:47Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/condiments/salad-dressings-vinegar",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات خل طبيعي 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-natural-white-vinegar-1l/s/929181",
+      "filename": "طلبات-خل-طبيعي-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a998a0d06691cfa7c08f46.png?size=520",
+      "bytes": 225489,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "هاينز خل طبيعي، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-natural-vinegar-plastic-bottle-1l/s/902215",
+      "filename": "هاينز-خل-طبيعي،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a4218650e909c23d8f1b7f8.jpg?size=520",
+      "bytes": 180272,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "وادي فود خل طبيعي 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-natural-vinegar-1l/s/907893",
+      "filename": "وادي-فود-خل-طبيعي-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b248c02f5b1ec8ddbca.png?size=520",
+      "bytes": 198423,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "هاينز صلصة سيزر عبوة ضغط، 225 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-caesar-dressing-squeeze-bottle-225ml/s/907607",
+      "filename": "هاينز-صلصة-سيزر-عبوة-ضغط،-225-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a01e88782660fbb4d3b0c5e.jpg?size=520",
+      "bytes": 339923,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "هارفست فودز خل أبيض طبيعي، 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-foods-natural-white-vinegar-1l/s/902188",
+      "filename": "هارفست-فودز-خل-ابيض-طبيعي،-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/654cc13059a842762aa49bb6.jpg?size=520",
+      "bytes": 237044,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دوبيلا دبس رمان 350 مللي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-grenadine-molasses-350ml/s/916666",
+      "filename": "دوبيلا-دبس-رمان-350-مللي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756033.jpg?size=520",
+      "bytes": 221971,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أد-مى رانش صوص-  375 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-ranch-sauce-375gm/s/919206",
+      "filename": "اد-مى-رانش-صوص-375-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006051997.JPG?size=520",
+      "bytes": 426073,
+      "dimensions": [
+        257,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "وادي فود خل تفاح 500 مل بلاستك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-apple-pet-vinegar-500ml/s/907892",
+      "filename": "وادي-فود-خل-تفاح-500-مل-بلاستك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b278c02f5b1ec8ddc98.png?size=520",
+      "bytes": 212944,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "أيلو جود فرنس بلمات كوريان صوص 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/ilou-good-france-bulmat-korean-sauce-400g/s/933587",
+      "filename": "ايلو-جود-فرنس-بلمات-كوريان-صوص-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423aca9.png?size=520",
+      "bytes": 192806,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "أد مي خل طبيعي 1لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-natural-vinegar-1-liter/s/918797",
+      "filename": "اد-مي-خل-طبيعي-1لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006051904.jpg?size=520",
+      "bytes": 151154,
+      "dimensions": [
+        520,
+        503
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دوبيلا خل تفاح 250مللي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-apple-vinegar-250-ml/s/916663",
+      "filename": "دوبيلا-خل-تفاح-250مللي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756040.jpg?size=520",
+      "bytes": 249498,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "دوبيلا خل تفاح 500مللي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-apple-vinegar-500-ml/s/916664",
+      "filename": "دوبيلا-خل-تفاح-500مللي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756002.jpg?size=520",
+      "bytes": 202123,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "دوبيلا ورق عنب 950جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-grape-leaves-950-g/s/916737",
+      "filename": "دوبيلا-ورق-عنب-950جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756231.jpg?size=520",
+      "bytes": 423367,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "صلصة باب الشام الإيطالية 15 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bab-elsham-italian-dressing-15g/s/921695",
+      "filename": "صلصة-باب-الشام-الايطالية-15-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a1ab218782d6184733c5ed.png?size=520",
+      "bytes": 1073049,
+      "dimensions": [
+        409,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "باب الشام تتبيلة ثاوزند أيلاند 15 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bab-elsham-thousand-islands-dressing-15g/s/921698",
+      "filename": "باب-الشام-تتبيلة-ثاوزند-ايلاند-15-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a1ab218782d6184733c5f0.png?size=520",
+      "bytes": 1054853,
+      "dimensions": [
+        408,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "باب الشام تتبيلة حلوة وحامضة 15 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bab-elsham-sweet-sour-dressing-15g/s/921696",
+      "filename": "باب-الشام-تتبيلة-حلوة-وحامضة-15-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a1ab218782d6184733c5ee.png?size=520",
+      "bytes": 1128874,
+      "dimensions": [
+        408,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "باب الشام تتبيلة البحر المتوسط 15 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bab-elsham-dressing-mediterranean-15g/s/921699",
+      "filename": "باب-الشام-تتبيلة-البحر-المتوسط-15-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a1ab218782d6184733c5f1.png?size=520",
+      "bytes": 1056724,
+      "dimensions": [
+        409,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "دريا دبس الرومان 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/daria-pomegranate-molasses-350-gm/s/913066",
+      "filename": "دريا-دبس-الرومان-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6223003395025.jpg?size=520",
+      "bytes": 172095,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "بريموز صوص رانش كريمي، 490 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/primos-creamy-ranch-sauce-490g/s/928759",
+      "filename": "بريموز-صوص-رانش-كريمي،-490-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6767d00ca503a622ec3454c2.jpg?size=520",
+      "bytes": 222870,
+      "dimensions": [
+        520,
+        517
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "باب الشام تتبيلة سلطة شرقية، 15 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bab-elsham-oriental-salad-dressing-15g/s/921697",
+      "filename": "باب-الشام-تتبيلة-سلطة-شرقية،-15-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a1ab218782d6184733c5ef.png?size=520",
+      "bytes": 1091411,
+      "dimensions": [
+        408,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:30:21Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
