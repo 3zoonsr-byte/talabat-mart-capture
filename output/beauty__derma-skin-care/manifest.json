@@ -1,0 +1,330 @@
+{
+  "category": "beauty__derma-skin-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beauty/derma-skin-care",
+  "output_dir": "/home/z/my-project/output/beauty__derma-skin-care",
+  "started_at": "2026-07-17T18:54:28Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beauty/derma-skin-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ستارفيل رول اون تفتيح و مزيل للعرق برائحة الفانيليا 60 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-roll-on-deodrant-sweet-vanilla-60-ml/s/921157",
+      "filename": "ستارفيل-رول-اون-تفتيح-و-مزيل-للعرق-برائحة-الفانيليا-60-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010337756.JPG?size=520",
+      "bytes": 324644,
+      "dimensions": [
+        304,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ستارفيل منظف ​​للتبييض 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-cleanser-400-ml/s/931694",
+      "filename": "ستارفيل-منظف-للتبييض-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6926cf9322fd34708ef1aae8.png?size=520",
+      "bytes": 170453,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ستارفيل كريم لتبييض البشرة 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-skin-cream-60g/s/931691",
+      "filename": "ستارفيل-كريم-لتبييض-البشرة-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/953ff7bf-c894-4af6-b4c4-ea3dd62859fa.png?size=520",
+      "bytes": 193357,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-antiperspirant-spray-fresh-breeze-200ml/s/932622",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ستارفيل سبراي مزيل عرق برائحة اللافندر جريس 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-antiperspirant-spray-lavender-grace-200ml/s/932624",
+      "filename": "ستارفيل-سبراي-مزيل-عرق-برائحة-اللافندر-جريس-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/adfd6b66-fce3-4937-988b-c5800ebd32be.png?size=520",
+      "bytes": 200299,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ستارفيل سبراي مزيل عرق برائحة الجوزهند 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-antiperspirant-spray-light-pink-200ml/s/932623",
+      "filename": "ستارفيل-سبراي-مزيل-عرق-برائحة-الجوزهند-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6862317b2b5eff3d0f8e26bf.jpg?size=520",
+      "bytes": 206854,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ستارفيل مزيل عرق ستيك برائحة الجوزهند  60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-whitening-light-pink-deodorant-stick-60ml/s/928743",
+      "filename": "ستارفيل-مزيل-عرق-ستيك-برائحة-الجوزهند-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496da2f59151ac8dd8aa3.JPG?size=520",
+      "bytes": 294672,
+      "dimensions": [
+        251,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-hydrate-femme-intimate-cleansing-foam-150ml/s/928741",
+      "filename": "Grocery-Shop-10.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ستارفيل لوشن للبشرة المعرضة لحب الشباب 230 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/starville-acne-prone-skin-lotion-230ml/s/931692",
+      "filename": "ستارفيل-لوشن-للبشرة-المعرضة-لحب-الشباب-230-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/682f777149d09c0ad1dc6624.png?size=520",
+      "bytes": 220173,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "شان حليب الجسم غير الدهني المقوي من شان بحمض الهيالورونيك والنياسيناميد والسيراميد للبشرة الجافة إلى الجافة جدا، 300 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-non-greasy-strengthening-body-milk-with-hyaluronic-acid-niacinamide-ceramide-for-dry-to-very-dry-skin-300ml/s/928748",
+      "filename": "شان-حليب-الجسم-غير-الدهني-المقوي-من-شان-بحمض-الهيالورونيك-والنياسيناميد-والسيراميد-للبشرة-الجافة-الى-الجافة-جدا،-300.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496b42f59151ac8dd7b29.jpg?size=520",
+      "bytes": 278844,
+      "dimensions": [
+        232,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "شان توليب روز حليب الجسم، 300 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-tulip-rose-body-milk-300ml/s/928754",
+      "filename": "شان-توليب-روز-حليب-الجسم،-300-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6924989d2f59151ac8ddf5d5.JPG?size=520",
+      "bytes": 222957,
+      "dimensions": [
+        221,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "شان مزيل عرق مرطب بدون رائحة 60 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-hydrating-roll-on-fragrance-free-60ml/s/937657",
+      "filename": "شان-مزيل-عرق-مرطب-بدون-رائحة-60-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a19725a051309341ebaef8.png?size=520",
+      "bytes": 347824,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "شان منظف ​​المناطق الحساسة، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-intimate-feminine-cleanser-250ml/s/928752",
+      "filename": "شان-منظف-المناطق-الحساسة،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c2ca2a167ae6c401a7b1.JPG?size=520",
+      "bytes": 357846,
+      "dimensions": [
+        220,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "شان غسول مرطب للجسم بريحة زهرة التيوليب 480 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-tulip-rose-hydrating-body-wash-480ml/s/937654",
+      "filename": "شان-غسول-مرطب-للجسم-بريحة-زهرة-التيوليب-480-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a19725a051309341ebaef9.png?size=520",
+      "bytes": 303275,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "شان غسول مرطب للجسم بريحة فانيلا جوز هند 480 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-vanilla-coconut-hydrating-body-wash-480ml/s/937653",
+      "filename": "شان-غسول-مرطب-للجسم-بريحة-فانيلا-جوز-هند-480-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a19725a051309341ebaefb.png?size=520",
+      "bytes": 308509,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "شان كريم مرطب للجسم يوريا 10% 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shaan-urea-10-body-moisturizer-200g/s/937656",
+      "filename": "شان-كريم-مرطب-للجسم-يوريا-10-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a19725a051309341ebaefa.png?size=520",
+      "bytes": 230698,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "فيشي مزيل العرق المفرط عند الضغط يدوم لمدة ٧٢ ساعة ٥٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-72-hours-stress-resist-excessive-perspiration-deodorant-50ml/s/927900",
+      "filename": "فيشي-مزيل-العرق-المفرط-عند-الضغط-يدوم-لمدة-٧٢-ساعة-٥٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6449a20b-d060-4c9b-84ad-071ec4b95203.JPG?size=520",
+      "bytes": 299991,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "فيشي مزيل العرق لحماية تصل الى 72 ساعة للنساء 50مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-72-hours-invisible-resist-deodorant-for-women-50ml/s/936790",
+      "filename": "فيشي-مزيل-العرق-لحماية-تصل-الى-72-ساعة-للنساء-50مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/CPG/Loreal/3337875894265_1.png?size=520",
+      "bytes": 307491,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "لا روش بوزيه سيكابلاست بوم ب 5+ بلسم مهدئ ومصلح فائق، 100 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/la-roche-posay-cicaplast-baume-b5-ultra-repairing-soothing-face-body-balm-100ml/s/930411",
+      "filename": "لا-روش-بوزيه-سيكابلاست-بوم-ب-5-بلسم-مهدئ-ومصلح-فائق،-100-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67dbe12a1401916fadfff38e.JPG?size=520",
+      "bytes": 423717,
+      "dimensions": [
+        500,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فيشي بيوتي ديو مزيل العرق للنساء يدوم لـ ٤٨ ساعة ٥٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-48-hours-anti-perspirant-beauty-deodorant-for-women-50ml/s/927901",
+      "filename": "فيشي-بيوتي-ديو-مزيل-العرق-للنساء-يدوم-ل-٤٨-ساعة-٥٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/cd1dcce3-0e0a-402e-a6b0-e036a5710023.JPG?size=520",
+      "bytes": 224587,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:58:01Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
