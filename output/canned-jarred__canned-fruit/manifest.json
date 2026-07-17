@@ -1,0 +1,78 @@
+{
+  "category": "canned-jarred__canned-fruit",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/canned-jarred/canned-fruit",
+  "output_dir": "/home/z/my-project/output/canned-jarred__canned-fruit",
+  "started_at": "2026-07-17T18:30:19Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/canned-jarred/canned-fruit",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيه إم أر شرائح أناناس 850 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/amr-pineapple-slices-850g/s/926445",
+      "filename": "ايه-ام-ار-شرائح-اناناس-850-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/9002907007336.jpg?size=520",
+      "bytes": 566864,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ديباتو نصف خوخ، 820 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/depato-peaches-halves-820g/s/930538",
+      "filename": "ديباتو-نصف-خوخ،-820-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ef296b69ee20e278b427f7.jpeg?size=520",
+      "bytes": 371547,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:31:23Z",
+  "captured": 4,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 5
+}
