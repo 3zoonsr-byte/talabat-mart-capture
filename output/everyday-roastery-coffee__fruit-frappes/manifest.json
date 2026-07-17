@@ -1,0 +1,148 @@
+{
+  "category": "everyday-roastery-coffee__fruit-frappes",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/everyday-roastery-coffee/fruit-frappes",
+  "output_dir": "/home/z/my-project/output/everyday-roastery-coffee__fruit-frappes",
+  "started_at": "2026-07-17T14:04:35Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/everyday-roastery-coffee/fruit-frappes",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري فرابيه مانجو أناناس ، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-mango-pineapple-frappe-can-550ml/s/300881",
+      "filename": "ايفري-داي-روستري-فرابيه-مانجو-اناناس-،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3ba.jpg?size=520",
+      "bytes": 201536,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري فرابيه توت أزرق، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-blueberry-frappe-can-550ml/s/300884",
+      "filename": "ايفري-داي-روستري-فرابيه-توت-ازرق،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a35a.jpg?size=520",
+      "bytes": 187690,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري فرابيه بينا كولادا، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-pina-colada-frappe-can-550ml/s/300879",
+      "filename": "ايفري-داي-روستري-فرابيه-بينا-كولادا،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3a5.jpg?size=520",
+      "bytes": 124149,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري فرابيه مانجو، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-mango-frappe-can-550ml/s/300883",
+      "filename": "ايفري-داي-روستري-فرابيه-مانجو،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a39b.jpg?size=520",
+      "bytes": 188783,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري فرابيه فراولة ، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-strawberry-frappe-can-550ml/s/300885",
+      "filename": "ايفري-داي-روستري-فرابيه-فراولة-،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c34b30468c802a8b557.jpg?size=520",
+      "bytes": 214714,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "إيفري داي روستري فرابيه أناناس كيوي، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-pineapple-kiwi-frappe-can-550ml/s/300880",
+      "filename": "ايفري-داي-روستري-فرابيه-اناناس-كيوي،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3b6.jpg?size=520",
+      "bytes": 184486,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "إيفري داي روستري فرابيه خوخ، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-peach-frappe-can-550ml/s/300882",
+      "filename": "ايفري-داي-روستري-فرابيه-خوخ،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a3a0.jpg?size=520",
+      "bytes": 181489,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:06:25Z",
+  "captured": 9,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 10
+}
