@@ -1,0 +1,330 @@
+{
+  "category": "breakfast-food__halawa",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/breakfast-food/halawa",
+  "output_dir": "/home/z/my-project/output/breakfast-food__halawa",
+  "started_at": "2026-07-17T17:15:41Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/breakfast-food/halawa",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "البوادى حلاوة ساده 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-plain-halawa-275g/s/902190",
+      "filename": "البوادى-حلاوة-ساده-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68050754666794a73198f591.jpg?size=520",
+      "bytes": 610351,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "البوادي حلاوه بار جامبو 18 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-halawa-jumbo-bar-18g/s/921393",
+      "filename": "البوادي-حلاوه-بار-جامبو-18-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/656308db8c2621ad7a4f0e50.jpg?size=520",
+      "bytes": 265822,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "البوادي حلاوه طحينيه 145 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-plain-halawa-145g/s/902189",
+      "filename": "البوادي-حلاوه-طحينيه-145-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68050420666794a73198d9b8.jpg?size=520",
+      "bytes": 791736,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "البوادي حلاوه طحينيه 575 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-plain-halawa-575g/s/902191",
+      "filename": "البوادي-حلاوه-طحينيه-575-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000760109.JPG?size=520",
+      "bytes": 646027,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "البوادي حلاوه سبريد شيكولاته 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-chocolate-spread-halawa-300g/s/921398",
+      "filename": "البوادي-حلاوه-سبريد-شيكولاته-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/0d588dd4-355e-4452-a2c1-2ba4a124208c.jpg?size=520",
+      "bytes": 304145,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "البوادي حلاوه سبريد ساده 160 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-plain-halawa-spread-160g/s/902192",
+      "filename": "البوادي-حلاوه-سبريد-ساده-160-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/685920e3b4584fb82fdaa31c.jpg?size=520",
+      "bytes": 388956,
+      "dimensions": [
+        480,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "حلوانى حلاوة سادة 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-plain-halawa-275g/s/903952",
+      "filename": "حلوانى-حلاوة-سادة-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6323119537e82916e5c5f7fa.jpg?size=520",
+      "bytes": 344611,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "البوادي حلاوه سبريد ساده 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-plain-sweet-spread-300g/s/921397",
+      "filename": "البوادي-حلاوه-سبريد-ساده-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/9ecd2a83-60c2-4521-bbed-59f0ce61e8b0.jpg?size=520",
+      "bytes": 277361,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "البوادى فستق حلاوة 275 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-pistachio-halawa-275g/s/902194",
+      "filename": "البوادى-فستق-حلاوة-275-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68050753666794a73198f58d.jpg?size=520",
+      "bytes": 554862,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "حلاوة شوكولاتة البوادي 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-bawadi-chocolate-halawa-275g/s/902198",
+      "filename": "حلاوة-شوكولاتة-البوادي-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000760161.JPG?size=520",
+      "bytes": 556946,
+      "dimensions": [
+        520,
+        391
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "البوادي حلاوه بالسوداني 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-peanut-halawa-275g/s/902197",
+      "filename": "البوادي-حلاوه-بالسوداني-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68050754666794a73198f58f.jpg?size=520",
+      "bytes": 354168,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "البوادي حلاوه بالبندق 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-halawa-hazelnut-275-gm/s/902195",
+      "filename": "البوادي-حلاوه-بالبندق-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68050752666794a73198f589.jpg?size=520",
+      "bytes": 286972,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "البوادي حلاوه سبريد بالكراميل  300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-halawa-spread-with-caramel-300g/s/921399",
+      "filename": "البوادي-حلاوه-سبريد-بالكراميل-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/5fc2fa1e-2a91-4b11-b533-0e02ced3d816.jpg?size=520",
+      "bytes": 287347,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "البوادى حلاوة لوز 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-almond-halawa-275g/s/902196",
+      "filename": "البوادى-حلاوة-لوز-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68050752666794a73198f58b.jpg?size=520",
+      "bytes": 308934,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "حلوانى حلاوة لايت 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-plain-light-halawa-275g/s/903957",
+      "filename": "حلوانى-حلاوة-لايت-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6323130137e82916e5c5f88d.jpg?size=520",
+      "bytes": 309765,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "الرشيدي الميزان حلاوة سادة، 230 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-rashidi-el-mizan-plain-halava-230g/s/6P0IN2",
+      "filename": "الرشيدي-الميزان-حلاوة-سادة،-230-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a4e16eda78cba93f05ef8ab.png?size=520",
+      "bytes": 470652,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "حلوانى حلاوة فستق 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-pistachio-halawa-275g/s/903953",
+      "filename": "حلوانى-حلاوة-فستق-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6323124a8aca134967bb33b3.jpg?size=520",
+      "bytes": 355988,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "حلوانى حلاوة شيكولاتة 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-chocolate-halawa-275g/s/903956",
+      "filename": "حلوانى-حلاوة-شيكولاتة-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/632312d28aca134967bb33df.jpg?size=520",
+      "bytes": 357581,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "حلوانى حلاوة لوز 275 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/halwani-almond-halawa-275g/s/903954",
+      "filename": "حلوانى-حلاوة-لوز-275-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/632313378aca134967bb3426.jpg?size=520",
+      "bytes": 436886,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "الميزان حلاوة 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-rashidi-el-mizan-plain-halava-120g/s/E40NZ4",
+      "filename": "الميزان-حلاوة-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000052631.jpg?size=520",
+      "bytes": 332327,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:19:20Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
