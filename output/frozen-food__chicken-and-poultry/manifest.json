@@ -1,0 +1,330 @@
+{
+  "category": "frozen-food__chicken-and-poultry",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/frozen-food/chicken-and-poultry",
+  "output_dir": "/home/z/my-project/output/frozen-food__chicken-and-poultry",
+  "started_at": "2026-07-17T14:22:18Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/frozen-food/chicken-and-poultry",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "اطياب ستريبس دجاج 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-chicken-strips-400-gm/s/900517",
+      "filename": "اطياب-ستريبس-دجاج-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/04647528-54db-44d3-b9d9-1829af220da4.png?size=520",
+      "bytes": 822296,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "اطياب ناجتس 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-nuggets-400-gm/s/900508",
+      "filename": "اطياب-ناجتس-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/488ad0b5-3da6-4fea-8c60-38799966e500.png?size=520",
+      "bytes": 784427,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "اطياب ستريبس دجاج حار 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-spicy-chicken-strips-400-gm/s/900518",
+      "filename": "اطياب-ستريبس-دجاج-حار-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2809a8d5dd591da6b3617.jpg?size=520",
+      "bytes": 860801,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أطياب بانيه دجاج مقرمش مجمد، 8 قطع، 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-frozen-crispy-chicken-pane-8-pieces-400g/s/900502",
+      "filename": "اطياب-بانيه-دجاج-مقرمش-مجمد،-8-قطع،-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/91308fbf-fe60-45ba-bf1e-3ee2e59d1456.png?size=520",
+      "bytes": 821449,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "اطياب ستريبس دجاج 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-chicken-strips-1-kg/s/900513",
+      "filename": "اطياب-ستريبس-دجاج-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/cd42e738-3b17-4bd5-b968-9234663dceb2.png?size=520",
+      "bytes": 868788,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "اطياب دجاج بانيه كريسبي حار400  جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-crispy-chicken-pane-spicy-400-gm/s/900503",
+      "filename": "اطياب-دجاج-بانيه-كريسبي-حار400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/878a8bab-6895-4974-87a9-9ca8069f4a79.png?size=520",
+      "bytes": 825730,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "اطياب ستريبس دجاج حار 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-chicken-strips-spicy-1-kg/s/900514",
+      "filename": "اطياب-ستريبس-دجاج-حار-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/e6935e37-ed1e-40d7-a115-ad5151d01f7d.png?size=520",
+      "bytes": 1013569,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "اطياب فن ناجتس 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-fun-nuggets-400-gm/s/900509",
+      "filename": "اطياب-فن-ناجتس-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007892367.JPG?size=520",
+      "bytes": 587649,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "اطياب ناجتس ا كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-nuggets-1-kg/s/900510",
+      "filename": "اطياب-ناجتس-ا-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/e8b2ca6d-b353-4053-adc8-8a3db8113920.png?size=520",
+      "bytes": 937098,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كوكي كرانشى ناجتس 20 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-crunchy-nuggets-20-pcs/s/901914",
+      "filename": "كوكي-كرانشى-ناجتس-20-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001822875.JPG?size=520",
+      "bytes": 1055990,
+      "dimensions": [
+        398,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كوكي دبوس كرانشى 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-drumsticks-crunchy-700g/s/901923",
+      "filename": "كوكي-دبوس-كرانشى-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001823520.JPG?size=520",
+      "bytes": 1128914,
+      "dimensions": [
+        454,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كوكى هيروز ناجتس بالجبنة 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-heroz-chicken-cheese-nuggets-400-gm/s/913082",
+      "filename": "كوكى-هيروز-ناجتس-بالجبنة-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/62fa547a0c0603355641a609.jpg?size=520",
+      "bytes": 698161,
+      "dimensions": [
+        520,
+        458
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كوكي أجنحة دجاج كرانشي - 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-crunchy-chicken-wings-700g/s/932547",
+      "filename": "كوكي-اجنحة-دجاج-كرانشي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/684eea1725afc69618f99bb4.jpg?size=520",
+      "bytes": 711499,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "كوكي بانيه فليمنج حار مقرمش، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-flaming-hot-crunchy-chicken-pane-400g/s/930909",
+      "filename": "كوكي-بانيه-فليمنج-حار-مقرمش،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/680a11351de8354a2d918b41.png?size=520",
+      "bytes": 720699,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "كوكي دجاج مقلى كرانشى 12 قطعه + بطاطس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-fried-chicken-12-pcs-fries/s/901924",
+      "filename": "كوكي-دجاج-مقلى-كرانشى-12-قطعه-بطاطس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68309bdaea9931f02215578a.jpg?size=520",
+      "bytes": 672540,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كوكي ناجتس 60 قطعه + بطاطس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-nuggets-crunchy-60-pcs-fries/s/901915",
+      "filename": "كوكي-ناجتس-60-قطعه-بطاطس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001822332.JPG?size=520",
+      "bytes": 633848,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "شهد دجاج ناجتس 1 كجرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shahd-chicken-nuggets-1kg/s/913906",
+      "filename": "شهد-دجاج-ناجتس-1-كجرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2916d8d9e938b4edf34a5f.jpg?size=520",
+      "bytes": 455900,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "شهد تشيكن شيبس 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shahd-chicken-chips-400g/s/933143",
+      "filename": "شهد-تشيكن-شيبس-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2919d7d9e938b4edf34b7f.jpg?size=520",
+      "bytes": 446314,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "شهد وجبة دجاج بالتتبيلة الكاريبية نصف مطهي 1 كيلو",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shahd-semi-cooked-caribbean-glaze-chicken-meal-1kg/s/938039",
+      "filename": "شهد-وجبة-دجاج-بالتتبيلة-الكاريبية-نصف-مطهي-1-كيلو.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a38eaadc4adf3da0a955e32.png?size=520",
+      "bytes": 346903,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "شهد دجاجة كاملة بتتبيلة البحر المتوسط نصف مطهي 1200-1300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/shahd-semi-cooked-whole-mediterranean-chicken-1200-1300g/s/938040",
+      "filename": "شهد-دجاجة-كاملة-بتتبيلة-البحر-المتوسط-نصف-مطهي-1200-1300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a38eaadc4adf3da0a955e31.png?size=520",
+      "bytes": 220718,
+      "dimensions": [
+        520,
+        367
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:25:54Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
