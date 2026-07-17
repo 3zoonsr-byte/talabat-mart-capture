@@ -1,0 +1,330 @@
+{
+  "category": "everyday-roastery-coffee__iced-signature-can",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/everyday-roastery-coffee/iced-signature-can",
+  "output_dir": "/home/z/my-project/output/everyday-roastery-coffee__iced-signature-can",
+  "started_at": "2026-07-17T14:06:26Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/everyday-roastery-coffee/iced-signature-can",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري لاتيه إسباني مثلج - ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-spanish-latte-can-full-cream-550ml/s/300633",
+      "filename": "ايفري-داي-روستري-لاتيه-اسباني-مثلج-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb8f4b5229b895372c53.jpg?size=520",
+      "bytes": 174607,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري فرابيه كراميل - ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-caramel-frappe-can-full-cream-550ml/s/300630",
+      "filename": "ايفري-داي-روستري-فرابيه-كراميل-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb8c4b5229b895372c4d.jpg?size=520",
+      "bytes": 205589,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري ايس لاتيه إسباني -  ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-spanish-latte-can-skimmed-milk-550ml/s/300650",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-اسباني-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5c6f3540497c5a024e3.jpg?size=520",
+      "bytes": 174607,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري لاتيه إسباني مثلج بالكراميل- ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-spanish-latte-can-full-cream-550ml/s/300631",
+      "filename": "ايفري-داي-روستري-لاتيه-اسباني-مثلج-بالكراميل-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb8d4b5229b895372c4f.jpg?size=520",
+      "bytes": 174607,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري ايس لاتيه الكراميل- ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-latte-can-full-cream-550ml/s/300638",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-الكراميل-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb924b5229b895372c5d.jpg?size=520",
+      "bytes": 198804,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "إيفري داي روستري فرابيه قهوة دولسي دي ليتشي - ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-dolce-de-leche-coffee-frappe-can-skimmed-milk-550ml/s/300643",
+      "filename": "ايفري-داي-روستري-فرابيه-قهوة-دولسي-دي-ليتشي-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5c0f3540497c5a024d5.jpg?size=520",
+      "bytes": 205589,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "لإيفري داي روستري ايس لاتيه إسباني  بالكراميل -  ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-spanish-latte-can-skimmed-milk-550ml/s/300648",
+      "filename": "لايفري-داي-روستري-ايس-لاتيه-اسباني-بالكراميل-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5c4f3540497c5a024df.jpg?size=520",
+      "bytes": 174607,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "إيفري داي روستري  فرابيه فانيليا- ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-vanilla-frappe-can-full-cream-550ml/s/300629",
+      "filename": "ايفري-داي-روستري-فرابيه-فانيليا-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb8a4b5229b895372c4b.jpg?size=520",
+      "bytes": 205589,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "إيفري داي روستري ايس موكا بالشوكولاتة البيضاء- ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-white-chocolate-mocha-can-full-cream-550ml/s/300635",
+      "filename": "ايفري-داي-روستري-ايس-موكا-بالشوكولاتة-البيضاء-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb904b5229b895372c57.jpg?size=520",
+      "bytes": 205251,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "إيفري داي روستري ايس لاتيه ماتشا - ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-matcha-latte-can-skimmed-milk-550ml/s/300671",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-ماتشا-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff652a69f94dbee21788d1.jpg?size=520",
+      "bytes": 142549,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "إيفري داي روستري فرابيه كراميل -  ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-caramel-frappe-can-skimmed-milk-550ml/s/300647",
+      "filename": "ايفري-داي-روستري-فرابيه-كراميل-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5c4f3540497c5a024dd.jpg?size=520",
+      "bytes": 205589,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "إيفري داي روستري ايس لاتيه ماتشا بنكهة الشوكولاتة البيضاء- ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-white-chocolate-matcha-latte-can-full-cream-550ml/s/300672",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-ماتشا-بنكهة-الشوكولاتة-البيضاء-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff652169f94dbee21788b5.jpg?size=520",
+      "bytes": 153893,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "إيفري داي روستري ايس لاتيه دولسي دي ليتشي - ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-dulce-de-leche-latte-can-full-cream-550ml/s/300634",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-دولسي-دي-ليتشي-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb8f4b5229b895372c55.jpg?size=520",
+      "bytes": 198804,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "إيفري داي روستري ايس لاتيه الفانيليا - ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-vanilla-latte-can-full-cream-550ml/s/300637",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-الفانيليا-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb924b5229b895372c5b.jpg?size=520",
+      "bytes": 198804,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "إيفري داي روستري ايس لاتيه ماتشا - ٥٥٠ مل حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-matcha-latte-can-full-cream-550ml/s/300670",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-ماتشا-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ff652069f94dbee21788b3.jpg?size=520",
+      "bytes": 142549,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "إيفري داي روستري فرابيه موكا بالشوكولاتة الداكنة - ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-dark-chocolate-mocha-frappe-can-skimmed-milk-550ml/s/300645",
+      "filename": "ايفري-داي-روستري-فرابيه-موكا-بالشوكولاتة-الداكنة-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5c2f3540497c5a024d9.jpg?size=520",
+      "bytes": 231303,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "إيفري داي روستري فرابيه موكا بالشوكولاتة البيضاء- ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-white-chocolate-mocha-frappe-can-skimmed-milk-550ml/s/300644",
+      "filename": "ايفري-داي-روستري-فرابيه-موكا-بالشوكولاتة-البيضاء-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5c2f3540497c5a024d7.jpg?size=520",
+      "bytes": 204518,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "إيفري داي روستري ايس لاتيه كراميل  - ٥٥٠ مل - حليب خالى الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-caramel-latte-can-skimmed-milk-550ml/s/300655",
+      "filename": "ايفري-داي-روستري-ايس-لاتيه-كراميل-٥٥٠-مل-حليب-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c1a5caf3540497c5a024ed.jpg?size=520",
+      "bytes": 198804,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "إيفري داي روستري لاتيه إسباني مثلج بالبندق المحمص - ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-roasted-hazelnut-spanish-latte-can-full-cream-550ml/s/300632",
+      "filename": "ايفري-داي-روستري-لاتيه-اسباني-مثلج-بالبندق-المحمص-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb8e4b5229b895372c51.jpg?size=520",
+      "bytes": 174607,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إيفري داي روستري  فرابيه قهوة إسبانية - ٥٥٠ مل - حليب كامل الدسم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-spanish-coffee-frappe-can-full-cream-550ml/s/300625",
+      "filename": "ايفري-داي-روستري-فرابيه-قهوة-اسبانية-٥٥٠-مل-حليب-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67b5cb834b5229b895372c18.jpg?size=520",
+      "bytes": 204518,
+      "dimensions": [
+        520,
+        389
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:10:08Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
