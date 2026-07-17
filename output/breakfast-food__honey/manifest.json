@@ -1,0 +1,330 @@
+{
+  "category": "breakfast-food__honey",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/breakfast-food/honey",
+  "output_dir": "/home/z/my-project/output/breakfast-food__honey",
+  "started_at": "2026-07-17T17:19:21Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/breakfast-food/honey",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات عسل البرسيم، سكويز، 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-clover-honey-squeeze-bottle-500g/s/932373",
+      "filename": "طلبات-عسل-البرسيم،-سكويز،-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6870f47a367a1326bc725612.png?size=520",
+      "bytes": 336282,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات عسل موالح ، سكويز، 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-citrus-honey-squeeze-bottle-500g/s/932375",
+      "filename": "طلبات-عسل-موالح-،-سكويز،-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6870f47a367a1326bc725614.png?size=520",
+      "bytes": 329750,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات عسل البرسيم، 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-clover-honey-glass-jar-450g/s/932372",
+      "filename": "طلبات-عسل-البرسيم،-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6870f47a367a1326bc725613.png?size=520",
+      "bytes": 323683,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات عسل الربيع، 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-spring-honey-glass-jar-450g/s/932376",
+      "filename": "طلبات-عسل-الربيع،-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6870f47a367a1326bc725618.png?size=520",
+      "bytes": 317789,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات عسل موالح، 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-citrus-honey-glass-jar-450g/s/932374",
+      "filename": "طلبات-عسل-موالح،-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6870f47a367a1326bc72561a.png?size=520",
+      "bytes": 309857,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "الأصدقاء عسل طبيعي، 250 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-natural-honey-250g/s/929943",
+      "filename": "الاصدقاء-عسل-طبيعي،-250-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2c9084a46f750e40ac96.JPG?size=520",
+      "bytes": 221968,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الأصدقاء عسل طبيعي مع عبوة ضغط، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-natural-honey-squeeze-500g/s/929946",
+      "filename": "الاصدقاء-عسل-طبيعي-مع-عبوة-ضغط،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2c9484a46f750e40ac9c.JPG?size=520",
+      "bytes": 226338,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "الأصدقاء عسل طبيعي مع عبوة ضغط، 1000 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-natural-honey-squeeze-1000g/s/929945",
+      "filename": "الاصدقاء-عسل-طبيعي-مع-عبوة-ضغط،-1000-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2c9384a46f750e40ac9a.JPG?size=520",
+      "bytes": 229117,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "الأصدقاء عسل طبيعي، 390 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-natural-honey-390g/s/929944",
+      "filename": "الاصدقاء-عسل-طبيعي،-390-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2c9184a46f750e40ac98.JPG?size=520",
+      "bytes": 200860,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "الأصدقاء عسل طبيعي، 800 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-natural-honey-800g/s/929942",
+      "filename": "الاصدقاء-عسل-طبيعي،-800-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bf2c8e84a46f750e40ac69.JPG?size=520",
+      "bytes": 200860,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "البوادي عسل اسود 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-molasses-350-gm/s/902200",
+      "filename": "البوادي-عسل-اسود-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e3f9568646065c7f6f99f5.JPG?size=520",
+      "bytes": 274583,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "البوادي دبس، 700 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-molasses-700-g/s/902201",
+      "filename": "البوادي-دبس،-700-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e3f937f7d12b672b0abb60.JPG?size=520",
+      "bytes": 374072,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "إمتنان عسل نوارة البرسيم 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-clover-honey-250-gm/s/900746",
+      "filename": "امتنان-عسل-نوارة-البرسيم-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a738aaa585e2f770eed74.png?size=520",
+      "bytes": 476117,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "امتنان عسل 450 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-honey-450-gm/s/900745",
+      "filename": "امتنان-عسل-450-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a738aaa585e2f770eed6d.png?size=520",
+      "bytes": 378719,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "إمتنان عسل زهور الربيع، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-spring-blossom-honey-250-gm/s/900750",
+      "filename": "امتنان-عسل-زهور-الربيع،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742bfd.png?size=520",
+      "bytes": 524099,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "إمتنان عسل زهور الربيع، 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-spring-blossom-honey-450g/s/929784",
+      "filename": "امتنان-عسل-زهور-الربيع،-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a738aaa585e2f770eed6b.png?size=520",
+      "bytes": 421244,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "امتنان-عسل زهور الربيع 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-spring-blossom-honey-450g/s/900749",
+      "filename": "امتنان-عسل-زهور-الربيع-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a738aaa585e2f770eed5c.png?size=520",
+      "bytes": 373167,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "إمتنان عسل الزهور الطبية ، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-medicine-flowers-honey-250-gm/s/900757",
+      "filename": "امتنان-عسل-الزهور-الطبية-،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a738aaa585e2f770eed67.png?size=520",
+      "bytes": 479734,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "إمتنان عسل حبة البركة 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-black-seed-honey-250-gm/s/900753",
+      "filename": "امتنان-عسل-حبة-البركة-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742bf9.png?size=520",
+      "bytes": 493406,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إمتنان عسل زهور الموالح 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-citrus-honey-450-gm/s/900754",
+      "filename": "امتنان-عسل-زهور-الموالح-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2a738aaa585e2f770eed76.png?size=520",
+      "bytes": 369337,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:22:56Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
