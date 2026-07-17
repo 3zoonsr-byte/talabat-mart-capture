@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__frying-oil",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/frying-oil",
+  "output_dir": "/home/z/my-project/output/cooking-baking__frying-oil",
+  "started_at": "2026-07-17T17:44:42Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/frying-oil",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات زيت دوار الشمس، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-sunflower-oil-700ml/s/932368",
+      "filename": "طلبات-زيت-دوار-الشمس،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687e05cae0fcd531ade8bc80.png?size=520",
+      "bytes": 292219,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات زيت دوار الشمس، 2.1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-sunflower-oil-21l/s/932369",
+      "filename": "طلبات-زيت-دوار-الشمس،-2-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687e0618846cb45e9ef961d8.png?size=520",
+      "bytes": 317357,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات زيت الذرة، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-corn-oil-700ml/s/932370",
+      "filename": "طلبات-زيت-الذرة،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687e0638846cb45e9ef9620c.png?size=520",
+      "bytes": 283309,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "كريستال زيت عباد 2.2 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-sunflower-oil-22-l/s/904842",
+      "filename": "كريستال-زيت-عباد-2-2-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69edb53461c1cf9ed6e25d3f.png?size=520",
+      "bytes": 368575,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كريستال زيت دوار الشمس، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-sunflower-oil-700ml/s/927106",
+      "filename": "كريستال-زيت-دوار-الشمس،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60bbbec202086ef27999f.png?size=520",
+      "bytes": 265144,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "زيت عباد كريستال 1.6 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-sunflower-oil-16l/s/902440",
+      "filename": "زيت-عباد-كريستال-1-6-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60c73ec202086ef279a10.png?size=520",
+      "bytes": 344243,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "عافية زيت دوار الشمس، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/afia-sunflower-oil-700ml/s/928400",
+      "filename": "عافية-زيت-دوار-الشمس،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673e0a34f8861ccbb32e46df.JPG?size=520",
+      "bytes": 334555,
+      "dimensions": [
+        272,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "الأصيل زيت دوار شمس، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asil-sunflower-oil-700ml/s/905857",
+      "filename": "الاصيل-زيت-دوار-شمس،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222000506663.JPG?size=520",
+      "bytes": 334924,
+      "dimensions": [
+        227,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "حلوة زيت خليط 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/helwa-mixed-oil-700-ml/s/5YI12F",
+      "filename": "حلوة-زيت-خليط-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000264126.Jpg?size=520",
+      "bytes": 279738,
+      "dimensions": [
+        296,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "حلوة زيت خليط 2.25 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/helwa-mixed-oil-225-l/s/5CVHH3",
+      "filename": "حلوة-زيت-خليط-2-25-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000263716.Jpg?size=520",
+      "bytes": 345667,
+      "dimensions": [
+        257,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "كريستال زيت عباد 200 مل سبراي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-sunflower-oil-spray-200ml/s/904633",
+      "filename": "كريستال-زيت-عباد-200-مل-سبراي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60aa0ec202086ef279931.png?size=520",
+      "bytes": 317882,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كريستال زيت ذرة، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-corn-oil-700ml/s/927105",
+      "filename": "كريستال-زيت-ذرة،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60c08ec202086ef2799d6.png?size=520",
+      "bytes": 276236,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كريستال زيت عباد الشمس 5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-sunflower-oil-5l/s/905854",
+      "filename": "كريستال-زيت-عباد-الشمس-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60a6e68a83894ac251f41.png?size=520",
+      "bytes": 416388,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "حلوة زيت خليط 1لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/helwa-mixed-oil-1l/s/905835",
+      "filename": "حلوة-زيت-خليط-1لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000264010.JPG?size=520",
+      "bytes": 279292,
+      "dimensions": [
+        296,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "كريستال زيت ذرة 2.2 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-corn-oil-22l/s/904840",
+      "filename": "كريستال-زيت-ذرة-2-2-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60ac0ec202086ef279964.png?size=520",
+      "bytes": 370656,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "زيت ذرة كريستال 1.6 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-corn-oil-16l/s/902437",
+      "filename": "زيت-ذرة-كريستال-1-6-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694008940ed072e0e1598814.png?size=520",
+      "bytes": 378347,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كريستال زيت ذرة 1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-corn-oil-1l/s/924051",
+      "filename": "كريستال-زيت-ذرة-1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60aeb68a83894ac251f48.png?size=520",
+      "bytes": 330524,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "كريستال زيت ذرة 200 مل سبراي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-corn-oil-spray-200ml/s/904632",
+      "filename": "كريستال-زيت-ذرة-200-مل-سبراي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69d60c29ec202086ef2799d7.png?size=520",
+      "bytes": 313555,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "كريستال زيت ذرة 3.5ل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-corn-oil-35l/s/905853",
+      "filename": "كريستال-زيت-ذرة-3-5ل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694008b1f969eea0f6859432.png?size=520",
+      "bytes": 398230,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "عافية زيت دوار الشمس، 1.6 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/afia-sunflower-oil-16l/s/905832",
+      "filename": "عافية-زيت-دوار-الشمس،-1-6-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/676c1a66bdd83943824dc539.jpg?size=520",
+      "bytes": 305200,
+      "dimensions": [
+        446,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:48:17Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
