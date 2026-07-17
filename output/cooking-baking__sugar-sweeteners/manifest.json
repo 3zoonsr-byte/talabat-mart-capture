@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__sugar-sweeteners",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/sugar-sweeteners",
+  "output_dir": "/home/z/my-project/output/cooking-baking__sugar-sweeteners",
+  "started_at": "2026-07-17T17:55:37Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/sugar-sweeteners",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات سكر أبيض، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-white-sugar-1kg/s/932378",
+      "filename": "طلبات-سكر-ابيض،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68662a4b8ba23de4d788366a.png?size=520",
+      "bytes": 378057,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "الضحى سكر بودرة، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-powdered-sugar-500g/s/900119",
+      "filename": "الضحى-سكر-بودرة،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/661d1cfecba8a2c9173c87a3.jpg?size=520",
+      "bytes": 783022,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "الضحى سكر بودرة، 1 كيلوغرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-powdered-sugar-1kg/s/900120",
+      "filename": "الضحى-سكر-بودرة،-1-كيلوغرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/688383e08b4d17c9361b58bb.jpg?size=520",
+      "bytes": 631830,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "دوبيلا سكر بنى برطمان 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-brown-sugar-jar-400-gm/s/916709",
+      "filename": "دوبيلا-سكر-بنى-برطمان-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f260f23cbf5ca47511f9f3.JPG?size=520",
+      "bytes": 417228,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "دوبيلا سكر ابيض 120 ظرف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-white-sugar-120-sachets/s/916706",
+      "filename": "دوبيلا-سكر-ابيض-120-ظرف.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f260f03cbf5ca47511f9c4.JPG?size=520",
+      "bytes": 432331,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دوبيلا - سكر أبيض - 100 ظرف",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-white-sugar-100-sachets/s/916705",
+      "filename": "دوبيلا-سكر-ابيض-100-ظرف.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006880153.jpg?size=520",
+      "bytes": 372249,
+      "dimensions": [
+        419,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "دوبيلا سكر بني 600 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-brown-sugar-600g/s/916710",
+      "filename": "دوبيلا-سكر-بني-600-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006880184.jpg?size=520",
+      "bytes": 320592,
+      "dimensions": [
+        520,
+        481
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "دوبيلا - سكر بني - 120 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-brown-sugar-120-bags/s/916708",
+      "filename": "دوبيلا-سكر-بني-120-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67f260f13cbf5ca47511f9f1.JPG?size=520",
+      "bytes": 415396,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "دوبيلا سكر بنى مكرر 100 ظرف *5جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-brown-sugar-100-sachet-5gm/s/916707",
+      "filename": "دوبيلا-سكر-بنى-مكرر-100-ظرف-5جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006880160.jpg?size=520",
+      "bytes": 403331,
+      "dimensions": [
+        429,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "دريا سكر بني، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/daria-brown-sugar-250g/s/924718",
+      "filename": "دريا-سكر-بني،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223003395988.JPG?size=520",
+      "bytes": 324370,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "إمتنان سكر بني 750 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-brown-sugar-750-gm/s/909765",
+      "filename": "امتنان-سكر-بني-750-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742bfb.png?size=520",
+      "bytes": 500520,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "السكر البني  100ساشيت",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/imtenan-brown-sugar-100-sachet/s/909763",
+      "filename": "السكر-البني-100ساشيت.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a2952943b671091e8742c04.png?size=520",
+      "bytes": 573603,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ريحانة سكر 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rehana-sugar-1kg/s/912621",
+      "filename": "ريحانة-سكر-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/Egypt/6224007367360.jpg?size=520",
+      "bytes": 649684,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "سويتال ستيفيا محلي خالي من السعرات الحرارية، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sweetal-stevia-zero-calories-sweetener-250g/s/920766",
+      "filename": "سويتال-ستيفيا-محلي-خالي-من-السعرات-الحرارية،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/692496eb2f59151ac8dd9201.JPG?size=520",
+      "bytes": 575648,
+      "dimensions": [
+        447,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "سويتال سكر دايت  100 كيس * 1 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sweetal-sweetener-100x1g/s/904479",
+      "filename": "سويتال-سكر-دايت-100-كيس-1-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/6225000177857.jpg?size=520",
+      "bytes": 785114,
+      "dimensions": [
+        520,
+        387
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ريحانة سكر بودرة 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rehana-icing-sugar-1-kg/s/912861",
+      "filename": "ريحانة-سكر-بودرة-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a4cd35ae5f661529cbebcb6.png?size=520",
+      "bytes": 610399,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "الزعيم سكر  أبيض  1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/zaeem-white-sugar-1000-gm/s/914864",
+      "filename": "الزعيم-سكر-ابيض-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224010414624.JPG?size=520",
+      "bytes": 626808,
+      "dimensions": [
+        330,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سكر سويت آند سليم - 400 باكيت",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sweet-slim-sugar-400-packets/s/932620",
+      "filename": "سكر-سويت-اند-سليم-400-باكيت.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/Egypt/6223004400049.jpg?size=520",
+      "bytes": 446694,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "زمزم سكر 1  كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/zamzam-sugar-1-kg/s/901445",
+      "filename": "زمزم-سكر-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61f65de4545f516283db1ed2.jpg?size=520",
+      "bytes": 537414,
+      "dimensions": [
+        397,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ست الكل سكر أبيض، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sett-elkol-white-suger-1kg/s/936013",
+      "filename": "ست-الكل-سكر-ابيض،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68de90aee7837ae99a24940f.jpg?size=520",
+      "bytes": 458170,
+      "dimensions": [
+        315,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:59:13Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
