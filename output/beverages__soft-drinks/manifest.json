@@ -1,0 +1,330 @@
+{
+  "category": "beverages__soft-drinks",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/soft-drinks",
+  "output_dir": "/home/z/my-project/output/beverages__soft-drinks",
+  "started_at": "2026-07-17T15:13:40Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/soft-drinks",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ڤي سوبر صودا دايت كولا 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-super-soda-diet-cola-can-300ml/s/927233",
+      "filename": "ڤي-سوبر-صودا-دايت-كولا-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66fbe1107af00b0ce8c9621b.jpg?size=520",
+      "bytes": 374277,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ڤي سوبر صودا كولا 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-super-soda-cola-beverage-can-300ml/s/922709",
+      "filename": "ڤي-سوبر-صودا-كولا-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a318020ccefa1f6d1baf93e.png?size=520",
+      "bytes": 237607,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ڤي سفن مشروب غازي بالڤيتامينات بطعم الليمون والفراولة 300 ملي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v7-pink-lemonade-flavor-vitamin-sparkling-drink-300ml/s/932730",
+      "filename": "ڤي-سفن-مشروب-غازي-بالڤيتامينات-بطعم-الليمون-والفراولة-300-ملي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e85eff7633c798fee9034.jpg?size=520",
+      "bytes": 434274,
+      "dimensions": [
+        520,
+        517
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مشروب غازي بيبسي، 1.5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-soft-drink-15l/s/909192",
+      "filename": "مشروب-غازي-بيبسي،-1-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a346a1e2a1e69ea648dda5.jpg?size=520",
+      "bytes": 365402,
+      "dimensions": [
+        204,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "بيبسي دايت مشروب غازي كانز 355 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-diet-soft-drink-can-355ml/s/937002",
+      "filename": "بيبسي-دايت-مشروب-غازي-كانز-355-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698e16e89c7cbff8c6da6068.png?size=520",
+      "bytes": 167443,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-soft-drink-390ml/s/902248",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كوكاكولا زيرو مشروب غازى زجاجة 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-zero-soft-drink-pet-bottle-300ml/s/918747",
+      "filename": "كوكاكولا-زيرو-مشروب-غازى-زجاجة-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2735f7633c798fed8927.jpg?size=520",
+      "bytes": 313752,
+      "dimensions": [
+        516,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "بيبسي  مشروب غازي زجاجة بلاستيكية1 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-soft-drink-plastic-bottle-1l/s/936804",
+      "filename": "بيبسي-مشروب-غازي-زجاجة-بلاستيكية1-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696f89be637ef42b64ffe011.JPG?size=520",
+      "bytes": 350580,
+      "dimensions": [
+        249,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-soft-drink-240ml/s/902238",
+      "filename": "Grocery-Shop-11.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كوكا كولا زيرو كانز مشروب غازي 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-zero-soft-drink-can-300ml/s/908041",
+      "filename": "كوكا-كولا-زيرو-كانز-مشروب-غازي-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/cc82c574-33f4-4d7b-8b12-7a7142e6dbbc.jpg?size=520",
+      "bytes": 307792,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ڤى سفن ڤيتامين سپاركلينج درينك  ليمون نعناع 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v7-vitamin-lemon-mint-sparkling-drink-300ml/s/914646",
+      "filename": "ڤى-سفن-ڤيتامين-سپاركلينج-درينك-ليمون-نعناع-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e85eff7633c798fee9035.jpg?size=520",
+      "bytes": 406530,
+      "dimensions": [
+        520,
+        512
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-zero-soft-drink-pet-bottle-095l/s/908035",
+      "filename": "Grocery-Shop-14.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ڤي سفن ڤيتامين سپاركلينج درينك بينا كولادا 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v7-vitamin-pina-colada-sparkling-drink-300ml/s/914650",
+      "filename": "ڤي-سفن-ڤيتامين-سپاركلينج-درينك-بينا-كولادا-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e85eff7633c798fee9032.jpg?size=520",
+      "bytes": 438392,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-soft-drink-pet-bottle-145l/s/909171",
+      "filename": "Grocery-Shop-16.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ڤي سفن ڤيتامين سپاركلينج درينك  التوت الازرق 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v7-vitamin-blueberry-sparkling-drink-300ml/s/914652",
+      "filename": "ڤي-سفن-ڤيتامين-سپاركلينج-درينك-التوت-الازرق-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e85eff7633c798fee9033.jpg?size=520",
+      "bytes": 412557,
+      "dimensions": [
+        515,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كوكاكولا زيرو مشروب غازي عبوة بلاستيكية، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-zero-calories-carbonated-soft-drink-pet-500ml/s/937561",
+      "filename": "كوكاكولا-زيرو-مشروب-غازي-عبوة-بلاستيكية،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2735f7633c798fed8932.jpg?size=520",
+      "bytes": 254696,
+      "dimensions": [
+        200,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كوكا كولا مشروب غازي بالنكهة الأصلية، 330 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-original-taste-soft-drink-glass-330ml/s/928178",
+      "filename": "كوكا-كولا-مشروب-غازي-بالنكهة-الاصلية،-330-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a145d685417889ed96a522a.png?size=520",
+      "bytes": 233341,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "كوكا كولا زيرو تويست أوف 330 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-zero-twist-off-soft-drink-330ml/s/900072",
+      "filename": "كوكا-كولا-زيرو-تويست-اوف-330-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2735f7633c798fed893c.jpg?size=520",
+      "bytes": 227171,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-extra-fizz-soft-drink-400ml/s/920753",
+      "filename": "Grocery-Shop-21.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "كوكا كولا مشروب غازي، 0.95 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/coca-cola-soft-drink-pet-095l/s/910232",
+      "filename": "كوكا-كولا-مشروب-غازي،-0-95-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2735f7633c798fed8935.jpg?size=520",
+      "bytes": 304982,
+      "dimensions": [
+        200,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:17:22Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
