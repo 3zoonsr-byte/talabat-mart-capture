@@ -1,0 +1,120 @@
+{
+  "category": "everyday-roastery-coffee__iced-coffee-essentials",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/everyday-roastery-coffee/iced-coffee-essentials",
+  "output_dir": "/home/z/my-project/output/everyday-roastery-coffee__iced-coffee-essentials",
+  "started_at": "2026-07-17T13:48:20Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/everyday-roastery-coffee/iced-coffee-essentials",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري امريكانو مثلج (14 اونز)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-americano-iced-14oz/s/300753",
+      "filename": "ايفري-داي-روستري-امريكانو-مثلج-14-اونز.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e3f.jpg?size=520",
+      "bytes": 234380,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري لاتيه مثلج (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-latte-iced-skimmed-milk-14oz/s/300767",
+      "filename": "ايفري-داي-روستري-لاتيه-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e48.jpg?size=520",
+      "bytes": 245038,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري لاتيه مثلج (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-latte-full-cream-14oz/s/300765",
+      "filename": "ايفري-داي-روستري-لاتيه-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e46.jpg?size=520",
+      "bytes": 245038,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري كابتشينو مثلج  (14 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-cappuccino-skimmed-milk-14oz/s/300760",
+      "filename": "ايفري-داي-روستري-كابتشينو-مثلج-14-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e41.jpg?size=520",
+      "bytes": 194686,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري كابتشينو مثلج (14 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-iced-cappuccino-full-cream-14oz/s/300759",
+      "filename": "ايفري-داي-روستري-كابتشينو-مثلج-14-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e3c.jpg?size=520",
+      "bytes": 194686,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:49:52Z",
+  "captured": 7,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 8
+}
