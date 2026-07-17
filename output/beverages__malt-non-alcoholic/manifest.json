@@ -1,0 +1,330 @@
+{
+  "category": "beverages__malt-non-alcoholic",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/malt-non-alcoholic",
+  "output_dir": "/home/z/my-project/output/beverages__malt-non-alcoholic",
+  "started_at": "2026-07-17T15:20:57Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/malt-non-alcoholic",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ڤي سفن ڤيتامين سپاركلينج درينك 100% نكهة طبيعية  اناناس 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v7-vitamin-pineapple-sparkling-drink-300ml/s/914648",
+      "filename": "ڤي-سفن-ڤيتامين-سپاركلينج-درينك-100-نكهة-طبيعية-اناناس-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68dbcb0ff4f1c9b8a1e80865.jpg?size=520",
+      "bytes": 354221,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ڤي سفن مشروب غازى بڤيتامين 100% نكهة طبيعية - تفاح شعير 300مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v7-100-natural-flavors-apple-vitamin-sparkling-drink-300ml/s/934390",
+      "filename": "ڤي-سفن-مشروب-غازى-بڤيتامين-100-نكهة-طبيعية-تفاح-شعير-300مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ca63849b3d9cc1206a151f.jpg?size=520",
+      "bytes": 323153,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "شويبس مشروب شعير بنكهة الأناناس في عبوة بلاستيكية، 1.75 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-pineapple-malt-drink-pet-bottle-175l/s/909182",
+      "filename": "شويبس-مشروب-شعير-بنكهة-الاناناس-في-عبوة-بلاستيكية،-1-75-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed894f.jpg?size=520",
+      "bytes": 221214,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "شويبس جولد مشروب شعير بنكهة الأناناس 240 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-gold-pineapple-flavoured-malt-drink-240ml/s/933423",
+      "filename": "شويبس-جولد-مشروب-شعير-بنكهة-الاناناس-240-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed8965.jpg?size=520",
+      "bytes": 359942,
+      "dimensions": [
+        278,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-lemon-mint-sparkling-drink-950ml/s/917527",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "شويبس مشروب بنكهة المندرين، علبة 240 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-tangerine-flavor-soft-drink-can-240g/s/933419",
+      "filename": "شويبس-مشروب-بنكهة-المندرين،-علبة-240-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed8968.jpg?size=520",
+      "bytes": 269840,
+      "dimensions": [
+        285,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "شويبس زجاجة بلاستيكية مشروب فوار بنكهة الليمون والنعناع، 0.95 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-pomegranate-pet-095-liter/s/918750",
+      "filename": "شويبس-زجاجة-بلاستيكية-مشروب-فوار-بنكهة-الليمون-والنعناع،-0-95-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed8950.jpg",
+      "bytes": 33426,
+      "dimensions": [
+        1598,
+        4835
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "موسي مشروب شعير خالي من الكحول بنكهة التوت المثلج 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-iceberry-non-alcoholic-malt-beverage-275ml/s/916384",
+      "filename": "موسي-مشروب-شعير-خالي-من-الكحول-بنكهة-التوت-المثلج-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fc2.jpg?size=520",
+      "bytes": 377312,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "شويبس رمان كانز  300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-pomegranate-soft-drink-can-300ml/s/900091",
+      "filename": "شويبس-رمان-كانز-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed895d.jpg?size=520",
+      "bytes": 283010,
+      "dimensions": [
+        271,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "شويبس مشروب بالرمان، 240 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-pomegranate-beverage-240ml/s/933421",
+      "filename": "شويبس-مشروب-بالرمان،-240-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed895f.jpg?size=520",
+      "bytes": 270634,
+      "dimensions": [
+        231,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "موسي مشروب شعير خالي من الكحول بنكهة الخوخ 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-peach-non-alcoholic-malt-beverage-275ml/s/916381",
+      "filename": "موسي-مشروب-شعير-خالي-من-الكحول-بنكهة-الخوخ-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fbd.jpg?size=520",
+      "bytes": 371862,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "موسي مشروب شعير خالي من الكحول بنكهة التفاح 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-apple-non-alcoholic-malt-beverage-275ml/s/916382",
+      "filename": "موسي-مشروب-شعير-خالي-من-الكحول-بنكهة-التفاح-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fbe.jpg?size=520",
+      "bytes": 373937,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "موسي مشروب الشعير الخالي من الكحول بنكهة الأناناس، 275 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-pineapple-non-alcoholic-malt-beverage-275ml/s/926621",
+      "filename": "موسي-مشروب-الشعير-الخالي-من-الكحول-بنكهة-الاناناس،-275-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fc3.jpg?size=520",
+      "bytes": 374624,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "موسي مشروب شعير خالي من الكحول بنكهة التوت الأحمر 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-red-raspberry-non-alcoholic-malt-beverage-275ml/s/916383",
+      "filename": "موسي-مشروب-شعير-خالي-من-الكحول-بنكهة-التوت-الاحمر-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fbf.jpg?size=520",
+      "bytes": 372870,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "شويبس مشروب فوار بنكهة الليمون والنعناع في عبوة زجاجية، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-lemon-mint-twist-off-sparkling-drink-250ml/s/900087",
+      "filename": "شويبس-مشروب-فوار-بنكهة-الليمون-والنعناع-في-عبوة-زجاجية،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2735f7633c798fed894c.jpg?size=520",
+      "bytes": 317304,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "شويبس مشروب شعير بنكهة الأناناس، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-pineapple-malt-drink-twist-off-250ml/s/900103",
+      "filename": "شويبس-مشروب-شعير-بنكهة-الاناناس،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2735f7633c798fed8945.jpg?size=520",
+      "bytes": 334934,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "رمان 250مل شويبس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-pomegranate-twist-off-sparkling-drink-250ml/s/900088",
+      "filename": "رمان-250مل-شويبس.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed895e.jpg?size=520",
+      "bytes": 325847,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "موسي مشروب شعير خالي من الكحول بنكهة الفراولة 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-strawberry-non-alcoholic-malt-beverage-275ml/s/916386",
+      "filename": "موسي-مشروب-شعير-خالي-من-الكحول-بنكهة-الفراولة-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fc0.jpg?size=520",
+      "bytes": 381787,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "موسي مشروب شعير خالي من الكحول بنكهة الرمان 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/moussy-pomegranate-non-alcoholic-malt-beverage-275ml/s/916385",
+      "filename": "موسي-مشروب-شعير-خالي-من-الكحول-بنكهة-الرمان-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a44d7acb3adacdae91a3fc1.jpg?size=520",
+      "bytes": 376726,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ايفرى داى روسترى ليموناضة التوت - علبة ٥٥٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-berries-lemonade-can-550ml/s/300700",
+      "filename": "ايفرى-داى-روسترى-ليموناضة-التوت-علبة-٥٥٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68a4480605cdb8fc4af13767.png?size=520",
+      "bytes": 460931,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:24:47Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
