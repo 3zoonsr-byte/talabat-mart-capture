@@ -1,0 +1,330 @@
+{
+  "category": "breakfast-food__spreads",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/breakfast-food/spreads",
+  "output_dir": "/home/z/my-project/output/breakfast-food__spreads",
+  "started_at": "2026-07-17T17:12:04Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/breakfast-food/spreads",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "نوتيلا شوكولاتة بالبندق، 350غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nutella-chocolate-hazelnut-spread-350g/s/927320",
+      "filename": "نوتيلا-شوكولاتة-بالبندق،-350غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68e220d035c9f6c94e747dfd.jpg?size=520",
+      "bytes": 416526,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "أبو عوف زبدة الفول السوداني، 330 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-peanut-butter-330g/s/911871",
+      "filename": "ابو-عوف-زبدة-الفول-السوداني،-330-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239868.png?size=520",
+      "bytes": 444750,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أبوعوف سبريد تمر بالقرفة 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-cinnamon-date-spread-230g/s/935156",
+      "filename": "ابوعوف-سبريد-تمر-بالقرفة-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423983a.png?size=520",
+      "bytes": 459279,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أبوعوف سبريد تمر بالبندق 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-hazelnut-date-spread-230g/s/935157",
+      "filename": "ابوعوف-سبريد-تمر-بالبندق-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423ac9f.png?size=520",
+      "bytes": 465282,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "أبوعوف سبريد تمر جوز هند 230 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-coconut-date-spread-230g/s/935159",
+      "filename": "ابوعوف-سبريد-تمر-جوز-هند-230-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239839.png?size=520",
+      "bytes": 479375,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "البوادي حلاوه سبريد شيكولاته 160 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-chocolate-spread-160g/s/902193",
+      "filename": "البوادي-حلاوه-سبريد-شيكولاته-160-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68592119b4584fb82fdaa34d.jpg?size=520",
+      "bytes": 436893,
+      "dimensions": [
+        480,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "فن داى بوبو كريمة البندق والكاكاو 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/funday-hazelnut-cream-cocoa-350g/s/906934",
+      "filename": "فن-داى-بوبو-كريمة-البندق-والكاكاو-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/679b3eb614e25aa1a8cfa226.jpg?size=520",
+      "bytes": 713640,
+      "dimensions": [
+        412,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ليتشي زبدة الفول السوداني عسل كريمي 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-honey-creamy-peanut-butter-300g/s/934107",
+      "filename": "ليتشي-زبدة-الفول-السوداني-عسل-كريمي-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a5157078802497.jpg?size=520",
+      "bytes": 735859,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ليتشي زبدة فول سوداني شيكولاته دارك 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-dark-chocolate-peanut-butter-300g/s/936431",
+      "filename": "ليتشي-زبدة-فول-سوداني-شيكولاته-دارك-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a5157078802499.jpg?size=520",
+      "bytes": 614316,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ياميز سبريد بالكرز 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-yummies-plain-cherry-halawa-spread-300g/s/936640",
+      "filename": "ياميز-سبريد-بالكرز-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69552b3eed034b35bf8afee3.JPG?size=520",
+      "bytes": 269218,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ياميز سبريد بندق 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-yummies-hazelnut-spread-300g/s/936641",
+      "filename": "ياميز-سبريد-بندق-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69552b3eed034b35bf8afee1.JPG?size=520",
+      "bytes": 271304,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ياميز سبريد  بالزنجبيل والليمون 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-bawadi-yummies-plain-ginger-lemon-halawa-spread-300g/s/936642",
+      "filename": "ياميز-سبريد-بالزنجبيل-والليمون-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69552b3eed034b35bf8afee2.JPG?size=520",
+      "bytes": 277227,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "دوبيلا زبدة الفول السوداني كرانشي، 510 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-peanut-butter-crunchy-510gm/s/916644",
+      "filename": "دوبيلا-زبدة-الفول-السوداني-كرانشي،-510-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6224008756330.jpg?size=520",
+      "bytes": 468082,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "دوبيلا ذبده فول سوداني ناعمه340جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-peanut-butter-creamy-340gm/s/916641",
+      "filename": "دوبيلا-ذبده-فول-سوداني-ناعمه340جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687111788b6ae261425e9be9.jpg?size=520",
+      "bytes": 555831,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "هيرو زبدة الفول السوداني  300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-delicia-creamy-peanut-butter-300g/s/902622",
+      "filename": "هيرو-زبدة-الفول-السوداني-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/e532dc6e-baca-40fd-b09d-ef0f2fcd4612.png?size=520",
+      "bytes": 586798,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "هيرو زبده الفول السودانى خالى من السكر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-delicia-peanut-butter-no-added-sugar-300g/s/914656",
+      "filename": "هيرو-زبده-الفول-السودانى-خالى-من-السكر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/1b7b5450-a343-46fe-a050-9742c37eadb9.png?size=520",
+      "bytes": 599263,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "الميزان كريميتا كريمة شيكولاتة بالبندق 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-mizan-creamita-hazelnut-chocolate-cream-200-gm/s/782P1G",
+      "filename": "الميزان-كريميتا-كريمة-شيكولاتة-بالبندق-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61dbdea6d43760ccf2d3b569.jpg?size=520",
+      "bytes": 632606,
+      "dimensions": [
+        461,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "هيرو زبدة فول سودانى 300 جم كرانشى",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-delicia-crunchy-peanut-butter-300g/s/925651",
+      "filename": "هيرو-زبدة-فول-سودانى-300-جم-كرانشى.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/91cfc6de-2f36-4cdf-aa7f-f84faa1700b5.png?size=520",
+      "bytes": 593229,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "هيرو ديليسيا بسكويت سبريد، 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-delicia-biscuit-spread-with-cinnamon-300g/s/917329",
+      "filename": "هيرو-ديليسيا-بسكويت-سبريد،-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/8a1d6b55-ba80-457e-8af5-7a542c49261b.png?size=520",
+      "bytes": 622974,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "هيرو ديليسيا  بسكويت فانيليا سبريد بالشوكو رايس 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/hero-delicia-vanilla-biscuit-spread-with-choco-rice-300g/s/931938",
+      "filename": "هيرو-ديليسيا-بسكويت-فانيليا-سبريد-بالشوكو-رايس-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/3e60cfa6-a0f4-4f7c-acbd-451c066b3191.png?size=520",
+      "bytes": 623005,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:15:40Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
