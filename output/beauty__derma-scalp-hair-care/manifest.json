@@ -1,0 +1,330 @@
+{
+  "category": "beauty__derma-scalp-hair-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beauty/derma-scalp-hair-care",
+  "output_dir": "/home/z/my-project/output/beauty__derma-scalp-hair-care",
+  "started_at": "2026-07-17T18:58:02Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beauty/derma-scalp-hair-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "فيشي ديركوس شامبو ضد القشرة للشعر العادي إلى الدهني ٢٠٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-dercos-anti-dandruff-shampoo-for-normal-to-oily-hair-200ml/s/927903",
+      "filename": "فيشي-ديركوس-شامبو-ضد-القشرة-للشعر-العادي-الى-الدهني-٢٠٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/bcdeb70c-8f86-4ecc-b0f1-0ccb30c6afb7.JPG?size=520",
+      "bytes": 211587,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "سيروم فيشي ديركوس أمينيكسيل المُعزز للتجدد السريري 90 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-dercos-aminexil-serum-90ml/s/937075",
+      "filename": "سيروم-فيشي-ديركوس-امينيكسيل-المعزز-للتجدد-السريري-90-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6913138a25a67508e2aa3eb7.jpg?size=520",
+      "bytes": 199146,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "فيشي ديركوس دينسي-سوليوشينز شامبو تكثيف الشعر، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-dercos-densi-solutions-hair-thickening-shampoo-250ml/s/930414",
+      "filename": "فيشي-ديركوس-دينسي-سوليوشينز-شامبو-تكثيف-الشعر،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67dbe1131401916fadfff35a.JPG?size=520",
+      "bytes": 199266,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "فيشي ديركوس دينسي سُلوشينز معالج لتعزيز كثافة الشعر للشعر الضعيف والخفيف، 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-dercos-densi-solutions-hair-thickening-treatment-for-weak-and-thinning-hair-100ml/s/927958",
+      "filename": "فيشي-ديركوس-دينسي-سلوشينز-معالج-لتعزيز-كثافة-الشعر-للشعر-الضعيف-والخفيف،-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/ad8aa996-9aba-485b-a266-b7ed70e16692.JPG?size=520",
+      "bytes": 239313,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "فيشي ديركوس دينسي-سوليوشينز بلسم تكثيف الشعر، 200 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-dercos-densi-solutions-hair-thickening-conditioner-200ml/s/930413",
+      "filename": "فيشي-ديركوس-دينسي-سوليوشينز-بلسم-تكثيف-الشعر،-200-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67dbe10f1401916fadfff354.JPG?size=520",
+      "bytes": 221149,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "فيشي ديركوس أمينيكسيل كلينيكال 5 علاج مضاد لتساقط الشعر للنساء 21 جرعة، 6 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/vichy-dercos-aminexil-clinical-5-anti-hair-fall-treatment-for-women-x21-doses-6ml/s/937840",
+      "filename": "فيشي-ديركوس-امينيكسيل-كلينيكال-5-علاج-مضاد-لتساقط-الشعر-للنساء-21-جرعة،-6-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61f8f171ddefa996f1f27bab.jpg?size=520",
+      "bytes": 326547,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كلاري هير ليف إن كريم، 300 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-anti-hair-fall-leave-in-cream-with-procapil-aquaxyl-vitamins-300g/s/928755",
+      "filename": "كلاري-هير-ليف-ان-كريم،-300-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdb81a754b2cdae91e42c4.JPG?size=520",
+      "bytes": 563926,
+      "dimensions": [
+        453,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كلاري سيروم شعر 100 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-hair-serum-with-capsicum-extract-for-dry-damaged-hair-100ml/s/929029",
+      "filename": "كلاري-سيروم-شعر-100-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68da672af337d1c32f750878.jpg?size=520",
+      "bytes": 333582,
+      "dimensions": [
+        392,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-anti-hair-fall-shampoo-with-procapil-for-dry-damaged-hair-300ml/s/928757",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كلاري ماسك شعر 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-triple-action-hair-fall-control-mask-with-procapil-300ml/s/929028",
+      "filename": "كلاري-ماسك-شعر-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdb81a754b2cdae91e42c5.JPG?size=520",
+      "bytes": 501112,
+      "dimensions": [
+        368,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-anti-hair-fall-conditioner-with-procapil-for-dry-damaged-hair-300ml/s/928756",
+      "filename": "Grocery-Shop-13.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كلاري رذاذ حماية الشعر من الحرارة بعامل حماية من أشعة الشمس 50+، 120 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-uv-protection-leave-in-hair-mist-with-procapil-spf-50-120ml/s/928758",
+      "filename": "كلاري-رذاذ-حماية-الشعر-من-الحرارة-بعامل-حماية-من-اشعة-الشمس-50-،-120-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a131a658294cb90b4e45e68.png?size=520",
+      "bytes": 223437,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كلاري مقشر الشعر لفروة الرأس المنعشة 300 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-exfoliating-anti-hair-fall-scalp-hair-scrub-with-procapil-matcha-extract-300ml/s/931681",
+      "filename": "كلاري-مقشر-الشعر-لفروة-الراس-المنعشة-300-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68c2bfa6cbec392a1853eeae.JPG?size=520",
+      "bytes": 490076,
+      "dimensions": [
+        379,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "كلاري شامبو للقضاء علي الفشرة 320 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-antidandruff-shampoo-320ml/s/930916",
+      "filename": "كلاري-شامبو-للقضاء-علي-الفشرة-320-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690c6dcf4e602d6588f66c89.jpg?size=520",
+      "bytes": 270907,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "كلاري ماء للشعر بالكيراتين المغذي المضاد للتجعد ، 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-anti-frizz-nourishing-keratin-smooth-hair-water-200ml/s/930023",
+      "filename": "كلاري-ماء-للشعر-بالكيراتين-المغذي-المضاد-للتجعد-،-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a131a7b0738abb43c66fecc.png?size=520",
+      "bytes": 270844,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "بخاخ كلاري للتحكم في تساقط الشعر ومنع تساقطه، 120 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/clary-hair-fall-control-scalp-spray-120ml/s/938082",
+      "filename": "بخاخ-كلاري-للتحكم-في-تساقط-الشعر-ومنع-تساقطه،-120-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a131a47192fd31e98f6936c.png?size=520",
+      "bytes": 241963,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "سيروبيب قناع الشعر 225 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seropipe-green-hair-mask-225ml/s/935542",
+      "filename": "سيروبيب-قناع-الشعر-225-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900af508532bc36d5ca5a04.JPG?size=520",
+      "bytes": 546208,
+      "dimensions": [
+        520,
+        468
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سيروبيب سيروم  120 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seropipe-green-hair-serum-120ml/s/935541",
+      "filename": "سيروبيب-سيروم-120-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6900af508532bc36d5ca5a10.JPG?size=520",
+      "bytes": 366170,
+      "dimensions": [
+        279,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "سيروبيب بخاخ لتقوية الشعر وتسريع نموه 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seropipe-strengthening-hair-growth-accelerator-spray-200ml/s/931688",
+      "filename": "سيروبيب-بخاخ-لتقوية-الشعر-وتسريع-نموه-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/eed6f774-322f-4742-a98c-bfd4c916dfe6.jpg?size=520",
+      "bytes": 234283,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "سيروبيب بلسم للشعر بدون شطف 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seropipe-leave-in-hair-conditioner-200ml/s/931687",
+      "filename": "سيروبيب-بلسم-للشعر-بدون-شطف-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/fba485aa-359f-431d-b297-16deda7bee2e.jpg?size=520",
+      "bytes": 246299,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T19:01:42Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
