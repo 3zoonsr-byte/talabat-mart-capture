@@ -1,0 +1,330 @@
+{
+  "category": "beverages__water",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/water",
+  "output_dir": "/home/z/my-project/output/beverages__water",
+  "started_at": "2026-07-17T15:10:03Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/water",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ايلانو مياه شرب 1.5 مل 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elano-water-15-l-6-pcs/s/915456",
+      "filename": "ايلانو-مياه-شرب-1-5-مل-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689456a89d781f686244afb4.jpg?size=520",
+      "bytes": 587831,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ايلانو مياه شرب 600 مل 12 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elano-water-600-ml-12-pcs/s/915455",
+      "filename": "ايلانو-مياه-شرب-600-مل-12-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689456a99d781f686244afb6.jpg?size=520",
+      "bytes": 606636,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "نسلة مياه 600 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-pure-life-still-water-600ml/s/903440",
+      "filename": "نسلة-مياه-600-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001930549.jpg?size=520",
+      "bytes": 233165,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "نسلة مياه 1.5 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-pure-life-still-water-15l/s/903439",
+      "filename": "نسلة-مياه-1-5-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001930501.jpg?size=520",
+      "bytes": 247445,
+      "dimensions": [
+        369,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-club-soda-water-950ml/s/937378",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "نستله بيور لايف مياه فواره 240 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-pure-life-pure-fizz-sparkling-water-240ml/s/903441",
+      "filename": "نستله-بيور-لايف-مياه-فواره-240-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/662a34a65e6019943b34f061.jpg?size=520",
+      "bytes": 236431,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "شويبس مياه تونك في عبوة بلاستيكية، 0.95 لتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-tonic-water-pet-bottle-095l/s/918751",
+      "filename": "شويبس-مياه-تونك-في-عبوة-بلاستيكية،-0-95-لتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed8954.jpg?size=520",
+      "bytes": 227213,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/schweppes-tonic-water-twist-off-250ml/s/900090",
+      "filename": "Grocery-Shop-10.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ووتر كايند الكترولايتس سباركلينج درينك 250 ملي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/waterkind-electrolytes-sparkling-drink-250ml/s/932970",
+      "filename": "ووتر-كايند-الكترولايتس-سباركلينج-درينك-250-ملي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a317fdf78dbdede712dde6b.png?size=520",
+      "bytes": 178271,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ووتركايند مشروب الفوار بنكهة الفراولة والليمون، غني بالإلكتروليتات والفيتامينات، 270 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/waterkind-strawberry-lime-sparkling-drink-270ml/s/938044",
+      "filename": "ووتركايند-مشروب-الفوار-بنكهة-الفراولة-والليمون،-غني-بالالكتروليتات-والفيتامينات،-270-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69e09840bc08625381c77318.JPG?size=520",
+      "bytes": 152014,
+      "dimensions": [
+        279,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "بيوفانا مياه عبوه زجاج فواره - ميديم 500 ملي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/puvana-medium-sparkling-water-glass-bottle-500ml/s/932212",
+      "filename": "بيوفانا-مياه-عبوه-زجاج-فواره-ميديم-500-ملي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6756e5df4b8a56e87c145f48.jpg?size=520",
+      "bytes": 218752,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ووتركايند مشروب الغازي المحتوي على الإلكتروليتات × 4 - 270 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/waterkind-electrolytes-sparkling-drink-4x250ml/s/937886",
+      "filename": "ووتركايند-مشروب-الغازي-المحتوي-على-الالكتروليتات-4-270-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0ef407a1ccf50532371722.png?size=520",
+      "bytes": 170581,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "مياه فوار F2O بنكهة التفاح الثلاثي، 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/f2o-triple-apple-sparkling-water-275ml/s/932429",
+      "filename": "مياه-فوار-F2O-بنكهة-التفاح-الثلاثي،-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6860e263a007291dbf0aaffb.jpg?size=520",
+      "bytes": 235455,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "مياه فوار F2O بنكهة الخوخ والياسمين، 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/f2o-peach-jasmine-sparkling-water-275ml/s/932430",
+      "filename": "مياه-فوار-F2O-بنكهة-الخوخ-والياسمين،-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6860e263a007291dbf0aaff9.jpg?size=520",
+      "bytes": 216424,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "مياه غازية عادية F2O، 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/f2o-plain-sparkling-water-275ml/s/932428",
+      "filename": "مياه-غازية-عادية-F2O،-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6860e263a007291dbf0aaff8.jpg?size=520",
+      "bytes": 238160,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "سو بلس - مُحسن مياه - توت أزرق 48 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/so-plus-blueberry-water-enhancer-48ml/s/924438",
+      "filename": "سو-بلس-محسن-مياه-توت-ازرق-48-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6773505590065.JPG?size=520",
+      "bytes": 544652,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "مياه فوارة بنكهة الحمضيات والنعناع F2O، 275 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/f2o-citrus-mint-sparkling-water-275ml/s/932431",
+      "filename": "مياه-فوارة-بنكهة-الحمضيات-والنعناع-F2O،-275-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6860e263a007291dbf0aaffa.jpg?size=520",
+      "bytes": 237161,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سو بلس - مُحسن مياه - ليمون ونعناع 48 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/so-plus-lemon-mint-water-enhancer-48ml/s/924436",
+      "filename": "سو-بلس-محسن-مياه-ليمون-ونعناع-48-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6773505590195.JPG?size=520",
+      "bytes": 557344,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "سو بلس مُحسن مياه بنكهة المانجو الحامضة، 48 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/so-plus-sour-mango-water-enhancer-48ml/s/927149",
+      "filename": "سو-بلس-محسن-مياه-بنكهة-المانجو-الحامضة،-48-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a317b9cccefa1f6d1baf893.jpg?size=520",
+      "bytes": 513605,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "سو بلس - مُحسن مياه - بيناكولادا 48 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/so-plus-sour-pina-colada-water-enhancer-48ml/s/927146",
+      "filename": "سو-بلس-محسن-مياه-بيناكولادا-48-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a317b2178dbdede712ddc9d.jpg?size=520",
+      "bytes": 547986,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:13:39Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
