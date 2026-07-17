@@ -1,0 +1,330 @@
+{
+  "category": "ice-cream__family-packs",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ice-cream/family-packs",
+  "output_dir": "/home/z/my-project/output/ice-cream__family-packs",
+  "started_at": "2026-07-17T16:43:43Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ice-cream/family-packs",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "وندرفيل موتشي آيس كريم شوكولاتة، 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-mochi-chocolate-ice-cream-4-pieces/s/932125",
+      "filename": "وندرفيل-موتشي-ايس-كريم-شوكولاتة،-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/683db5c25ae6bc660a4401f7.JPG?size=520",
+      "bytes": 464634,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كولد ستون آيس كريم شوكوليت شوكولاتة، 900 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cold-stone-chocolate-chocolate-ice-cream-900ml/s/903426",
+      "filename": "كولد-ستون-ايس-كريم-شوكوليت-شوكولاتة،-900-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922253.jpg?size=520",
+      "bytes": 250695,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كولد ستون آيس كريم موكا باي، 900 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cold-stone-mocha-pie-ice-cream-900ml/s/903427",
+      "filename": "كولد-ستون-ايس-كريم-موكا-باي،-900-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009922239.jpg?size=520",
+      "bytes": 252434,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "باراديس فانيليا ايس كريم عائلي -   850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/paradise-rich-vanilla-ice-cream-tub-850ml/s/900319",
+      "filename": "باراديس-فانيليا-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e65f1ba343141ce47e4853.JPG?size=520",
+      "bytes": 717224,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "وندرفيل آيس كريم بالفانيليا، 800 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-vanilla-ice-cream-800ml/s/919201",
+      "filename": "وندرفيل-ايس-كريم-بالفانيليا،-800-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223009522357.jpg?size=520",
+      "bytes": 274308,
+      "dimensions": [
+        520,
+        518
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "باراديس  مستكة ايس كريم عائلي -  850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/paradise-supreme-mistika-pistachio-ice-cream-tub-850ml/s/900325",
+      "filename": "باراديس-مستكة-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68025a477add8a254c613204.JPG?size=520",
+      "bytes": 710498,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "باراديس  مانجو ايس كريم عائلي -  850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/paradise-real-mango-ice-cream-tub-850ml/s/900322",
+      "filename": "باراديس-مانجو-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e65f1ca343141ce47e4859.JPG?size=520",
+      "bytes": 645886,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كارنفاليتا فانيليا ايس كريم عائلي - 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carnavalita-vanilla-ice-cream-tub-850-ml/s/900314",
+      "filename": "كارنفاليتا-فانيليا-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50357d719e3338ccb28f6.JPG?size=520",
+      "bytes": 568592,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "كارنفاليتا مانجا ايس كريم عائلي - 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carnavalita-van-mango-ice-cream-tub-850ml/s/900317",
+      "filename": "كارنفاليتا-مانجا-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50356d719e3338ccb28f2.JPG?size=520",
+      "bytes": 596900,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "كارنفاليتا فانيليا شوكولاتة ايس كريم عائلي - 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carnavalita-van-choc-ice-cream-tub-850ml/s/900315",
+      "filename": "كارنفاليتا-فانيليا-شوكولاتة-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/623ad6940db7e4fa7fff0cef.jpg?size=520",
+      "bytes": 229255,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "وندرفيل آيس كريم بالفراولة، 800 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-strawberry-ice-cream-800ml/s/919202",
+      "filename": "وندرفيل-ايس-كريم-بالفراولة،-800-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223009522364.jpg?size=520",
+      "bytes": 327648,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "كارنافاليتا شوكولاتة مع صوص الشوكولاتة 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/caranavalita-choc-with-choc-sauce-ice-cream-tub-850ml/s/911954",
+      "filename": "كارنافاليتا-شوكولاتة-مع-صوص-الشوكولاتة-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/680255ea7add8a254c6131a1.jpg?size=520",
+      "bytes": 589810,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "كارنفاليتا فراولة ايس كريم عائلي - 850 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carnavalita-van-straw-ice-cream-tub-850ml/s/900316",
+      "filename": "كارنفاليتا-فراولة-ايس-كريم-عائلي-850-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67e50357d719e3338ccb28f4.JPG?size=520",
+      "bytes": 596152,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "وندرفيل آيس كريم مانجو، 800 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wonderville-mango-ice-cream-800ml/s/919204",
+      "filename": "وندرفيل-ايس-كريم-مانجو،-800-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223009522371.jpg?size=520",
+      "bytes": 462023,
+      "dimensions": [
+        520,
+        423
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "لاتو فاكتوري بوكس السعادة - وافيل كونو سادة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-scoop-smile-kite-plain-waffle-cones/s/931737",
+      "filename": "لاتو-فاكتوري-بوكس-السعادة-وافيل-كونو-سادة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/683062c2842773d7a490db59.jpg?size=520",
+      "bytes": 868295,
+      "dimensions": [
+        389,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جيلاتو فاكتوري آيس كريم فانيليا فرنسية، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-french-vanilla-ice-cream-500ml/s/914979",
+      "filename": "جيلاتو-فاكتوري-ايس-كريم-فانيليا-فرنسية،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/63b3f25a7e6fa07be56789f6.jpg?size=520",
+      "bytes": 476741,
+      "dimensions": [
+        520,
+        517
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "جيلاتو فاكتوري آيس كريم مستكة بالفستق، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-mastic-with-pistachio-ice-cream-500ml/s/914981",
+      "filename": "جيلاتو-فاكتوري-ايس-كريم-مستكة-بالفستق،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_3505000050590.jpg?size=520",
+      "bytes": 468976,
+      "dimensions": [
+        520,
+        517
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "جيلاتو فاكتوري آيس كريم شوكولاتة، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-chocolate-ice-cream-500ml/s/914980",
+      "filename": "جيلاتو-فاكتوري-ايس-كريم-شوكولاتة،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/63b3f15a7e6fa07be56789a2.jpg?size=520",
+      "bytes": 473247,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "جيلاتو فاكتوري آيس كريم توت أزرق بالزبادي، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-yogurt-blueberry-ice-cream-500ml/s/914987",
+      "filename": "جيلاتو-فاكتوري-ايس-كريم-توت-ازرق-بالزبادي،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6492cba0c321d47b5cfdbe15.jpg?size=520",
+      "bytes": 483279,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "جيلاتو فاكتوري آيس كريم تشيز كيك فراولة، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/gelato-factory-cheesecake-strawberry-ice-cream-500ml/s/915002",
+      "filename": "جيلاتو-فاكتوري-ايس-كريم-تشيز-كيك-فراولة،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/63bd286e7f157fc0f4c21a8e.jpg?size=520",
+      "bytes": 491766,
+      "dimensions": [
+        520,
+        516
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:47:12Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
