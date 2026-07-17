@@ -1,0 +1,148 @@
+{
+  "category": "snacks-chocolate__dried-snacks",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/dried-snacks",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__dried-snacks",
+  "started_at": "2026-07-17T16:35:03Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/dried-snacks",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات رقائق جوز الهند، 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-coconut-flakes-120g/s/936084",
+      "filename": "طلبات-رقائق-جوز-الهند،-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698ed1dda333434a05a52ffa.jpg?size=520",
+      "bytes": 481555,
+      "dimensions": [
+        520,
+        490
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "سيشيه فراولة مجففة شرائح  15 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seche-freeze-dried-strawberry-slices-15g/s/937637",
+      "filename": "سيشيه-فراولة-مجففة-شرائح-15-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ad71c88c02f5b1ec8db025.JPG?size=520",
+      "bytes": 586078,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "سيشيه مانجو مجففة قطع 15 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seche-freeze-dried-mango-slices-15g/s/937636",
+      "filename": "سيشيه-مانجو-مجففة-قطع-15-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ad71c88c02f5b1ec8db026.JPG?size=520",
+      "bytes": 552365,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "سيشيه موز مجفف شرائح  15 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/seche-freeze-dried-banana-slices-15g/s/937635",
+      "filename": "سيشيه-موز-مجفف-شرائح-15-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ad71c88c02f5b1ec8db024.JPG?size=520",
+      "bytes": 526052,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "الثور بيف جيركي ترياكي 45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-torr-beef-jerky-teriyaki-45-gm/s/917539",
+      "filename": "الثور-بيف-جيركي-ترياكي-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/680505f3666794a73198dfd6.jpg?size=520",
+      "bytes": 497976,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "الثور بيف جيركي اورجينال  45 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-torr-beef-jerky-original-45-gm/s/917538",
+      "filename": "الثور-بيف-جيركي-اورجينال-45-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009812844.jpg?size=520",
+      "bytes": 527041,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الثور بيف جيركي باربيكيو 45جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-torr-beef-jerky-bbq-45-gm/s/917540",
+      "filename": "الثور-بيف-جيركي-باربيكيو-45جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009812929.jpg?size=520",
+      "bytes": 578322,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:36:47Z",
+  "captured": 9,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 10
+}
