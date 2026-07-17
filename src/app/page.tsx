@@ -21,6 +21,7 @@ import { EventsLog } from '@/components/capture/events-log'
 import { Gallery } from '@/components/capture/gallery'
 import { ManifestViewer } from '@/components/capture/manifest-viewer'
 import { QaChecklist } from '@/components/capture/qa-checklist'
+import { OutputBrowser } from '@/components/capture/output-browser'
 
 const DEFAULT_URL =
   'https://www.talabat.com/egypt/talabat-mart/dairy-eggs/eggs'
@@ -243,6 +244,9 @@ export default function Home() {
           onSkip={handleSkip}
           onResume={handleResume}
         />
+
+        {/* Output browser — image counts + download all as ZIP */}
+        <OutputBrowser refreshKey={galleryRefreshKey} />
 
         {/* Events log */}
         <EventsLog events={events} onClear={clear} />

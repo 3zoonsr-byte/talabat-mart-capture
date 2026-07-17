@@ -134,3 +134,30 @@ Stage Summary:
 - New `--max-pages` / `maxPages` config threaded through Python → capture-store → API → UI (both single-capture control panel and queue composer).
 - Queue re-populated (160 items) and running with the new script. Each product's source_page is recorded in manifest.json.
 - Diagnostic finding: most Talabat Mart subcategory pages load all products on a single page (infinite scroll), so the pagination path is a safety net for any category that does split across pages.
+
+---
+Task ID: output-browser-ui
+Agent: main
+Task: User cannot find output folder / images. Add a UI section showing image counts and a "download all as ZIP" feature.
+
+Work Log:
+- Verified /home/z/my-project/output/ exists with 18 category subfolders and 291 PNG images (capture had progressed further since last check)
+- Found existing /api/capture/output endpoint (lists categories with counts) and /api/capture/download-zip endpoint (per-category ZIP) were already present but NOT wired into the main page UI
+- Found existing OutputBrowser component (src/components/capture/output-browser.tsx) was built but never imported/rendered in src/app/page.tsx
+- Created new endpoint /api/capture/download-all/route.ts that ZIPs the ENTIRE output/ directory (all category folders + PNGs + manifest.json) using Info-ZIP with fast compression, returns as a single downloadable ZIP
+- Updated OutputBrowser component:
+  - Added zippingAll state and handleDownloadAll() function that fetches /api/capture/download-all and triggers browser download
+  - Redesigned summary bar with prominent orange "نزّل كل الصور (ZIP)" (Download ALL as ZIP) button
+  - Added empty-state UI when totalPngs === 0
+- Added OutputBrowser to src/app/page.tsx (imported + rendered between QueuePanel and EventsLog so it's prominently visible)
+- Verified: lint passes (only 1 pre-existing warning), page compiles (GET / 200), Agent Browser snapshot confirms all 18 categories visible with counts + Download-All button present
+- Verified download-all endpoint: HTTP 200, 121 MB ZIP, 344 files, valid archive with Arabic filenames preserved
+- Verified per-category download-zip endpoint still works (bakery__flatbread → 14 MB, 23 files)
+- No console errors or runtime errors
+
+Stage Summary:
+- User can now see image counts per category AND total counts directly in the UI
+- User can download ALL images as a single ZIP (button: "نزّل كل الصور (ZIP)")
+- User can download individual category ZIPs (per-category buttons when expanded)
+- User can preview thumbnails of captured images (click to open full-size)
+- The output/ folder was always on the sandbox filesystem; the problem was purely that the OutputBrowser was never rendered on the page and there was no download-all mechanism. Both fixed.
