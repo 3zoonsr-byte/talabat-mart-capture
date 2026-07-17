@@ -1,0 +1,288 @@
+{
+  "category": "frozen-food__ready-meals",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/frozen-food/ready-meals",
+  "output_dir": "/home/z/my-project/output/frozen-food__ready-meals",
+  "started_at": "2026-07-17T14:16:20Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/frozen-food/ready-meals",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "اوليو تشيدر بايتس 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/olio-cheddar-bites-250g/s/927200",
+      "filename": "اوليو-تشيدر-بايتس-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67443504fa23d49675aaac0d.jpg?size=520",
+      "bytes": 498731,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طاجن ستو كرات لحم صافي بصوص البصل المكرمل 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-meatballs-with-caramelized-onions-sauce-450-gm/s/915705",
+      "filename": "طاجن-ستو-كرات-لحم-صافي-بصوص-البصل-المكرمل-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943335.JPG?size=520",
+      "bytes": 766916,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طاجن ستو كفتة ارز 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-rice-kofta-400-gm/s/915685",
+      "filename": "طاجن-ستو-كفتة-ارز-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943199.JPG?size=520",
+      "bytes": 694433,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طاجن ستو حواوشي 2 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-hawawshy-2-pcs/s/915697",
+      "filename": "طاجن-ستو-حواوشي-2-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943205.JPG?size=520",
+      "bytes": 385334,
+      "dimensions": [
+        520,
+        415
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طاجن ستو كرات بطاطس كروكيه بحشوة الجبن 11 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-potatoes-croquette-with-cheese-11-pcs/s/915693",
+      "filename": "طاجن-ستو-كرات-بطاطس-كروكيه-بحشوة-الجبن-11-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689f1dc600301c6d3333607a.JPG?size=520",
+      "bytes": 399652,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طاجن ستو سمبوسك لحم 12 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-sambousak-meat-12-pcs/s/915675",
+      "filename": "طاجن-ستو-سمبوسك-لحم-12-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943014.JPG?size=520",
+      "bytes": 686098,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "طاجن ستو طاجن فريك باللحمه فردي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-tajin-grits-with-meat-chunks-1-person/s/915709",
+      "filename": "طاجن-ستو-طاجن-فريك-باللحمه-فردي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943465.JPG?size=520",
+      "bytes": 483024,
+      "dimensions": [
+        520,
+        376
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طاجن ستو طاجن مسقعه بيشامل باللحمه المفرومه فردي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-tajin-mousakka-bechamel-with-minced-meat-1-person/s/915712",
+      "filename": "طاجن-ستو-طاجن-مسقعه-بيشامل-باللحمه-المفرومه-فردي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943472.JPG?size=520",
+      "bytes": 482631,
+      "dimensions": [
+        520,
+        376
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "طاجن ستو كفتة بانيه 8 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/tagen-setto-kofta-pane-8-pcs/s/915686",
+      "filename": "طاجن-ستو-كفتة-بانيه-8-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007943601.JPG?size=520",
+      "bytes": 684207,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "فيليشس ناجتس الدجاج بالخضروات المخفية 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-chicken-nuggets-with-hidden-veggies-250g/s/920725",
+      "filename": "فيليشس-ناجتس-الدجاج-بالخضروات-المخفية-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/65edcbd5c200324249c97914.jpg?size=520",
+      "bytes": 516426,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "فيليشس ناجتس البطاطس بالخضروات المخفية 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-veggie-nuggets-with-hidden-veggies-250g/s/920730",
+      "filename": "فيليشس-ناجتس-البطاطس-بالخضروات-المخفية-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_805424687100201.JPG?size=520",
+      "bytes": 370337,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فيليشس مينى برجر بالخضروات المخفية 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-mini-burger-with-hidden-veggies-250g/s/920727",
+      "filename": "فيليشس-مينى-برجر-بالخضروات-المخفية-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_805424687100401.JPG?size=520",
+      "bytes": 388528,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "فيليشس كفته بالخضروات المخفية 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-beef-kofta-with-hidden-veggies-250g/s/920728",
+      "filename": "فيليشس-كفته-بالخضروات-المخفية-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_805424687100301.JPG?size=520",
+      "bytes": 426900,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فيليشس كرات الدجاج بالخضروات المخفية 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-chicken-pops-with-hidden-veggies-250g/s/920726",
+      "filename": "فيليشس-كرات-الدجاج-بالخضروات-المخفية-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_805424687100601.JPG?size=520",
+      "bytes": 353737,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "فيليشس كرات اللحم بالخضروات المخفية 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-meatballs-with-hidden-veggies-250g/s/920729",
+      "filename": "فيليشس-كرات-اللحم-بالخضروات-المخفية-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_805424687100501.JPG?size=520",
+      "bytes": 422553,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كوكي مكعبات فيليه الدجاج المشوى مع صوص سويت اند ساور 600جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-gold-sweet-sour-grilled-chicken-600g/s/935058",
+      "filename": "كوكي-مكعبات-فيليه-الدجاج-المشوى-مع-صوص-سويت-اند-ساور-600جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f6323cd06eef9ed169bbc5.JPG?size=520",
+      "bytes": 495934,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "كوكي مكعبات فيليه الدجاج المشوى مع صوص الزيتون 600جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-gold-cubed-grilled-chicken-with-olive-sauce-600g/s/935059",
+      "filename": "كوكي-مكعبات-فيليه-الدجاج-المشوى-مع-صوص-الزيتون-600جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f6323cd06eef9ed169bbc6.JPG?size=520",
+      "bytes": 520390,
+      "dimensions": [
+        520,
+        371
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:19:34Z",
+  "captured": 19,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 20
+}
