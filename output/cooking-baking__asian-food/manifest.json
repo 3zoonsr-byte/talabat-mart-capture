@@ -1,0 +1,148 @@
+{
+  "category": "cooking-baking__asian-food",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/asian-food",
+  "output_dir": "/home/z/my-project/output/cooking-baking__asian-food",
+  "started_at": "2026-07-17T18:06:39Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/asian-food",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "يامي فود كانج شي فوه نودلز لحم حار، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-meat-spicy-noodles-105g/s/925329",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-لحم-حار،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6939299f7d5d769c11a9fb59.jpg?size=520",
+      "bytes": 581109,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "يامي فود كانج شي فوه نودلز لحم بقري، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-beef-noodles-105g/s/922493",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-لحم-بقري،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6939299c7d5d769c11a9fb1c.jpg?size=520",
+      "bytes": 643928,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "يامي فود كانج شي فوه نودلز خضار، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-vegetables-noodles-105g/s/925631",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-خضار،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693929a07d5d769c11a9fb5b.JPG?size=520",
+      "bytes": 777266,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "يمي فودز نودلز سميكة 500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-thick-noodles-500g/s/927776",
+      "filename": "يمي-فودز-نودلز-سميكة-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6717532b4653e9a7048ec723.jpg?size=520",
+      "bytes": 436162,
+      "dimensions": [
+        269,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "يامي فود كانج شي فوه نودلز دجاج، 105 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-kang-shi-fu-chicken-noodles-105g/s/927131",
+      "filename": "يامي-فود-كانج-شي-فوه-نودلز-دجاج،-105-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6939299c7d5d769c11a9fb1e.JPG?size=520",
+      "bytes": 736939,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "يامي فود نودلز صينية، 1 كيلوغرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-chinese-noodles-1kg/s/927775",
+      "filename": "يامي-فود-نودلز-صينية،-1-كيلوغرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6939299c7d5d769c11a9fb1d.JPG?size=520",
+      "bytes": 750409,
+      "dimensions": [
+        456,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "يامي فود نودلز صينية سميكة، 4 كيلوغرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/yummy-food-thick-chinese-noodles-4kg/s/927777",
+      "filename": "يامي-فود-نودلز-صينية-سميكة،-4-كيلوغرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6717550e3a2de541ccdb8148.png?size=520",
+      "bytes": 662986,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:08:22Z",
+  "captured": 9,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 10
+}
