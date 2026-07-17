@@ -1,0 +1,330 @@
+{
+  "category": "snacks-chocolate__candy-gums",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/snacks-chocolate/candy-gums",
+  "output_dir": "/home/z/my-project/output/snacks-chocolate__candy-gums",
+  "started_at": "2026-07-17T16:09:49Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/snacks-chocolate/candy-gums",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ميمكس لوليز ميجا 85ق - 1190 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mimix-assorted-lollies-1190g/s/936004",
+      "filename": "ميمكس-لوليز-ميجا-85ق-1190-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696a1e3f9ae21e4650c5ac80.png?size=520",
+      "bytes": 900998,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ميميكس دولتشي فانيليا بسكويت كريم ستيك 9 قطع - 33.3 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mimix-dolce-vanilla-biscuit-cream-stick-hard-candy-9-pieces-333g/s/936657",
+      "filename": "ميميكس-دولتشي-فانيليا-بسكويت-كريم-ستيك-9-قطع-33-3-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69634ee1c73c52b7e253953f.png?size=520",
+      "bytes": 215998,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ميمكس بون بون برستس ميجا 220ق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mimix-bon-bon-bursts-candy-sharing-box-220-pieces/s/934651",
+      "filename": "ميمكس-بون-بون-برستس-ميجا-220ق.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68de6b60f47c5205e52cb416.png?size=520",
+      "bytes": 716623,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "ترايدنت علكة بنكهة النعناع الأخضر خالية من السكر - 7 قطع، 13.5 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/trident-spearmint-sugar-free-chewing-gum-7-pieces-135g/s/934565",
+      "filename": "ترايدنت-علكة-بنكهة-النعناع-الاخضر-خالية-من-السكر-7-قطع،-13-5-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d27f0c9e88c5318a606ca9.JPG?size=520",
+      "bytes": 513139,
+      "dimensions": [
+        520,
+        294
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ترايدنت علكة بنكهة البطيخ خالية من السكر - 7 قطع، 13.5 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/trident-watermelon-sugar-free-chewing-gum-7-pieces-135g/s/934567",
+      "filename": "ترايدنت-علكة-بنكهة-البطيخ-خالية-من-السكر-7-قطع،-13-5-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d27f0c9e88c5318a606ca8.JPG?size=520",
+      "bytes": 566041,
+      "dimensions": [
+        520,
+        297
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "اكسترا علكة بنكهة الفواكه و النعناع خالية من السكر، 10 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wrigleys-extra-sugar-free-bubblemint-chewing-gum-10-pieces/s/901344",
+      "filename": "اكسترا-علكة-بنكهة-الفواكه-و-النعناع-خالية-من-السكر،-10-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891bf9afd59dc99f98202f8.jpg?size=520",
+      "bytes": 365885,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ريجليز اكسترا علكة بنكهة النعناع الفلفلي خالية من السكر، 10 قطع، 14 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wrigleys-extra-gum-peppermint-sugar-free-chewing-gum-10-pellets-14g/s/901341",
+      "filename": "ريجليز-اكسترا-علكة-بنكهة-النعناع-الفلفلي-خالية-من-السكر،-10-قطع،-14-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891bf98fd59dc99f98202ec.jpg?size=520",
+      "bytes": 377343,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "هاريبو روليتو حلوي جيلي الفاكهة 25 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haribo-roulette-jelly-candy-25g/s/904376",
+      "filename": "هاريبو-روليتو-حلوي-جيلي-الفاكهة-25-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images_2024/Jordan_Images/Jordan_Images_2024/8691216019805.jpg?size=520",
+      "bytes": 401940,
+      "dimensions": [
+        520,
+        468
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bebeto-strawberry-sour-sticks-30g/s/924567",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ريجليز اكسترا علكة خالية من السكر بنكهة النعناع السنبلي، 10 قطع، 14 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wrigleys-extra-gum-spearmint-sugar-free-chewing-gum-10-pellets-14g/s/901342",
+      "filename": "ريجليز-اكسترا-علكة-خالية-من-السكر-بنكهة-النعناع-السنبلي،-10-قطع،-14-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891bf9dfd59dc99f9820304.jpg?size=520",
+      "bytes": 385566,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ترايدنت علكة بنكهة التوت والليمون، خالية من السكر، 7 قطع - 13.5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/trident-lemon-raspberry-sugar-free-chewing-gums-7-pieces-135g/s/935187",
+      "filename": "ترايدنت-علكة-بنكهة-التوت-والليمون،-خالية-من-السكر،-7-قطع-13-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f8b54493090c6dc82c5f51.JPG?size=520",
+      "bytes": 619481,
+      "dimensions": [
+        520,
+        297
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بيبيتو كاندي كولا 35 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bebeto-cola-gummy-candy-35g/s/905478",
+      "filename": "بيبيتو-كاندي-كولا-35-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b08a360d55d23ff1d50ce.JPG?size=520",
+      "bytes": 539578,
+      "dimensions": [
+        438,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ريجليز اكستراعلكة بنكهة الفراولة 14 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wrigleys-extra-strawberry-pellets-gum-14g/s/901343",
+      "filename": "ريجليز-اكستراعلكة-بنكهة-الفراولة-14-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6891c17dfd59dc99f9821097.jpg?size=520",
+      "bytes": 384038,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bebeto-apple-sour-sticks-30g/s/924564",
+      "filename": "Grocery-Shop-16.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "هاريبو جيلى شكل دبة 80 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haribo-goldbears-fruit-flavour-jelly-candy-80g/s/904368",
+      "filename": "هاريبو-جيلى-شكل-دبة-80-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698060c17754e3bab20cd7d8.jpg?size=520",
+      "bytes": 817212,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bebeto-mixed-fruit-sour-sticks-30g/s/924566",
+      "filename": "Grocery-Shop-18.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "بيبيتو كاندي دب 35 غ",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bebeto-bears-gummy-candy-35g/s/905476",
+      "filename": "بيبيتو-كاندي-دب-35-غ.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b08a660d55d23ff1d5135.JPG?size=520",
+      "bytes": 852219,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ترايدنت علكة بنكهة الخوخ والبطيخ، خالية من السكر، 7 قطع - 13.5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/trident-watermelon-peach-sugar-free-chewing-gums-7-pieces-135g/s/935186",
+      "filename": "ترايدنت-علكة-بنكهة-الخوخ-والبطيخ،-خالية-من-السكر،-7-قطع-13-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f8b54493090c6dc82c5f55.JPG?size=520",
+      "bytes": 566797,
+      "dimensions": [
+        520,
+        278
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ترايدنت علكة بنكهة الفراولة خالية من السكر - 7 قطع، 13.5 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/trident-strawberry-sugar-free-chewing-gum-7-pieces-135g/s/934566",
+      "filename": "ترايدنت-علكة-بنكهة-الفراولة-خالية-من-السكر-7-قطع،-13-5-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d27f0c9e88c5318a606caa.JPG?size=520",
+      "bytes": 558919,
+      "dimensions": [
+        520,
+        293
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/bebeto-watermelon-sour-sticks-30g/s/924565",
+      "filename": "Grocery-Shop-22.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:13:30Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
