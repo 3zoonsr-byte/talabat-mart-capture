@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__sauces-pastes",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/sauces-pastes",
+  "output_dir": "/home/z/my-project/output/cooking-baking__sauces-pastes",
+  "started_at": "2026-07-17T18:15:44Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/sauces-pastes",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "هاينز معجون طماطم مركز، 360 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-concentrated-tomato-paste-360g/s/902205",
+      "filename": "هاينز-معجون-طماطم-مركز،-360-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/4d26a966-82ae-4577-9d94-49b1da5f1cfc.jpeg?size=520",
+      "bytes": 472687,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جهينة صلصة معجون طماطم 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-tomato-puree-500ml/s/900921",
+      "filename": "جهينة-صلصة-معجون-طماطم-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222014335662.JPG?size=520",
+      "bytes": 747856,
+      "dimensions": [
+        307,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "وادي فود صلصة طماطم - 360 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-tomato-sauce-360g/s/907894",
+      "filename": "وادي-فود-صلصة-طماطم-360-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b2f8c02f5b1ec8dddd9.png?size=520",
+      "bytes": 410045,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات معجون طماطم، جرة زجاجية، 360 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-tomato-paste-glass-jar-360g/s/932358",
+      "filename": "طلبات-معجون-طماطم،-جرة-زجاجية،-360-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6864f0486744cdafc8d67137.png?size=520",
+      "bytes": 291764,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "هاينز صلصه طماطم تتراباك 135 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-tomato-paste-tetra-135g/s/909372",
+      "filename": "هاينز-صلصه-طماطم-تتراباك-135-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6221033111110.JPG?size=520",
+      "bytes": 488515,
+      "dimensions": [
+        339,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "هارفست صلصة طماطم صفيح 375 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-tomato-paste-375-gm/s/902187",
+      "filename": "هارفست-صلصة-طماطم-صفيح-375-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001060895.JPG?size=520",
+      "bytes": 554087,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "صلصة بيتزا هاينز 350 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/heinz-pizza-sauce-350g/s/902223",
+      "filename": "صلصة-بيتزا-هاينز-350-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67457a822187538b72929f3c.jpg?size=520",
+      "bytes": 513331,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "هارفست صلصه طماطم برطمان 320 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-tomato-paste-320-gm/s/902185",
+      "filename": "هارفست-صلصه-طماطم-برطمان-320-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001064282.JPG?size=520",
+      "bytes": 698929,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-3altabkha-tomato-sauce-with-salt-black-pepper-360g/s/916157",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "صلصة طماطم طبيعية من كنور",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/knorr-natural-tomato-paste/s/937582",
+      "filename": "صلصة-طماطم-طبيعية-من-كنور.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691070016b4565a3d6e1f9d4.jpg?size=520",
+      "bytes": 658617,
+      "dimensions": [
+        376,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "هارفست صلصة طماطم 800 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/harvest-tomato-paste-800-gm/s/905729",
+      "filename": "هارفست-صلصة-طماطم-800-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/654b6535314227bebc43fd68.jpg?size=520",
+      "bytes": 905203,
+      "dimensions": [
+        431,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-3altabkha-tomato-sauce-with-garlic-italian-herbs-360g/s/916155",
+      "filename": "Grocery-Shop-14.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "صوص طماطم وادي فوود - 320 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wadi-food-tomato-sauce-320g/s/925987",
+      "filename": "صوص-طماطم-وادي-فوود-320-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ae9b308c02f5b1ec8dde0d.png?size=520",
+      "bytes": 637623,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "آد مي معجون طماطم، 300 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/add-me-tomato-paste-300g/s/916180",
+      "filename": "اد-مي-معجون-طماطم،-300-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006050044.jpg?size=520",
+      "bytes": 262203,
+      "dimensions": [
+        430,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "جاردينو صلصة الطماطم 380 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/giardino-tomato-paste-380-gm/s/901832",
+      "filename": "جاردينو-صلصة-الطماطم-380-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007719145.jpg?size=520",
+      "bytes": 623703,
+      "dimensions": [
+        381,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "جاردينو صلصة 300جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/giardino-tomato-paste-jar-300g/s/938931",
+      "filename": "جاردينو-صلصة-300جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a032c0a7dafe6087cbf6252.png?size=520",
+      "bytes": 536346,
+      "dimensions": [
+        314,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "جاردينو صلصة طماطم 360 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/giardino-tomato-paste-360-gm/s/905608",
+      "filename": "جاردينو-صلصة-طماطم-360-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69577f6ad988c7aff90bec7b.png?size=520",
+      "bytes": 444577,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "جاردينو صلصة الطماطم 760 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/giardino-tomato-paste-760-gm/s/901830",
+      "filename": "جاردينو-صلصة-الطماطم-760-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007719152.jpg?size=520",
+      "bytes": 651258,
+      "dimensions": [
+        381,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "لايمز جاردنز طماطم مجففة مدخنة 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/limes-gardens-smoked-sundried-tomatoes-300g/s/932149",
+      "filename": "لايمز-جاردنز-طماطم-مجففة-مدخنة-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69824dcce8f7ec4a9afa35d0.png?size=520",
+      "bytes": 538884,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "بويدور صلصة معكرونة بالحبق 360 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/puidor-pasta-sauce-basil-360g/s/905666",
+      "filename": "بويدور-صلصة-معكرونة-بالحبق-360-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_5281010940547.JPG?size=520",
+      "bytes": 518021,
+      "dimensions": [
+        341,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:19:23Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
