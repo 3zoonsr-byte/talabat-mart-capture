@@ -1,0 +1,134 @@
+{
+  "category": "canned-jarred__canned-meat",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/canned-jarred/canned-meat",
+  "output_dir": "/home/z/my-project/output/canned-jarred__canned-meat",
+  "started_at": "2026-07-17T18:31:25Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/canned-jarred/canned-meat",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "أمريكانا لحم بقري مملح 340 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americanabeefycorned-beef-340g/s/936436",
+      "filename": "امريكانا-لحم-بقري-مملح-340-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694d037e3290c433c47a0467.png?size=520",
+      "bytes": 524702,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "أمريكانا بيفي بيف كوكتيل سجق 330 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americanabeefybeef-cocktail-sausages-330g/s/936435",
+      "filename": "امريكانا-بيفي-بيف-كوكتيل-سجق-330-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694d037e3290c433c47a0464.png?size=520",
+      "bytes": 563678,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أمريكانا بيفي هوت دوج لحم بقري 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americanabeefybeef-hot-dog-400g/s/936438",
+      "filename": "امريكانا-بيفي-هوت-دوج-لحم-بقري-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c6ae8a05062825c0c2a3b1.png?size=520",
+      "bytes": 549534,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أمريكانا هوت دوج دجاج  400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americanabeefychicken-hot-dog-400g/s/936437",
+      "filename": "امريكانا-هوت-دوج-دجاج-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/694d037e3290c433c47a0465.png?size=520",
+      "bytes": 546576,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "نقانق كوكتيل الدجاج واللحم البقري من أمريكانا، 330 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-beefy-chicken-cocktail-sausages-330g/s/906125",
+      "filename": "نقانق-كوكتيل-الدجاج-واللحم-البقري-من-امريكانا،-330-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000580172.JPG?size=520",
+      "bytes": 613331,
+      "dimensions": [
+        330,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "أمريكانا بيفي  حواوشي لحم، 340 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-beefy-hawawshi-meat-340g/s/939377",
+      "filename": "امريكانا-بيفي-حواوشي-لحم،-340-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a321ca4b9c3e80b7fa66141.jpg?size=520",
+      "bytes": 430115,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:33:02Z",
+  "captured": 8,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 9
+}
