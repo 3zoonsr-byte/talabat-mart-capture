@@ -1,0 +1,330 @@
+{
+  "category": "canned-jarred__canned-seafood",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/canned-jarred/canned-seafood",
+  "output_dir": "/home/z/my-project/output/canned-jarred__canned-seafood",
+  "started_at": "2026-07-17T18:19:24Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/canned-jarred/canned-seafood",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "صن شاين تونة قطعة واحدة سهلة الفتح 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-one-piece-tuna-easy-open-200-gm/s/900454",
+      "filename": "صن-شاين-تونة-قطعة-واحدة-سهلة-الفتح-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000717455.JPG?size=520",
+      "bytes": 296193,
+      "dimensions": [
+        520,
+        308
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "صن شاين تونة قطع سهلة الفتح  185 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-tuna-chunks-185g/s/900455",
+      "filename": "صن-شاين-تونة-قطع-سهلة-الفتح-185-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000717431.JPG?size=520",
+      "bytes": 289029,
+      "dimensions": [
+        520,
+        308
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "دولفين تونة قطع سهلة الفتح 140 جم + 10 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-chunks-easy-open-140-gm-10-gm/s/904815",
+      "filename": "دولفين-تونة-قطع-سهلة-الفتح-140-جم-10-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000529048.JPG?size=520",
+      "bytes": 867950,
+      "dimensions": [
+        520,
+        447
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "دولفين تونه شرائح مدخن 170 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-sliced-smoked-170-gm/s/909609",
+      "filename": "دولفين-تونه-شرائح-مدخن-170-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009352401.JPG?size=520",
+      "bytes": 430021,
+      "dimensions": [
+        520,
+        347
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "صن شاين تونة مفتتة سهلة الفتح 185 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-shredded-tuna-185g/s/900458",
+      "filename": "صن-شاين-تونة-مفتتة-سهلة-الفتح-185-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000710050.JPG?size=520",
+      "bytes": 273730,
+      "dimensions": [
+        520,
+        308
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "صن شاين إكسبريس قطع تونة سهلة الفتح، 150 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-express-tuna-chunk-easy-open-150g/s/919748",
+      "filename": "صن-شاين-اكسبريس-قطع-تونة-سهلة-الفتح،-150-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9f0d12867bb0a7c8477a.png?size=520",
+      "bytes": 514660,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "دولفين تونه فصوص ساده سهلة الفتح 185جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-fosous-easy-open-170-gm/s/904811",
+      "filename": "دولفين-تونه-فصوص-ساده-سهلة-الفتح-185جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000529222.JPG?size=520",
+      "bytes": 652491,
+      "dimensions": [
+        520,
+        378
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "دولفين تونة قطعة واحدة حار سهلة الفتح 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-one-piece-spicy-easy-open-200g/s/926967",
+      "filename": "دولفين-تونة-قطعة-واحدة-حار-سهلة-الفتح-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Netscribe%20Images%28don%27t%20touch%29/Front%20Images/6224000529888.jpg?size=520",
+      "bytes": 720615,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "صن شاين تونة اكسبريس مفتت 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-express-shredded-tuna-150g/s/900463",
+      "filename": "صن-شاين-تونة-اكسبريس-مفتت-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000710807.JPG?size=520",
+      "bytes": 279470,
+      "dimensions": [
+        520,
+        308
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "اكسبريس تونة قطعه واحدة سهلة فتح 160جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-express-tuna-solid-160g/s/919747",
+      "filename": "اكسبريس-تونة-قطعه-واحدة-سهلة-فتح-160جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689d9ee712867bb0a7c84775.png?size=520",
+      "bytes": 506453,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دولفين تونه مفتته سهلة الفتح حار 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-shredded-spicy-easy-open-200g/s/926968",
+      "filename": "دولفين-تونه-مفتته-سهلة-الفتح-حار-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/beit/6224009352449.jpg?size=520",
+      "bytes": 297859,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "دولفين تونة قطع حار سهله الفتح 170 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-chunks-spicy-easy-open-170-gm/s/904814",
+      "filename": "دولفين-تونة-قطع-حار-سهله-الفتح-170-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000529086.JPG?size=520",
+      "bytes": 495863,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "دولفين تونة مفتته حار سهله الفتح 200 جم * 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dolphin-tuna-shredded-spicy-easy-open-200-gm-4-pcs/s/906788",
+      "filename": "دولفين-تونة-مفتته-حار-سهله-الفتح-200-جم-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61d3f5b20680b55612f1ae74.jpg?size=520",
+      "bytes": 794715,
+      "dimensions": [
+        520,
+        340
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "صن شاين تونة مبشورة حارة، 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-tuna-shredded-spicy-150g/s/919751",
+      "filename": "صن-شاين-تونة-مبشورة-حارة،-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689da008e1d94c17ddd2cb91.png?size=520",
+      "bytes": 364715,
+      "dimensions": [
+        520,
+        519
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "امريكانا تونة مفتتة حار فى زيت نباتى 140جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/americana-tuna-spicy-shredded-140gm/s/912214",
+      "filename": "امريكانا-تونة-مفتتة-حار-فى-زيت-نباتى-140جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_32894077035.JPG?size=520",
+      "bytes": 688952,
+      "dimensions": [
+        520,
+        393
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "صن شاين قطع تونة سهلة الفتح",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-tuna-chunk-easy-open/s/925865",
+      "filename": "صن-شاين-قطع-تونة-سهلة-الفتح.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/Egypt/6223000711149.jpeg?size=520",
+      "bytes": 729538,
+      "dimensions": [
+        520,
+        421
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "صن شاين ماكريل 145 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/sunshine-mackerel-145g/s/900467",
+      "filename": "صن-شاين-ماكريل-145-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Images/Lulu/1094930-1.jpg?size=520",
+      "bytes": 319509,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "حدائق كاليفورنيا تونة بالفلفل والليمون 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-garden-tuna-with-pepper-lemon-120-g/s/903102",
+      "filename": "حدائق-كاليفورنيا-تونة-بالفلفل-والليمون-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_032894015112.JPG?size=520",
+      "bytes": 707779,
+      "dimensions": [
+        520,
+        298
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دريا تونة قطعة 140 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/daria-tuna-chunks-140g/s/936178",
+      "filename": "دريا-تونة-قطعة-140-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/693e668123871ca25090b99d.jpeg?size=520",
+      "bytes": 306937,
+      "dimensions": [
+        520,
+        437
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "تونة كاليفورنيا شرائح مدخنة 120 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/california-tuna-smoked-slices-120-g/s/903103",
+      "filename": "تونة-كاليفورنيا-شرائح-مدخنة-120-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687ba81663f3b2a164cb9783.jpg?size=520",
+      "bytes": 501658,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:22:55Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
