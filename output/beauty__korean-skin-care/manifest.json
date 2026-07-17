@@ -1,0 +1,330 @@
+{
+  "category": "beauty__korean-skin-care",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beauty/korean-skin-care",
+  "output_dir": "/home/z/my-project/output/beauty__korean-skin-care",
+  "started_at": "2026-07-17T18:43:49Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beauty/korean-skin-care",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إسنتري حمض الهيالورونيك تونر مجدد 200 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/isntree-hyaluronic-acid-toner-renewed-200ml/s/931907",
+      "filename": "اسنتري-حمض-الهيالورونيك-تونر-مجدد-200-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/f085f483-3ee8-44ba-8a3f-462b8cb83488.jpg?size=520",
+      "bytes": 263548,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كوزراكس كريم الحلزون المتطور 92 الكل في واحد – 100جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-advanced-snail-92-all-in-one-cream-100g/s/933350",
+      "filename": "كوزراكس-كريم-الحلزون-المتطور-92-الكل-في-واحد-100جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/d243471b-1d6a-4525-8f76-ca149e31d73a.jpg?size=520",
+      "bytes": 293635,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كوزآركس سيروم النياسيناميد 15، 20 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-the-niacinamide-15-serum-20ml/s/934850",
+      "filename": "كوزاركس-سيروم-النياسيناميد-15،-20-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6e5b636c-2f28-40d8-bb24-52d09e42021f.jpg?size=520",
+      "bytes": 274019,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "سيروم كوسركس ريتينول 0.1 للوجه لعلاج الخطوط الدقيقة، 20 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-the-retinol-01-cream-20ml/s/931547",
+      "filename": "سيروم-كوسركس-ريتينول-0-1-للوجه-لعلاج-الخطوط-الدقيقة،-20-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/8d92bb78-6a84-4579-bd3b-1d8ab6effa98.jpg?size=520",
+      "bytes": 252999,
+      "dimensions": [
+        426,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كوسركس سيروم للوجه سيروم فيتامين سي ٢٣٪ للخطوط الدقيقة ٢٠ جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-the-vitamin-c-23-serum-20g/s/931550",
+      "filename": "كوسركس-سيروم-للوجه-سيروم-فيتامين-سي-٢٣٪-للخطوط-الدقيقة-٢٠-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/e500015b-4997-4e16-88bf-d3381f92eaf4.jpg?size=520",
+      "bytes": 199931,
+      "dimensions": [
+        299,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كوسركس تونر الوجه بيور فيت سيكا-7 بخلاصة سنتيلا أسياتيكا، 150 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-pure-fit-cica-7-face-toner-with-cantella-asiatica-extracts-150ml/s/934849",
+      "filename": "كوسركس-تونر-الوجه-بيور-فيت-سيكا-7-بخلاصة-سنتيلا-اسياتيكا،-150-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0eec3ca1ccf50532370e2e.png?size=520",
+      "bytes": 178605,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "كوسركس كريم بيور فيت سيكا، 50 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-pure-fit-cica-7-face-cream-with-cantella-asiatica-extracts-50ml/s/934854",
+      "filename": "كوسركس-كريم-بيور-فيت-سيكا،-50-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0eea5eb41615e870a371b0.png?size=520",
+      "bytes": 118589,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كوسركس كريم ريتينول 0.3، 20 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cosrx-the-retinol-03-cream-20ml/s/932320",
+      "filename": "كوسركس-كريم-ريتينول-0-3،-20-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0f5bc13d3e80cd85d57147.png?size=520",
+      "bytes": 90164,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "فينو بريميوم تاتش بلسم مع سيروم الجمال، 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fino-premium-touch-conditioner-with-beauty-serum-550ml/s/936943",
+      "filename": "فينو-بريميوم-تاتش-بلسم-مع-سيروم-الجمال،-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69fc9bc342c4f16da4c46b20.JPG?size=520",
+      "bytes": 198592,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ميديكيوب قناع التغليف الليلي بالكولاجين 75 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-collagen-night-wrapping-mask-75ml/s/931909",
+      "filename": "ميديكيوب-قناع-التغليف-الليلي-بالكولاجين-75-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/0142cf14-7cd5-42f2-ae24-329c73ddcd17.jpg?size=520",
+      "bytes": 397396,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ميديكيوب قناع ليلي بحمض الكوجيك والكركم 75 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-kojic-acid-turmeric-night-wrapping-mask-75ml/s/934824",
+      "filename": "ميديكيوب-قناع-ليلي-بحمض-الكوجيك-والكركم-75-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/bb97ff53-d8cb-4fdf-9990-d9afcf9063fe.jpg?size=520",
+      "bytes": 480815,
+      "dimensions": [
+        458,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ميديكيوب قناع الكولاجين والحليب – 75مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-collagen-milk-toning-wrapping-mask-75ml/s/937189",
+      "filename": "ميديكيوب-قناع-الكولاجين-والحليب-75مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6979cbbf7c1447c33803ec66.jpg?size=520",
+      "bytes": 349797,
+      "dimensions": [
+        390,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ميديكيوب كريم كبسولات TXA نياسيناميد 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-txa-niacinamide-capsule-cream-55g/s/937188",
+      "filename": "ميديكيوب-كريم-كبسولات-TXA-نياسيناميد-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6924964a2f59151ac8dd4e0f.jpg?size=520",
+      "bytes": 312625,
+      "dimensions": [
+        520,
+        442
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ميديكيوب بي دي آر إن سيروم بينك كولاجين بابل 95 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-pdrn-pink-collagen-bubble-serum-95ml/s/937192",
+      "filename": "ميديكيوب-بي-دي-ار-ان-سيروم-بينك-كولاجين-بابل-95-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698db52aff7001f287ed5a32.JPG?size=520",
+      "bytes": 455310,
+      "dimensions": [
+        455,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ميديكوب – سيروم الكركم والكوجيك مع نياكيناميد 30مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-kojic-acid-turmeric-niacinamide-serum-30ml/s/937186",
+      "filename": "ميديكوب-سيروم-الكركم-والكوجيك-مع-نياكيناميد-30مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690c6557f7b703de6614d423.jpg?size=520",
+      "bytes": 320819,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "كريم ميديكوبي الأحمر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-red-cream-50ml/s/937195",
+      "filename": "كريم-ميديكوبي-الاحمر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67c9736b50b6c107df145764.jpg?size=520",
+      "bytes": 134235,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ميديكيوب كريم كبسولات فيتا سي العميق 55 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-deep-vita-c-capsule-cream-55g/s/931910",
+      "filename": "ميديكيوب-كريم-كبسولات-فيتا-سي-العميق-55-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/817b2f33-7e80-4e3a-93c6-2308cb505af2.jpg?size=520",
+      "bytes": 367197,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ميديكيوب زيرو بور سيروم الوجه لعلاج المسام، 37 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-zero-pore-facial-serum-37ml/s/934817",
+      "filename": "ميديكيوب-زيرو-بور-سيروم-الوجه-لعلاج-المسام،-37-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6d3067d8-50c6-46e2-b27a-2f9e849c14c2.jpg?size=520",
+      "bytes": 257292,
+      "dimensions": [
+        359,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ميديكيوب سيروم المضاد للشيخوخة للوجه، سيروم فيتا أ ريتينول العميق، 30 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-anti-aging-facial-serum-deep-vita-a-retinol-serum-30ml/s/931566",
+      "filename": "ميديكيوب-سيروم-المضاد-للشيخوخة-للوجه،-سيروم-فيتا-ا-ريتينول-العميق،-30-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/f233c62c-a29e-4f87-8936-cd2f3f46a263.jpg?size=520",
+      "bytes": 220167,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ميديكيوب سيروم الكولاجين الثلاثي  55 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/medicube-triple-collagen-serum-55ml/s/931571",
+      "filename": "ميديكيوب-سيروم-الكولاجين-الثلاثي-55-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/18164bd1-7f72-4558-b7ab-f5f4683335de.jpg?size=520",
+      "bytes": 275295,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:47:23Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
