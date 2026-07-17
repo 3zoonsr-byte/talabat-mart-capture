@@ -1,0 +1,246 @@
+{
+  "category": "ready-to-eat__snacks-desserts",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/ready-to-eat/snacks-desserts",
+  "output_dir": "/home/z/my-project/output/ready-to-eat__snacks-desserts",
+  "started_at": "2026-07-17T13:40:34Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/ready-to-eat/snacks-desserts",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كاتشينو فطيرة 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-feteer-1-piece/s/930742",
+      "filename": "كاتشينو-فطيرة-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67fcc6c3bd978c266c500fd1.JPG?size=520",
+      "bytes": 496903,
+      "dimensions": [
+        520,
+        454
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كاتشينو  براونيز فادج فرنسي 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-fudgy-french-brownies-1-piece/s/921453",
+      "filename": "كاتشينو-براونيز-فادج-فرنسي-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001831761.JPG?size=520",
+      "bytes": 463090,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كاتشينو سولتد كراميل ريد فيلفيت مجمد 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-frozen-salted-caramel-red-velvet-1-piece/s/929018",
+      "filename": "كاتشينو-سولتد-كراميل-ريد-فيلفيت-مجمد-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6909b052c1d89435cf19cdce.JPG?size=520",
+      "bytes": 165866,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "كاتشينو بروفيترول شوكولاتة بيضاء مجمد 1 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katchino-frozen-white-chocolate-profiterole-1-piece/s/929019",
+      "filename": "كاتشينو-بروفيترول-شوكولاتة-بيضاء-مجمد-1-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6909b052c1d89435cf19cdd1.JPG?size=520",
+      "bytes": 143976,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ديجز كعكة كوكيز لافا ، 170 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-cookie-lava-cake-170g/s/922063",
+      "filename": "ديجز-كعكة-كوكيز-لافا-،-170-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745000205.JPG?size=520",
+      "bytes": 225878,
+      "dimensions": [
+        520,
+        364
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ديجز براوني دابل فادج ، 140 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-double-fudge-brownie-140g/s/922062",
+      "filename": "ديجز-براوني-دابل-فادج-،-140-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69c6ae7c05062825c0c29f9a.png?size=520",
+      "bytes": 519995,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ديجز كعكة مولتن ، 140 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-molten-cake-140g/s/922064",
+      "filename": "ديجز-كعكة-مولتن-،-140-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f2ca988887e57124dbf9c.jpg?size=520",
+      "bytes": 217524,
+      "dimensions": [
+        520,
+        364
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ديجز عجينة كوكيز شوكو تشيب، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-choco-chip-cookie-dough-250g/s/922066",
+      "filename": "ديجز-عجينة-كوكيز-شوكو-تشيب،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745000175.JPG?size=520",
+      "bytes": 241771,
+      "dimensions": [
+        520,
+        364
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "وندر تيراميسو كيك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wunder-tiramisu-cake/s/926871",
+      "filename": "وندر-تيراميسو-كيك.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66dd9f148436984011e6e7bf.JPG?size=520",
+      "bytes": 194570,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "وندر تشيز كيك التوت الأزرق",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/wunder-blueberry-cheesecake/s/926873",
+      "filename": "وندر-تشيز-كيك-التوت-الازرق.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66dd9f158436984011e6e7c3.JPG?size=520",
+      "bytes": 177354,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ديجز كرامبل التفاح ، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-apple-crumble-250g/s/922065",
+      "filename": "ديجز-كرامبل-التفاح-،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745000168.JPG?size=520",
+      "bytes": 217686,
+      "dimensions": [
+        520,
+        364
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ديجز ساندويتش تشيز كيك الفراولة ، 170 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-strawberry-cheesecake-sandwich-170g/s/922061",
+      "filename": "ديجز-ساندويتش-تشيز-كيك-الفراولة-،-170-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_735745000212.JPG?size=520",
+      "bytes": 217837,
+      "dimensions": [
+        520,
+        364
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ديجز ساندويتش تشيز كيك التوت ، 170 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/digs-rasberry-cheesecake-sandwich-170g/s/922060",
+      "filename": "ديجز-ساندويتش-تشيز-كيك-التوت-،-170-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/673f2ca788887e57124dbf6e.jpg?size=520",
+      "bytes": 217532,
+      "dimensions": [
+        520,
+        364
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فيليشس براونيز البطاطا  بالخضروات والفاكهه المخفية 125 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/v-licious-sweet-potato-brownies-with-hidden-veggies-fruits-125g/s/920731",
+      "filename": "فيليشس-براونيز-البطاطا-بالخضروات-والفاكهه-المخفية-125-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_805424687200101.JPG?size=520",
+      "bytes": 401821,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:43:31Z",
+  "captured": 16,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 17
+}
