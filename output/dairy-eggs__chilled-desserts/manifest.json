@@ -1,0 +1,232 @@
+{
+  "category": "dairy-eggs__chilled-desserts",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/dairy-eggs/chilled-desserts",
+  "output_dir": "/home/z/my-project/output/dairy-eggs__chilled-desserts",
+  "started_at": "2026-07-17T14:50:49Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/dairy-eggs/chilled-desserts",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "المراعي تريتس بودينج شوكولاتة 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-chocolate-pudding-100g/s/936015",
+      "filename": "المراعي-تريتس-بودينج-شوكولاتة-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6928154fb7d05129746dd550.png?size=520",
+      "bytes": 555590,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "المراعي تريتس بودينج كراميل 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-treats-caramel-pudding-100g/s/936016",
+      "filename": "المراعي-تريتس-بودينج-كراميل-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6928154fb7d05129746dd553.png?size=520",
+      "bytes": 557478,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "جهينة بودينج كراميل، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-caramel-pudding-100g/s/928174",
+      "filename": "جهينة-بودينج-كراميل،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0d4fcde580ecea900b04a.jpg?size=520",
+      "bytes": 326780,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "دانيت شيكولاته 85 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/danette-chocolate-pudding-dessert-85g/s/934559",
+      "filename": "دانيت-شيكولاته-85-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d3d464ec1365585639e4f2.jpg?size=520",
+      "bytes": 574645,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "جهينه بريميوم بودينج قهوة فرابيه ١٥٠ جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-premium-pudding-coffee-frappe-150g/s/931880",
+      "filename": "جهينه-بريميوم-بودينج-قهوة-فرابيه-١٥٠-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68e61f975e46c0e73b4304bf.jpg?size=520",
+      "bytes": 276969,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "الأصدقاء أرز باللبن، 120 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-rice-pudding-120g/s/916276",
+      "filename": "الاصدقاء-ارز-باللبن،-120-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000287955.JPG?size=520",
+      "bytes": 169132,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الأصدقاء موس شوكولاتة، 110 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-chocolate-mousse-110g/s/916279",
+      "filename": "الاصدقاء-موس-شوكولاتة،-110-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000287276.jpg?size=520",
+      "bytes": 218120,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "الأصدقاء مهلبية، 220 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-asdekaa-mehalabia-220g/s/916280",
+      "filename": "الاصدقاء-مهلبية،-220-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687144e68b6ae261425ec5ff.jpg?size=520",
+      "bytes": 413902,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مزيج قهوة كريم كراميل من إيفري داي روستري - كامل الدسم - علبة ٥٥٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-full-cream-crme-caramel-coffee-blend-can-550ml/s/300928",
+      "filename": "مزيج-قهوة-كريم-كراميل-من-ايفري-داي-روستري-كامل-الدسم-علبة-٥٥٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698c79a1f863302dbdb81f8a.png?size=520",
+      "bytes": 434550,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "دانيت فانيلا 85 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/danette-vanilla-pudding-dessert-85g/s/934560",
+      "filename": "دانيت-فانيلا-85-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d3d464ec1365585639e4f1.jpg?size=520",
+      "bytes": 522145,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "دانيت كراميل 85 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/danette-caramel-pudding-dessert-85g/s/934561",
+      "filename": "دانيت-كراميل-85-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d3d464ec1365585639e4f3.jpg?size=520",
+      "bytes": 578073,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "دانيت شيكولاتة 85ج *6",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/danette-chocolate-pudding-dessert-6x85g/s/934557",
+      "filename": "دانيت-شيكولاتة-85ج-6.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d3d88cec136558563a951f.jpg?size=520",
+      "bytes": 409465,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "مزيج قهوة كريم كراميل من إيفري داي روستري - خالي الدسم - علبة ٥٥٠ مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-skimmed-milk-crme-caramel-coffee-blend-can-550ml/s/300929",
+      "filename": "مزيج-قهوة-كريم-كراميل-من-ايفري-داي-روستري-خالي-الدسم-علبة-٥٥٠-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/698c79b0f863302dbdb81f8b.png?size=520",
+      "bytes": 434550,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:53:33Z",
+  "captured": 15,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 16
+}
