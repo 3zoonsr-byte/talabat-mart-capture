@@ -1,0 +1,330 @@
+{
+  "category": "dairy-eggs__eggs",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/dairy-eggs/eggs",
+  "output_dir": "/home/z/my-project/output/dairy-eggs__eggs",
+  "started_at": "2026-07-17T14:34:33Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/dairy-eggs/eggs",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات بيض مائدة طازج أبيض، كبير، 30 بيضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fresh-white-table-eggs-large-30-eggs/s/933580",
+      "filename": "طلبات-بيض-مائدة-طازج-ابيض،-كبير،-30-بيضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68984c574fd58e7c223c1df2.png?size=520",
+      "bytes": 595996,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات بيض مائدة طازج بني، كبير، 30 بيضة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fresh-brown-table-eggs-large-30-eggs/s/933583",
+      "filename": "طلبات-بيض-مائدة-طازج-بني،-كبير،-30-بيضة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68984c574fd58e7c223c1df5.png?size=520",
+      "bytes": 628555,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أورجانيك بيض ابيض 30 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-white-eggs-30-pieces/s/901485",
+      "filename": "اورجانيك-بيض-ابيض-30-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6208e72d84add388a1ebf032.jpg?size=520",
+      "bytes": 375395,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أورجانيك بيض احمر 30 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-red-eggs-30-pieces/s/901486",
+      "filename": "اورجانيك-بيض-احمر-30-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6214a26a812a30ac5d13ec98.jpg?size=520",
+      "bytes": 720300,
+      "dimensions": [
+        520,
+        486
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "الريف المصري بيض ابيض 30 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-white-eggs-30-pieces/s/929911",
+      "filename": "الريف-المصري-بيض-ابيض-30-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bc904b1f7a53d6e55a7ad7.JPG?size=520",
+      "bytes": 620237,
+      "dimensions": [
+        520,
+        484
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "أورجانيك بيض احمر 10 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-red-eggs-10/s/901492",
+      "filename": "اورجانيك-بيض-احمر-10-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6208e60684add388a1ebef7e.jpg?size=520",
+      "bytes": 252154,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أورجانيك بيض ابيض 10 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-white-eggs-10-pieces/s/901491",
+      "filename": "اورجانيك-بيض-ابيض-10-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6208e63584add388a1ebef7f.jpg?size=520",
+      "bytes": 278151,
+      "dimensions": [
+        520,
+        346
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "البيضة السعيدة بيض ابيض 30 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/happy-egg-white-eggs-30-pieces/s/920487",
+      "filename": "البيضة-السعيدة-بيض-ابيض-30-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007775059.JPG?size=520",
+      "bytes": 611503,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "أورجانيك بيض بلدى 10 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-baladi-eggs-10/s/901493",
+      "filename": "اورجانيك-بيض-بلدى-10-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6229d6de4e250347c64a5662.jpg?size=520",
+      "bytes": 340679,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "أورجانيك بيض احمر 15 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-red-eggs-15-pieces/s/901489",
+      "filename": "اورجانيك-بيض-احمر-15-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681dc7a3b4f2d4f7a71976fc.JPG?size=520",
+      "bytes": 412389,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "أورجانيك بيض ابيض 15 بيضه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/organic-white-eggs-15-pieces/s/901488",
+      "filename": "اورجانيك-بيض-ابيض-15-بيضه.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681dc771b4f2d4f7a71976c8.JPG?size=520",
+      "bytes": 416513,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "الريف المصري بيض احمر 30 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-red-eggs-30-pieces/s/929916",
+      "filename": "الريف-المصري-بيض-احمر-30-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bc902e999ae043d182403e.JPG?size=520",
+      "bytes": 615696,
+      "dimensions": [
+        520,
+        448
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "الريف المصري بيض بلدى 15قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-baladi-eggs-15-pieces/s/929919",
+      "filename": "الريف-المصري-بيض-بلدى-15قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837ed98b4d17c9361acbd0.jpg?size=520",
+      "bytes": 377424,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "الريف المصري بيض احمر 15 قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-red-eggs-15-pieces/s/929914",
+      "filename": "الريف-المصري-بيض-احمر-15-قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Egypt/1134243-1.jpg?size=520",
+      "bytes": 511343,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "الريف المصري بيض ابيض 15قطعة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-white-eggs-15-pieces/s/929909",
+      "filename": "الريف-المصري-بيض-ابيض-15قطعة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Egypt/1134242-1.jpg?size=520",
+      "bytes": 371392,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "الريف المصري بيض احمر 10قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-red-eggs-10-pieces/s/929913",
+      "filename": "الريف-المصري-بيض-احمر-10قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837ed98b4d17c9361acbd3.jpg?size=520",
+      "bytes": 374728,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "الريف المصري بيض بلدى 10قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-baladi-eggs-10-pieces/s/929918",
+      "filename": "الريف-المصري-بيض-بلدى-10قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Egypt/1134241-1.jpg?size=520",
+      "bytes": 323715,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "الريف المصري بيض ابيض 10 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-white-eggs-10-pieces/s/929908",
+      "filename": "الريف-المصري-بيض-ابيض-10-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Egypt/1134239-1.jpg?size=520",
+      "bytes": 326396,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "الريف المصري بيض احمر 6قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-red-eggs-6-pieces/s/929912",
+      "filename": "الريف-المصري-بيض-احمر-6قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/lulu%20offer/1224529-1.jpg?size=520",
+      "bytes": 405104,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "الريف المصري بيض ابيض 6 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/alreef-almasry-white-eggs-6-pieces/s/929907",
+      "filename": "الريف-المصري-بيض-ابيض-6-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/lulu%20offer/1224572-01.jpg?size=520",
+      "bytes": 338709,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:38:14Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
