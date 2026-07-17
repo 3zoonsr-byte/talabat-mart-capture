@@ -1,0 +1,246 @@
+{
+  "category": "beverages__syrups",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/syrups",
+  "output_dir": "/home/z/my-project/output/beverages__syrups",
+  "started_at": "2026-07-17T15:32:19Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/syrups",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ماجيك مومنت شراب كراميل 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/magic-moments-caramel-syrup-700g/s/906960",
+      "filename": "ماجيك-مومنت-شراب-كراميل-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a47a4494c67a25a8881f93a.jpg?size=520",
+      "bytes": 448237,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "مونين شراب فانيليا خالي من السكر  250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-sugar-free-vanilla-syrup-250ml/s/911785",
+      "filename": "مونين-شراب-فانيليا-خالي-من-السكر-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a5600519c497482e1c57932.jpg?size=520",
+      "bytes": 228729,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "مونين شراب كراميل 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-caramel-syrup-250ml/s/911780",
+      "filename": "مونين-شراب-كراميل-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a5600519c497482e1c5792e.jpg?size=520",
+      "bytes": 221337,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "مونين شراب كراميل خالي من السكر 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-sugar-free-caramel-syrup-250ml/s/911783",
+      "filename": "مونين-شراب-كراميل-خالي-من-السكر-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a5600519c497482e1c5792f.jpg?size=520",
+      "bytes": 232437,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مونين شراب بلو كوراساو، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-blue-curacao-syrup-250ml/s/932277",
+      "filename": "مونين-شراب-بلو-كوراساو،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a5600529c497482e1c57935.jpg?size=520",
+      "bytes": 230950,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "مونين شراب الفانيليا  250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-vanilla-syrup-250ml/s/911786",
+      "filename": "مونين-شراب-الفانيليا-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a5600519c497482e1c57931.jpg?size=520",
+      "bytes": 233629,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "مونين شراب موهيتو بالنعناع ، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-mojito-mint-syrup-250ml/s/915883",
+      "filename": "مونين-شراب-موهيتو-بالنعناع-،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/63d149ec9f3823c7705a7cd1.jpg?size=520",
+      "bytes": 371597,
+      "dimensions": [
+        326,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مونين شراب البندق خالي من السكر250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-sugar-free-hazelnut-syrup-250ml/s/911784",
+      "filename": "مونين-شراب-البندق-خالي-من-السكر250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6871498a8b6ae261425f5e8a.jpg?size=520",
+      "bytes": 226970,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مونين شراب كراميل خالي من السكر، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-sugar-free-caramel-syrup-700ml/s/937491",
+      "filename": "مونين-شراب-كراميل-خالي-من-السكر،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699c6b224d9e572bbc58cb49.JPG?size=520",
+      "bytes": 189852,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "مونين شراب الكراميل المملح، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-salted-caramel-syrups-700ml/s/937489",
+      "filename": "مونين-شراب-الكراميل-المملح،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699c6988ac8c590151b56484.JPG?size=520",
+      "bytes": 189361,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "مونين شراب البندق 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-hazelnut-syrup-250ml/s/911782",
+      "filename": "مونين-شراب-البندق-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/groceries-catalog/products/KW_912804.jpg?size=520",
+      "bytes": 363785,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "مونين شراب فانيليا خالي من السكر، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-sugar-free-vanilla-syrup-700ml/s/937493",
+      "filename": "مونين-شراب-فانيليا-خالي-من-السكر،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699c6b224d9e572bbc58cb4a.JPG?size=520",
+      "bytes": 188244,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "مونين شراب توفي نوت، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-toffee-nut-syrup-700ml/s/937490",
+      "filename": "مونين-شراب-توفي-نوت،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699c6b224d9e572bbc58cb48.JPG?size=520",
+      "bytes": 259644,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "مونين شراب بندق خالي من السكر، 700 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monin-sugar-free-hazelnut-syrup-700ml/s/937492",
+      "filename": "مونين-شراب-بندق-خالي-من-السكر،-700-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699c6b224d9e572bbc58cb4b.JPG?size=520",
+      "bytes": 186759,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:35:08Z",
+  "captured": 16,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 17
+}
