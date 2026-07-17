@@ -1,0 +1,330 @@
+{
+  "category": "beverages__sports-energy-drinks",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beverages/sports-energy-drinks",
+  "output_dir": "/home/z/my-project/output/beverages__sports-energy-drinks",
+  "started_at": "2026-07-17T15:24:48Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beverages/sports-energy-drinks",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "مشروب الطاقة ريد بول بنكهة جوز الهند والتوت، 4 × 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-coconut-berry-energy-drink-4x250ml/s/916866",
+      "filename": "مشروب-الطاقة-ريد-بول-بنكهة-جوز-الهند-والتوت،-4-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677fc601a5ad347f29aede19.JPG?size=520",
+      "bytes": 465007,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ريد بُل مشروب الطاقة, 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-energy-drink-250ml/s/903963",
+      "filename": "ريد-بل-مشروب-الطاقة-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691467c5ae547db4c010764b.jpg?size=520",
+      "bytes": 307475,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ريدبل نسخة الصيف بطعم الخوخ الأبيض 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-summer-edition-white-peach-flavor-energy-drink-250ml/s/939098",
+      "filename": "ريدبل-نسخة-الصيف-بطعم-الخوخ-الابيض-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a1481fbb204f5214aeae2f8.png?size=520",
+      "bytes": 403709,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "بيبسي مشروب غازي إكسترا كافيين كانز، 355 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pepsi-extra-caffeine-soft-drink-can-355ml/s/939050",
+      "filename": "بيبسي-مشروب-غازي-اكسترا-كافيين-كانز،-355-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a0df8d7a67be6d6dc700f33.png?size=520",
+      "bytes": 332803,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "ريد بُل مشروب الطاقة, جوز الهند و التوت, 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-coconut-berry-energy-drink-250ml/s/903965",
+      "filename": "ريد-بل-مشروب-الطاقة-جوز-الهند-و-التوت-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677fc5f8a5ad347f29aede04.png?size=520",
+      "bytes": 267446,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "ريد بُل مشروب الطاقة, خالي من السكر, 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-sugar-free-energy-drink-250ml/s/903964",
+      "filename": "ريد-بل-مشروب-الطاقة-خالي-من-السكر-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677fc5f2a5ad347f29aeddd1.png?size=520",
+      "bytes": 314564,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ريد بُل مشروب الطاقة, بطعم الكريز و التوت البري, 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-cherry-wild-berries-energy-drink-250ml/s/932064",
+      "filename": "ريد-بل-مشروب-الطاقة-بطعم-الكريز-و-التوت-البري-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a3f3b067de96759670d2d8.png?size=520",
+      "bytes": 305929,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ريد بُل مشروب الطاقة زيرو 250مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-zero-energy-drink-can-250ml/s/937634",
+      "filename": "ريد-بل-مشروب-الطاقة-زيرو-250مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69a822e10a4d0392f3f47028.jpg?size=520",
+      "bytes": 308092,
+      "dimensions": [
+        520,
+        519
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ريد بُل مشروب الطاقة بتوت الآساي، 250 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-acai-berry-energy-drink-250ml/s/921748",
+      "filename": "ريد-بل-مشروب-الطاقة-بتوت-الاساي،-250-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677fc60aa5ad347f29aede58.png?size=520",
+      "bytes": 381368,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ريد بل مشروب الطاقة 250 مل عبوة عدد 4",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-energy-drink-4x250ml/s/903966",
+      "filename": "ريد-بل-مشروب-الطاقة-250-مل-عبوة-عدد-4.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69fc766f8c2ea49ca76292bd.png?size=520",
+      "bytes": 760939,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monster-mango-loco-energy-drink-500ml/s/925979",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "فوري مشروب طاقة في عبوة بلاستيكية، 400 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fury-energy-drink-pet-bottle-400ml/s/915619",
+      "filename": "فوري-مشروب-طاقة-في-عبوة-بلاستيكية،-400-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a42324fad93b402394a16a4.png?size=520",
+      "bytes": 240383,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "ريد بُل مشروب الطاقة, خالي من السكر, 250مل عبوة من 4",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-energy-drink-sugar-free-4x250ml/s/909837",
+      "filename": "ريد-بل-مشروب-الطاقة-خالي-من-السكر-250مل-عبوة-من-4.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69fc7b5ec1e064cd8313aacb.png?size=520",
+      "bytes": 769021,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monster-ultra-energy-drink-can-500ml/s/925980",
+      "filename": "Grocery-Shop-16.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "مونستر علبة مشروب طاقة، 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/monster-energy-drink-can-500ml/s/918949",
+      "filename": "مونستر-علبة-مشروب-طاقة،-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a3e2736f7633c798fed8953.jpg?size=520",
+      "bytes": 263270,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "إيفري داي روستري اينرجى كوكو لادا تويست - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-coco-lada-twist-550ml/s/300849",
+      "filename": "ايفري-داي-روستري-اينرجى-كوكو-لادا-تويست-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a374.jpg?size=520",
+      "bytes": 506963,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ريد بُل مشروب الطاقة, 250مل عبوة من 12",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/red-bull-energy-drink-12x250ml/s/906979",
+      "filename": "ريد-بل-مشروب-الطاقة-250مل-عبوة-من-12.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68aeebf3c654741e73ef8cd6.jpg?size=520",
+      "bytes": 636579,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "تويست مشروب طاقة، 250 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/twist-energy-drink-250ml/s/929354",
+      "filename": "تويست-مشروب-طاقة،-250-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/679f4536677c3d54a52c067e.JPG?size=520",
+      "bytes": 144288,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "إيفري داي روستري اينرجى بري مانجو ليمون - 550 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-energy-berry-mango-lemon-550ml/s/300853",
+      "filename": "ايفري-داي-روستري-اينرجى-بري-مانجو-ليمون-550-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/690b1c21b30468c802a8a373.jpg?size=520",
+      "bytes": 442856,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إيفري داي روستري اينرجى بيرى بيرى - 500 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-fury-energy-berry-berry-drink-500ml/s/300936",
+      "filename": "ايفري-داي-روستري-اينرجى-بيرى-بيرى-500-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a12e0884d6540a2d5581f06.png?size=520",
+      "bytes": 618894,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T15:28:29Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
