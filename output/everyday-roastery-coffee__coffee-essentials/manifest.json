@@ -1,0 +1,232 @@
+{
+  "category": "everyday-roastery-coffee__coffee-essentials",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/everyday-roastery-coffee/coffee-essentials",
+  "output_dir": "/home/z/my-project/output/everyday-roastery-coffee__coffee-essentials",
+  "started_at": "2026-07-17T13:45:44Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/everyday-roastery-coffee/coffee-essentials",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "إيفري داي روستري كابوتشينو (16 اونزكامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cappuccino-full-cream-16oz/s/300748",
+      "filename": "ايفري-داي-روستري-كابوتشينو-16-اونزكامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e37.jpeg?size=520",
+      "bytes": 177149,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "إيفري داي روستري كابوتشينو (16 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cappuccino-skimmed-milk-16oz/s/300750",
+      "filename": "ايفري-داي-روستري-كابوتشينو-16-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e38.jpeg?size=520",
+      "bytes": 177149,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "إيفري داي روستري لاتيه سخن (16 اونزكامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-latte-hot-full-cream-16oz/s/300756",
+      "filename": "ايفري-داي-روستري-لاتيه-سخن-16-اونزكامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e42.jpeg?size=520",
+      "bytes": 186866,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "إيفري داي روستري فلات وايت (12 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-flat-white-full-cream-12oz/s/300763",
+      "filename": "ايفري-داي-روستري-فلات-وايت-12-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e43.jpeg?size=520",
+      "bytes": 190641,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "إيفري داي روستري فلات وايت (12 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-flat-white-skimmed-milk-12oz/s/300764",
+      "filename": "ايفري-داي-روستري-فلات-وايت-12-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e4c.jpeg?size=520",
+      "bytes": 190641,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "إيفري داي روستري لاتيه سخن (16 اونز خالى الدسم )",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-latte-hot-skimmed-milk-16oz/s/300758",
+      "filename": "ايفري-داي-روستري-لاتيه-سخن-16-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e40.jpeg?size=520",
+      "bytes": 186866,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "إيفري داي روستري امريكانو سخن (12 اونز)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-americano-hot-12oz/s/300751",
+      "filename": "ايفري-داي-روستري-امريكانو-سخن-12-اونز.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e44.jpeg?size=520",
+      "bytes": 160670,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "إيفري داي روستري كابوتشينو (12 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cappuccino-full-cream-12oz/s/300747",
+      "filename": "ايفري-داي-روستري-كابوتشينو-12-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e3b.jpeg?size=520",
+      "bytes": 177149,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "إيفري داي روستري كابوتشينو (12 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cappuccino-skimmed-milk-12oz/s/300749",
+      "filename": "ايفري-داي-روستري-كابوتشينو-12-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e3a.jpeg?size=520",
+      "bytes": 177149,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "إيفري داي روستري لاتيه سخن (12 اونز كامل الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-latte-hot-full-cream-12oz/s/300755",
+      "filename": "ايفري-داي-روستري-لاتيه-سخن-12-اونز-كامل-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e3d.jpeg?size=520",
+      "bytes": 186866,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "إيفري داي روستري لاتيه سخن (12 اونز خالى الدسم)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-latte-hot-skimmed-milk-12oz/s/300757",
+      "filename": "ايفري-داي-روستري-لاتيه-سخن-12-اونز-خالى-الدسم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f0a9994993ba10cee52e3e.jpeg?size=520",
+      "bytes": 186866,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "إيفري داي روستري لاتيه سخن (16 اونزكامل الدسم) + تويكس توين شوكولاتة محشوة 46 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-latte-hot-full-cream-16oz-twix-twin-chocolate-46g/s/4HQ9FB",
+      "filename": "ايفري-داي-روستري-لاتيه-سخن-16-اونزكامل-الدسم-تويكس-توين-شوكولاتة-محشوة-46-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/58325d3c-e774-47e0-8867-a489daa8dc79.jpg?size=520",
+      "bytes": 271765,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "إيفري داي روستري كابوتشينو (16 اونزكامل الدسم) + تويكس توين شوكولاتة محشوة 46 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-cappuccino-full-cream-16oz-twix-twin-chocolate-46g/s/RNTKW5",
+      "filename": "ايفري-داي-روستري-كابوتشينو-16-اونزكامل-الدسم-تويكس-توين-شوكولاتة-محشوة-46-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/03ceae7b-de03-4437-825c-bfed8ba924f1.jpg?size=520",
+      "bytes": 280906,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T13:48:19Z",
+  "captured": 15,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 16
+}
