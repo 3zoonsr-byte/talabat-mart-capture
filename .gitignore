@@ -52,3 +52,14 @@ prompt
 server.log
 # Skills directory
 /skills/
+# Capture output (thousands of PNG screenshots - too large for git)
+/output/
+/download/
+
+# User-uploaded category lists (may contain private data)
+/upload/
+
+# Mini-service runtime artifacts
+mini-services/capture-ws/capture-ws.log
+mini-services/capture-ws/capture-ws.pid
+*.pid
