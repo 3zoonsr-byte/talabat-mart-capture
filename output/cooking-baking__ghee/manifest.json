@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__ghee",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/ghee",
+  "output_dir": "/home/z/my-project/output/cooking-baking__ghee",
+  "started_at": "2026-07-17T17:51:58Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/ghee",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "زبدة صفراء من كريستال - خالية من الكوليسترول 700 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-yellow-butter-700g/s/905850",
+      "filename": "زبدة-صفراء-من-كريستال-خالية-من-الكوليسترول-700-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69844cdbb3c683d81dab1d5a.JPG?size=520",
+      "bytes": 645051,
+      "dimensions": [
+        350,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كريستال سمن نباتى اصفر350جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-vegetable-gold-ghee-350-gm/s/905849",
+      "filename": "كريستال-سمن-نباتى-اصفر350جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a1c7bc4b0a481c2943acfa.jpg?size=520",
+      "bytes": 666077,
+      "dimensions": [
+        405,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كريستال سمن أبيض 700جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-vegetable-white-ghee-700-gm/s/905846",
+      "filename": "كريستال-سمن-ابيض-700جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a3466f107afa76c0c7981f.JPG?size=520",
+      "bytes": 565954,
+      "dimensions": [
+        349,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "سمن كريستال أصفر1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-yellow-vegetable-ghee-1-kg/s/918767",
+      "filename": "سمن-كريستال-اصفر1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a3466e107afa76c0c79819.JPG?size=520",
+      "bytes": 565104,
+      "dimensions": [
+        307,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "كريستال سمن نباتى 1.5كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-vegetable-white-ghee-15-kg/s/905847",
+      "filename": "كريستال-سمن-نباتى-1-5كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a1c803af6a08cd7ded71bf.jpg?size=520",
+      "bytes": 669613,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "كريستال سمن  نباتي ابيض 2.5كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-vegetable-white-ghee-25-kg/s/905848",
+      "filename": "كريستال-سمن-نباتي-ابيض-2-5كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6222000503976.JPG?size=520",
+      "bytes": 694699,
+      "dimensions": [
+        401,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "سمن كريستال أبيض 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-white-vegetable-ghee-1-kg/s/918766",
+      "filename": "سمن-كريستال-ابيض-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a34671107afa76c0c79821.JPG?size=520",
+      "bytes": 525671,
+      "dimensions": [
+        307,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "كريستال سمن نباتى ابيض 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/crystal-vegetable-white-ghee350-gm/s/905845",
+      "filename": "كريستال-سمن-نباتى-ابيض-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67a1c7e64b0a481c2943ad30.jpg?size=520",
+      "bytes": 650996,
+      "dimensions": [
+        405,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "قتيلو سمن طبيعي برطمان 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katilo-natural-ghee-450g/s/904189",
+      "filename": "قتيلو-سمن-طبيعي-برطمان-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223004834240.jpg?size=520",
+      "bytes": 508002,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "قتيلو سمن طبيعي برطمان 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/katilo-natural-ghee-900g/s/904188",
+      "filename": "قتيلو-سمن-طبيعي-برطمان-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223004834219.jpg?size=520",
+      "bytes": 542241,
+      "dimensions": [
+        300,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "سمن فيرن - 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fern-pure-butter-ghee-400g/s/935567",
+      "filename": "سمن-فيرن-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/6223001351498.jpg?size=520",
+      "bytes": 833550,
+      "dimensions": [
+        520,
+        483
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "سمن جولدن ميكس - 700 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/golden-mix-ghee-700-gm/s/935571",
+      "filename": "سمن-جولدن-ميكس-700-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6223001352464.jpg?size=520",
+      "bytes": 608776,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "سمن جولدن ميكس - 1500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/golden-mix-ghee-1500-gm/s/935572",
+      "filename": "سمن-جولدن-ميكس-1500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6223001352006.jpg?size=520",
+      "bytes": 615891,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "فيرن سمن بقري نقي 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fern-pure-butter-ghee-700g/s/918993",
+      "filename": "فيرن-سمن-بقري-نقي-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Netscribe%20Images%28don%27t%20touch%29/Other%201/9415007019374_1.jpg?size=520",
+      "bytes": 521898,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "سمن فرن نقي من الزبدة 450 جم × قطعتين",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fern-pure-ghee-2x450g/s/937897",
+      "filename": "سمن-فرن-نقي-من-الزبدة-450-جم-قطعتين.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69b92b57d3f61d5a0d00c794.jpg?size=520",
+      "bytes": 626097,
+      "dimensions": [
+        270,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "سمن فيرن - 1.4 كيلو",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fern-ghee-14-kilo/s/935569",
+      "filename": "سمن-فيرن-1-4-كيلو.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6223001351481.jpg?size=520",
+      "bytes": 792513,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "فيرن سمن بقري نقي 1.8 ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fern-pure-butter-18-kg/s/918994",
+      "filename": "فيرن-سمن-بقري-نقي-1-8-ك.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/9415007006602.jpg?size=520",
+      "bytes": 766365,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "سمن طبيعي صافي من بست شيراتون براند 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/best-sherraton-brand-pure-butter-oil-400g/s/917493",
+      "filename": "سمن-طبيعي-صافي-من-بست-شيراتون-براند-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6936e2a9ff2ad3e98fea7877.JPG?size=520",
+      "bytes": 526513,
+      "dimensions": [
+        485,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "روابي سمنه قشطه 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/rawaby-keshta-ghee-700-gm/s/909339",
+      "filename": "روابي-سمنه-قشطه-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/62d3dd1385d3470379236fc0.jpg?size=520",
+      "bytes": 851868,
+      "dimensions": [
+        502,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "سمن بست شيراتون - 800 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/best-sherraton-ghee-800-gram/s/917492",
+      "filename": "سمن-بست-شيراتون-800-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6224000405144.jpg?size=520",
+      "bytes": 434390,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:55:35Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
