@@ -1,0 +1,330 @@
+{
+  "category": "coffee-tea__black-tea",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/coffee-tea/black-tea",
+  "output_dir": "/home/z/my-project/output/coffee-tea__black-tea",
+  "started_at": "2026-07-17T16:50:57Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/coffee-tea/black-tea",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "ليبتون شاي العلامة الصفراء أسود ناعم 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-yellow-label-black-dust-tea-100g/s/936625",
+      "filename": "ليبتون-شاي-العلامة-الصفراء-اسود-ناعم-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a26ba945be854416ef4c9bc.jpg?size=520",
+      "bytes": 525226,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "ليبتون شاى ناعم 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-dust-black-tea-250g/s/935166",
+      "filename": "ليبتون-شاى-ناعم-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a269c79a9f21531d399a10c.jpg?size=520",
+      "bytes": 702399,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "ليبتون شاى اسود 100 فتلة مع مج الأهلى هدية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-black-tea-with-alahli-cup-100-tea-bags/s/936622",
+      "filename": "ليبتون-شاى-اسود-100-فتلة-مع-مج-الاهلى-هدية.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6957777fdf696b7902172ccd.png?size=520",
+      "bytes": 522073,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أكياس شاي أسود العلامة الصفراء من ليبتون  أوراق شاي قوية  25 كيس شاي (وفر 15%)",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-yellow-label-black-tea-with-sun-dried-tea-leaves-25-tea-bags/s/919169",
+      "filename": "اكياس-شاي-اسود-العلامة-الصفراء-من-ليبتون-اوراق-شاي-قوية-25-كيس-شاي-وفر-15.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/696df3bc2e23c4c107b10d1e.jpg?size=520",
+      "bytes": 328899,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "أكياس شاي أسود العلامة الصفراء من ليبتون  أوراق شاي غنية جداً  50 كيس شاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-yellow-label-black-tea-bags-with-classic-sun-dried-tea-leaves-50-bags/s/919171",
+      "filename": "اكياس-شاي-اسود-العلامة-الصفراء-من-ليبتون-اوراق-شاي-غنية-جدا-50-كيس-شاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8720608632848.jpg?size=520",
+      "bytes": 450058,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "العروسة مسحوق الشاي الأسود الناعم، 100 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-arosa-fine-black-tea-powder-100g/s/909310",
+      "filename": "العروسة-مسحوق-الشاي-الاسود-الناعم،-100-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-qatar/Products/QR_920373.jpg?size=520",
+      "bytes": 464411,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "ليبتون شاى  ناعم 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-dust-black-tea-500g/s/935167",
+      "filename": "ليبتون-شاى-ناعم-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f7939304c0d79a4f13c3af.png?size=520",
+      "bytes": 646108,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "العروسة شاي 40 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-arosa-dust-tea-40g/s/909292",
+      "filename": "العروسة-شاي-40-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6805041c666794a73198d9aa.jpg?size=520",
+      "bytes": 239345,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ليبتون شاي خرز أسود العلامة الصفراء  أوراق شاي قوية 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-yellow-label-black-premium-kharaz-tea-with-dried-leaves-classic-250g/s/919168",
+      "filename": "ليبتون-شاي-خرز-اسود-العلامة-الصفراء-اوراق-شاي-قوية-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8720608632671.jpg?size=520",
+      "bytes": 585922,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "العروسة شاى - 25 فتلة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-arosa-tea-25-bags/s/924354",
+      "filename": "العروسة-شاى-25-فتلة.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6222002300115.jpg?size=520",
+      "bytes": 461045,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ليبتون شاى ناعم 40 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-dust-black-tea-40g/s/935168",
+      "filename": "ليبتون-شاى-ناعم-40-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68f7939304c0d79a4f13c3b7.png?size=520",
+      "bytes": 620148,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "ليبتون شاي العلامة الصفراء 100 فتلة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-yellow-label-black-tea-bags-100-bags/s/919172",
+      "filename": "ليبتون-شاي-العلامة-الصفراء-100-فتلة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8720608632701.JPG?size=520",
+      "bytes": 540414,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "العروسة أكياس شاي أسود، 100 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-arosa-black-tea-bags-100-bags/s/924356",
+      "filename": "العروسة-اكياس-شاي-اسود،-100-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-qatar/Products/QR_920374.jpg?size=520",
+      "bytes": 561600,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ليبتون شاى ناعم 40 جرام عرض",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-dust-tea-40g/s/936624",
+      "filename": "ليبتون-شاى-ناعم-40-جرام-عرض.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6957777fdf696b7902172cce.png?size=520",
+      "bytes": 691731,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ليبتون شاي أسود مع أوراق الشاي المجففة  ناعم   500 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-loose-black-tea-with-sun-dried-tea-leaves-500g/s/919167",
+      "filename": "ليبتون-شاي-اسود-مع-اوراق-الشاي-المجففة-ناعم-500-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_8720608632794.jpg?size=520",
+      "bytes": 696335,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ليبتون شاي لاتيه  12*20 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-classic-milk-tea-chai-latte-12x20g/s/937537",
+      "filename": "ليبتون-شاي-لاتيه-12-20-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/699c40a5a3137fe84510d942.jpg?size=520",
+      "bytes": 804372,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ليبتون شاى ناعم 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lipton-dust-black-tea-250g/s/939214",
+      "filename": "ليبتون-شاى-ناعم-250-جم-19.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a26bc0ba9f21531d39a3806.jpg?size=520",
+      "bytes": 702399,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "العروسة مسحوق الشاي الأسود بالحبوب الخشنة، 250 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-arosa-coarse-grain-black-tea-powder-250g/s/924353",
+      "filename": "العروسة-مسحوق-الشاي-الاسود-بالحبوب-الخشنة،-250-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-qatar/Products/QR_920372.jpg?size=520",
+      "bytes": 517833,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "رويال ريجيم أعشاب لتقليل الوزن، 25 كيس شاي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/royal-regime-herbal-tea-bags-with-weight-reducing-herbs-25-pieces/s/926142",
+      "filename": "رويال-ريجيم-اعشاب-لتقليل-الوزن،-25-كيس-شاي.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69252b166ef4e70802e4668f.png?size=520",
+      "bytes": 367882,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "شاي كيني العروسة 50 كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-arosa-kenyan-tea-bags-50-bags/s/924355",
+      "filename": "شاي-كيني-العروسة-50-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Kuwait/Enrichment/6222002300214.jpg?size=520",
+      "bytes": 548163,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:54:32Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
