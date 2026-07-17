@@ -1,0 +1,148 @@
+{
+  "category": "dairy-eggs__butter",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/dairy-eggs/butter",
+  "output_dir": "/home/z/my-project/output/dairy-eggs__butter",
+  "started_at": "2026-07-17T14:45:43Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/dairy-eggs/butter",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "المراعي زبدة طبيعية غير مملحة، 100 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-natural-unsalted-butter-100g/s/914495",
+      "filename": "المراعي-زبدة-طبيعية-غير-مملحة،-100-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a31379f19aefc573eb1b401.JPG?size=520",
+      "bytes": 355640,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "المراعي زبدة غير مملحة، 10 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-unsalted-butter-10g/s/931019",
+      "filename": "المراعي-زبدة-غير-مملحة،-10-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681083f85a4444a7b7be6597.png?size=520",
+      "bytes": 345320,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "المراعي زبدة طبيعية غير مملحة، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-unsalted-natural-butter-200g/s/911113",
+      "filename": "المراعي-زبدة-طبيعية-غير-مملحة،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdb955754b2cdae91f28e7.jpg?size=520",
+      "bytes": 553402,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "المراعي زبدة طبيعية غير مملحة، 400 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-unsalted-natural-butter-400g/s/911114",
+      "filename": "المراعي-زبدة-طبيعية-غير-مملحة،-400-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68bdb950754b2cdae91f24b7.jpg?size=520",
+      "bytes": 436962,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مزارع دينا سمن بقري 600 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-cow-ghee-600g/s/918290",
+      "filename": "مزارع-دينا-سمن-بقري-600-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224000432065.JPG?size=520",
+      "bytes": 417843,
+      "dimensions": [
+        520,
+        390
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-natural-cow-butter-900-gm/s/915660",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "لورباك زبدة غير مملحة، 100 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lurpak-unsalted-butter-100g/s/900933",
+      "filename": "لورباك-زبدة-غير-مملحة،-100-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/681c58050f2d42056298a2ac.jpg?size=520",
+      "bytes": 207630,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:47:30Z",
+  "captured": 9,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 10
+}
