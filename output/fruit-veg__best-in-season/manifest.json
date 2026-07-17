@@ -1,0 +1,177 @@
+{
+  "category": "fruit-veg__best-in-season",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/fruit-veg/best-in-season",
+  "output_dir": "/home/z/my-project/output/fruit-veg__best-in-season",
+  "started_at": "2026-07-17T11:59:36Z",
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/fruit-veg/best-in-season",
+      "filename": "product-1.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5279,
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg-2.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ]
+    },
+    {
+      "index": 3,
+      "name": "خضار.كوم تفاح احمر ايطالي 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-italian-red-apple-1kg/s/910148",
+      "filename": "خضار-كوم-تفاح-احمر-ايطالي-1كجم-3.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957640019.JPG?size=520",
+      "bytes": 519521,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 4,
+      "name": "خضار.كوم تفاح اصفر مستورد 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-yellow-apple-imported-1kg/s/911211",
+      "filename": "خضار-كوم-تفاح-اصفر-مستورد-1كجم-4.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957690014.JPG?size=520",
+      "bytes": 390371,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 5,
+      "name": "فريش سورس تفاح رويال جالا 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-royal-gala-apple-1kg/s/904290",
+      "filename": "فريش-سورس-تفاح-رويال-جالا-1-كجم-5.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aa45cb50afaeea3ffd415.jpg?size=520",
+      "bytes": 400290,
+      "dimensions": [
+        520,
+        489
+      ]
+    },
+    {
+      "index": 6,
+      "name": "فريش سورس تفاح مشكل 0.5 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-mixed-apples-05-kg/s/904293",
+      "filename": "فريش-سورس-تفاح-مشكل-0-5-كجم-6.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aac70b50afaeea3ffd5f6.jpg?size=520",
+      "bytes": 389031,
+      "dimensions": [
+        520,
+        489
+      ]
+    },
+    {
+      "index": 7,
+      "name": "فريش سورس تفاح أصفر مستور 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-yellow-apple-imported-1kg/s/902167",
+      "filename": "فريش-سورس-تفاح-اصفر-مستور-1-كجم-7.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636ab2040fedbada93d6b525.jpg?size=520",
+      "bytes": 330115,
+      "dimensions": [
+        520,
+        489
+      ]
+    },
+    {
+      "index": 8,
+      "name": "فريش سورس تفاح احمر مستورد 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-red-apple-imported-1kg/s/902168",
+      "filename": "فريش-سورس-تفاح-احمر-مستورد-1-كجم-8.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aab7bb50afaeea3ffd5d0.jpg?size=520",
+      "bytes": 362848,
+      "dimensions": [
+        520,
+        489
+      ]
+    },
+    {
+      "index": 9,
+      "name": "جرين هاوس ذرة حلوة 2 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/green-house-sweet-corn-2-pieces/s/918667",
+      "filename": "جرين-هاوس-ذرة-حلوة-2-قطع-9.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224009391462.jpg?size=520",
+      "bytes": 532751,
+      "dimensions": [
+        520,
+        448
+      ]
+    },
+    {
+      "index": 10,
+      "name": "بيكو تفاح أصفر - لبنان، 1 كيلو غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pico-yellow-apple-lebanon-1kg/s/925297",
+      "filename": "بيكو-تفاح-اصفر-لبنان،-1-كيلو-غرام-10.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001530787.JPG?size=520",
+      "bytes": 243115,
+      "dimensions": [
+        520,
+        399
+      ]
+    },
+    {
+      "index": 11,
+      "name": "بيكو تفاح رويال جالا - إيطاليا، 1 كيلو غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pico-apple-royal-gala-italy-1kg/s/925295",
+      "filename": "بيكو-تفاح-رويال-جالا-ايطاليا،-1-كيلو-غرام-11.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001530848.JPG?size=520",
+      "bytes": 310231,
+      "dimensions": [
+        520,
+        400
+      ]
+    },
+    {
+      "index": 12,
+      "name": "بيكو تفاح احمر 1ك",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/pico-red-apple-1kg/s/925296",
+      "filename": "بيكو-تفاح-احمر-1ك-12.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001530794.JPG?size=520",
+      "bytes": 292298,
+      "dimensions": [
+        520,
+        400
+      ]
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T12:03:02Z",
+  "captured": 12,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 13
+}

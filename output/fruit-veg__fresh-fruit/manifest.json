@@ -1,0 +1,173 @@
+{
+  "category": "fruit-veg__fresh-fruit",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/fruit-veg/fresh-fruit",
+  "output_dir": "/home/z/my-project/output/fruit-veg__fresh-fruit",
+  "started_at": "2026-07-17T11:50:02Z",
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/fruit-veg/fresh-fruit",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5279,
+      "dimensions": [
+        1000,
+        1000
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ]
+    },
+    {
+      "index": 3,
+      "name": "خضار.كوم عنب اسود 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-black-grapes-500g/s/938962",
+      "filename": "خضار-كوم-عنب-اسود-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a05f2af9dd09abd2ae433c1.JPG?size=520",
+      "bytes": 442989,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 4,
+      "name": "خضار.كوم عنب ايرلى سويت ابيض 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-early-sweet-white-grapes-500g/s/938964",
+      "filename": "خضار-كوم-عنب-ايرلى-سويت-ابيض-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a05f2af9dd09abd2ae433c3.JPG?size=520",
+      "bytes": 203553,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 5,
+      "name": "خضار.كوم تفاح احمر ايطالي 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-italian-red-apple-1kg/s/910148",
+      "filename": "خضار-كوم-تفاح-احمر-ايطالي-1كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957640019.JPG?size=520",
+      "bytes": 519521,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 6,
+      "name": "خضار.كوم تفاح اصفر مستورد 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-yellow-apple-imported-1kg/s/911211",
+      "filename": "خضار-كوم-تفاح-اصفر-مستورد-1كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957690014.JPG?size=520",
+      "bytes": 390371,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 7,
+      "name": "خضار.كوم قصب مقشر350جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-peeled-cane-350-gm/s/912841",
+      "filename": "خضار-كوم-قصب-مقشر350جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283958160070.JPG?size=520",
+      "bytes": 307608,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 8,
+      "name": "خضار.كوم برتقال عصير 2 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-orange-for-juice-2-kg/s/911045",
+      "filename": "خضار-كوم-برتقال-عصير-2-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957740020.JPG?size=520",
+      "bytes": 187426,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 9,
+      "name": "خضار.كوم تفاح رويال جالا - إيطاليا، 1 كيلو غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-royal-gala-apple-itally-1kg/s/910149",
+      "filename": "خضار-كوم-تفاح-رويال-جالا-ايطاليا،-1-كيلو-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957720018.JPG?size=520",
+      "bytes": 469353,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 10,
+      "name": "خضار.كوم افوكادو مستورد، 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-imported-avocado-500g/s/910144",
+      "filename": "خضار-كوم-افوكادو-مستورد،-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_2283957470012.JPG?size=520",
+      "bytes": 486175,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 11,
+      "name": "خضار.كوم تفاح مشكل 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/khodarcom-apple-mix-1kg/s/936292",
+      "filename": "خضار-كوم-تفاح-مشكل-1كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6944083798a1a3290f7fa50d.JPG?size=520",
+      "bytes": 348116,
+      "dimensions": [
+        520,
+        520
+      ]
+    },
+    {
+      "index": 12,
+      "name": "فريش سورس ليمون 0.5 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fresh-source-lemon-500g/s/904880",
+      "filename": "فريش-سورس-ليمون-0-5-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/636aad1db50afaeea3ffd5f7.jpg?size=520",
+      "bytes": 324475,
+      "dimensions": [
+        520,
+        489
+      ]
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "stopped_at": "2026-07-17T11:53:22Z"
+}
