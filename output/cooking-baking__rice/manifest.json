@@ -1,0 +1,330 @@
+{
+  "category": "cooking-baking__rice",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/cooking-baking/rice",
+  "output_dir": "/home/z/my-project/output/cooking-baking__rice",
+  "started_at": "2026-07-17T18:08:24Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/cooking-baking/rice",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "الضحى أرز مصري، 1 كيلوغرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-egyptian-rice-1kg/s/900113",
+      "filename": "الضحى-ارز-مصري،-1-كيلوغرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61daacb83948764febef3b49.jpg?size=520",
+      "bytes": 882647,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات أرز مصري فاخر 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-premium-egyptian-rice-1kg/s/927865",
+      "filename": "طلبات-ارز-مصري-فاخر-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/675beb50d578e958c347bb67.png?size=520",
+      "bytes": 570568,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "الضحى أرز مصري 5 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-egyptian-rice-5-kg/s/900114",
+      "filename": "الضحى-ارز-مصري-5-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61daad54779b12b374314381.jpg?size=520",
+      "bytes": 883348,
+      "dimensions": [
+        371,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات أرز بسمتي ذهبي هندي، 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-indian-golden-basmati-rice-1kg/s/932356",
+      "filename": "طلبات-ارز-بسمتي-ذهبي-هندي،-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6864f0486744cdafc8d67136.png?size=520",
+      "bytes": 462048,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات أرز مصري 5 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-egyptian-rice-5kg/s/928898",
+      "filename": "طلبات-ارز-مصري-5-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6799d666054b2e84974ead2d.png?size=520",
+      "bytes": 591631,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "المطبخ المصري أرز 1 كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/elmatbakh-rice-1kg/s/900188",
+      "filename": "المطبخ-المصري-ارز-1-كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6814ef01e09dd3b6490d8d79.jpg?size=520",
+      "bytes": 847579,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الضحى أرز ذهبي، 1 كيلوغرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-golden-rice-1kg/s/900115",
+      "filename": "الضحى-ارز-ذهبي،-1-كيلوغرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/61daae1e3948764febef3b4c.jpg?size=520",
+      "bytes": 759714,
+      "dimensions": [
+        492,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "الضحي أرز الخلطة السرية 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-rizzo-rice-350-gm/s/918283",
+      "filename": "الضحي-ارز-الخلطة-السرية-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660164.jpg?size=520",
+      "bytes": 393368,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ايزي رايس أرز كبسة",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/easy-rice-kabsa-rice/s/921198",
+      "filename": "ايزي-رايس-ارز-كبسة.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660188.JPG?size=520",
+      "bytes": 389562,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "الضحي أرز بيتي 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-beyti-white-rice-350-gm/s/918281",
+      "filename": "الضحي-ارز-بيتي-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660140.jpg?size=520",
+      "bytes": 371605,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "الضحي ايزي رايس كشري مصري 363 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-easy-rice-egyptian-koshary-363g/s/930705",
+      "filename": "الضحي-ايزي-رايس-كشري-مصري-363-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6899a9038a22ff58eb44bce3.JPG?size=520",
+      "bytes": 352010,
+      "dimensions": [
+        367,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "الضحي ايزي رايس أرز ميكسيكي 328 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-easy-rice-mexican-rice-328g/s/930704",
+      "filename": "الضحي-ايزي-رايس-ارز-ميكسيكي-328-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6899a9048a22ff58eb44be2f.JPG?size=520",
+      "bytes": 386196,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "إيزي أرز شرقي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/easy-rice-sharqy-rice/s/921200",
+      "filename": "ايزي-ارز-شرقي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660195.JPG?size=520",
+      "bytes": 399026,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ايزي رايس أرز صيادية",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/easy-rice-syadya-rice/s/921201",
+      "filename": "ايزي-رايس-ارز-صيادية.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660171.JPG?size=520",
+      "bytes": 392852,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "الضحي كشري اسكندراني 320 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-egyptian-white-rice-with-yellow-lentils-320g/s/918284",
+      "filename": "الضحي-كشري-اسكندراني-320-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660133.jpg?size=520",
+      "bytes": 385287,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "إيزي أرز المحشي",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/easy-rice-mahshy-rice/s/921199",
+      "filename": "ايزي-ارز-المحشي.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000660256.JPG?size=520",
+      "bytes": 389848,
+      "dimensions": [
+        373,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "دوبيلا ارز باسمتي ابيض 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-bassmati-white-rice-1-kg/s/916650",
+      "filename": "دوبيلا-ارز-باسمتي-ابيض-1كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756453.jpg?size=520",
+      "bytes": 349181,
+      "dimensions": [
+        314,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "دوبيلا ارز باسمتي ذهبي هندي 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-bassmati-golden-rice-1-kg/s/916649",
+      "filename": "دوبيلا-ارز-باسمتي-ذهبي-هندي-1كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224008756194.jpg?size=520",
+      "bytes": 197905,
+      "dimensions": [
+        349,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دوبيلا ارز باسمتي ذهبي هندي 1كجم كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-bassmati-golden-rice-1-kg/s/916651",
+      "filename": "دوبيلا-ارز-باسمتي-ذهبي-هندي-1كجم-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006881945.jpg?size=520",
+      "bytes": 531682,
+      "dimensions": [
+        276,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "دوبيلا ارز باسمتي ابيض 1كجم كيس",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-bassmati-white-rice-1-kg/s/916652",
+      "filename": "دوبيلا-ارز-باسمتي-ابيض-1كجم-كيس.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006881938.jpg?size=520",
+      "bytes": 478077,
+      "dimensions": [
+        285,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:12:04Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
