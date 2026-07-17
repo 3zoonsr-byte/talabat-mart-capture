@@ -1,0 +1,330 @@
+{
+  "category": "condiments__salt",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/condiments/salt",
+  "output_dir": "/home/z/my-project/output/condiments__salt",
+  "started_at": "2026-07-17T17:37:25Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/condiments/salt",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "طلبات ملح طعام،  700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-table-salt-700g/s/929176",
+      "filename": "طلبات-ملح-طعام،-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ceb0af9b137dbd86c90eb5.png?size=520",
+      "bytes": 335017,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "طلبات ملح الهيمالايا الوردي ناعم 400 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-fine-himalayan-pink-salt-400g/s/929180",
+      "filename": "طلبات-ملح-الهيمالايا-الوردي-ناعم-400-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67ceb0654a3444688f4a2eea.png?size=520",
+      "bytes": 400172,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "الخير ملح طعام ناعم، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-khair-fine-food-salt-500g/s/903446",
+      "filename": "الخير-ملح-طعام-ناعم،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d69d0fa988ca58050b4564.png?size=520",
+      "bytes": 807004,
+      "dimensions": [
+        436,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "كوكس ملح الهيمالايا الوردى 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/cooks-pink-himalyan-salt-200-gm/s/913270",
+      "filename": "كوكس-ملح-الهيمالايا-الوردى-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001039907.JPG?size=520",
+      "bytes": 525307,
+      "dimensions": [
+        416,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "الخير ملح مكرر يودى ناعم 200جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/el-kheir-salt-200-gm/s/903445",
+      "filename": "الخير-ملح-مكرر-يودى-ناعم-200جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6241930e423c435697ef75d8.jpeg?size=520",
+      "bytes": 588974,
+      "dimensions": [
+        432,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "دوبيلا ملح هيمالايا خشن طبيعى برطمان 600 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-himalayan-natural-salt-crude-600-gm/s/916704",
+      "filename": "دوبيلا-ملح-هيمالايا-خشن-طبيعى-برطمان-600-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687144fc8b6ae261425ecdea.jpg?size=520",
+      "bytes": 336149,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "دوبيلا ملح هيمالايا خشن طبيعى كيس 650 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dobella-himalayan-natural-salt-crude-650-gm/s/916702",
+      "filename": "دوبيلا-ملح-هيمالايا-خشن-طبيعى-كيس-650-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223006880450.jpg?size=520",
+      "bytes": 297300,
+      "dimensions": [
+        520,
+        481
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "ريتش ملح بحرى يودى خشن 1كجم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/reach-coarse-iodine-sea-salt-1kg/s/935579",
+      "filename": "ريتش-ملح-بحرى-يودى-خشن-1كجم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/624196d218de31c764392e33.jpg?size=520",
+      "bytes": 341592,
+      "dimensions": [
+        520,
+        416
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "ملح الخير مكرر ناعم 2kg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-khair-iodized-table-salt-2kg/s/935578",
+      "filename": "ملح-الخير-مكرر-ناعم-2kg.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691b15d310986cb84271aa3a.jpg?size=520",
+      "bytes": 714752,
+      "dimensions": [
+        432,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "نور ملح طعام مطحون وناعم 700 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nour-salt-700-gm/s/903448",
+      "filename": "نور-ملح-طعام-مطحون-وناعم-700-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/624194a2423c435697ef75e0.jpg?size=520",
+      "bytes": 270197,
+      "dimensions": [
+        327,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "النور ملح 700 جم * 3 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nour-sea-salt-3x700g/s/904652",
+      "filename": "النور-ملح-700-جم-3-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007250198.JPG?size=520",
+      "bytes": 595757,
+      "dimensions": [
+        520,
+        383
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "أجاج ملح بحري طبيعي نقي 1 كيلو جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oujaj-pure-natural-sea-salt-1k-g/s/935576",
+      "filename": "اجاج-ملح-بحري-طبيعي-نقي-1-كيلو-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/lulu%2029/2079766.jpg?size=520",
+      "bytes": 491233,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "اوجاج ملح الهيمالايا الصخرى ناعم 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oujaj-himalayan-fine-salt-500-gm/s/907496",
+      "filename": "اوجاج-ملح-الهيمالايا-الصخرى-ناعم-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d69e102100051020a57943.JPG?size=520",
+      "bytes": 649512,
+      "dimensions": [
+        427,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ماجيك مومنت ملح ليمون بودر خام 150 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/magic-moments-lemon-salt-raw-powder-150-gm/s/908233",
+      "filename": "ماجيك-مومنت-ملح-ليمون-بودر-خام-150-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6183d74a23c6ce0127c1e931.jpg?size=520",
+      "bytes": 387399,
+      "dimensions": [
+        381,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "اجاي ملح بحري نقي 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oujaj-natural-sea-salt-500-gm/s/903452",
+      "filename": "اجاي-ملح-بحري-نقي-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d69e042100051020a57904.JPG?size=520",
+      "bytes": 626515,
+      "dimensions": [
+        408,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "اوجاج ملح الهيمالايا الصخرى خشن 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oujaj-himalayan-coarse-salt-500-gm/s/907495",
+      "filename": "اوجاج-ملح-الهيمالايا-الصخرى-خشن-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d69e0f2100051020a57941.JPG?size=520",
+      "bytes": 582561,
+      "dimensions": [
+        379,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "أوجاج ملح بحري عضوي، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/oujaj-organic-sea-salt-500g/s/935577",
+      "filename": "اوجاج-ملح-بحري-عضوي،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d6927d400eee02da662df1.jfif?size=520",
+      "bytes": 361926,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "الخير د. ملح منخفض الصوديوم، 400غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dr-salt-low-sodium-400g/s/903450",
+      "filename": "الخير-د-ملح-منخفض-الصوديوم،-400غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d69e032100051020a57901.JPG?size=520",
+      "bytes": 435027,
+      "dimensions": [
+        341,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "دكتور سولت ملح طعام مطحون ومنخفض الصوديوم 160 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dr-salt-low-sodium-160-gm/s/903451",
+      "filename": "دكتور-سولت-ملح-طعام-مطحون-ومنخفض-الصوديوم-160-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67d2c9734a3444688f4a624f.png?size=520",
+      "bytes": 165106,
+      "dimensions": [
+        346,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "ملح دكتور سالت منخفض الصوديوم 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/salt-low-sodium-salt-200-g/s/935575",
+      "filename": "ملح-دكتور-سالت-منخفض-الصوديوم-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6914c2bb2a167ae6c401a0b4.JPG?size=520",
+      "bytes": 487194,
+      "dimensions": [
+        307,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:41:06Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
