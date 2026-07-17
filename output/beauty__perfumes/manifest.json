@@ -1,0 +1,330 @@
+{
+  "category": "beauty__perfumes",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/beauty/perfumes",
+  "output_dir": "/home/z/my-project/output/beauty__perfumes",
+  "started_at": "2026-07-17T18:40:12Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/beauty/perfumes",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "حاج عرفة مخمرية الامال 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-amal-solid-perfume-100g/s/922868",
+      "filename": "حاج-عرفة-مخمرية-الامال-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cc2b8ece0130fcdee85.jpg?size=520",
+      "bytes": 475816,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-summer-twist-fragrance-mist-240ml/s/921636",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-senses-in-the-clouds-fragrance-mist-for-women-240ml/s/921635",
+      "filename": "Grocery-Shop-5.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "حاج عرفة مخمرية السلطان 100 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/haj-arafa-sultan-solid-perfume-90g/s/922869",
+      "filename": "حاج-عرفة-مخمرية-السلطان-100-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69982cccb8ece0130fcdfa8c.jpg?size=520",
+      "bytes": 611945,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-red-glamour-body-mist-240ml/s/923527",
+      "filename": "Grocery-Shop-7.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-senses-cozy-dream-fragrance-mist-240ml/s/923514",
+      "filename": "Grocery-Shop-8.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-senses-gold-spell-fragrance-mist-for-women-240ml/s/921634",
+      "filename": "Grocery-Shop-9.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-night-out-fine-fragrance-mist-240ml/s/923526",
+      "filename": "Grocery-Shop-10.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-musky-jasmine-body-mist-240ml/s/923528",
+      "filename": "Grocery-Shop-11.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-senses-love-tale-fragrance-mist-240ml/s/921637",
+      "filename": "Grocery-Shop-12.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-morning-blossom-fine-fragrance-mist-240ml/s/923530",
+      "filename": "Grocery-Shop-13.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "إيفا سكين كير سينسيز عطر أرابيان نايتس شيمر ميست للنساء ، 150 مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-arabian-nights-shimmer-fragrance-mist-for-women-150ml/s/937066",
+      "filename": "ايفا-سكين-كير-سينسيز-عطر-ارابيان-نايتس-شيمر-ميست-للنساء-،-150-مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69883bcb38ecce0ea61c1d40.png?size=520",
+      "bytes": 260280,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-mystic-orchid-body-mist-240ml/s/923531",
+      "filename": "Grocery-Shop-15.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-senses-gold-spell-shimmer-fragrance-mist-for-women-150ml/s/937067",
+      "filename": "Grocery-Shop-16.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/eva-skin-care-senses-spring-lilies-body-mist-240ml/s/923529",
+      "filename": "Grocery-Shop-17.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "عطر كارولينا هيريرا باد بوي إليكسير للرجال أو دو بارفيوم 100مل",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/carolina-herrera-mens-bad-boy-elixir-edp-100ml/s/938541",
+      "filename": "عطر-كارولينا-هيريرا-باد-بوي-اليكسير-للرجال-او-دو-بارفيوم-100مل.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69ce3b333eb9b91b86eb834a.jpg?size=520",
+      "bytes": 205521,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mood-hawaii-fragrant-body-splash-for-women-175ml/s/924663",
+      "filename": "Grocery-Shop-19.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mood-santorini-fragrant-body-splash-for-women-175ml/s/924665",
+      "filename": "Grocery-Shop-20.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/mood-flowers-bliss-fragrance-scent-body-splash-for-women-220ml/s/939136",
+      "filename": "Grocery-Shop-21.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "جوفياليتي معطر جسم سموزي فراولة، 150 مليلتر",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/joviality-strawberry-smoothie-body-mist-150ml/s/929224",
+      "filename": "جوفياليتي-معطر-جسم-سموزي-فراولة،-150-مليلتر.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6792773d3c67f76c0528aeef.JPG?size=520",
+      "bytes": 182466,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:43:48Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
