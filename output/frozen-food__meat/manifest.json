@@ -1,0 +1,92 @@
+{
+  "category": "frozen-food__meat",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/frozen-food/meat",
+  "output_dir": "/home/z/my-project/output/frozen-food__meat",
+  "started_at": "2026-07-17T14:29:39Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/frozen-food/meat",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "اطياب سجق 350 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/atyab-sausages-350-gm/s/900555",
+      "filename": "اطياب-سجق-350-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224007330913.JPG?size=520",
+      "bytes": 809174,
+      "dimensions": [
+        520,
+        393
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "كوكى هوت دوج 30 قطعه",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-hot-dog-30-pcs/s/901929",
+      "filename": "كوكى-هوت-دوج-30-قطعه.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001824497.JPEG?size=520",
+      "bytes": 737412,
+      "dimensions": [
+        520,
+        510
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "كوكى كفته 900 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/koki-kofta-900-gm/s/901928",
+      "filename": "كوكى-كفته-900-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223001824534.JPEG?size=520",
+      "bytes": 730056,
+      "dimensions": [
+        520,
+        510
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:30:54Z",
+  "captured": 5,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 6
+}
