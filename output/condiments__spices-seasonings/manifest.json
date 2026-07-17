@@ -1,0 +1,330 @@
+{
+  "category": "condiments__spices-seasonings",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/condiments/spices-seasonings",
+  "output_dir": "/home/z/my-project/output/condiments__spices-seasonings",
+  "started_at": "2026-07-17T17:33:55Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/condiments/spices-seasonings",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كنور توابل البطاطس، 6 غم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/knorr-potato-seasoning-6g/s/909063",
+      "filename": "كنور-توابل-البطاطس،-6-غم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68837f058b4d17c9361ada11.jpg?size=520",
+      "bytes": 742368,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "الضحى فلفل أسود ناعم 20 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-black-pepper-powder-20-gm/s/900144",
+      "filename": "الضحى-فلفل-اسود-ناعم-20-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/624aeaa8332c214c1a707fe8.jpg?size=520",
+      "bytes": 548951,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "طلبات فلفل اسوط مطحون 90جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-black-pepper-powder-90g/s/924309",
+      "filename": "طلبات-فلفل-اسوط-مطحون-90جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/661003ea3c719f909ab5087f.jpg?size=520",
+      "bytes": 339117,
+      "dimensions": [
+        446,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "طلبات ثوم بودرة 90جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-dried-garlic-powder-90g/s/924315",
+      "filename": "طلبات-ثوم-بودرة-90جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6610043b0b2fa93352a5b9c3.jpg?size=520",
+      "bytes": 339225,
+      "dimensions": [
+        456,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "طلبات بصل بودرة 90جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-dried-onion-powder-90g/s/924316",
+      "filename": "طلبات-بصل-بودرة-90جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6610049b3c719f909ab508d7.jpg?size=520",
+      "bytes": 346371,
+      "dimensions": [
+        458,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "طلبات سبع بهارات  70جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-7-spices-70g/s/932048",
+      "filename": "طلبات-سبع-بهارات-70جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6839bf79b49be4a976f6e5ad.jpg?size=520",
+      "bytes": 292733,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "الضحى بقسماط ناعم، 300 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-bread-crumbs-300g/s/900123",
+      "filename": "الضحى-بقسماط-ناعم،-300-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710d068b6ae261425e13f7.jpg?size=520",
+      "bytes": 720839,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "طلبات قرفة مطحونة 70جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-cinnamon-powder-70g/s/924312",
+      "filename": "طلبات-قرفة-مطحونة-70جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/661004023c719f909ab50880.jpg?size=520",
+      "bytes": 331426,
+      "dimensions": [
+        452,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "الضحى فلفل أسود مطحون، 70 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-ground-black-pepper-70g/s/900159",
+      "filename": "الضحى-فلفل-اسود-مطحون،-70-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68710e778b6ae261425e4875.jpg?size=520",
+      "bytes": 331241,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "طلبات كركم مطحون 80جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-turmeric-powder-80g/s/924313",
+      "filename": "طلبات-كركم-مطحون-80جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6297001545591.JPG?size=520",
+      "bytes": 363098,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "طلبات ثوم بودرة 90جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-red-chilli-powder-70g/s/924310",
+      "filename": "طلبات-ثوم-بودرة-90جم-13.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6610043b0b2fa93352a5b9c3.jpg",
+      "bytes": 59664,
+      "dimensions": [
+        1000,
+        1140
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "أبو عوف فلفل أسود مطحون، 35 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-ground-black-pepper-35g/s/919841",
+      "filename": "ابو-عوف-فلفل-اسود-مطحون،-35-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423ac11.png?size=520",
+      "bytes": 457762,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "طلبات فلفل بابريكا مدخن70جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-smoked-paprika-70g/s/932047",
+      "filename": "طلبات-فلفل-بابريكا-مدخن70جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6839bf79b49be4a976f6e5ae.jpg?size=520",
+      "bytes": 289761,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "الضحى حبهان 5 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-cardamom-5-gm/s/900154",
+      "filename": "الضحى-حبهان-5-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687bab4363f3b2a164cc109d.jpg?size=520",
+      "bytes": 682174,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "طلبات مسحوق الكاري 75جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-curry-powder-75g/s/932049",
+      "filename": "طلبات-مسحوق-الكاري-75جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6839bf79b49be4a976f6e5ac.jpg?size=520",
+      "bytes": 285896,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "طلبات كزبرة 55جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-ground-coriander-55g/s/926150",
+      "filename": "طلبات-كزبرة-55جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66d9bdea20a7739a6eea0c7e.jpg?size=520",
+      "bytes": 370956,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "طلبات نعناغ مجفف 45جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-dried-mint-45g/s/926152",
+      "filename": "طلبات-نعناغ-مجفف-45جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66d9bdec20a7739a6eea0c82.jpg?size=520",
+      "bytes": 379680,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "طلبات روزماري 25جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-rosemary-25g/s/924314",
+      "filename": "طلبات-روزماري-25جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66decc1c2e41069da5013618.png?size=520",
+      "bytes": 332607,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "الضحى ورق لورو 3 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/aldoha-bay-leaves-3-gm/s/900157",
+      "filename": "الضحى-ورق-لورو-3-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223000661574.JPG?size=520",
+      "bytes": 670867,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "طلبات سماق 75جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/talabat-sumac-75g/s/932051",
+      "filename": "طلبات-سماق-75جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6839bf79b49be4a976f6e5af.jpg?size=520",
+      "bytes": 270436,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T17:37:24Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
