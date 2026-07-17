@@ -1,0 +1,330 @@
+{
+  "category": "dairy-eggs__cheese",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/dairy-eggs/cheese",
+  "output_dir": "/home/z/my-project/output/dairy-eggs__cheese",
+  "started_at": "2026-07-17T14:38:15Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/dairy-eggs/cheese",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "مزارع دينا جبنه فيتا 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-feta-cheese-450-gm/s/911399",
+      "filename": "مزارع-دينا-جبنه-فيتا-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Lulu_Web_Scrapped/6224011439015.0_1.jpg?size=520",
+      "bytes": 468545,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "جهينة لبنة سادة 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-labneh-plain-250g/s/929348",
+      "filename": "جهينة-لبنة-سادة-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d06e42974911b3d1ae0.JPG?size=520",
+      "bytes": 139708,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "دينا فارمز جبن قريش، 450 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-cottage-cheese-450g/s/929850",
+      "filename": "دينا-فارمز-جبن-قريش،-450-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67bc6394cb5b71d308da2a99.JPG?size=520",
+      "bytes": 440699,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "المراعي جبنة كريمي 6 قطع، 108 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-cream-cheese-6-portion-108g/s/926719",
+      "filename": "المراعي-جبنة-كريمي-6-قطع،-108-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/687145798b6ae261425eeca2.jpg?size=520",
+      "bytes": 573721,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "مزارع دينا جبنه اسطنبولي 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-istanbuli-cheese-450-gm/s/911400",
+      "filename": "مزارع-دينا-جبنه-اسطنبولي-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Lulu_Web_Scrapped/6224011439046.0_1.jpg?size=520",
+      "bytes": 410128,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "المراعي جبن شرائح سندويتش، 200 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-sandwich-cheese-slices-200g/s/932121",
+      "filename": "المراعي-جبن-شرائح-سندويتش،-200-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/691dbd75def2be9b7f0ad1dc.png?size=520",
+      "bytes": 646820,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "جهينة لبنة سادة 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/juhayna-labneh-plain-500g/s/929349",
+      "filename": "جهينة-لبنة-سادة-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/689b2d06e42974911b3d1ae1.JPG?size=520",
+      "bytes": 243220,
+      "dimensions": [
+        520,
+        292
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "مزارع دينا جبنه ملح خفيف 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-cheese-light-salt-450-gm/s/911398",
+      "filename": "مزارع-دينا-جبنه-ملح-خفيف-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6224011439022.JPG?size=520",
+      "bytes": 190914,
+      "dimensions": [
+        429,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "مزارع دينا جبنة مثلثات 16 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-creamy-cheese-triangles-16-pieces/s/936487",
+      "filename": "مزارع-دينا-جبنة-مثلثات-16-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69537f58ed034b35bf8a5080.png?size=520",
+      "bytes": 681349,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "المراعي جبنة فيتا سادة 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-plain-feta-cheese-125g/s/934115",
+      "filename": "المراعي-جبنة-فيتا-سادة-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ad61b67cca8c58d29b46f9.JPG?size=520",
+      "bytes": 566767,
+      "dimensions": [
+        320,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "المراعي جبنة فيتا بالشيدر 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-cheddar-feta-cheese-250g/s/926028",
+      "filename": "المراعي-جبنة-فيتا-بالشيدر-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007525404.JPG?size=520",
+      "bytes": 398204,
+      "dimensions": [
+        334,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "المراعي جبنه طبيعي براميلى 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-natural-barameli-feta-cheese-450g/s/935222",
+      "filename": "المراعي-جبنه-طبيعي-براميلى-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff7c400d808907d2d5299b.JPG?size=520",
+      "bytes": 274382,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "المراعي جبنه طبيعي اسطنبولى 450 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-natural-istanbuli-feta-cheese-450g/s/935221",
+      "filename": "المراعي-جبنه-طبيعي-اسطنبولى-450-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ff7c400d808907d2d5299f.JPG?size=520",
+      "bytes": 280207,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "المراعي جبنة فيتا بالرومي 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-roumy-feta-cheese-250g/s/926029",
+      "filename": "المراعي-جبنة-فيتا-بالرومي-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/EGY_6223007525398.JPG?size=520",
+      "bytes": 390879,
+      "dimensions": [
+        334,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "مزارع دينا جبن مطبوخ بالشيدر 500 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-cheese-spread-with-cheddar-500g/s/919891",
+      "filename": "مزارع-دينا-جبن-مطبوخ-بالشيدر-500-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6788d736cfbe0ee9bcd313d5.jpg?size=520",
+      "bytes": 424294,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "المراعي جبنة فيتا شيدر، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-cheddar-feta-cheese-500g/s/927780",
+      "filename": "المراعي-جبنة-فيتا-شيدر،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6720e41cd1c94e6cd889637b.jpg?size=520",
+      "bytes": 479352,
+      "dimensions": [
+        497,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "المراعي جبنة فيتا إدام، 250 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-edam-feta-cheese-250g/s/937696",
+      "filename": "المراعي-جبنة-فيتا-ادام،-250-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/69b25e39bc756fb24a4a8bd3.png?size=520",
+      "bytes": 463406,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "المراعي جبنة فيتا رومي 125 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/almarai-roumy-feta-cheese-125g/s/934116",
+      "filename": "المراعي-جبنة-فيتا-رومي-125-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68ad61b67cca8c58d29b46fa.JPG?size=520",
+      "bytes": 576305,
+      "dimensions": [
+        320,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "مزارع دينا جبنه براميلي 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-barameli-cheese-450-gm/s/911401",
+      "filename": "مزارع-دينا-جبنه-براميلي-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/talabat-nv/Regional_Images/Lulu_Web_Scrapped/6224011439039.0_2.jpg?size=520",
+      "bytes": 475985,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "مزارع دينا جبن قريش - 900 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/dina-farms-cottage-cheese-900g/s/923984",
+      "filename": "مزارع-دينا-جبن-قريش-900-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6963b04aedf36d555138d95a.jpg?size=520",
+      "bytes": 459543,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T14:41:57Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
