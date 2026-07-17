@@ -1,0 +1,330 @@
+{
+  "category": "coffee-tea__coffee",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/coffee-tea/coffee",
+  "output_dir": "/home/z/my-project/output/coffee-tea__coffee",
+  "started_at": "2026-07-17T16:47:13Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/coffee-tea/coffee",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "نسكافية كلاسيك كيس 18 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nescafe-classic-coffee-pouch-18g/s/927459",
+      "filename": "نسكافية-كلاسيك-كيس-18-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67079961ed18d3b9a2b1e64a.jpg?size=520",
+      "bytes": 842929,
+      "dimensions": [
+        422,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "أبو عوف قهوة ذهبية سريعة التحضير، 45 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-instant-coffee-gold-45g/s/922939",
+      "filename": "ابو-عوف-قهوة-ذهبية-سريعة-التحضير،-45-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423984f.png?size=520",
+      "bytes": 404038,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "أبو عوف كيس قهوة تركية محمصة خفيفة، 200 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-light-roast-turkish-coffee-bag-200g/s/918131",
+      "filename": "ابو-عوف-كيس-قهوة-تركية-محمصة-خفيفة،-200-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423988d.png?size=520",
+      "bytes": 604708,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "أبوعوف قهوه فاتح ساده 100جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-coffee-plain-light-100g/s/918130",
+      "filename": "ابوعوف-قهوه-فاتح-ساده-100جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239887.png?size=520",
+      "bytes": 456753,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "أبو عوف قهوة تركية محمصة فاتح، 50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-light-roast-turkish-coffee-50g/s/929573",
+      "filename": "ابو-عوف-قهوة-تركية-محمصة-فاتح،-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe3.png?size=520",
+      "bytes": 547002,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "افري داي قهوة تركي سادة فاتح 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-turkish-coffee-light-roast-plain-200g/s/926153",
+      "filename": "افري-داي-قهوة-تركي-سادة-فاتح-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b8c54ddf507f0b4bfb77fc.JPG?size=520",
+      "bytes": 416146,
+      "dimensions": [
+        520,
+        463
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أبو عوف قهوة تركية مطحونة محمصة وسط مع الهيل، 50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-medium-roast-with-cardamom-turkish-ground-coffee-50g/s/929570",
+      "filename": "ابو-عوف-قهوة-تركية-مطحونة-محمصة-وسط-مع-الهيل،-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe2.png?size=520",
+      "bytes": 554434,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "نسكافيه كلاسيك باوتش 90ج",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nescafe-classic-coffee-pouch-95g/s/934633",
+      "filename": "نسكافيه-كلاسيك-باوتش-90ج.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68d940957c405659b0161526.JPG?size=520",
+      "bytes": 697184,
+      "dimensions": [
+        387,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "افري داي قهوة تركي سادة وسط 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-turkish-coffee-medium-roast-plain-200g/s/926154",
+      "filename": "افري-داي-قهوة-تركي-سادة-وسط-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b8c54edf507f0b4bfb7828.JPG?size=520",
+      "bytes": 404333,
+      "dimensions": [
+        520,
+        455
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-instant-coffee-classic-50g/s/922940",
+      "filename": "Grocery-Shop.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "افري داي ارابيكا تركيز 30% 10 كبسولات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-50-arabica-50-robusta-intensity-710-espresso-capsules-10-capsules/s/925644",
+      "filename": "افري-داي-ارابيكا-تركيز-30-10-كبسولات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6a674fce-1bad-4fef-8edb-dd2966778074.jpg",
+      "bytes": 58587,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "أبو عوف قهوة سادة متوسطة التحميص، 100 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-plain-medium-roast-coffee-100g/s/915800",
+      "filename": "ابو-عوف-قهوة-سادة-متوسطة-التحميص،-100-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b4239886.jpg?size=520",
+      "bytes": 526790,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "Grocery Shop",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-turkish-coffee-light-roast-with-cardamom-200g/s/926156",
+      "filename": "Grocery-Shop-15.png",
+      "image_src": "https://images.deliveryhero.io/image/talabat/restaurants/tmart_logo638731241855880227.png",
+      "bytes": 8718,
+      "dimensions": [
+        400,
+        400
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "افري داي قهوة تركي محوج وسط 200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-turkish-coffee-medium-roast-with-cardamom-200g/s/926157",
+      "filename": "افري-داي-قهوة-تركي-محوج-وسط-200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b8c54fdf507f0b4bfb782e.JPG?size=520",
+      "bytes": 423917,
+      "dimensions": [
+        520,
+        453
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "افري داي ارابيكا تركيز 50% 10 كبسولات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-70-arabica-30-robusta-intensity-610-espresso-capsules-10-capsules/s/925645",
+      "filename": "افري-داي-ارابيكا-تركيز-50-10-كبسولات.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/7e1f49aa-f77f-46d6-8971-24519ef08769.jpg",
+      "bytes": 44977,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "أبو عوف قهوة تركية مطحونة محمصة وسط، 50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-medium-roast-turkish-ground-coffee-50g/s/929571",
+      "filename": "ابو-عوف-قهوة-تركية-مطحونة-محمصة-وسط،-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe4.png?size=520",
+      "bytes": 556619,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "افري داي ارابيكا تركيز 30% 10 كبسولات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-100-arabica-intensity-510-espresso-capsules-10-capsules/s/925643",
+      "filename": "افري-داي-ارابيكا-تركيز-30-10-كبسولات-19.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/6a674fce-1bad-4fef-8edb-dd2966778074.jpg",
+      "bytes": 58587,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "أبو عوف قهوة تركية مطحونة محمصة فاتح مع الهيل، 50 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-light-roast-with-cardamom-turkish-ground-coffee-50g/s/929572",
+      "filename": "ابو-عوف-قهوة-تركية-مطحونة-محمصة-فاتح-مع-الهيل،-50-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423abe1.png?size=520",
+      "bytes": 501003,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "افري داي قهوة تركي سادة غامق200 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-turkish-coffee-dark-roast-plain-200g/s/926155",
+      "filename": "افري-داي-قهوة-تركي-سادة-غامق200-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/66b8c54edf507f0b4bfb782a.JPG?size=520",
+      "bytes": 411175,
+      "dimensions": [
+        520,
+        456
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "إيفريداي روستري كبسولات قهوة بنكهة الفانيليا، 10 كبسولات",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/everyday-roastery-vanilla-flavor-coffee-capsules-10-capsules/s/936818",
+      "filename": "ايفريداي-روستري-كبسولات-قهوة-بنكهة-الفانيليا،-10-كبسولات.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/695e2cc54105706923336ad3.JPG?size=520",
+      "bytes": 230236,
+      "dimensions": [
+        520,
+        222
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T16:50:56Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
