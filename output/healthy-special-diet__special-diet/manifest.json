@@ -1,0 +1,330 @@
+{
+  "category": "healthy-special-diet__special-diet",
+  "source_url": "https://www.talabat.com/ar/egypt/talabat-mart/healthy-special-diet/special-diet",
+  "output_dir": "/home/z/my-project/output/healthy-special-diet__special-diet",
+  "started_at": "2026-07-17T18:36:37Z",
+  "max_pages": 50,
+  "items": [
+    {
+      "index": 1,
+      "name": "",
+      "price": "",
+      "url": "https://www.talabat.com/egypt/talabat-mart/healthy-special-diet/special-diet",
+      "filename": "product.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png",
+      "bytes": 5147,
+      "dimensions": [
+        1000,
+        1000
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 2,
+      "name": "Fruit & Veg",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/categories",
+      "filename": "Fruit-Veg.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores/nv-global-catalog/eg/556bf60b-3a53-4a61-8c28-220d2da72281.png?width=200",
+      "bytes": 36909,
+      "dimensions": [
+        200,
+        200
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 3,
+      "name": "كورن شوكولاتة بالحليب ستيفيا بالبندق 45 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/corona-milk-chocolate-with-stevia-hazelnut-no-added-sugar-45g/s/928924",
+      "filename": "كورن-شوكولاتة-بالحليب-ستيفيا-بالبندق-45-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/677cd785e75f476b28cf9820.JPG?size=520",
+      "bytes": 454468,
+      "dimensions": [
+        215,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 4,
+      "name": "وجبات خفيفة بروتينية بالطماطم والريحان، 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/protein-snacks-tomato-basil-60g/s/919308",
+      "filename": "وجبات-خفيفة-بروتينية-بالطماطم-والريحان،-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423ac07.png?size=520",
+      "bytes": 514159,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 5,
+      "name": "سناكس عدس وعسل وخردل، 60 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/snacks-lentil-honey-mustard-60g/s/919311",
+      "filename": "سناكس-عدس-وعسل-وخردل،-60-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c533c4627164b423ac04.png?size=520",
+      "bytes": 487366,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 6,
+      "name": "فيتنيس بسكويت الشوفان برقائق بنكهة الشوكولاتة، 30 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/fitness-oat-biscuits-with-chocolate-flavored-chips-30g/s/929676",
+      "filename": "فيتنيس-بسكويت-الشوفان-برقائق-بنكهة-الشوكولاتة،-30-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/67aca1a877be538e6a559cf2.png?size=520",
+      "bytes": 431556,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 7,
+      "name": "الضحي رقائق الشوفان، 500 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/al-doha-oat-flakes-500g/s/913054",
+      "filename": "الضحي-رقائق-الشوفان،-500-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/nv-eg/Assortment%20/6223000662557.jpeg?size=520",
+      "bytes": 931457,
+      "dimensions": [
+        399,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 8,
+      "name": "أبو عوف شوفان، 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-oats-450g/s/915809",
+      "filename": "ابو-عوف-شوفان،-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64ec67f08d63f86d7f14dcbb.jpg?size=520",
+      "bytes": 482879,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 9,
+      "name": "أبو عوف موسلي مقرمش، 450 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-crunchy-muesli-450g/s/915810",
+      "filename": "ابو-عوف-موسلي-مقرمش،-450-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423aca6.png?size=520",
+      "bytes": 439211,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 10,
+      "name": "أبو عوف بذور اليقطين المقشرة الخام، 450 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-raw-peeled-pumpkin-seeds-450g/s/929584",
+      "filename": "ابو-عوف-بذور-اليقطين-المقشرة-الخام،-450-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c535c4627164b423aca5.png?size=520",
+      "bytes": 563894,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 11,
+      "name": "أبو عوف جرانولا مكسرات، 400 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/abu-auf-granola-nuts-400g/s/915808",
+      "filename": "ابو-عوف-جرانولا-مكسرات،-400-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a15c523c4627164b423988a.png?size=520",
+      "bytes": 480967,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 12,
+      "name": "ليتشى جرانولا اوريجنال 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-original-granola-300g/s/905769",
+      "filename": "ليتشى-جرانولا-اوريجنال-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a515707880249c.jpg?size=520",
+      "bytes": 547939,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 13,
+      "name": "ليتشى جرانولا فواكه مجففه 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-dried-fruits-granola-300g/s/905770",
+      "filename": "ليتشى-جرانولا-فواكه-مجففه-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a515707880249e.jpg?size=520",
+      "bytes": 586193,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 14,
+      "name": "بالانس كعكة الأرز بنكهة الطماطم، 4 قطع",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/balance-rice-cake-tomato-flavored-4-pieces/s/930409",
+      "filename": "بالانس-كعكة-الارز-بنكهة-الطماطم،-4-قطع.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a515707880249a.jpg?size=520",
+      "bytes": 734960,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 15,
+      "name": "بار بروتين ليتشي كرانشي بالكراميل المقرمش، 70 غرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-crispy-caramel-crunch-protein-bar-70g/s/910953",
+      "filename": "بار-بروتين-ليتشي-كرانشي-بالكراميل-المقرمش،-70-غرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a5157078802494.jpg?size=520",
+      "bytes": 252676,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 16,
+      "name": "ريل شوكو بوبس شوكولاتة الحليب، 35 جرام",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/real-milk-chocolate-choco-pops-35g/s/926392",
+      "filename": "ريل-شوكو-بوبس-شوكولاتة-الحليب،-35-جرام.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a214fc211f8b5222765f64f.png?size=520",
+      "bytes": 493590,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 17,
+      "name": "ليتشى جرانولا شيكولاته و مكسرات 300 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-chocolate-chips-nuts-granola-300g/s/905771",
+      "filename": "ليتشى-جرانولا-شيكولاته-و-مكسرات-300-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a5157078802493.jpg?size=520",
+      "bytes": 561023,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 18,
+      "name": "ريال نيوتريشن  بطاطس مخبوزة جبنه 60 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/real-nutrition-baked-chips-cheese-60-gm/s/915317",
+      "filename": "ريال-نيوتريشن-بطاطس-مخبوزة-جبنه-60-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/64ddc4cba02b8834ad0c6eac.jpg?size=520",
+      "bytes": 551409,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 19,
+      "name": "ريال رايس كيك شوكولاته دارك 16 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/real-nutrition-rice-cake-dark-chocolate-16-gm/s/918999",
+      "filename": "ريال-رايس-كيك-شوكولاته-دارك-16-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/6224011749244.jpg?size=520",
+      "bytes": 689382,
+      "dimensions": [
+        520,
+        439
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 20,
+      "name": "ليتشي بروتين بار بطعم زبدة الفول السوداني  70 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/lychee-peanut-butter-swirl-protein-bar-70g/s/934110",
+      "filename": "ليتشي-بروتين-بار-بطعم-زبدة-الفول-السوداني-70-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/6a54bf5837a515707880248f.jpg?size=520",
+      "bytes": 377255,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 21,
+      "name": "ريال رايس كيك شوكولاته الحليب و سبرينكلز16 جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/real-rice-cake-milk-chocolate-sprinkles-16-gm/s/919000",
+      "filename": "ريال-رايس-كيك-شوكولاته-الحليب-و-سبرينكلز16-جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/darkstores-eg/6224011749237.jpg?size=520",
+      "bytes": 786263,
+      "dimensions": [
+        520,
+        439
+      ],
+      "source_page": 1
+    },
+    {
+      "index": 22,
+      "name": "فيتنس بسكويت شوفان تفاح وقرفة 30جم",
+      "price": "",
+      "url": "https://www.talabat.com/ar/egypt/talabat-mart/product/nestle-fitness-digestive-oat-biscuits-apple-cinnamon-flavor-artificial-colors-free-preservatives-free-30g/s/924933",
+      "filename": "فيتنس-بسكويت-شوفان-تفاح-وقرفة-30جم.png",
+      "image_src": "https://talabat.dhmedia.io/image/product-information-management/68cfd855189f0c06613b4eb2.jpg?size=520",
+      "bytes": 461567,
+      "dimensions": [
+        520,
+        520
+      ],
+      "source_page": 1
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "index": 0,
+      "name": "",
+      "reason": "no hero image"
+    }
+  ],
+  "finished_at": "2026-07-17T18:40:11Z",
+  "captured": 22,
+  "failed_count": 0,
+  "skipped_count": 1,
+  "total": 23
+}
